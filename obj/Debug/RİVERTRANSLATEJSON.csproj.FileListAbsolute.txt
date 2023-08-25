@@ -12,3 +12,7 @@ C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\obj\Debug\RİVERTRAS
 C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\Newtonsoft.Json.dll
 C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\Newtonsoft.Json.xml
 C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\obj\Debug\RİVERTRANSLATEJSON.csproj.CopyComplete
+C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\RİVERTRASLATEJSON\RİVERTRASLATEJSON\bin\Debug\EntityFramework.SqlServer.xml
