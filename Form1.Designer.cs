@@ -29,34 +29,34 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.KEYLBL = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.txtvalue = new System.Windows.Forms.TextBox();
-            this.txtkey = new System.Windows.Forms.TextBox();
-            this.btnsave = new System.Windows.Forms.Button();
-            this.btnupdate = new System.Windows.Forms.Button();
+            this.txtıt = new System.Windows.Forms.TextBox();
+            this.txtar = new System.Windows.Forms.TextBox();
+            this.txtaz = new System.Windows.Forms.TextBox();
+            this.txtde = new System.Windows.Forms.TextBox();
+            this.txtfr = new System.Windows.Forms.TextBox();
+            this.txten = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txtfl = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtgr = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.btndelete = new System.Windows.Forms.Button();
+            this.btnupdate = new System.Windows.Forms.Button();
+            this.btnsave = new System.Windows.Forms.Button();
+            this.txtkey = new System.Windows.Forms.TextBox();
+            this.txtvalue = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.KEYLBL = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.txtsearch = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.txten = new System.Windows.Forms.TextBox();
-            this.txtfl = new System.Windows.Forms.TextBox();
-            this.txtgr = new System.Windows.Forms.TextBox();
-            this.txtfr = new System.Windows.Forms.TextBox();
-            this.txtde = new System.Windows.Forms.TextBox();
-            this.txtaz = new System.Windows.Forms.TextBox();
-            this.txtar = new System.Windows.Forms.TextBox();
-            this.txtıt = new System.Windows.Forms.TextBox();
             this.btnjson = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -97,51 +97,155 @@
             this.groupBox1.Text = "Data İnput";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // KEYLBL
+            // txtıt
             // 
-            this.KEYLBL.AutoSize = true;
-            this.KEYLBL.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.KEYLBL.Location = new System.Drawing.Point(16, 45);
-            this.KEYLBL.Name = "KEYLBL";
-            this.KEYLBL.Size = new System.Drawing.Size(46, 24);
-            this.KEYLBL.TabIndex = 0;
-            this.KEYLBL.Text = "Key";
+            this.txtıt.Location = new System.Drawing.Point(119, 156);
+            this.txtıt.Name = "txtıt";
+            this.txtıt.Size = new System.Drawing.Size(126, 27);
+            this.txtıt.TabIndex = 22;
             // 
-            // label2
+            // txtar
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(287, 45);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 24);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Turkish";
+            this.txtar.Location = new System.Drawing.Point(119, 204);
+            this.txtar.Name = "txtar";
+            this.txtar.Size = new System.Drawing.Size(126, 27);
+            this.txtar.TabIndex = 21;
             // 
-            // txtvalue
+            // txtaz
             // 
-            this.txtvalue.Location = new System.Drawing.Point(411, 44);
-            this.txtvalue.Name = "txtvalue";
-            this.txtvalue.Size = new System.Drawing.Size(164, 27);
-            this.txtvalue.TabIndex = 2;
+            this.txtaz.Location = new System.Drawing.Point(119, 256);
+            this.txtaz.Name = "txtaz";
+            this.txtaz.Size = new System.Drawing.Size(126, 27);
+            this.txtaz.TabIndex = 20;
             // 
-            // txtkey
+            // txtde
             // 
-            this.txtkey.Location = new System.Drawing.Point(119, 45);
-            this.txtkey.Name = "txtkey";
-            this.txtkey.Size = new System.Drawing.Size(126, 27);
-            this.txtkey.TabIndex = 3;
+            this.txtde.Location = new System.Drawing.Point(411, 102);
+            this.txtde.Name = "txtde";
+            this.txtde.Size = new System.Drawing.Size(164, 27);
+            this.txtde.TabIndex = 19;
             // 
-            // btnsave
+            // txtfr
             // 
-            this.btnsave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.btnsave.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnsave.Location = new System.Drawing.Point(37, 377);
-            this.btnsave.Name = "btnsave";
-            this.btnsave.Size = new System.Drawing.Size(126, 38);
-            this.btnsave.TabIndex = 4;
-            this.btnsave.Text = "EKLE";
-            this.btnsave.UseVisualStyleBackColor = false;
-            this.btnsave.Click += new System.EventHandler(this.btnsave_Click);
+            this.txtfr.Location = new System.Drawing.Point(411, 153);
+            this.txtfr.Name = "txtfr";
+            this.txtfr.Size = new System.Drawing.Size(164, 27);
+            this.txtfr.TabIndex = 18;
+            // 
+            // txten
+            // 
+            this.txten.Location = new System.Drawing.Point(119, 101);
+            this.txten.Name = "txten";
+            this.txten.Size = new System.Drawing.Size(126, 27);
+            this.txten.TabIndex = 15;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(293, 256);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(65, 24);
+            this.label9.TabIndex = 14;
+            this.label9.Text = "Dutch";
+            // 
+            // txtfl
+            // 
+            this.txtfl.Location = new System.Drawing.Point(411, 259);
+            this.txtfl.Name = "txtfl";
+            this.txtfl.Size = new System.Drawing.Size(164, 27);
+            this.txtfl.TabIndex = 16;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(0, 256);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(114, 24);
+            this.label8.TabIndex = 13;
+            this.label8.Text = "Azerbaijani";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
+            // 
+            // txtgr
+            // 
+            this.txtgr.Location = new System.Drawing.Point(411, 207);
+            this.txtgr.Name = "txtgr";
+            this.txtgr.Size = new System.Drawing.Size(164, 27);
+            this.txtgr.TabIndex = 17;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(292, 207);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(81, 24);
+            this.label7.TabIndex = 12;
+            this.label7.Text = "Georgia";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(6, 204);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(70, 24);
+            this.label6.TabIndex = 11;
+            this.label6.Text = "Arabic";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(290, 154);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(72, 24);
+            this.label5.TabIndex = 10;
+            this.label5.Text = "French";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(6, 156);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(68, 24);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "Italian";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(290, 98);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(83, 24);
+            this.label3.TabIndex = 8;
+            this.label3.Text = "German";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(6, 101);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(77, 24);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Englısh";
+            // 
+            // btndelete
+            // 
+            this.btndelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btndelete.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btndelete.Location = new System.Drawing.Point(297, 377);
+            this.btndelete.Name = "btndelete";
+            this.btndelete.Size = new System.Drawing.Size(115, 38);
+            this.btndelete.TabIndex = 6;
+            this.btndelete.Text = "SİL";
+            this.btndelete.UseVisualStyleBackColor = false;
+            this.btndelete.Click += new System.EventHandler(this.btndelete_Click);
             // 
             // btnupdate
             // 
@@ -155,17 +259,51 @@
             this.btnupdate.UseVisualStyleBackColor = false;
             this.btnupdate.Click += new System.EventHandler(this.btnupdate_Click);
             // 
-            // btndelete
+            // btnsave
             // 
-            this.btndelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btndelete.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btndelete.Location = new System.Drawing.Point(297, 377);
-            this.btndelete.Name = "btndelete";
-            this.btndelete.Size = new System.Drawing.Size(115, 38);
-            this.btndelete.TabIndex = 6;
-            this.btndelete.Text = "SİL";
-            this.btndelete.UseVisualStyleBackColor = false;
-            this.btndelete.Click += new System.EventHandler(this.btndelete_Click);
+            this.btnsave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.btnsave.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnsave.Location = new System.Drawing.Point(37, 377);
+            this.btnsave.Name = "btnsave";
+            this.btnsave.Size = new System.Drawing.Size(126, 38);
+            this.btnsave.TabIndex = 4;
+            this.btnsave.Text = "EKLE";
+            this.btnsave.UseVisualStyleBackColor = false;
+            this.btnsave.Click += new System.EventHandler(this.btnsave_Click);
+            // 
+            // txtkey
+            // 
+            this.txtkey.Location = new System.Drawing.Point(119, 45);
+            this.txtkey.Name = "txtkey";
+            this.txtkey.Size = new System.Drawing.Size(126, 27);
+            this.txtkey.TabIndex = 3;
+            // 
+            // txtvalue
+            // 
+            this.txtvalue.Location = new System.Drawing.Point(411, 44);
+            this.txtvalue.Name = "txtvalue";
+            this.txtvalue.Size = new System.Drawing.Size(164, 27);
+            this.txtvalue.TabIndex = 2;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(287, 45);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(79, 24);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Turkish";
+            // 
+            // KEYLBL
+            // 
+            this.KEYLBL.AutoSize = true;
+            this.KEYLBL.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.KEYLBL.Location = new System.Drawing.Point(16, 45);
+            this.KEYLBL.Name = "KEYLBL";
+            this.KEYLBL.Size = new System.Drawing.Size(46, 24);
+            this.KEYLBL.TabIndex = 0;
+            this.KEYLBL.Text = "Key";
             // 
             // dataGridView1
             // 
@@ -209,144 +347,6 @@
             this.txtsearch.Name = "txtsearch";
             this.txtsearch.Size = new System.Drawing.Size(234, 33);
             this.txtsearch.TabIndex = 5;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(6, 101);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(77, 24);
-            this.label1.TabIndex = 7;
-            this.label1.Text = "Englısh";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(290, 98);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(83, 24);
-            this.label3.TabIndex = 8;
-            this.label3.Text = "German";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(6, 156);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(68, 24);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Italian";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(290, 154);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(72, 24);
-            this.label5.TabIndex = 10;
-            this.label5.Text = "French";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(6, 204);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(70, 24);
-            this.label6.TabIndex = 11;
-            this.label6.Text = "Arabic";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(292, 207);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(81, 24);
-            this.label7.TabIndex = 12;
-            this.label7.Text = "Georgia";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(0, 256);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(114, 24);
-            this.label8.TabIndex = 13;
-            this.label8.Text = "Azerbaijani";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Book Antiqua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(293, 256);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(65, 24);
-            this.label9.TabIndex = 14;
-            this.label9.Text = "Dutch";
-            // 
-            // txten
-            // 
-            this.txten.Location = new System.Drawing.Point(119, 101);
-            this.txten.Name = "txten";
-            this.txten.Size = new System.Drawing.Size(126, 27);
-            this.txten.TabIndex = 15;
-            // 
-            // txtfl
-            // 
-            this.txtfl.Location = new System.Drawing.Point(411, 259);
-            this.txtfl.Name = "txtfl";
-            this.txtfl.Size = new System.Drawing.Size(164, 27);
-            this.txtfl.TabIndex = 16;
-            // 
-            // txtgr
-            // 
-            this.txtgr.Location = new System.Drawing.Point(411, 207);
-            this.txtgr.Name = "txtgr";
-            this.txtgr.Size = new System.Drawing.Size(164, 27);
-            this.txtgr.TabIndex = 17;
-            // 
-            // txtfr
-            // 
-            this.txtfr.Location = new System.Drawing.Point(411, 153);
-            this.txtfr.Name = "txtfr";
-            this.txtfr.Size = new System.Drawing.Size(164, 27);
-            this.txtfr.TabIndex = 18;
-            // 
-            // txtde
-            // 
-            this.txtde.Location = new System.Drawing.Point(411, 102);
-            this.txtde.Name = "txtde";
-            this.txtde.Size = new System.Drawing.Size(164, 27);
-            this.txtde.TabIndex = 19;
-            // 
-            // txtaz
-            // 
-            this.txtaz.Location = new System.Drawing.Point(119, 256);
-            this.txtaz.Name = "txtaz";
-            this.txtaz.Size = new System.Drawing.Size(126, 27);
-            this.txtaz.TabIndex = 20;
-            // 
-            // txtar
-            // 
-            this.txtar.Location = new System.Drawing.Point(119, 204);
-            this.txtar.Name = "txtar";
-            this.txtar.Size = new System.Drawing.Size(126, 27);
-            this.txtar.TabIndex = 21;
-            // 
-            // txtıt
-            // 
-            this.txtıt.Location = new System.Drawing.Point(119, 156);
-            this.txtıt.Name = "txtıt";
-            this.txtıt.Size = new System.Drawing.Size(126, 27);
-            this.txtıt.TabIndex = 22;
             // 
             // btnjson
             // 
