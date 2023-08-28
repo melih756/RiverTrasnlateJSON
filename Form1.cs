@@ -15,11 +15,11 @@ using Newtonsoft.Json.Linq;
 
 namespace RİVERTRASLATEJSON
 {
-    public partial class Form1 : Form
+    public partial class RIVER : Form
     {
 
 
-        public Form1()
+        public RIVER()
         {
             InitializeComponent();
         }
@@ -34,11 +34,11 @@ namespace RİVERTRASLATEJSON
         SqlCommandBuilder commandBuilder;
         SqlDataAdapter adapter;
         DataTable tbl = new DataTable();
-        
 
         DataTable getlist()
         {
             adapter = new SqlDataAdapter("select * from tbllangs", con);
+
             adapter.Fill(tbl);
             dataGridView1.DataSource = tbl;
             return tbl;
@@ -71,11 +71,19 @@ namespace RİVERTRASLATEJSON
             //cmd.ExecuteNonQuery();
             //con.Close();
             //lnglist();
+            //SqlCommand cmd = new SqlCommand("select * from tbllangs where keystr=@keystr");
 
 
+            
             commandBuilder = new SqlCommandBuilder(adapter);
             adapter.Update(tbl);
             MessageBox.Show("ekleme yapıldı", "bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+
+            //commandBuilder = new SqlCommandBuilder(adapter);
+            //adapter.Update(tbl);
+            //MessageBox.Show("ekleme yapıldı", "bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
 
         }
 
@@ -178,7 +186,6 @@ namespace RİVERTRASLATEJSON
                     Key = reader["keystr"].ToString(),
                     Turkish = reader["trtr"].ToString(),
 
-
                 };
                 //string name = (string)jObject["keystr"]["enen"];
 
@@ -186,7 +193,6 @@ namespace RİVERTRASLATEJSON
                 {
                     Key = reader["keystr"].ToString(),
                     English = reader["enen"].ToString(),
-
 
                 };
                 de datade = new de
@@ -238,22 +244,9 @@ namespace RİVERTRASLATEJSON
             }
 
 
-            var jsonVeri = new Dictionary<string, string>
-            {
-
-                //{txtkey.Text , txten.Text }
-                //{ txtkeyz, "şifre" },
-                //{ "remember:", "hatırla" },
-                //{ "forgotPass:", "şifremi unuttum" },
-                //{ "modules:", "modüller" },
-                //{ "generic:", "genel" },
-
-            };
 
 
-            // JSON verisini dosyaya yaz
-            string yeniJson = JsonConvert.SerializeObject(jsonVeri, Formatting.Indented);
-            System.IO.File.WriteAllText("yeni_veri.json", yeniJson);
+         
 
 
             con.Close();
