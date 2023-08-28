@@ -26,7 +26,7 @@ namespace RİVERTRASLATEJSON
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
         }
 
 
@@ -34,10 +34,11 @@ namespace RİVERTRASLATEJSON
         SqlCommandBuilder commandBuilder;
         SqlDataAdapter adapter;
         DataTable tbl = new DataTable();
+        
 
         DataTable getlist()
         {
-            adapter = new SqlDataAdapter("select * from tbllang1", con);
+            adapter = new SqlDataAdapter("select * from tbllangs", con);
             adapter.Fill(tbl);
             dataGridView1.DataSource = tbl;
             return tbl;
@@ -70,7 +71,7 @@ namespace RİVERTRASLATEJSON
             //cmd.ExecuteNonQuery();
             //con.Close();
             //lnglist();
-            
+
 
             commandBuilder = new SqlCommandBuilder(adapter);
             adapter.Update(tbl);
@@ -107,16 +108,16 @@ namespace RİVERTRASLATEJSON
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang2 WHERE KEYSTR=@KEYSTR", con);
-            //cmd.Parameters.AddWithValue("@KEYSTR", txtsearch.Text);
-            //SqlDataAdapter da = new SqlDataAdapter(cmd);
-            //DataTable dt = new DataTable();
-            //da.Fill(dt);
-            //dataGridView1.DataSource = dt;
-            //con.Close();
-            //MessageBox.Show("BULUNDU", "BİLGİ", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            // lnglist(); 
+            con.Open();
+            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllangs WHERE KEYSTR=@KEYSTR", con);
+            cmd.Parameters.AddWithValue("@KEYSTR", txtsearch.Text);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            dataGridView1.DataSource = dt;
+            con.Close();
+            MessageBox.Show("BULUNDU", "BİLGİ", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //getlist();
         }
 
 
@@ -167,7 +168,7 @@ namespace RİVERTRASLATEJSON
 
             //supportlangs = ["TR",]
             con.Open();
-            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang2", con);
+            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllangs", con);
             SqlDataReader reader = cmd.ExecuteReader();
 
             while (reader.Read())
@@ -235,17 +236,17 @@ namespace RİVERTRASLATEJSON
                 languageDataListar.Add(dataar);
 
             }
-           
+
 
             var jsonVeri = new Dictionary<string, string>
             {
 
-            {txtkey.Text , txten.Text }
-            //{ txtkeyz, "şifre" },
-            //{ "remember:", "hatırla" },
-            //{ "forgotPass:", "şifremi unuttum" },
-            //{ "modules:", "modüller" },
-            //{ "generic:", "genel" },
+                //{txtkey.Text , txten.Text }
+                //{ txtkeyz, "şifre" },
+                //{ "remember:", "hatırla" },
+                //{ "forgotPass:", "şifremi unuttum" },
+                //{ "modules:", "modüller" },
+                //{ "generic:", "genel" },
 
             };
 
@@ -273,10 +274,132 @@ namespace RİVERTRASLATEJSON
             MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            List<trtr> tr = new List<trtr>();
+            List<enen> languageDataListen = new List<enen>();
+            List<de> languageDataListde = new List<de>();
+            List<ıtıt> languageDataListıt = new List<ıtıt>();
+            List<grgr> languageDataListgr = new List<grgr>();
+            List<frfr> languageDataListfr = new List<frfr>();
+            List<flfl> languageDataListfl = new List<flfl>();
+            List<azaz> languageDataListaz = new List<azaz>();
+            List<arar> languageDataListar = new List<arar>();
+
+            //supportlangs = ["TR",]
+            con.Open();
+            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllangs", con);
+            SqlDataReader reader = cmd.ExecuteReader();
+
+            while (reader.Read())
+            {
+                trtr datatr = new trtr
+                {
+                    Key = reader["keystr"].ToString(),
+                    Turkish = reader["trtr"].ToString(),
+
+
+                };
+                //string name = (string)jObject["keystr"]["enen"];
+
+                enen dataen = new enen
+                {
+                    Key = reader["keystr"].ToString(),
+                    English = reader["enen"].ToString(),
+
+
+                };
+                de datade = new de
+                {
+                    Key = reader["keystr"].ToString(),
+                    German = reader["dede"].ToString(),
+
+                };
+                ıtıt dataıt = new ıtıt
+                {
+                    Key = reader["keystr"].ToString(),
+                    Italian = reader["ıtıt"].ToString(),
+
+
+                };
+                frfr datafr = new frfr
+                {
+                    Key = reader["keystr"].ToString(),
+                    French = reader["frfr"].ToString(),
+
+
+                };
+                arar dataar = new arar
+                {
+                    Key = reader["keystr"].ToString(),
+                    Arabic = reader["arar"].ToString(),
+
+                };
+                grgr datagr = new grgr
+                {
+                    Key = reader["keystr"].ToString(),
+                    Georgia = reader["grgr"].ToString(),
+
+                };
+                azaz dataaz = new azaz
+                {
+                    Key = reader["keystr"].ToString(),
+                    Azerbajani = reader["azaz"].ToString(),
+                };
+
+                tr.Add(datatr);
+                languageDataListen.Add(dataen);
+                languageDataListde.Add(datade);
+                languageDataListaz.Add(dataaz);
+                languageDataListfr.Add(datafr);
+                languageDataListgr.Add(datagr);
+                languageDataListar.Add(dataar);
+
+            }
+
+
+            var jsonVeri = new Dictionary<string, string>
+            {
+
+                //{txtkey.Text , txten.Text }
+                //{ txtkeyz, "şifre" },
+                //{ "remember:", "hatırla" },
+                //{ "forgotPass:", "şifremi unuttum" },
+                //{ "modules:", "modüller" },
+                //{ "generic:", "genel" },
+
+            };
+
+
+            // JSON verisini dosyaya yaz
+            string yeniJson = JsonConvert.SerializeObject(jsonVeri, Formatting.Indented);
+            System.IO.File.WriteAllText("yeni_veri.json", yeniJson);
+
+
+            con.Close();
+
+            //JSON verisini dosyaya kaydet
+            string json = JsonConvert.SerializeObject(tr, Formatting.Indented);
+            string json1 = JsonConvert.SerializeObject(languageDataListen, Formatting.Indented);
+            string json2 = JsonConvert.SerializeObject(languageDataListde, Formatting.Indented);
+            string json3 = JsonConvert.SerializeObject(languageDataListar, Formatting.Indented);
+            string json4 = JsonConvert.SerializeObject(languageDataListaz, Formatting.Indented);
+            string json5 = JsonConvert.SerializeObject(languageDataListıt, Formatting.Indented);
+
+            File.WriteAllText("tr.json", json);
+            File.WriteAllText("az.json", json4);
+            File.WriteAllText("en.json", json1);
+            File.WriteAllText("de.json", json2);
+
+            MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
+}
+
+
 
     
-}
+
 
 
 
