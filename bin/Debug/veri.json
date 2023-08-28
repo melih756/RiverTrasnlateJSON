@@ -336,25 +336,5 @@
     "Dutch": ""
   },
 
-  "data":,
-  {
-
-    "loginButton": "Login",
-
-    "userName": "Username",
-
-    "pass": "Password",
-
-    "remember": "Remember Me",
-
-    "forgotPass": "Forget Password",
-
-    "modules": "Modules",
-
-    "generic": "General",
-
-    "search": "Search",
-
-    "logout": "Logout"
-  }
+  
 ]

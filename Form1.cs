@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace RİVERTRASLATEJSON
 {
@@ -25,95 +26,109 @@ namespace RİVERTRASLATEJSON
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
 
         SqlConnection con = new SqlConnection("Data Source=DESKTOP-T1738DH\\SQLEXPRESS01;Initial Catalog=RİVERLANGUAGE;Integrated Security=True");
-        private object veriler;
+        SqlCommandBuilder commandBuilder;
+        SqlDataAdapter adapter;
+        DataTable tbl = new DataTable();
 
-        void lnglist()
+        DataTable getlist()
         {
-            SqlDataAdapter da = new SqlDataAdapter("select * from tbllang1", con);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            dataGridView1.DataSource = dt;
+            adapter = new SqlDataAdapter("select * from tbllang1", con);
+            adapter.Fill(tbl);
+            dataGridView1.DataSource = tbl;
+            return tbl;
         }
+        //void lnglist()
+        //{
+        //    SqlDataAdapter da = new SqlDataAdapter("select * from tbllang1", con);
+        //    DataTable dt = new DataTable();
+        //    da.Fill(dt);
+        //    dataGridView1.DataSource = dt;
+        //}
         private void btnsave_Click(object sender, EventArgs e)
         {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("insert into tbllang1(keystr,trtr,enen,dede,ıtıt,arar,frfr,flfl,grgr,azaz) values(@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8,@p9,@p10)", con);
-            cmd.Parameters.AddWithValue("@p1", txtkey.Text);
-            cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
-            cmd.Parameters.AddWithValue("@p3", txten.Text);
-            cmd.Parameters.AddWithValue("@p4", txtde.Text);
-            cmd.Parameters.AddWithValue("@p5", txtıt.Text);
-            cmd.Parameters.AddWithValue("@p6", txtar.Text);
-            cmd.Parameters.AddWithValue("@p7", txtfr.Text);
-            cmd.Parameters.AddWithValue("@p8", txtfl.Text);
-            cmd.Parameters.AddWithValue("@p9", txtgr.Text);
-            cmd.Parameters.AddWithValue("@p10", txtaz.Text);
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("insert into tbllang2(keystr,trtr,enen,dede,ıtıt,arar,frfr,flfl,grgr,azaz) values(@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8,@p9,@p10)", con);
+            //cmd.Parameters.AddWithValue("@p1", txtkey.Text);
+            //cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
+            //cmd.Parameters.AddWithValue("@p3", txten.Text);
+            //cmd.Parameters.AddWithValue("@p4", txtde.Text);
+            //cmd.Parameters.AddWithValue("@p5", txtıt.Text);
+            //cmd.Parameters.AddWithValue("@p6", txtar.Text);
+            //cmd.Parameters.AddWithValue("@p7", txtfr.Text);
+            //cmd.Parameters.AddWithValue("@p8", txtfl.Text);
+            //cmd.Parameters.AddWithValue("@p9", txtgr.Text);
+            //cmd.Parameters.AddWithValue("@p10", txtaz.Text);
 
-            //StreamWriter sw = new StreamWriter("dosya.txt");
-            //sw.WriteLine(txtkey.Text + ":" + txtvalue.Text);
-            //sw.Close();
-            cmd.ExecuteNonQuery();
-            con.Close();
-            lnglist();
+            ////StreamWriter sw = new StreamWriter("dosya.txt");
+            ////sw.WriteLine(txtkey.Text + ":" + txtvalue.Text);
+            ////sw.Close();
+            //cmd.ExecuteNonQuery();
+            //con.Close();
+            //lnglist();
+            
+
+            commandBuilder = new SqlCommandBuilder(adapter);
+            adapter.Update(tbl);
             MessageBox.Show("ekleme yapıldı", "bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            lnglist();
+            //lnglist();
+            getlist();
         }
 
         private void btnupdate_Click(object sender, EventArgs e)
         {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("update tbllang1 set keystr=@p1,trtr=@p2,enen=@p3,dede=@p4,ıtıt=@p5,frfr=@p6,arar=@p7,grgr=@p8,azaz=@p9,flfl=@p10 where keystr=@keystr", con);
-            cmd.Parameters.AddWithValue("@p1", txtkey.Text);
-            cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
-            cmd.Parameters.AddWithValue("@p3", txten.Text);
-            cmd.Parameters.AddWithValue("@p4", txtde.Text);
-            cmd.Parameters.AddWithValue("@p5", txtıt.Text);
-            cmd.Parameters.AddWithValue("@p6", txtfr.Text);
-            cmd.Parameters.AddWithValue("@p7", txtar.Text);
-            cmd.Parameters.AddWithValue("@p8", txtgr.Text);
-            cmd.Parameters.AddWithValue("@p9", txtaz.Text);
-            cmd.Parameters.AddWithValue("@p10", txtfl.Text);
-            cmd.Parameters.AddWithValue("@keystr", txtkey.Text);
-            cmd.ExecuteNonQuery();
-            con.Close();
-            lnglist();
-            MessageBox.Show("Güncellendi");
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("update tbllang2 set keystr=@p1,trtr=@p2,enen=@p3,dede=@p4,ıtıt=@p5,frfr=@p6,arar=@p7,grgr=@p8,azaz=@p9,flfl=@p10 where keystr=@keystr", con);
+            //cmd.Parameters.AddWithValue("@p1", txtkey.Text);
+            //cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
+            //cmd.Parameters.AddWithValue("@p3", txten.Text);
+            //cmd.Parameters.AddWithValue("@p4", txtde.Text);
+            //cmd.Parameters.AddWithValue("@p5", txtıt.Text);
+            //cmd.Parameters.AddWithValue("@p6", txtfr.Text);
+            //cmd.Parameters.AddWithValue("@p7", txtar.Text);
+            //cmd.Parameters.AddWithValue("@p8", txtgr.Text);
+            //cmd.Parameters.AddWithValue("@p9", txtaz.Text);
+            //cmd.Parameters.AddWithValue("@p10", txtfl.Text);
+            //cmd.Parameters.AddWithValue("@keystr", txtkey.Text);
+            //cmd.ExecuteNonQuery();
+            //con.Close();
+            ////lnglist();
+            //MessageBox.Show("Güncellendi");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            con.Open();
-            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang1 WHERE KEYSTR=@KEYSTR", con);
-            cmd.Parameters.AddWithValue("@KEYSTR", txtsearch.Text);
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            dataGridView1.DataSource = dt;
-            con.Close();
-            MessageBox.Show("BULUNDU", "BİLGİ", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            //con.Open();
+            //SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang2 WHERE KEYSTR=@KEYSTR", con);
+            //cmd.Parameters.AddWithValue("@KEYSTR", txtsearch.Text);
+            //SqlDataAdapter da = new SqlDataAdapter(cmd);
+            //DataTable dt = new DataTable();
+            //da.Fill(dt);
+            //dataGridView1.DataSource = dt;
+            //con.Close();
+            //MessageBox.Show("BULUNDU", "BİLGİ", MessageBoxButtons.OK, MessageBoxIcon.Information);
             // lnglist(); 
         }
 
 
         private void btndelete_Click(object sender, EventArgs e)
         {
-            con.Open();
-            SqlCommand VeriSil = new SqlCommand("Delete from tbllang1 where keystr=@keystr", con);
-            VeriSil.Parameters.AddWithValue("@keystr", txtkey.Text);
-            VeriSil.ExecuteNonQuery();
-            con.Close();
-            lnglist();
-            MessageBox.Show("Veri silindi");
+            //con.Open();
+            //SqlCommand VeriSil = new SqlCommand("Delete from tbllang2 where keystr=@keystr", con);
+            //VeriSil.Parameters.AddWithValue("@keystr", txtkey.Text);
+            //VeriSil.ExecuteNonQuery();
+            //con.Close();
+            ////lnglist();
+            //MessageBox.Show("Veri silindi");
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -152,7 +167,7 @@ namespace RİVERTRASLATEJSON
 
             //supportlangs = ["TR",]
             con.Open();
-            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang1", con);
+            SqlCommand cmd = new SqlCommand("SELECT * FROM tbllang2", con);
             SqlDataReader reader = cmd.ExecuteReader();
 
             while (reader.Read())
@@ -164,6 +179,8 @@ namespace RİVERTRASLATEJSON
 
 
                 };
+                //string name = (string)jObject["keystr"]["enen"];
+
                 enen dataen = new enen
                 {
                     Key = reader["keystr"].ToString(),
@@ -175,7 +192,6 @@ namespace RİVERTRASLATEJSON
                 {
                     Key = reader["keystr"].ToString(),
                     German = reader["dede"].ToString(),
-
 
                 };
                 ıtıt dataıt = new ıtıt
@@ -208,7 +224,6 @@ namespace RİVERTRASLATEJSON
                 {
                     Key = reader["keystr"].ToString(),
                     Azerbajani = reader["azaz"].ToString(),
-
                 };
 
                 tr.Add(datatr);
@@ -235,9 +250,6 @@ namespace RİVERTRASLATEJSON
             };
 
 
-
-
-
             // JSON verisini dosyaya yaz
             string yeniJson = JsonConvert.SerializeObject(jsonVeri, Formatting.Indented);
             System.IO.File.WriteAllText("yeni_veri.json", yeniJson);
@@ -259,9 +271,9 @@ namespace RİVERTRASLATEJSON
             File.WriteAllText("de.json", json2);
 
             MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-
         }
+
+    }
 
     
 }
