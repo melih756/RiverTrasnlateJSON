@@ -1,0 +1,3838 @@
+[
+  {
+    "Key": "loginButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "userName",
+    "Arabic": ""
+  },
+  {
+    "Key": "pass",
+    "Arabic": ""
+  },
+  {
+    "Key": "remember",
+    "Arabic": ""
+  },
+  {
+    "Key": "forgotPass",
+    "Arabic": ""
+  },
+  {
+    "Key": "modules",
+    "Arabic": ""
+  },
+  {
+    "Key": "generic",
+    "Arabic": ""
+  },
+  {
+    "Key": "search",
+    "Arabic": ""
+  },
+  {
+    "Key": "logout",
+    "Arabic": ""
+  },
+  {
+    "Key": "waitingJob",
+    "Arabic": ""
+  },
+  {
+    "Key": "myStarted",
+    "Arabic": ""
+  },
+  {
+    "Key": "myIncluded",
+    "Arabic": ""
+  },
+  {
+    "Key": "myCompleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "jobList",
+    "Arabic": ""
+  },
+  {
+    "Key": "formNo",
+    "Arabic": ""
+  },
+  {
+    "Key": "status",
+    "Arabic": ""
+  },
+  {
+    "Key": "starter",
+    "Arabic": ""
+  },
+  {
+    "Key": "assigned",
+    "Arabic": ""
+  },
+  {
+    "Key": "timeoutDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "startDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "processing",
+    "Arabic": ""
+  },
+  {
+    "Key": "you",
+    "Arabic": ""
+  },
+  {
+    "Key": "history",
+    "Arabic": ""
+  },
+  {
+    "Key": "description",
+    "Arabic": ""
+  },
+  {
+    "Key": "date",
+    "Arabic": ""
+  },
+  {
+    "Key": "growShrink",
+    "Arabic": ""
+  },
+  {
+    "Key": "close",
+    "Arabic": ""
+  },
+  {
+    "Key": "gridReset",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnSelect",
+    "Arabic": ""
+  },
+  {
+    "Key": "jobName",
+    "Arabic": ""
+  },
+  {
+    "Key": "keyword",
+    "Arabic": ""
+  },
+  {
+    "Key": "completion",
+    "Arabic": ""
+  },
+  {
+    "Key": "all",
+    "Arabic": ""
+  },
+  {
+    "Key": "completedDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "completions",
+    "Arabic": ""
+  },
+  {
+    "Key": "ongoing",
+    "Arabic": ""
+  },
+  {
+    "Key": "formName",
+    "Arabic": ""
+  },
+  {
+    "Key": "sunday",
+    "Arabic": ""
+  },
+  {
+    "Key": "monday",
+    "Arabic": ""
+  },
+  {
+    "Key": "tuesday",
+    "Arabic": ""
+  },
+  {
+    "Key": "wednesday",
+    "Arabic": ""
+  },
+  {
+    "Key": "thursday",
+    "Arabic": ""
+  },
+  {
+    "Key": "friday",
+    "Arabic": ""
+  },
+  {
+    "Key": "saturday",
+    "Arabic": ""
+  },
+  {
+    "Key": "pdfExport",
+    "Arabic": ""
+  },
+  {
+    "Key": "sendPassword",
+    "Arabic": ""
+  },
+  {
+    "Key": "assignedDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "events",
+    "Arabic": ""
+  },
+  {
+    "Key": "new",
+    "Arabic": ""
+  },
+  {
+    "Key": "save",
+    "Arabic": ""
+  },
+  {
+    "Key": "formula",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectDataSource",
+    "Arabic": ""
+  },
+  {
+    "Key": "requiredField",
+    "Arabic": ""
+  },
+  {
+    "Key": "suffix",
+    "Arabic": ""
+  },
+  {
+    "Key": "valueColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "showLength",
+    "Arabic": ""
+  },
+  {
+    "Key": "clearButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "allCaps",
+    "Arabic": ""
+  },
+  {
+    "Key": "autoAsc",
+    "Arabic": ""
+  },
+  {
+    "Key": "width",
+    "Arabic": ""
+  },
+  {
+    "Key": "length",
+    "Arabic": ""
+  },
+  {
+    "Key": "functions",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectElement",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "edit",
+    "Arabic": ""
+  },
+  {
+    "Key": "changeEventActions",
+    "Arabic": ""
+  },
+  {
+    "Key": "barcode",
+    "Arabic": ""
+  },
+  {
+    "Key": "systemInfo",
+    "Arabic": ""
+  },
+  {
+    "Key": "prefix",
+    "Arabic": ""
+  },
+  {
+    "Key": "max",
+    "Arabic": ""
+  },
+  {
+    "Key": "showMinMaxInfo",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectUser",
+    "Arabic": ""
+  },
+  {
+    "Key": "spinButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "numberIncDecButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "decimal",
+    "Arabic": ""
+  },
+  {
+    "Key": "numeral",
+    "Arabic": ""
+  },
+  {
+    "Key": "wrongFormat",
+    "Arabic": ""
+  },
+  {
+    "Key": "height",
+    "Arabic": ""
+  },
+  {
+    "Key": "microphone",
+    "Arabic": ""
+  },
+  {
+    "Key": "notifyDataReset",
+    "Arabic": ""
+  },
+  {
+    "Key": "data",
+    "Arabic": ""
+  },
+  {
+    "Key": "dynamicData",
+    "Arabic": ""
+  },
+  {
+    "Key": "manualData",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectDataGrid",
+    "Arabic": ""
+  },
+  {
+    "Key": "overrideUserChange",
+    "Arabic": ""
+  },
+  {
+    "Key": "textColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "makeInitialValue",
+    "Arabic": ""
+  },
+  {
+    "Key": "undo",
+    "Arabic": ""
+  },
+  {
+    "Key": "copy",
+    "Arabic": ""
+  },
+  {
+    "Key": "delete",
+    "Arabic": ""
+  },
+  {
+    "Key": "cancel",
+    "Arabic": ""
+  },
+  {
+    "Key": "languageSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageSqlLinkDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "permissions",
+    "Arabic": ""
+  },
+  {
+    "Key": "objectid",
+    "Arabic": ""
+  },
+  {
+    "Key": "fontSize",
+    "Arabic": ""
+  },
+  {
+    "Key": "fontWidth",
+    "Arabic": ""
+  },
+  {
+    "Key": "fontStyle",
+    "Arabic": ""
+  },
+  {
+    "Key": "underline",
+    "Arabic": ""
+  },
+  {
+    "Key": "textColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "visibility",
+    "Arabic": ""
+  },
+  {
+    "Key": "textAlignment",
+    "Arabic": ""
+  },
+  {
+    "Key": "settings",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageUnsaved",
+    "Arabic": ""
+  },
+  {
+    "Key": "warning",
+    "Arabic": ""
+  },
+  {
+    "Key": "userAuthorizations",
+    "Arabic": ""
+  },
+  {
+    "Key": "formPreferences",
+    "Arabic": ""
+  },
+  {
+    "Key": "formOpeningevent",
+    "Arabic": ""
+  },
+  {
+    "Key": "chooseConnectionAddress",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectPriorty",
+    "Arabic": ""
+  },
+  {
+    "Key": "loadingEditor",
+    "Arabic": ""
+  },
+  {
+    "Key": "showAddButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "update",
+    "Arabic": ""
+  },
+  {
+    "Key": "connectionID",
+    "Arabic": ""
+  },
+  {
+    "Key": "formPreview",
+    "Arabic": ""
+  },
+  {
+    "Key": "nameDisplayedform",
+    "Arabic": ""
+  },
+  {
+    "Key": "formNamevariable",
+    "Arabic": ""
+  },
+  {
+    "Key": "category",
+    "Arabic": ""
+  },
+  {
+    "Key": "formColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "generalForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "saveForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageNeworupdate",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastError",
+    "Arabic": ""
+  },
+  {
+    "Key": "alertDifferentID",
+    "Arabic": ""
+  },
+  {
+    "Key": "confirmChanges",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastUserpermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastCodeeditor",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageDeletesure",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageSure",
+    "Arabic": ""
+  },
+  {
+    "Key": "Success",
+    "Arabic": ""
+  },
+  {
+    "Key": "Error",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastFormupdate",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastMistake",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastSaved",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastCopied",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastEmptyFormMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastGiveName",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastGiveVariableName",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastVariableNameNumberWarning",
+    "Arabic": ""
+  },
+  {
+    "Key": "formCopy",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageButtonDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "noDataFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "language",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterDatagrid",
+    "Arabic": ""
+  },
+  {
+    "Key": "addManualData",
+    "Arabic": ""
+  },
+  {
+    "Key": "dateFormat",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageSqlLinkDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "timeOption",
+    "Arabic": ""
+  },
+  {
+    "Key": "defaultTodaysDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "dateRange",
+    "Arabic": ""
+  },
+  {
+    "Key": "minToday",
+    "Arabic": ""
+  },
+  {
+    "Key": "maxToday",
+    "Arabic": ""
+  },
+  {
+    "Key": "dateRangeDay",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterDateRangeValue",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageIdColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "statusSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "active",
+    "Arabic": ""
+  },
+  {
+    "Key": "passive",
+    "Arabic": ""
+  },
+  {
+    "Key": "enable",
+    "Arabic": ""
+  },
+  {
+    "Key": "disable",
+    "Arabic": ""
+  },
+  {
+    "Key": "visible",
+    "Arabic": ""
+  },
+  {
+    "Key": "invisible",
+    "Arabic": ""
+  },
+  {
+    "Key": "items",
+    "Arabic": ""
+  },
+  {
+    "Key": "showItems",
+    "Arabic": ""
+  },
+  {
+    "Key": "array",
+    "Arabic": ""
+  },
+  {
+    "Key": "letLabelAppear",
+    "Arabic": ""
+  },
+  {
+    "Key": "add",
+    "Arabic": ""
+  },
+  {
+    "Key": "horizontal",
+    "Arabic": ""
+  },
+  {
+    "Key": "vertical",
+    "Arabic": ""
+  },
+  {
+    "Key": "text",
+    "Arabic": ""
+  },
+  {
+    "Key": "alertFillRequiredFields",
+    "Arabic": ""
+  },
+  {
+    "Key": "alertSignatureField",
+    "Arabic": ""
+  },
+  {
+    "Key": "messageApproveTransaction",
+    "Arabic": ""
+  },
+  {
+    "Key": "button",
+    "Arabic": ""
+  },
+  {
+    "Key": "reasonforRefusal",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterReasonRejection",
+    "Arabic": ""
+  },
+  {
+    "Key": "reject",
+    "Arabic": ""
+  },
+  {
+    "Key": "addDeleteButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "showBorder",
+    "Arabic": ""
+  },
+  {
+    "Key": "buttons",
+    "Arabic": ""
+  },
+  {
+    "Key": "clean",
+    "Arabic": ""
+  },
+  {
+    "Key": "buttonSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "saveLocation",
+    "Arabic": ""
+  },
+  {
+    "Key": "paymentButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "paymentProvider",
+    "Arabic": ""
+  },
+  {
+    "Key": "price",
+    "Arabic": ""
+  },
+  {
+    "Key": "numberOfInstallments",
+    "Arabic": ""
+  },
+  {
+    "Key": "descriptionField",
+    "Arabic": ""
+  },
+  {
+    "Key": "current",
+    "Arabic": ""
+  },
+  {
+    "Key": "currentForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "name",
+    "Arabic": ""
+  },
+  {
+    "Key": "surname",
+    "Arabic": ""
+  },
+  {
+    "Key": "country",
+    "Arabic": ""
+  },
+  {
+    "Key": "city",
+    "Arabic": ""
+  },
+  {
+    "Key": "address",
+    "Arabic": ""
+  },
+  {
+    "Key": "authorizations",
+    "Arabic": ""
+  },
+  {
+    "Key": "users",
+    "Arabic": ""
+  },
+  {
+    "Key": "user",
+    "Arabic": ""
+  },
+  {
+    "Key": "givePermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "groups",
+    "Arabic": ""
+  },
+  {
+    "Key": "group",
+    "Arabic": ""
+  },
+  {
+    "Key": "saveandSend",
+    "Arabic": ""
+  },
+  {
+    "Key": "approve",
+    "Arabic": ""
+  },
+  {
+    "Key": "sendBack",
+    "Arabic": ""
+  },
+  {
+    "Key": "deslineAndEnd",
+    "Arabic": ""
+  },
+  {
+    "Key": "complete",
+    "Arabic": ""
+  },
+  {
+    "Key": "blue",
+    "Arabic": ""
+  },
+  {
+    "Key": "grey",
+    "Arabic": ""
+  },
+  {
+    "Key": "green",
+    "Arabic": ""
+  },
+  {
+    "Key": "red",
+    "Arabic": ""
+  },
+  {
+    "Key": "left",
+    "Arabic": ""
+  },
+  {
+    "Key": "right",
+    "Arabic": ""
+  },
+  {
+    "Key": "color",
+    "Arabic": ""
+  },
+  {
+    "Key": "symbol",
+    "Arabic": ""
+  },
+  {
+    "Key": "position",
+    "Arabic": ""
+  },
+  {
+    "Key": "action",
+    "Arabic": ""
+  },
+  {
+    "Key": "total",
+    "Arabic": ""
+  },
+  {
+    "Key": "filePath",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileName",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileUpload",
+    "Arabic": ""
+  },
+  {
+    "Key": "choose",
+    "Arabic": ""
+  },
+  {
+    "Key": "updateData",
+    "Arabic": ""
+  },
+  {
+    "Key": "preview",
+    "Arabic": ""
+  },
+  {
+    "Key": "show",
+    "Arabic": ""
+  },
+  {
+    "Key": "columns",
+    "Arabic": ""
+  },
+  {
+    "Key": "changeEvent",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleteColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnSqlScripts",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageNameColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnLanguageSetting",
+    "Arabic": ""
+  },
+  {
+    "Key": "dataSource",
+    "Arabic": ""
+  },
+  {
+    "Key": "filter",
+    "Arabic": ""
+  },
+  {
+    "Key": "reset",
+    "Arabic": ""
+  },
+  {
+    "Key": "column",
+    "Arabic": ""
+  },
+  {
+    "Key": "image",
+    "Arabic": ""
+  },
+  {
+    "Key": "searchLocation",
+    "Arabic": ""
+  },
+  {
+    "Key": "draggable",
+    "Arabic": ""
+  },
+  {
+    "Key": "usersCanChange",
+    "Arabic": ""
+  },
+  {
+    "Key": "multiMarker",
+    "Arabic": ""
+  },
+  {
+    "Key": "markerLimit",
+    "Arabic": ""
+  },
+  {
+    "Key": "meetingType",
+    "Arabic": ""
+  },
+  {
+    "Key": "meetingName",
+    "Arabic": ""
+  },
+  {
+    "Key": "loadingFiles",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileSizeExceeded",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesLoaded",
+    "Arabic": ""
+  },
+  {
+    "Key": "condition",
+    "Arabic": ""
+  },
+  {
+    "Key": "value",
+    "Arabic": ""
+  },
+  {
+    "Key": "connectionAdress",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageTypeColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "visibleColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectionMode",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectMode",
+    "Arabic": ""
+  },
+  {
+    "Key": "datagridFiltering",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageDataColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectDataColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "dataFormat",
+    "Arabic": ""
+  },
+  {
+    "Key": "photoPreview",
+    "Arabic": ""
+  },
+  {
+    "Key": "videoPreview",
+    "Arabic": ""
+  },
+  {
+    "Key": "displayPhoto",
+    "Arabic": ""
+  },
+  {
+    "Key": "displayVideo",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "videoColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnNameAppear",
+    "Arabic": ""
+  },
+  {
+    "Key": "selected",
+    "Arabic": ""
+  },
+  {
+    "Key": "inStock",
+    "Arabic": ""
+  },
+  {
+    "Key": "gallery",
+    "Arabic": ""
+  },
+  {
+    "Key": "dollar",
+    "Arabic": ""
+  },
+  {
+    "Key": "sterling",
+    "Arabic": ""
+  },
+  {
+    "Key": "underPhoto",
+    "Arabic": ""
+  },
+  {
+    "Key": "topPhoto",
+    "Arabic": ""
+  },
+  {
+    "Key": "byCategory",
+    "Arabic": ""
+  },
+  {
+    "Key": "dashboardShowHide",
+    "Arabic": ""
+  },
+  {
+    "Key": "showDetail",
+    "Arabic": ""
+  },
+  {
+    "Key": "hideDetail",
+    "Arabic": ""
+  },
+  {
+    "Key": "decrease",
+    "Arabic": ""
+  },
+  {
+    "Key": "increase",
+    "Arabic": ""
+  },
+  {
+    "Key": "watch",
+    "Arabic": ""
+  },
+  {
+    "Key": "watchMovie",
+    "Arabic": ""
+  },
+  {
+    "Key": "noRecordsFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "appearance",
+    "Arabic": ""
+  },
+  {
+    "Key": "numberofColumns",
+    "Arabic": ""
+  },
+  {
+    "Key": "pagingRecords",
+    "Arabic": ""
+  },
+  {
+    "Key": "detailLocation",
+    "Arabic": ""
+  },
+  {
+    "Key": "hideImages",
+    "Arabic": ""
+  },
+  {
+    "Key": "quantityCategoryDisable",
+    "Arabic": ""
+  },
+  {
+    "Key": "general",
+    "Arabic": ""
+  },
+  {
+    "Key": "idColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "availableQuantity",
+    "Arabic": ""
+  },
+  {
+    "Key": "categoryColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "photoColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "titleColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "priceColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatablePrice",
+    "Arabic": ""
+  },
+  {
+    "Key": "videoGallery",
+    "Arabic": ""
+  },
+  {
+    "Key": "uniqueComponent",
+    "Arabic": ""
+  },
+  {
+    "Key": "showVariant",
+    "Arabic": ""
+  },
+  {
+    "Key": "transferTotalAmount",
+    "Arabic": ""
+  },
+  {
+    "Key": "connectionAddress",
+    "Arabic": ""
+  },
+  {
+    "Key": "title",
+    "Arabic": ""
+  },
+  {
+    "Key": "hide",
+    "Arabic": ""
+  },
+  {
+    "Key": "detail",
+    "Arabic": ""
+  },
+  {
+    "Key": "priceQuery",
+    "Arabic": ""
+  },
+  {
+    "Key": "quantityQuery",
+    "Arabic": ""
+  },
+  {
+    "Key": "uniqueComponentError",
+    "Arabic": ""
+  },
+  {
+    "Key": "joinColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "nameColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "variantScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "variantImages",
+    "Arabic": ""
+  },
+  {
+    "Key": "variantJoinColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "showAll",
+    "Arabic": ""
+  },
+  {
+    "Key": "showSelected",
+    "Arabic": ""
+  },
+  {
+    "Key": "showByCategory",
+    "Arabic": ""
+  },
+  {
+    "Key": "showInStock",
+    "Arabic": ""
+  },
+  {
+    "Key": "notYetAdded",
+    "Arabic": ""
+  },
+  {
+    "Key": "startingDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "endDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeFeatures",
+    "Arabic": ""
+  },
+  {
+    "Key": "menu",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectMenu",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectSubmenu",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectMenuBrowser",
+    "Arabic": ""
+  },
+  {
+    "Key": "nameElement",
+    "Arabic": ""
+  },
+  {
+    "Key": "subject",
+    "Arabic": ""
+  },
+  {
+    "Key": "picture",
+    "Arabic": ""
+  },
+  {
+    "Key": "pictureElement",
+    "Arabic": ""
+  },
+  {
+    "Key": "startingDateElement",
+    "Arabic": ""
+  },
+  {
+    "Key": "endDateElement",
+    "Arabic": ""
+  },
+  {
+    "Key": "usersCanEdit",
+    "Arabic": ""
+  },
+  {
+    "Key": "thisPropertyCant",
+    "Arabic": ""
+  },
+  {
+    "Key": "calendarDisplay",
+    "Arabic": ""
+  },
+  {
+    "Key": "monthly",
+    "Arabic": ""
+  },
+  {
+    "Key": "generalDisplayLunarDays",
+    "Arabic": ""
+  },
+  {
+    "Key": "agenda",
+    "Arabic": ""
+  },
+  {
+    "Key": "listofWeeklyEvents",
+    "Arabic": ""
+  },
+  {
+    "Key": "weekly",
+    "Arabic": ""
+  },
+  {
+    "Key": "weekend",
+    "Arabic": ""
+  },
+  {
+    "Key": "generalDisplayWeekDays",
+    "Arabic": ""
+  },
+  {
+    "Key": "showWeekendDaysWhileWeekdays",
+    "Arabic": ""
+  },
+  {
+    "Key": "daily",
+    "Arabic": ""
+  },
+  {
+    "Key": "listofDailyEvents",
+    "Arabic": ""
+  },
+  {
+    "Key": "startTime",
+    "Arabic": ""
+  },
+  {
+    "Key": "endTime",
+    "Arabic": ""
+  },
+  {
+    "Key": "changeDefaultColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "weekdayColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "weekendColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "eventColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupBySql",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "assignedColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskPriortiyColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskSubjectColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskDetailColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskQuery",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskKeyExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskTitleExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskStartDateExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskEndDateName",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskParentExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskProgressExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskColorExpression",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskConnections",
+    "Arabic": ""
+  },
+  {
+    "Key": "diagramClear",
+    "Arabic": ""
+  },
+  {
+    "Key": "uniqueComponentMenuCloneWarning",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesLoading",
+    "Arabic": ""
+  },
+  {
+    "Key": "couldnotbeLoaded",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileSizeLimit",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesUploaded",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesWillDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesSureDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "uploadedPhotos",
+    "Arabic": ""
+  },
+  {
+    "Key": "maxSize",
+    "Arabic": ""
+  },
+  {
+    "Key": "center",
+    "Arabic": ""
+  },
+  {
+    "Key": "size",
+    "Arabic": ""
+  },
+  {
+    "Key": "canItBeUpdated",
+    "Arabic": ""
+  },
+  {
+    "Key": "uploadedFiles",
+    "Arabic": ""
+  },
+  {
+    "Key": "type",
+    "Arabic": ""
+  },
+  {
+    "Key": "showdeleteOldData",
+    "Arabic": ""
+  },
+  {
+    "Key": "videoBrowser",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "theseComponentElementsDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "invalidTarget",
+    "Arabic": ""
+  },
+  {
+    "Key": "ridge",
+    "Arabic": ""
+  },
+  {
+    "Key": "dotted",
+    "Arabic": ""
+  },
+  {
+    "Key": "dashed",
+    "Arabic": ""
+  },
+  {
+    "Key": "addRowColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "dataPagingShow",
+    "Arabic": ""
+  },
+  {
+    "Key": "borderType",
+    "Arabic": ""
+  },
+  {
+    "Key": "maxCharacters",
+    "Arabic": ""
+  },
+  {
+    "Key": "edgeThickness",
+    "Arabic": ""
+  },
+  {
+    "Key": "lineSpacing",
+    "Arabic": ""
+  },
+  {
+    "Key": "settingsRowColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "addRow",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleteRow",
+    "Arabic": ""
+  },
+  {
+    "Key": "rowPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "addTabs",
+    "Arabic": ""
+  },
+  {
+    "Key": "deletePanel",
+    "Arabic": ""
+  },
+  {
+    "Key": "tabPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "addPanel",
+    "Arabic": ""
+  },
+  {
+    "Key": "panelPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "backgroundColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "saveAndCloseChildForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "icon",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "fontColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "minCharacters",
+    "Arabic": ""
+  },
+  {
+    "Key": "generalCategory",
+    "Arabic": ""
+  },
+  {
+    "Key": "removeRow",
+    "Arabic": ""
+  },
+  {
+    "Key": "send",
+    "Arabic": ""
+  },
+  {
+    "Key": "declineFinish",
+    "Arabic": ""
+  },
+  {
+    "Key": "finish",
+    "Arabic": ""
+  },
+  {
+    "Key": "noData",
+    "Arabic": ""
+  },
+  {
+    "Key": "createEditMenu",
+    "Arabic": ""
+  },
+  {
+    "Key": "addNewBreakdown",
+    "Arabic": ""
+  },
+  {
+    "Key": "addForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "addBottomBreak",
+    "Arabic": ""
+  },
+  {
+    "Key": "addNode",
+    "Arabic": ""
+  },
+  {
+    "Key": "topCategory",
+    "Arabic": ""
+  },
+  {
+    "Key": "explanation",
+    "Arabic": ""
+  },
+  {
+    "Key": "browserTitle",
+    "Arabic": ""
+  },
+  {
+    "Key": "formTitle",
+    "Arabic": ""
+  },
+  {
+    "Key": "addSqlColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "formBg",
+    "Arabic": ""
+  },
+  {
+    "Key": "codeEditor",
+    "Arabic": ""
+  },
+  {
+    "Key": "authorityType",
+    "Arabic": ""
+  },
+  {
+    "Key": "viewOnly",
+    "Arabic": ""
+  },
+  {
+    "Key": "dark",
+    "Arabic": ""
+  },
+  {
+    "Key": "white",
+    "Arabic": ""
+  },
+  {
+    "Key": "hightBlack",
+    "Arabic": ""
+  },
+  {
+    "Key": "run",
+    "Arabic": ""
+  },
+  {
+    "Key": "rowColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "operator",
+    "Arabic": ""
+  },
+  {
+    "Key": "flowOfForm",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnWidth",
+    "Arabic": ""
+  },
+  {
+    "Key": "alignLeft",
+    "Arabic": ""
+  },
+  {
+    "Key": "alignRight",
+    "Arabic": ""
+  },
+  {
+    "Key": "alignButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "imageTableNameColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "uploadBg",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectFile",
+    "Arabic": ""
+  },
+  {
+    "Key": "dropFile",
+    "Arabic": ""
+  },
+  {
+    "Key": "alwaysRoundUp",
+    "Arabic": ""
+  },
+  {
+    "Key": "alwaysRoundBot",
+    "Arabic": ""
+  },
+  {
+    "Key": "default",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleteOldDataTable",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleteOldData",
+    "Arabic": ""
+  },
+  {
+    "Key": "integer",
+    "Arabic": ""
+  },
+  {
+    "Key": "double",
+    "Arabic": ""
+  },
+  {
+    "Key": "pleaseFillFields",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastColumnNameNumber",
+    "Arabic": ""
+  },
+  {
+    "Key": "areYouSure",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "allColumnDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "idCantStartNumber",
+    "Arabic": ""
+  },
+  {
+    "Key": "uploadFile",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileViewer",
+    "Arabic": ""
+  },
+  {
+    "Key": "ok",
+    "Arabic": ""
+  },
+  {
+    "Key": "map",
+    "Arabic": ""
+  },
+  {
+    "Key": "editPanel",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterColumnName",
+    "Arabic": ""
+  },
+  {
+    "Key": "hintExamples",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnLanguageSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "extensionColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "multipleSelection",
+    "Arabic": ""
+  },
+  {
+    "Key": "addSelectionsRows",
+    "Arabic": ""
+  },
+  {
+    "Key": "mapSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "formatAndFeatures",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterDateRange",
+    "Arabic": ""
+  },
+  {
+    "Key": "filesCanUploadedUsers",
+    "Arabic": ""
+  },
+  {
+    "Key": "barcodeColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "autoAscend",
+    "Arabic": ""
+  },
+  {
+    "Key": "roundType",
+    "Arabic": ""
+  },
+  {
+    "Key": "font",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnProcess",
+    "Arabic": ""
+  },
+  {
+    "Key": "exportColumnTotal",
+    "Arabic": ""
+  },
+  {
+    "Key": "outsideElementDisabled",
+    "Arabic": ""
+  },
+  {
+    "Key": "chat",
+    "Arabic": ""
+  },
+  {
+    "Key": "languages",
+    "Arabic": ""
+  },
+  {
+    "Key": "display",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterYourComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "comment",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileUploaded",
+    "Arabic": ""
+  },
+  {
+    "Key": "pdfViewIsButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "takeScreenshot",
+    "Arabic": ""
+  },
+  {
+    "Key": "alertText",
+    "Arabic": ""
+  },
+  {
+    "Key": "clearButtonVisible",
+    "Arabic": ""
+  },
+  {
+    "Key": "allText",
+    "Arabic": ""
+  },
+  {
+    "Key": "letter",
+    "Arabic": ""
+  },
+  {
+    "Key": "letterandnumber",
+    "Arabic": ""
+  },
+  {
+    "Key": "letterandsymbol",
+    "Arabic": ""
+  },
+  {
+    "Key": "numberandsymbol",
+    "Arabic": ""
+  },
+  {
+    "Key": "showIDColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "showCopyButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "showDeleteButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "showCheckboxButton",
+    "Arabic": ""
+  },
+  {
+    "Key": "autoRowHeight",
+    "Arabic": ""
+  },
+  {
+    "Key": "exportImport",
+    "Arabic": ""
+  },
+  {
+    "Key": "export",
+    "Arabic": ""
+  },
+  {
+    "Key": "import",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastImport",
+    "Arabic": ""
+  },
+  {
+    "Key": "defaultTodaysDateWithTime",
+    "Arabic": ""
+  },
+  {
+    "Key": "warningApproveImport",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterVisible",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatableMaxQuantity",
+    "Arabic": ""
+  },
+  {
+    "Key": "hideQuantity",
+    "Arabic": ""
+  },
+  {
+    "Key": "disableQuantityTextbox",
+    "Arabic": ""
+  },
+  {
+    "Key": "multiplesOfQuantity",
+    "Arabic": ""
+  },
+  {
+    "Key": "justnumber",
+    "Arabic": ""
+  },
+  {
+    "Key": "paymentHourWarning",
+    "Arabic": ""
+  },
+  {
+    "Key": "addColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "mailSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "newTaskMailDetail",
+    "Arabic": ""
+  },
+  {
+    "Key": "updateTaskMailDetail",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskOnDropMail",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectSMTP",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskCreator",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskEndDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "tags",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskStartDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskAssigned",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskDetail",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskSubject",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskPri",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskEdit",
+    "Arabic": ""
+  },
+  {
+    "Key": "addTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskStatus",
+    "Arabic": ""
+  },
+  {
+    "Key": "excelExportSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "excelExportRequiredColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "allDataExcelExport",
+    "Arabic": ""
+  },
+  {
+    "Key": "warningApproveImportReport",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportName",
+    "Arabic": ""
+  },
+  {
+    "Key": "old",
+    "Arabic": ""
+  },
+  {
+    "Key": "upperNode",
+    "Arabic": ""
+  },
+  {
+    "Key": "pdfViewStaticPdf",
+    "Arabic": ""
+  },
+  {
+    "Key": "actions",
+    "Arabic": ""
+  },
+  {
+    "Key": "loading",
+    "Arabic": ""
+  },
+  {
+    "Key": "exportDataToExcell",
+    "Arabic": ""
+  },
+  {
+    "Key": "showRefreshIcon",
+    "Arabic": ""
+  },
+  {
+    "Key": "headerFilter",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterRowVisible",
+    "Arabic": ""
+  },
+  {
+    "Key": "password",
+    "Arabic": ""
+  },
+  {
+    "Key": "categories",
+    "Arabic": ""
+  },
+  {
+    "Key": "pressEnter",
+    "Arabic": ""
+  },
+  {
+    "Key": "historyColumnValue",
+    "Arabic": ""
+  },
+  {
+    "Key": "hideMobile",
+    "Arabic": ""
+  },
+  {
+    "Key": "align",
+    "Arabic": ""
+  },
+  {
+    "Key": "theme",
+    "Arabic": ""
+  },
+  {
+    "Key": "info",
+    "Arabic": ""
+  },
+  {
+    "Key": "showTitle",
+    "Arabic": ""
+  },
+  {
+    "Key": "purple",
+    "Arabic": ""
+  },
+  {
+    "Key": "brown",
+    "Arabic": ""
+  },
+  {
+    "Key": "yellow",
+    "Arabic": ""
+  },
+  {
+    "Key": "turnOnComments",
+    "Arabic": ""
+  },
+  {
+    "Key": "showContent",
+    "Arabic": ""
+  },
+  {
+    "Key": "canBeHidden",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowEdit",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "toastDeleteErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "formOpeningMultiElementEvent",
+    "Arabic": ""
+  },
+  {
+    "Key": "resetDatagridLocalSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginP1",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginP2",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginConnect",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginText",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginRightMore",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginHeaderP1",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginHeaderP2",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginHeaderP3",
+    "Arabic": ""
+  },
+  {
+    "Key": "kanbanaddTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskstatusDesciption",
+    "Arabic": ""
+  },
+  {
+    "Key": "tasksubjectDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskassignedToTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskassignedTaskDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "addedForTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskAssignedInfoDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "assignedInfo",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupInfo",
+    "Arabic": ""
+  },
+  {
+    "Key": "sortEnd",
+    "Arabic": ""
+  },
+  {
+    "Key": "sender",
+    "Arabic": ""
+  },
+  {
+    "Key": "forward",
+    "Arabic": ""
+  },
+  {
+    "Key": "attachments",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginP3",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskdetailDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskassignedDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskstartdateDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskenddateDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskpriDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "tagsDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "outlookDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskAssInfoDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "receiver",
+    "Arabic": ""
+  },
+  {
+    "Key": "draft",
+    "Arabic": ""
+  },
+  {
+    "Key": "spam",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterstate",
+    "Arabic": ""
+  },
+  {
+    "Key": "checkForspelling",
+    "Arabic": ""
+  },
+  {
+    "Key": "emailToForward",
+    "Arabic": ""
+  },
+  {
+    "Key": "lowImpMails",
+    "Arabic": ""
+  },
+  {
+    "Key": "normalImpMails",
+    "Arabic": ""
+  },
+  {
+    "Key": "highImpEmails",
+    "Arabic": ""
+  },
+  {
+    "Key": "showReadMails",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupinfoDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "timeoutMission",
+    "Arabic": ""
+  },
+  {
+    "Key": "timeoutmissionDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskperiodDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskProgress",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskProgressDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatekanbanTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskcreatorDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "uploadfileDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "infoPersons",
+    "Arabic": ""
+  },
+  {
+    "Key": "warningtime",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskPeriod",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskProgresSatus",
+    "Arabic": ""
+  },
+  {
+    "Key": "makeTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "outlookIntegration",
+    "Arabic": ""
+  },
+  {
+    "Key": "loginoutlook",
+    "Arabic": ""
+  },
+  {
+    "Key": "fetchoutlook",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressStatus",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskColors",
+    "Arabic": ""
+  },
+  {
+    "Key": "addcalendarTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatetaskCalendar",
+    "Arabic": ""
+  },
+  {
+    "Key": "statusComplete",
+    "Arabic": ""
+  },
+  {
+    "Key": "priorityFilter",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnFilter",
+    "Arabic": ""
+  },
+  {
+    "Key": "assignPerson",
+    "Arabic": ""
+  },
+  {
+    "Key": "assignGroup",
+    "Arabic": ""
+  },
+  {
+    "Key": "noTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "resetSort",
+    "Arabic": ""
+  },
+  {
+    "Key": "sortASC",
+    "Arabic": ""
+  },
+  {
+    "Key": "sortDESC",
+    "Arabic": ""
+  },
+  {
+    "Key": "sortAppointment",
+    "Arabic": ""
+  },
+  {
+    "Key": "trash",
+    "Arabic": ""
+  },
+  {
+    "Key": "showOlderMail",
+    "Arabic": ""
+  },
+  {
+    "Key": "mailNotFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "sendNewMail",
+    "Arabic": ""
+  },
+  {
+    "Key": "showUnreadMails",
+    "Arabic": ""
+  },
+  {
+    "Key": "updateColumnMail",
+    "Arabic": ""
+  },
+  {
+    "Key": "addTaskToOutlook",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterYourMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "reminder",
+    "Arabic": ""
+  },
+  {
+    "Key": "determinedToTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "remainingTime",
+    "Arabic": ""
+  },
+  {
+    "Key": "hours",
+    "Arabic": ""
+  },
+  {
+    "Key": "withoutPriority",
+    "Arabic": ""
+  },
+  {
+    "Key": "lowPri",
+    "Arabic": ""
+  },
+  {
+    "Key": "normalPri",
+    "Arabic": ""
+  },
+  {
+    "Key": "highPri",
+    "Arabic": ""
+  },
+  {
+    "Key": "showAllTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "showIncompleteTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "showCompeletedTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportDesigner",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileManagementSystem",
+    "Arabic": ""
+  },
+  {
+    "Key": "formDesigner",
+    "Arabic": ""
+  },
+  {
+    "Key": "boardDesigner",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "social",
+    "Arabic": ""
+  },
+  {
+    "Key": "profile",
+    "Arabic": ""
+  },
+  {
+    "Key": "contacts",
+    "Arabic": ""
+  },
+  {
+    "Key": "files",
+    "Arabic": ""
+  },
+  {
+    "Key": "pages",
+    "Arabic": ""
+  },
+  {
+    "Key": "noResultsFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "processes",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterByStatus",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterByPri",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterByCol",
+    "Arabic": ""
+  },
+  {
+    "Key": "todoAddTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "addLabel",
+    "Arabic": ""
+  },
+  {
+    "Key": "showWithSubTasks",
+    "Arabic": ""
+  },
+  {
+    "Key": "riverBoard",
+    "Arabic": ""
+  },
+  {
+    "Key": "notify",
+    "Arabic": ""
+  },
+  {
+    "Key": "likedYourPost",
+    "Arabic": ""
+  },
+  {
+    "Key": "likedYourComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "systemNotify",
+    "Arabic": ""
+  },
+  {
+    "Key": "readAllNotify",
+    "Arabic": ""
+  },
+  {
+    "Key": "recommendedUsers",
+    "Arabic": ""
+  },
+  {
+    "Key": "suggestedPosts",
+    "Arabic": ""
+  },
+  {
+    "Key": "sPostReposted",
+    "Arabic": ""
+  },
+  {
+    "Key": "shareSomething",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatePost",
+    "Arabic": ""
+  },
+  {
+    "Key": "ifYouDoNotSelectGroup",
+    "Arabic": ""
+  },
+  {
+    "Key": "addComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "sendComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisPost",
+    "Arabic": ""
+  },
+  {
+    "Key": "yes",
+    "Arabic": ""
+  },
+  {
+    "Key": "no",
+    "Arabic": ""
+  },
+  {
+    "Key": "deletePost",
+    "Arabic": ""
+  },
+  {
+    "Key": "postSuccesfullyDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "deleteComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "commentSuccesfullyDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "sharePost",
+    "Arabic": ""
+  },
+  {
+    "Key": "areYouSureYouWantToShareThisPost",
+    "Arabic": ""
+  },
+  {
+    "Key": "repostedSuccessfully",
+    "Arabic": ""
+  },
+  {
+    "Key": "upload",
+    "Arabic": ""
+  },
+  {
+    "Key": "refresh",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowedExtentions",
+    "Arabic": ""
+  },
+  {
+    "Key": "systemLandingPagePreference",
+    "Arabic": ""
+  },
+  {
+    "Key": "Allownonadminuserstosearchforotherusers",
+    "Arabic": ""
+  },
+  {
+    "Key": "passwordChange",
+    "Arabic": ""
+  },
+  {
+    "Key": "newPassword",
+    "Arabic": ""
+  },
+  {
+    "Key": "Retypethenewpassword",
+    "Arabic": ""
+  },
+  {
+    "Key": "notifications",
+    "Arabic": ""
+  },
+  {
+    "Key": "showWhoLikesYourPost",
+    "Arabic": ""
+  },
+  {
+    "Key": "showWhoLikesYourComment",
+    "Arabic": ""
+  },
+  {
+    "Key": "aboutMe",
+    "Arabic": ""
+  },
+  {
+    "Key": "bio",
+    "Arabic": ""
+  },
+  {
+    "Key": "dateOfBirth",
+    "Arabic": ""
+  },
+  {
+    "Key": "website",
+    "Arabic": ""
+  },
+  {
+    "Key": "phone",
+    "Arabic": ""
+  },
+  {
+    "Key": "saveChanges",
+    "Arabic": ""
+  },
+  {
+    "Key": "content",
+    "Arabic": ""
+  },
+  {
+    "Key": "projectManagement",
+    "Arabic": ""
+  },
+  {
+    "Key": "addPage",
+    "Arabic": ""
+  },
+  {
+    "Key": "addFolder",
+    "Arabic": ""
+  },
+  {
+    "Key": "showUsers",
+    "Arabic": ""
+  },
+  {
+    "Key": "showGroups",
+    "Arabic": ""
+  },
+  {
+    "Key": "readonlyUsers",
+    "Arabic": ""
+  },
+  {
+    "Key": "readonlyGroups",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnHeight",
+    "Arabic": ""
+  },
+  {
+    "Key": "showKanbanCount",
+    "Arabic": ""
+  },
+  {
+    "Key": "kanbanSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "gantSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "schedulerSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "activateOutlookConnection",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectOutlookColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectSMTPPopoverText",
+    "Arabic": ""
+  },
+  {
+    "Key": "menuFilePathId",
+    "Arabic": ""
+  },
+  {
+    "Key": "recycleBinPathName",
+    "Arabic": ""
+  },
+  {
+    "Key": "recycleBinPathId",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileNameChangedMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileNameChangedErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileCreatedMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "newTaskMailDetailPopoverText",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskOnDropMailPopoverText",
+    "Arabic": ""
+  },
+  {
+    "Key": "createdBy",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatedBy",
+    "Arabic": ""
+  },
+  {
+    "Key": "createdDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "updatedDate",
+    "Arabic": ""
+  },
+  {
+    "Key": "folderPermissionSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "quantity",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileManagementPermissionSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileNotFoundErrorText",
+    "Arabic": ""
+  },
+  {
+    "Key": "updateTaskMailDetailPopoverText",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectOutlookColumnPopoverText",
+    "Arabic": ""
+  },
+  {
+    "Key": "createFolder",
+    "Arabic": ""
+  },
+  {
+    "Key": "versionHistory",
+    "Arabic": ""
+  },
+  {
+    "Key": "deletePermanently",
+    "Arabic": ""
+  },
+  {
+    "Key": "recover",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupPermissions",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowUpload",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowView",
+    "Arabic": ""
+  },
+  {
+    "Key": "allowDownload",
+    "Arabic": ""
+  },
+  {
+    "Key": "permissionType",
+    "Arabic": ""
+  },
+  {
+    "Key": "applyToSubFolders",
+    "Arabic": ""
+  },
+  {
+    "Key": "newFolderName",
+    "Arabic": ""
+  },
+  {
+    "Key": "tagTips",
+    "Arabic": ""
+  },
+  {
+    "Key": "addAsNewVersion",
+    "Arabic": ""
+  },
+  {
+    "Key": "addAndChangeName",
+    "Arabic": ""
+  },
+  {
+    "Key": "skip",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileExistError",
+    "Arabic": ""
+  },
+  {
+    "Key": "processFileShow",
+    "Arabic": ""
+  },
+  {
+    "Key": "processFilePathName",
+    "Arabic": ""
+  },
+  {
+    "Key": "processFilePathId",
+    "Arabic": ""
+  },
+  {
+    "Key": "menuFileShow",
+    "Arabic": ""
+  },
+  {
+    "Key": "menuFilePathName",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileCreatedErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileDeletedessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileDeletedErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileMovedMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileMovedErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileCopyMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileCopyErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileDownloadMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileDownloadErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileSizeShowErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "unsupportedFile",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileNameError",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileGivePermissionMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "fileGivePermissionErrorMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "groupName",
+    "Arabic": ""
+  },
+  {
+    "Key": "createGroup",
+    "Arabic": ""
+  },
+  {
+    "Key": "conversation",
+    "Arabic": ""
+  },
+  {
+    "Key": "startConversation",
+    "Arabic": ""
+  },
+  {
+    "Key": "userNotFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "chatNotFound",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeTypeLight",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeTypeBorderedLight",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeHalfDark",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeDark",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeRouteAnimation",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeRouteAnimationFadeInLeft",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeRouteAnimationZoomIn",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeRouteAnimationFadeIn",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeRouteAnimationNone",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeMenuType",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeMenuTypeHorizontal",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeMenuTypeVertical",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeMenuCollapse",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeNavbarColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeNavbarType",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeSticky",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeStatic",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeFloating",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeHidden",
+    "Arabic": ""
+  },
+  {
+    "Key": "themeFooterType",
+    "Arabic": ""
+  },
+  {
+    "Key": "catalog",
+    "Arabic": ""
+  },
+  {
+    "Key": "riverBoards",
+    "Arabic": ""
+  },
+  {
+    "Key": "clipboardDesigner",
+    "Arabic": ""
+  },
+  {
+    "Key": "desingMode",
+    "Arabic": ""
+  },
+  {
+    "Key": "editPage",
+    "Arabic": ""
+  },
+  {
+    "Key": "rename",
+    "Arabic": ""
+  },
+  {
+    "Key": "exportToPdf",
+    "Arabic": ""
+  },
+  {
+    "Key": "exportToExcel",
+    "Arabic": ""
+  },
+  {
+    "Key": "revenueReport",
+    "Arabic": ""
+  },
+  {
+    "Key": "header",
+    "Arabic": ""
+  },
+  {
+    "Key": "connection",
+    "Arabic": ""
+  },
+  {
+    "Key": "primaryKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "secondaryKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "completedKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "countKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "statusKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressConnection",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressPrimaryKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressCountKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressPercentageKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "progressColorKey",
+    "Arabic": ""
+  },
+  {
+    "Key": "keyColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "currency",
+    "Arabic": ""
+  },
+  {
+    "Key": "whitePage",
+    "Arabic": ""
+  },
+  {
+    "Key": "noReportSelected",
+    "Arabic": ""
+  },
+  {
+    "Key": "noTypeSelected",
+    "Arabic": ""
+  },
+  {
+    "Key": "whitePageReports",
+    "Arabic": ""
+  },
+  {
+    "Key": "addBranch",
+    "Arabic": ""
+  },
+  {
+    "Key": "branchName",
+    "Arabic": ""
+  },
+  {
+    "Key": "rowNumber",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportTypeSelect",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "useWeb",
+    "Arabic": ""
+  },
+  {
+    "Key": "useMobile",
+    "Arabic": ""
+  },
+  {
+    "Key": "mainScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "pre-runScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "preScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "testIt",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectAll",
+    "Arabic": ""
+  },
+  {
+    "Key": "addReport",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectReportType",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportType",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportDesingPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportImportedOpenLeftMenu",
+    "Arabic": ""
+  },
+  {
+    "Key": "forReportExport",
+    "Arabic": ""
+  },
+  {
+    "Key": "anErrorOccurred",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "branchDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "addBranchName",
+    "Arabic": ""
+  },
+  {
+    "Key": "addedBranch",
+    "Arabic": ""
+  },
+  {
+    "Key": "selectConnectionAddress",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterSqlScript",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterReportName",
+    "Arabic": ""
+  },
+  {
+    "Key": "reportAdded",
+    "Arabic": ""
+  },
+  {
+    "Key": "numberOfDataToBeProcessed",
+    "Arabic": ""
+  },
+  {
+    "Key": "dataNotFoundCheckYourConnection",
+    "Arabic": ""
+  },
+  {
+    "Key": "connectionNotFoundCheckYourConnection",
+    "Arabic": ""
+  },
+  {
+    "Key": "fillConnectionAndSql",
+    "Arabic": ""
+  },
+  {
+    "Key": "allTypesActivate",
+    "Arabic": ""
+  },
+  {
+    "Key": "passwordRequired",
+    "Arabic": ""
+  },
+  {
+    "Key": "showLess",
+    "Arabic": ""
+  },
+  {
+    "Key": "showMore",
+    "Arabic": ""
+  },
+  {
+    "Key": "authority",
+    "Arabic": ""
+  },
+  {
+    "Key": "preScriptDescription",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterReportFilters",
+    "Arabic": ""
+  },
+  {
+    "Key": "gridDesigner",
+    "Arabic": ""
+  },
+  {
+    "Key": "addMainBranch",
+    "Arabic": ""
+  },
+  {
+    "Key": "resetSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "columsToGroup",
+    "Arabic": ""
+  },
+  {
+    "Key": "customize",
+    "Arabic": ""
+  },
+  {
+    "Key": "colorType",
+    "Arabic": ""
+  },
+  {
+    "Key": "formatManagement",
+    "Arabic": ""
+  },
+  {
+    "Key": "bottomTotalColumn",
+    "Arabic": ""
+  },
+  {
+    "Key": "formatType",
+    "Arabic": ""
+  },
+  {
+    "Key": "datagridSettingsReset",
+    "Arabic": ""
+  },
+  {
+    "Key": "unexpectedError",
+    "Arabic": ""
+  },
+  {
+    "Key": "changesSaved",
+    "Arabic": ""
+  },
+  {
+    "Key": "addGantTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "updGantTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "updSchedulerTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "updTodoTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "completeTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "cantBeEmptyKanban",
+    "Arabic": ""
+  },
+  {
+    "Key": "successAdd",
+    "Arabic": ""
+  },
+  {
+    "Key": "successUpd",
+    "Arabic": ""
+  },
+  {
+    "Key": "statusChangeTodo",
+    "Arabic": ""
+  },
+  {
+    "Key": "reminderSended",
+    "Arabic": ""
+  },
+  {
+    "Key": "askForCompleteTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "infoForCompletedTask",
+    "Arabic": ""
+  },
+  {
+    "Key": "noPermisison",
+    "Arabic": ""
+  },
+  {
+    "Key": "successDependencyAdded",
+    "Arabic": ""
+  },
+  {
+    "Key": "filterimportant",
+    "Arabic": ""
+  },
+  {
+    "Key": "enterEmail",
+    "Arabic": ""
+  },
+  {
+    "Key": "reply",
+    "Arabic": ""
+  },
+  {
+    "Key": "newCol",
+    "Arabic": ""
+  },
+  {
+    "Key": "thickness",
+    "Arabic": ""
+  },
+  {
+    "Key": "distanceToUpperComponent",
+    "Arabic": ""
+  },
+  {
+    "Key": "companyName",
+    "Arabic": ""
+  },
+  {
+    "Key": "showEmailModule",
+    "Arabic": ""
+  },
+  {
+    "Key": "distanceToBottomComponent",
+    "Arabic": ""
+  },
+  {
+    "Key": "canNonAdminUsersPost",
+    "Arabic": ""
+  },
+  {
+    "Key": "columnColor",
+    "Arabic": ""
+  },
+  {
+    "Key": "byWho",
+    "Arabic": ""
+  },
+  {
+    "Key": "added",
+    "Arabic": ""
+  },
+  {
+    "Key": "updated",
+    "Arabic": ""
+  },
+  {
+    "Key": "commentAdded",
+    "Arabic": ""
+  },
+  {
+    "Key": "completed",
+    "Arabic": ""
+  },
+  {
+    "Key": "addRemoveColumns",
+    "Arabic": ""
+  },
+  {
+    "Key": "searchMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "riverReports",
+    "Arabic": ""
+  },
+  {
+    "Key": "forms",
+    "Arabic": ""
+  },
+  {
+    "Key": "searchinforms",
+    "Arabic": ""
+  },
+  {
+    "Key": "searchVoiceMessage",
+    "Arabic": ""
+  },
+  {
+    "Key": "searchVoiceMessages",
+    "Arabic": ""
+  },
+  {
+    "Key": "showSocialNotifications",
+    "Arabic": ""
+  },
+  {
+    "Key": "showProjectManagementNotifications",
+    "Arabic": ""
+  },
+  {
+    "Key": "showProcessNotifications",
+    "Arabic": ""
+  },
+  {
+    "Key": "pageDesingPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "filemanagementDesingPermission",
+    "Arabic": ""
+  },
+  {
+    "Key": "taskDelete",
+    "Arabic": ""
+  },
+  {
+    "Key": "tasksWillDeleted",
+    "Arabic": ""
+  },
+  {
+    "Key": "componentSettings",
+    "Arabic": ""
+  },
+  {
+    "Key": "aboutComponent",
+    "Arabic": ""
+  },
+  {
+    "Key": "sureSaveChanges",
+    "Arabic": ""
+  },
+  {
+    "Key": "showDeletedNotifications",
+    "Arabic": ""
+  },
+  {
+    "Key": "shareSometthing",
+    "Arabic": ""
+  },
+  {
+    "Key": "resetPageLayout",
+    "Arabic": ""
+  },
+  {
+    "Key": "downloadingSS",
+    "Arabic": ""
+  },
+  {
+    "Key": "showHorizontalLines",
+    "Arabic": ""
+  },
+  {
+    "Key": "turnOnVerticalHide",
+    "Arabic": ""
+  },
+  {
+    "Key": "whichHorizontalLinelinesAreNotVisible",
+    "Arabic": ""
+  },
+  {
+    "Key": "mbnnb",
+    "Arabic": ""
+  },
+  {
+    "Key": "test",
+    "Arabic": ""
+  },
+  {
+    "Key": "aaaaaa",
+    "Arabic": ""
+  },
+  {
+    "Key": "bbbbbb",
+    "Arabic": ""
+  },
+  {
+    "Key": "cccccc",
+    "Arabic": ""
+  },
+  {
+    "Key": "ddddd",
+    "Arabic": ""
+  },
+  {
+    "Key": "eeeee",
+    "Arabic": ""
+  },
+  {
+    "Key": "fffffff",
+    "Arabic": ""
+  },
+  {
+    "Key": "ggggg",
+    "Arabic": ""
+  },
+  {
+    "Key": "mmmmmmm",
+    "Arabic": ""
+  },
+  {
+    "Key": "wwwwwww",
+    "Arabic": ""
+  },
+  {
+    "Key": "ggggggggg",
+    "Arabic": ""
+  },
+  {
+    "Key": "llllllllll",
+    "Arabic": ""
+  },
+  {
+    "Key": "iiiiiiiiii",
+    "Arabic": ""
+  },
+  {
+    "Key": "oooooooo",
+    "Arabic": ""
+  },
+  {
+    "Key": "üüüüüü",
+    "Arabic": ""
+  },
+  {
+    "Key": "ppppp",
+    "Arabic": ""
+  }
+]
