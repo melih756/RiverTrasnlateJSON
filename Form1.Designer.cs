@@ -49,7 +49,7 @@
             this.btnsave.Name = "btnsave";
             this.btnsave.Size = new System.Drawing.Size(172, 31);
             this.btnsave.TabIndex = 4;
-            this.btnsave.Text = "KAYDET";
+            this.btnsave.Text = "SAVE";
             this.btnsave.UseVisualStyleBackColor = false;
             this.btnsave.Click += new System.EventHandler(this.btnsave_Click);
             // 
@@ -86,7 +86,7 @@
             this.button2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button2.Font = new System.Drawing.Font("Book Antiqua", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button2.Location = new System.Drawing.Point(762, 506);
+            this.button2.Location = new System.Drawing.Point(762, 507);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(243, 33);
             this.button2.TabIndex = 4;
@@ -98,10 +98,10 @@
             // 
             this.txtsearch.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.txtsearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.txtsearch.Location = new System.Drawing.Point(1011, 506);
+            this.txtsearch.Location = new System.Drawing.Point(1011, 507);
             this.txtsearch.Multiline = true;
             this.txtsearch.Name = "txtsearch";
-            this.txtsearch.Size = new System.Drawing.Size(322, 31);
+            this.txtsearch.Size = new System.Drawing.Size(322, 32);
             this.txtsearch.TabIndex = 5;
             this.txtsearch.TextChanged += new System.EventHandler(this.txtsearch_TextChanged);
             // 

@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+
 
 namespace RİVERTRASLATEJSON
 {
@@ -28,20 +28,24 @@ namespace RİVERTRASLATEJSON
         {
 
         }
-
+        //sql con kullanılarak veri tabanı bağlantısı yapılmıştır
+        //sql commmand builder,adappter ve datatable global olarak tanımlanarak datagridview üzerinden işlem yapılmıştır,global olarak tanımlamamızın sebebi belirli bir metoda bağlı olunmadan datagridview üzerinden crud işlemlerinin rahatlıkla yapılabilmesini sağlamaktır.
 
         SqlConnection con = new SqlConnection("Data Source=DESKTOP-T1738DH\\SQLEXPRESS01;Initial Catalog=RİVERLANGUAGE;Integrated Security=True");
         SqlCommandBuilder commandBuilder;
         SqlDataAdapter adapter;
         DataTable tbl = new DataTable();
 
+        //datatable türünde getlist metodu tanımlanarak database de bulunan verilerin table türünde listelenmesini sağlamaktır.
+        //adapter nesnesi veri tabanına veri kaydetmek için kullanılmaktadır
+        //adapter.fill() metodu database verilerini tanımladığımız tabloya doldurmaya yarar.
+        
         DataTable getlist()
         {
             adapter = new SqlDataAdapter("select * from testtbl", con);
             adapter.Fill(tbl);
             dataGridView1.DataSource = tbl;
             return tbl;
-           
         }
         //void lnglist()
         //{
@@ -74,12 +78,12 @@ namespace RİVERTRASLATEJSON
             //SqlCommand cmd = new SqlCommand("select * from tbllangs where keystr=@keystr");
       
 
-
+            //commandbuilder bizim için crud işlemlerini hazırlar ve adapter nesnesi ile ilişkilendirir.
             try
             {
                 commandBuilder = new SqlCommandBuilder(adapter);
                 adapter.Update(tbl);
-                MessageBox.Show("Ekleme yapıldı", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("İşlem yapıldı", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (SqlException ex)
             {
@@ -94,6 +98,7 @@ namespace RİVERTRASLATEJSON
         {
             //lnglist();
             getlist();
+            //list butonu ile ilişkilendirilerek buton listeleme yapabilmek için işlevsel hale getirilmiştir.
         }
 
         private void btnupdate_Click(object sender, EventArgs e)
@@ -119,6 +124,8 @@ namespace RİVERTRASLATEJSON
 
         private void button2_Click(object sender, EventArgs e)
         {
+
+            //search butonunun metodudur sqlcommand ile sql komutlarımız sayesinde tablonun içinde bulunan keystr ile parametre olan keystr eşleşmesi durumunda ekranda o veri dönmektedir.
                 con.Open();
             
                 SqlCommand cmd = new SqlCommand("SELECT * FROM testtbl WHERE KEYSTR=@KEYSTR", con);
@@ -158,7 +165,9 @@ namespace RİVERTRASLATEJSON
         {
 
         }
-
+        //json türünde verileri kayıt edebilmek için her dil için ayrı bir model oluşturulmuştur.Liste türünde nesneler tanımlanarak liste paramtresi için 
+        //dil modellerimiz kullanılmıştır.listeler yardımıyla belirlenen dil öğeleri liste türünde tutulmuştur.
+        //sqldatareader nesnesi yardımıyla satır satır okuma işlemi yapımıştır.datareader nesnesinin sağlıklı çalışabilmesi için veritabanı bağlantısı açık kalmalıdır.
         private void btnjson_Click(object sender, EventArgs e)
         {
             List<trtr> tr = new List<trtr>();
@@ -172,13 +181,14 @@ namespace RİVERTRASLATEJSON
             List<arar> languageDataListar = new List<arar>();
             con.Open();
 
-
+           
             //supportlangs = ["TR",]
+            //sqlcommand sayesinde veritabanına gerekli komut iletilerek veri çağrılması işlemi gerçekleştirilmiştir.
+            //bir veya birden fazla satır dönüleceği zaman sqlcommandın executereader metodu kullanılarak datareader türünde veri dönülmesi sağlanmaktadır.
             SqlCommand cmd = new SqlCommand("SELECT * FROM testtbl", con);
             SqlDataReader reader = cmd.ExecuteReader();
 
-            JObject _item;
-
+            //whle metodu koşul true olduğu sürece işleme devam edecektir.reader.read metodu kullanılarak while döngüsünün içinde bulunan koşul sağlandığı müddetçe işlem sürekli tekrar edecektir.
             while (reader.Read())
             {
                 trtr datatr = new trtr
@@ -188,11 +198,12 @@ namespace RİVERTRASLATEJSON
 
                 };
                 //string name = (string)jObject["keystr"]["enen"];
+
                 enen dataen = new enen
                 {
-
                     Key = reader["keystr"].ToString(),
                     English = reader["enen"].ToString(),
+
                 };
                 de datade = new de
                 {
@@ -235,6 +246,8 @@ namespace RİVERTRASLATEJSON
                     Dutch = reader["flfl"].ToString()
                 };
 
+
+                //okunan veriler dilleri liste türünde tuttuğumuz yerlere eklenmiştir.
                 tr.Add(datatr);
                 languageDataListen.Add(dataen);
                 languageDataListde.Add(datade);
@@ -248,6 +261,7 @@ namespace RİVERTRASLATEJSON
 
             con.Close();
 
+            //okunup listelerde tuttuğumuz veriler newtonsoft.json kütüphanesi yardımıyla json formatına dönüştürülerek kaydedilmiştir.
             //JSON verisini dosyaya kaydet
             string json = JsonConvert.SerializeObject(tr, Formatting.Indented);
             string json1 = JsonConvert.SerializeObject(languageDataListen, Formatting.Indented);
@@ -255,12 +269,26 @@ namespace RİVERTRASLATEJSON
             string json3 = JsonConvert.SerializeObject(languageDataListar, Formatting.Indented);
             string json4 = JsonConvert.SerializeObject(languageDataListaz, Formatting.Indented);
             string json5 = JsonConvert.SerializeObject(languageDataListıt, Formatting.Indented);
+            //var x;
+            // StringBuilder sb;
+            // sb.Append(F);
+            //string z = $"{D}"
+            //JArray jArray = JArray.Parse(json1);
 
+            //stringbuilder sınıfı string birleştirme yapmaktadır.+ operatörüyle aynı işleve sahiptir tek farkı performans açısından stringbuilder kullanılması daha avantajlıdır
+
+            //enen enen = new enen();
+            //StringBuilder stringBuilder = new StringBuilder();
+            //stringBuilder.Append(enen.Key + ":" + enen.English);
+
+            //listede tutup sonrasında json formatına dönüştürdüğümüz veriler belirttiğimiz json dosyalarına yazılmıştır.
             File.WriteAllText("tr.json", json);
-            File.WriteAllText("az.json", json4);
             File.WriteAllText("en.json", json1);
             File.WriteAllText("de.json", json2);
-
+            File.WriteAllText("ar.json", json3);
+            File.WriteAllText("az.json", json4);
+            File.WriteAllText("ıt.json", json5);
+            
             MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
@@ -368,7 +396,7 @@ namespace RİVERTRASLATEJSON
         {
 
         }
-
+        //clear metodu kullanılarak tablodaki verilerin temizlenmesi sağlanmıştır.
         private void button3_Click(object sender, EventArgs e)
         {
             tbl.Clear();
