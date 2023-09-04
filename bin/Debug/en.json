@@ -1,18 +1,3774 @@
 [
   {
-    "Key": "aa",
+    "Key": "loginButton",
+    "English": "Login"
+  },
+  {
+    "Key": "userName",
+    "English": "User Name"
+  },
+  {
+    "Key": "pass",
+    "English": "Password"
+  },
+  {
+    "Key": "remember",
+    "English": "Remember Me"
+  },
+  {
+    "Key": "forgotPass",
+    "English": "Forgot Password"
+  },
+  {
+    "Key": "modules",
+    "English": "Modules"
+  },
+  {
+    "Key": "generic",
+    "English": "Generic"
+  },
+  {
+    "Key": "search",
+    "English": "Search"
+  },
+  {
+    "Key": "logout",
+    "English": "Logout"
+  },
+  {
+    "Key": "waitingJob",
+    "English": "Waiting Job"
+  },
+  {
+    "Key": "myStarted",
+    "English": "My Started"
+  },
+  {
+    "Key": "myIncluded",
+    "English": "My Included"
+  },
+  {
+    "Key": "myCompleted",
+    "English": "My Completed"
+  },
+  {
+    "Key": "jobList",
+    "English": "Job List"
+  },
+  {
+    "Key": "formNo",
+    "English": "FormNo"
+  },
+  {
+    "Key": "status",
+    "English": "Status"
+  },
+  {
+    "Key": "starter",
+    "English": "Starter"
+  },
+  {
+    "Key": "assigned",
+    "English": "Assigned"
+  },
+  {
+    "Key": "timeoutDate",
+    "English": "Timeout Date"
+  },
+  {
+    "Key": "startDate",
+    "English": "Start Date"
+  },
+  {
+    "Key": "processing",
+    "English": "Processing"
+  },
+  {
+    "Key": "you",
+    "English": "You"
+  },
+  {
+    "Key": "history",
+    "English": "History"
+  },
+  {
+    "Key": "description",
+    "English": "Description"
+  },
+  {
+    "Key": "date",
+    "English": "Date"
+  },
+  {
+    "Key": "growShrink",
+    "English": "Grow/Shrink"
+  },
+  {
+    "Key": "close",
+    "English": "Close"
+  },
+  {
+    "Key": "gridReset",
+    "English": "Grid Setting Reset"
+  },
+  {
+    "Key": "columnSelect",
+    "English": "Column Selection"
+  },
+  {
+    "Key": "jobName",
+    "English": "Job Name"
+  },
+  {
+    "Key": "keyword",
+    "English": "Keyword"
+  },
+  {
+    "Key": "completion",
+    "English": "Completion"
+  },
+  {
+    "Key": "all",
+    "English": "All"
+  },
+  {
+    "Key": "completedDate",
+    "English": "Completed Date"
+  },
+  {
+    "Key": "completions",
+    "English": "Completions"
+  },
+  {
+    "Key": "ongoing",
+    "English": "Ongoing"
+  },
+  {
+    "Key": "formName",
+    "English": "Form Name"
+  },
+  {
+    "Key": "sunday",
+    "English": "Sunday"
+  },
+  {
+    "Key": "monday",
+    "English": "Monday"
+  },
+  {
+    "Key": "tuesday",
+    "English": "Tuesday"
+  },
+  {
+    "Key": "wednesday",
+    "English": "Wednesday"
+  },
+  {
+    "Key": "thursday",
+    "English": "Thursday"
+  },
+  {
+    "Key": "friday",
+    "English": "Friday"
+  },
+  {
+    "Key": "saturday",
+    "English": "Saturday"
+  },
+  {
+    "Key": "pdfExport",
+    "English": "Pdf Export"
+  },
+  {
+    "Key": "sendPassword",
+    "English": "Send Password"
+  },
+  {
+    "Key": "assignedDate",
+    "English": "Assigned Date"
+  },
+  {
+    "Key": "events",
+    "English": "Events"
+  },
+  {
+    "Key": "new",
+    "English": "New"
+  },
+  {
+    "Key": "save",
+    "English": "Save"
+  },
+  {
+    "Key": "formula",
+    "English": "Formula"
+  },
+  {
+    "Key": "selectDataSource",
+    "English": "Select DataSource"
+  },
+  {
+    "Key": "requiredField",
+    "English": "Required Field"
+  },
+  {
+    "Key": "suffix",
+    "English": "Suffix"
+  },
+  {
+    "Key": "valueColumn",
+    "English": "Value Column"
+  },
+  {
+    "Key": "showLength",
+    "English": "Show Number of Tasks in Columns"
+  },
+  {
+    "Key": "clearButton",
+    "English": "Clear Button"
+  },
+  {
+    "Key": "allCaps",
+    "English": "All Capital Letters"
+  },
+  {
+    "Key": "autoAsc",
+    "English": "Auto Ascending"
+  },
+  {
+    "Key": "width",
+    "English": "Width"
+  },
+  {
+    "Key": "length",
+    "English": "Length"
+  },
+  {
+    "Key": "functions",
+    "English": "Functions"
+  },
+  {
+    "Key": "selectElement",
+    "English": "Select Element"
+  },
+  {
+    "Key": "selectColumn",
+    "English": "Select Column"
+  },
+  {
+    "Key": "edit",
+    "English": "Edit"
+  },
+  {
+    "Key": "changeEventActions",
+    "English": "Change Event Actions"
+  },
+  {
+    "Key": "barcode",
+    "English": "Barcode"
+  },
+  {
+    "Key": "systemInfo",
+    "English": "System Information"
+  },
+  {
+    "Key": "prefix",
+    "English": "Prefix"
+  },
+  {
+    "Key": "max",
+    "English": "Maximum"
+  },
+  {
+    "Key": "showMinMaxInfo",
+    "English": "Show Minimum and Maximum information"
+  },
+  {
+    "Key": "selectUser",
+    "English": "Select User"
+  },
+  {
+    "Key": "spinButton",
+    "English": "Spin Button"
+  },
+  {
+    "Key": "numberIncDecButton",
+    "English": "Number Increase-Decrease Button"
+  },
+  {
+    "Key": "decimal",
+    "English": "Decimal Number"
+  },
+  {
+    "Key": "numeral",
+    "English": "Numeral"
+  },
+  {
+    "Key": "wrongFormat",
+    "English": "you entered the wrong format"
+  },
+  {
+    "Key": "height",
+    "English": "Height"
+  },
+  {
+    "Key": "microphone",
+    "English": "Microphone"
+  },
+  {
+    "Key": "notifyDataReset",
+    "English": "Data Reset"
+  },
+  {
+    "Key": "data",
+    "English": "Data"
+  },
+  {
+    "Key": "dynamicData",
+    "English": "Dynamic Data"
+  },
+  {
+    "Key": "manualData",
+    "English": "Manual Data"
+  },
+  {
+    "Key": "selectDataGrid",
+    "English": "Select DataGrid"
+  },
+  {
+    "Key": "overrideUserChange",
+    "English": "Override users changes "
+  },
+  {
+    "Key": "textColumn",
+    "English": "Text Column"
+  },
+  {
+    "Key": "makeInitialValue",
+    "English": "Make Initial Value Default"
+  },
+  {
+    "Key": "undo",
+    "English": "Undo"
+  },
+  {
+    "Key": "copy",
+    "English": "Copy"
+  },
+  {
+    "Key": "delete",
+    "English": "Delete"
+  },
+  {
+    "Key": "cancel",
+    "English": "Cancel"
+  },
+  {
+    "Key": "languageSettings",
+    "English": "Language Settings"
+  },
+  {
+    "Key": "messageSqlLinkDeleted",
+    "English": "The sql script and link address will be deleted because you add data manually! Do you want to continue?"
+  },
+  {
+    "Key": "permissions",
+    "English": "Permissions"
+  },
+  {
+    "Key": "objectid",
+    "English": "Object ID"
+  },
+  {
+    "Key": "fontSize",
+    "English": "Font Size"
+  },
+  {
+    "Key": "fontWidth",
+    "English": "Font Width"
+  },
+  {
+    "Key": "fontStyle",
+    "English": "Font Style"
+  },
+  {
+    "Key": "underline",
+    "English": "Underline"
+  },
+  {
+    "Key": "textColor",
+    "English": "Text Color"
+  },
+  {
+    "Key": "visibility",
+    "English": "Visibility"
+  },
+  {
+    "Key": "textAlignment",
+    "English": "Text Alignment"
+  },
+  {
+    "Key": "settings",
+    "English": "Settings"
+  },
+  {
+    "Key": "messageUnsaved",
+    "English": "Are you sure you want to exit without saving your changes?"
+  },
+  {
+    "Key": "warning",
+    "English": "Warning!"
+  },
+  {
+    "Key": "userAuthorizations",
+    "English": "User Authorizations"
+  },
+  {
+    "Key": "formPreferences",
+    "English": "Form Preferences"
+  },
+  {
+    "Key": "formOpeningevent",
+    "English": "Form Opening Event"
+  },
+  {
+    "Key": "chooseConnectionAddress",
+    "English": "Choose a Connection Address"
+  },
+  {
+    "Key": "selectPriorty",
+    "English": "Select Priorty"
+  },
+  {
+    "Key": "loadingEditor",
+    "English": "The Editor Is Loading ..."
+  },
+  {
+    "Key": "showAddButton",
+    "English": "Show Add Column Button"
+  },
+  {
+    "Key": "update",
+    "English": "Update"
+  },
+  {
+    "Key": "connectionID",
+    "English": "Connection ID"
+  },
+  {
+    "Key": "formPreview",
+    "English": "Form Preview"
+  },
+  {
+    "Key": "nameDisplayedform",
+    "English": "Name of The Displayed Form"
+  },
+  {
+    "Key": "formNamevariable",
+    "English": "Form Name Variable"
+  },
+  {
+    "Key": "category",
+    "English": "Category"
+  },
+  {
+    "Key": "formColor",
+    "English": "Form Color"
+  },
+  {
+    "Key": "generalForm",
+    "English": "General Form"
+  },
+  {
+    "Key": "saveForm",
+    "English": "Save The Form"
+  },
+  {
+    "Key": "messageNeworupdate",
+    "English": "Any changes you have made to the current form will be deleted. Do you want to continue?"
+  },
+  {
+    "Key": "messageDelete",
+    "English": "Are you sure you want to delete the form?"
+  },
+  {
+    "Key": "toastDeleted",
+    "English": "Form Deleted"
+  },
+  {
+    "Key": "toastError",
+    "English": "Sorry, an error occurred while processing"
+  },
+  {
+    "Key": "alertDifferentID",
+    "English": "This id is used elsewhere, please specify a different id."
+  },
+  {
+    "Key": "confirmChanges",
+    "English": "Confirm Changes"
+  },
+  {
+    "Key": "toastUserpermission",
+    "English": "The user does not have form design permission."
+  },
+  {
+    "Key": "toastCodeeditor",
+    "English": "Codeditor already available"
+  },
+  {
+    "Key": "messageDeletesure",
+    "English": "Elements in this component will be deleted"
+  },
+  {
+    "Key": "messageSure",
+    "English": "Are you sure?"
+  },
+  {
+    "Key": "Success",
+    "English": "success"
+  },
+  {
+    "Key": "Error",
+    "English": "Error"
+  },
+  {
+    "Key": "toastFormupdate",
+    "English": "Form updated"
+  },
+  {
+    "Key": "toastMistake",
+    "English": "Sorry, an error occurred while processing"
+  },
+  {
+    "Key": "toastSaved",
+    "English": "Saved"
+  },
+  {
+    "Key": "toastCopied",
+    "English": "Copied"
+  },
+  {
+    "Key": "toastEmptyFormMessage",
+    "English": "No form elements have been added yet"
+  },
+  {
+    "Key": "toastGiveName",
+    "English": "Please give your form a name"
+  },
+  {
+    "Key": "toastGiveVariableName",
+    "English": "Please give a name to the form name variable"
+  },
+  {
+    "Key": "toastVariableNameNumberWarning",
+    "English": "Variable name cannot start with a number"
+  },
+  {
+    "Key": "formCopy",
+    "English": "Copy Form"
+  },
+  {
+    "Key": "messageButtonDelete",
+    "English": "Are you sure you want to delete the button?"
+  },
+  {
+    "Key": "noDataFound",
+    "English": "No Data Found"
+  },
+  {
+    "Key": "language",
+    "English": "Language"
+  },
+  {
+    "Key": "filterDatagrid",
+    "English": "Datagrid Filtering"
+  },
+  {
+    "Key": "addManualData",
+    "English": "Add Manual Data at Runtime"
+  },
+  {
+    "Key": "dateFormat",
+    "English": "Date Format"
+  },
+  {
+    "Key": "messageSqlLinkDelete",
+    "English": "The sql script and link address will be deleted because you add data manually! Do you want to continue?"
+  },
+  {
+    "Key": "timeOption",
+    "English": "Time Option"
+  },
+  {
+    "Key": "defaultTodaysDate",
+    "English": "Default is today's date"
+  },
+  {
+    "Key": "dateRange",
+    "English": "Date Range"
+  },
+  {
+    "Key": "minToday",
+    "English": "Minimum Today"
+  },
+  {
+    "Key": "maxToday",
+    "English": "Maksimum Today"
+  },
+  {
+    "Key": "dateRangeDay",
+    "English": "Date Range (Day)"
+  },
+  {
+    "Key": "enterDateRangeValue",
+    "English": "Enter the date range value"
+  },
+  {
+    "Key": "imageIdColumn",
+    "English": " Id Column"
+  },
+  {
+    "Key": "statusSettings",
+    "English": "Status Settings"
+  },
+  {
+    "Key": "active",
+    "English": "Active"
+  },
+  {
+    "Key": "passive",
+    "English": "passive"
+  },
+  {
+    "Key": "enable",
+    "English": "Enable"
+  },
+  {
+    "Key": "disable",
+    "English": "Disable"
+  },
+  {
+    "Key": "visible",
+    "English": "Visible"
+  },
+  {
+    "Key": "invisible",
+    "English": "Invisible"
+  },
+  {
+    "Key": "items",
+    "English": "Items"
+  },
+  {
+    "Key": "showItems",
+    "English": "Show Items"
+  },
+  {
+    "Key": "array",
+    "English": "Array"
+  },
+  {
+    "Key": "letLabelAppear",
+    "English": "Let the Label Appear"
+  },
+  {
+    "Key": "add",
+    "English": "Add"
+  },
+  {
+    "Key": "horizontal",
+    "English": "Horizontal"
+  },
+  {
+    "Key": "vertical",
+    "English": "Vertical"
+  },
+  {
+    "Key": "text",
+    "English": "Text"
+  },
+  {
+    "Key": "alertFillRequiredFields",
+    "English": "Please fill in the required fields"
+  },
+  {
+    "Key": "alertSignatureField",
+    "English": "Signature field cannot be empty"
+  },
+  {
+    "Key": "messageApproveTransaction",
+    "English": "Do you approve the transaction?"
+  },
+  {
+    "Key": "button",
+    "English": "Button"
+  },
+  {
+    "Key": "reasonforRefusal",
+    "English": "Reason for Refusal"
+  },
+  {
+    "Key": "enterReasonRejection",
+    "English": "Enter Reason for Rejection"
+  },
+  {
+    "Key": "reject",
+    "English": "Reject"
+  },
+  {
+    "Key": "addDeleteButton",
+    "English": "Add/Delete Button"
+  },
+  {
+    "Key": "showBorder",
+    "English": "Show Border"
+  },
+  {
+    "Key": "buttons",
+    "English": "Buttons"
+  },
+  {
+    "Key": "clean",
+    "English": "Clean"
+  },
+  {
+    "Key": "buttonSettings",
+    "English": "Button Settings"
+  },
+  {
+    "Key": "saveLocation",
+    "English": "Save Location"
+  },
+  {
+    "Key": "paymentButton",
+    "English": "Payment Button"
+  },
+  {
+    "Key": "paymentProvider",
+    "English": "Payment Provider"
+  },
+  {
+    "Key": "price",
+    "English": "Price"
+  },
+  {
+    "Key": "numberOfInstallments",
+    "English": "Number of Installments"
+  },
+  {
+    "Key": "descriptionField",
+    "English": "Description Field"
+  },
+  {
+    "Key": "current",
+    "English": "Current"
+  },
+  {
+    "Key": "currentForm",
+    "English": "Current Form"
+  },
+  {
+    "Key": "name",
+    "English": "Name"
+  },
+  {
+    "Key": "surname",
+    "English": "Surname"
+  },
+  {
+    "Key": "country",
+    "English": "Country"
+  },
+  {
+    "Key": "city",
+    "English": "City"
+  },
+  {
+    "Key": "address",
+    "English": "Address"
+  },
+  {
+    "Key": "authorizations",
+    "English": "Authorizations"
+  },
+  {
+    "Key": "users",
+    "English": "Users"
+  },
+  {
+    "Key": "user",
+    "English": "User"
+  },
+  {
+    "Key": "givePermission",
+    "English": "Give a Permission"
+  },
+  {
+    "Key": "groups",
+    "English": "Groups"
+  },
+  {
+    "Key": "group",
+    "English": "Group"
+  },
+  {
+    "Key": "saveandSend",
+    "English": "Save and Send"
+  },
+  {
+    "Key": "approve",
+    "English": "Approve"
+  },
+  {
+    "Key": "sendBack",
+    "English": "Send Back"
+  },
+  {
+    "Key": "deslineAndEnd",
+    "English": "Decline and End"
+  },
+  {
+    "Key": "complete",
+    "English": "Complete"
+  },
+  {
+    "Key": "blue",
+    "English": "Blue"
+  },
+  {
+    "Key": "grey",
+    "English": "Grey"
+  },
+  {
+    "Key": "green",
+    "English": "Green"
+  },
+  {
+    "Key": "red",
+    "English": "Red"
+  },
+  {
+    "Key": "left",
+    "English": "Left"
+  },
+  {
+    "Key": "right",
+    "English": "Right"
+  },
+  {
+    "Key": "color",
+    "English": "Color"
+  },
+  {
+    "Key": "symbol",
+    "English": "Symbol"
+  },
+  {
+    "Key": "position",
+    "English": "Position"
+  },
+  {
+    "Key": "action",
+    "English": "Action"
+  },
+  {
+    "Key": "total",
+    "English": "Total"
+  },
+  {
+    "Key": "filePath",
+    "English": "File Path"
+  },
+  {
+    "Key": "fileName",
+    "English": "File Name"
+  },
+  {
+    "Key": "fileUpload",
+    "English": "Upload File"
+  },
+  {
+    "Key": "choose",
+    "English": "Choose"
+  },
+  {
+    "Key": "updateData",
+    "English": "Update Data"
+  },
+  {
+    "Key": "preview",
+    "English": "Preview"
+  },
+  {
+    "Key": "show",
+    "English": "Show"
+  },
+  {
+    "Key": "columns",
+    "English": "Columns"
+  },
+  {
+    "Key": "changeEvent",
+    "English": "Change Event"
+  },
+  {
+    "Key": "columnSettings",
+    "English": "Column Settings"
+  },
+  {
+    "Key": "columnName",
+    "English": "Column Name"
+  },
+  {
+    "Key": "deleteColumn",
+    "English": "Delete Column"
+  },
+  {
+    "Key": "columnSqlScripts",
+    "English": "Column Sql Scripts"
+  },
+  {
+    "Key": "imageNameColumn",
+    "English": "File Name Column"
+  },
+  {
+    "Key": "columnLanguageSetting",
+    "English": "Column Language Setting"
+  },
+  {
+    "Key": "dataSource",
+    "English": "Data Source"
+  },
+  {
+    "Key": "filter",
+    "English": "Filter"
+  },
+  {
+    "Key": "reset",
+    "English": "Reset"
+  },
+  {
+    "Key": "column",
+    "English": "Column"
+  },
+  {
+    "Key": "image",
+    "English": "Image"
+  },
+  {
+    "Key": "searchLocation",
+    "English": "Search Location..."
+  },
+  {
+    "Key": "draggable",
+    "English": "Draggable"
+  },
+  {
+    "Key": "usersCanChange",
+    "English": "Users Can Change"
+  },
+  {
+    "Key": "multiMarker",
+    "English": "Multi Marker"
+  },
+  {
+    "Key": "markerLimit",
+    "English": "Marker Limit (0:No Limit)"
+  },
+  {
+    "Key": "meetingType",
+    "English": "Meeting Type"
+  },
+  {
+    "Key": "meetingName",
+    "English": "Meeting Name"
+  },
+  {
+    "Key": "loadingFiles",
+    "English": "Loading Files..."
+  },
+  {
+    "Key": "fileSizeExceeded",
+    "English": "File size exceeded"
+  },
+  {
+    "Key": "filesLoaded",
+    "English": "Files loaded"
+  },
+  {
+    "Key": "condition",
+    "English": "Condition"
+  },
+  {
+    "Key": "value",
+    "English": "Value"
+  },
+  {
+    "Key": "connectionAdress",
+    "English": "Connection Adress"
+  },
+  {
+    "Key": "imageTypeColumn",
+    "English": "File Type Column"
+  },
+  {
+    "Key": "visibleColumn",
+    "English": "Visible Column"
+  },
+  {
+    "Key": "selectionMode",
+    "English": "Selection Mode"
+  },
+  {
+    "Key": "selectMode",
+    "English": "Select Mode"
+  },
+  {
+    "Key": "datagridFiltering",
+    "English": "Datagrid Filtering"
+  },
+  {
+    "Key": "imageDataColumn",
+    "English": "File Column"
+  },
+  {
+    "Key": "selectDataColumn",
+    "English": "Select Datagrid Column"
+  },
+  {
+    "Key": "dataFormat",
+    "English": "Data Format"
+  },
+  {
+    "Key": "photoPreview",
+    "English": "Photo Preview"
+  },
+  {
+    "Key": "videoPreview",
+    "English": "Video Preview"
+  },
+  {
+    "Key": "displayPhoto",
+    "English": "Display Photo"
+  },
+  {
+    "Key": "displayVideo",
+    "English": "Display Video"
+  },
+  {
+    "Key": "imageColumn",
+    "English": "Image Column"
+  },
+  {
+    "Key": "videoColumn",
+    "English": "Video Column"
+  },
+  {
+    "Key": "columnNameAppear",
+    "English": "Column name to appear"
+  },
+  {
+    "Key": "selected",
+    "English": "Selected"
+  },
+  {
+    "Key": "inStock",
+    "English": "In Stock"
+  },
+  {
+    "Key": "gallery",
+    "English": "Gallery"
+  },
+  {
+    "Key": "dollar",
+    "English": "Dollar"
+  },
+  {
+    "Key": "sterling",
+    "English": "Sterling"
+  },
+  {
+    "Key": "underPhoto",
+    "English": "Under the Photograph"
+  },
+  {
+    "Key": "topPhoto",
+    "English": "Top of Photograph"
+  },
+  {
+    "Key": "byCategory",
+    "English": "By Category"
+  },
+  {
+    "Key": "dashboardShowHide",
+    "English": "Show/Hide Dashboard"
+  },
+  {
+    "Key": "showDetail",
+    "English": "Show Detail"
+  },
+  {
+    "Key": "hideDetail",
+    "English": "Hide Detail"
+  },
+  {
+    "Key": "decrease",
+    "English": "Decrease"
+  },
+  {
+    "Key": "increase",
+    "English": "Increase"
+  },
+  {
+    "Key": "watch",
+    "English": "Watch"
+  },
+  {
+    "Key": "watchMovie",
+    "English": "Watch Movie"
+  },
+  {
+    "Key": "noRecordsFound",
+    "English": "No Records Found!"
+  },
+  {
+    "Key": "appearance",
+    "English": "Appearance"
+  },
+  {
+    "Key": "numberofColumns",
+    "English": "Number of Columns"
+  },
+  {
+    "Key": "pagingRecords",
+    "English": "Paging Records"
+  },
+  {
+    "Key": "detailLocation",
+    "English": "Detail Location"
+  },
+  {
+    "Key": "hideImages",
+    "English": "Hide Images"
+  },
+  {
+    "Key": "quantityCategoryDisable",
+    "English": "Category Disabled When Quantity Increases"
+  },
+  {
+    "Key": "general",
+    "English": "General"
+  },
+  {
+    "Key": "idColumn",
+    "English": "Id Column"
+  },
+  {
+    "Key": "availableQuantity",
+    "English": "Available Quantity"
+  },
+  {
+    "Key": "categoryColumn",
+    "English": "Category Column"
+  },
+  {
+    "Key": "photoColumn",
+    "English": "Photo Column"
+  },
+  {
+    "Key": "titleColumn",
+    "English": "Title Column"
+  },
+  {
+    "Key": "priceColumn",
+    "English": "Price Column"
+  },
+  {
+    "Key": "updatablePrice",
+    "English": "Updatable Price"
+  },
+  {
+    "Key": "videoGallery",
+    "English": "Video Gallery"
+  },
+  {
+    "Key": "uniqueComponent",
+    "English": "Unique Component "
+  },
+  {
+    "Key": "showVariant",
+    "English": "Show Variant"
+  },
+  {
+    "Key": "transferTotalAmount",
+    "English": "Transfer Total Amount"
+  },
+  {
+    "Key": "connectionAddress",
+    "English": "Connection Address"
+  },
+  {
+    "Key": "title",
+    "English": "Title"
+  },
+  {
+    "Key": "hide",
+    "English": "Hide"
+  },
+  {
+    "Key": "detail",
+    "English": "Detail"
+  },
+  {
+    "Key": "priceQuery",
+    "English": "Price Query"
+  },
+  {
+    "Key": "quantityQuery",
+    "English": "Quantity Query"
+  },
+  {
+    "Key": "uniqueComponentError",
+    "English": "Unique Component Error"
+  },
+  {
+    "Key": "joinColumn",
+    "English": "Join Column"
+  },
+  {
+    "Key": "nameColumn",
+    "English": "Name Column"
+  },
+  {
+    "Key": "variantScript",
+    "English": "Variant Script"
+  },
+  {
+    "Key": "variantImages",
+    "English": "Variant Images"
+  },
+  {
+    "Key": "variantJoinColumn",
+    "English": "Variant Join Column"
+  },
+  {
+    "Key": "showAll",
+    "English": "Show all of them"
+  },
+  {
+    "Key": "showSelected",
+    "English": "Show selected"
+  },
+  {
+    "Key": "showByCategory",
+    "English": "Show by category"
+  },
+  {
+    "Key": "showInStock",
+    "English": "Show in Stock"
+  },
+  {
+    "Key": "notYetAdded",
+    "English": "Not yet added"
+  },
+  {
+    "Key": "startingDate",
+    "English": "Starting Date"
+  },
+  {
+    "Key": "endDate",
+    "English": "End Date"
+  },
+  {
+    "Key": "themeFeatures",
+    "English": "Theme Features"
+  },
+  {
+    "Key": "menu",
+    "English": "Menu"
+  },
+  {
+    "Key": "selectMenu",
+    "English": "Select Menu"
+  },
+  {
+    "Key": "selectSubmenu",
+    "English": "Select Submenu"
+  },
+  {
+    "Key": "selectMenuBrowser",
+    "English": "Select Menu Browser"
+  },
+  {
+    "Key": "nameElement",
+    "English": "Name Element"
+  },
+  {
+    "Key": "subject",
+    "English": "Subject"
+  },
+  {
+    "Key": "picture",
+    "English": "Picture"
+  },
+  {
+    "Key": "pictureElement",
+    "English": "Picture Element"
+  },
+  {
+    "Key": "startingDateElement",
+    "English": "Starting Date Element"
+  },
+  {
+    "Key": "endDateElement",
+    "English": "End Date Element"
+  },
+  {
+    "Key": "usersCanEdit",
+    "English": "Users Can Edit"
+  },
+  {
+    "Key": "thisPropertyCant",
+    "English": "This property CANNOT be used if data is being retrieved from SQL"
+  },
+  {
+    "Key": "calendarDisplay",
+    "English": "Calendar Display Features"
+  },
+  {
+    "Key": "monthly",
+    "English": "Monthly"
+  },
+  {
+    "Key": "generalDisplayLunarDays",
+    "English": "General Display of Lunar Days"
+  },
+  {
+    "Key": "agenda",
+    "English": "Agenda"
+  },
+  {
+    "Key": "listofWeeklyEvents",
+    "English": "List of Weekly Events"
+  },
+  {
+    "Key": "weekly",
+    "English": "Weekly"
+  },
+  {
+    "Key": "weekend",
+    "English": "Weekend"
+  },
+  {
+    "Key": "generalDisplayWeekDays",
+    "English": "General Display of Week Days"
+  },
+  {
+    "Key": "showWeekendDaysWhileWeekdays",
+    "English": "Show Weekend Days While Showing Weekdays"
+  },
+  {
+    "Key": "daily",
+    "English": "Daily"
+  },
+  {
+    "Key": "listofDailyEvents",
+    "English": "List of Daily Events"
+  },
+  {
+    "Key": "startTime",
+    "English": "Start Time"
+  },
+  {
+    "Key": "endTime",
+    "English": "End Time"
+  },
+  {
+    "Key": "changeDefaultColor",
+    "English": "Change Default Color"
+  },
+  {
+    "Key": "weekdayColor",
+    "English": "Weekday Color"
+  },
+  {
+    "Key": "weekendColor",
+    "English": "Weekend Color"
+  },
+  {
+    "Key": "eventColor",
+    "English": "Event Color"
+  },
+  {
+    "Key": "groupBySql",
+    "English": "Group By Sql"
+  },
+  {
+    "Key": "groupColumnName",
+    "English": "Group column name"
+  },
+  {
+    "Key": "assignedColumnName",
+    "English": "Assigned column name"
+  },
+  {
+    "Key": "taskPriortiyColumnName",
+    "English": "Task Priority Column Name"
+  },
+  {
+    "Key": "taskSubjectColumnName",
+    "English": "Task Subject Column Name"
+  },
+  {
+    "Key": "taskDetailColumnName",
+    "English": "Task Detail Column Name"
+  },
+  {
+    "Key": "taskQuery",
+    "English": "Task Query"
+  },
+  {
+    "Key": "taskKeyExpression",
+    "English": "Task Key Expression"
+  },
+  {
+    "Key": "taskTitleExpression",
+    "English": "Task Title Expression"
+  },
+  {
+    "Key": "taskStartDateExpression",
+    "English": "Task Start Date Expression"
+  },
+  {
+    "Key": "taskEndDateName",
+    "English": "Task End Date Name"
+  },
+  {
+    "Key": "taskParentExpression",
+    "English": "Task Parent Expression"
+  },
+  {
+    "Key": "taskProgressExpression",
+    "English": "Task Progress Expression"
+  },
+  {
+    "Key": "taskColorExpression",
+    "English": "Task Color Expression"
+  },
+  {
+    "Key": "taskConnections",
+    "English": "Task Connections"
+  },
+  {
+    "Key": "diagramClear",
+    "English": "Are you sure you want to clear the diagram? This action cannot be undone."
+  },
+  {
+    "Key": "uniqueComponentMenuCloneWarning",
+    "English": "Please change the value of the unique component before copying. "
+  },
+  {
+    "Key": "filesLoading",
+    "English": "Loading files..."
+  },
+  {
+    "Key": "couldnotbeLoaded",
+    "English": " KB) could not be loaded."
+  },
+  {
+    "Key": "fileSizeLimit",
+    "English": "( File Size limit"
+  },
+  {
+    "Key": "filesUploaded",
+    "English": "Files uploaded"
+  },
+  {
+    "Key": "filesWillDeleted",
+    "English": "Files Will Be Deleted!"
+  },
+  {
+    "Key": "filesSureDelete",
+    "English": "Are you sure you want to delete the files?"
+  },
+  {
+    "Key": "fileDelete",
+    "English": "Do you want to delete the file?"
+  },
+  {
+    "Key": "uploadedPhotos",
+    "English": "Uploaded Photos"
+  },
+  {
+    "Key": "maxSize",
+    "English": "Maximum Size"
+  },
+  {
+    "Key": "center",
+    "English": "Center"
+  },
+  {
+    "Key": "size",
+    "English": "Size"
+  },
+  {
+    "Key": "canItBeUpdated",
+    "English": "Can it be updated after installation?"
+  },
+  {
+    "Key": "uploadedFiles",
+    "English": "Uploaded Files"
+  },
+  {
+    "Key": "type",
+    "English": "Type"
+  },
+  {
+    "Key": "showdeleteOldData",
+    "English": "Deletion options for old data "
+  },
+  {
+    "Key": "videoBrowser",
+    "English": "Your browser does not support the video tag."
+  },
+  {
+    "Key": "deleted",
+    "English": "Deleted"
+  },
+  {
+    "Key": "theseComponentElementsDeleted",
+    "English": "These component elements will be deleted."
+  },
+  {
+    "Key": "invalidTarget",
+    "English": "Invalid target"
+  },
+  {
+    "Key": "ridge",
+    "English": "Ridge"
+  },
+  {
+    "Key": "dotted",
+    "English": "Dotted"
+  },
+  {
+    "Key": "dashed",
+    "English": "Dashed"
+  },
+  {
+    "Key": "addRowColumn",
+    "English": "Add Row/Column"
+  },
+  {
+    "Key": "dataPagingShow",
+    "English": "Fetch data in sheets?"
+  },
+  {
+    "Key": "borderType",
+    "English": "Border Type"
+  },
+  {
+    "Key": "maxCharacters",
+    "English": "Max Characters "
+  },
+  {
+    "Key": "edgeThickness",
+    "English": "Edge Thickness"
+  },
+  {
+    "Key": "lineSpacing",
+    "English": "Line Spacing"
+  },
+  {
+    "Key": "settingsRowColumn",
+    "English": "Row/Column Settings"
+  },
+  {
+    "Key": "addRow",
+    "English": "Add Row"
+  },
+  {
+    "Key": "deleteRow",
+    "English": "Delete Row"
+  },
+  {
+    "Key": "rowPermission",
+    "English": "Row Permission"
+  },
+  {
+    "Key": "addTabs",
+    "English": "Add Tab"
+  },
+  {
+    "Key": "deletePanel",
+    "English": "Delete Panel"
+  },
+  {
+    "Key": "tabPermission",
+    "English": "Tab Permission"
+  },
+  {
+    "Key": "addPanel",
+    "English": "Add Panel"
+  },
+  {
+    "Key": "panelPermission",
+    "English": "Panel Permission"
+  },
+  {
+    "Key": "backgroundColor",
+    "English": "Background Color"
+  },
+  {
+    "Key": "saveAndCloseChildForm",
+    "English": "Save and Close This Child Form While Opening a New Form"
+  },
+  {
+    "Key": "icon",
+    "English": "Icon"
+  },
+  {
+    "Key": "selectForm",
+    "English": "Select Form"
+  },
+  {
+    "Key": "fontColor",
+    "English": "Font Color"
+  },
+  {
+    "Key": "minCharacters",
+    "English": "Min Characters"
+  },
+  {
+    "Key": "generalCategory",
+    "English": "General Category"
+  },
+  {
+    "Key": "removeRow",
+    "English": "Are you sure you want to delete the recording?"
+  },
+  {
+    "Key": "send",
+    "English": "Send"
+  },
+  {
+    "Key": "declineFinish",
+    "English": "Decline and End"
+  },
+  {
+    "Key": "finish",
+    "English": "Finish"
+  },
+  {
+    "Key": "noData",
+    "English": "No Data"
+  },
+  {
+    "Key": "createEditMenu",
+    "English": "Create/Edit Menu"
+  },
+  {
+    "Key": "addNewBreakdown",
+    "English": "Add New Breakdown"
+  },
+  {
+    "Key": "addForm",
+    "English": "Add Form"
+  },
+  {
+    "Key": "addBottomBreak",
+    "English": "Add Bottom Break"
+  },
+  {
+    "Key": "addNode",
+    "English": "Add Node"
+  },
+  {
+    "Key": "topCategory",
+    "English": "Top Category"
+  },
+  {
+    "Key": "explanation",
+    "English": "Explanation"
+  },
+  {
+    "Key": "browserTitle",
+    "English": "Browser Title"
+  },
+  {
+    "Key": "formTitle",
+    "English": "Form Title"
+  },
+  {
+    "Key": "addSqlColumn",
+    "English": "Add Sql Column"
+  },
+  {
+    "Key": "formBg",
+    "English": "Form Background"
+  },
+  {
+    "Key": "codeEditor",
+    "English": "Code Editor"
+  },
+  {
+    "Key": "authorityType",
+    "English": "Authority Type"
+  },
+  {
+    "Key": "viewOnly",
+    "English": "View Only"
+  },
+  {
+    "Key": "dark",
+    "English": "Dark"
+  },
+  {
+    "Key": "white",
+    "English": "White"
+  },
+  {
+    "Key": "hightBlack",
+    "English": "Hight Black"
+  },
+  {
+    "Key": "run",
+    "English": "Run"
+  },
+  {
+    "Key": "rowColor",
+    "English": "Row Color"
+  },
+  {
+    "Key": "operator",
+    "English": "Operator"
+  },
+  {
+    "Key": "flowOfForm",
+    "English": "Flow of Form"
+  },
+  {
+    "Key": "columnWidth",
+    "English": "Column Width"
+  },
+  {
+    "Key": "alignLeft",
+    "English": "Align Left"
+  },
+  {
+    "Key": "alignRight",
+    "English": "Align Right"
+  },
+  {
+    "Key": "alignButton",
     "English": ""
   },
   {
-    "Key": "bb",
-    "English": ""
+    "Key": "imageTableNameColumn",
+    "English": "Table Name "
   },
   {
-    "Key": "cc",
-    "English": ""
+    "Key": "uploadBg",
+    "English": "Upload Background"
   },
   {
-    "Key": "dd",
+    "Key": "selectFile",
+    "English": "Select File"
+  },
+  {
+    "Key": "dropFile",
+    "English": "or Drop file here"
+  },
+  {
+    "Key": "alwaysRoundUp",
+    "English": "Always Round to Up"
+  },
+  {
+    "Key": "alwaysRoundBot",
+    "English": "Always Round to Bottom"
+  },
+  {
+    "Key": "default",
+    "English": "Default"
+  },
+  {
+    "Key": "deleteOldDataTable",
+    "English": "Delete old data of table?"
+  },
+  {
+    "Key": "deleteOldData",
+    "English": "Delete old data?"
+  },
+  {
+    "Key": "integer",
+    "English": "Integer"
+  },
+  {
+    "Key": "double",
+    "English": "Double"
+  },
+  {
+    "Key": "pleaseFillFields",
+    "English": "Please fill in the required fields."
+  },
+  {
+    "Key": "toastColumnNameNumber",
+    "English": "Column name cannot start with a number"
+  },
+  {
+    "Key": "areYouSure",
+    "English": "Are you sure?"
+  },
+  {
+    "Key": "columnDeleted",
+    "English": "The column will be deleted"
+  },
+  {
+    "Key": "allColumnDeleted",
+    "English": "All Columns Will Be Deleted"
+  },
+  {
+    "Key": "idCantStartNumber",
+    "English": "Id cannot start with number"
+  },
+  {
+    "Key": "uploadFile",
+    "English": "Upload File"
+  },
+  {
+    "Key": "fileViewer",
+    "English": "File Viewer"
+  },
+  {
+    "Key": "ok",
+    "English": "Okay"
+  },
+  {
+    "Key": "map",
+    "English": "Map"
+  },
+  {
+    "Key": "editPanel",
+    "English": "Edit Panel"
+  },
+  {
+    "Key": "filterColumnName",
+    "English": "Filter Kolon Adı"
+  },
+  {
+    "Key": "hintExamples",
+    "English": "example:Total Amount, example:Salary"
+  },
+  {
+    "Key": "columnLanguageSettings",
+    "English": "Column Language Settings"
+  },
+  {
+    "Key": "fileColumn",
+    "English": "File Column"
+  },
+  {
+    "Key": "extensionColumn",
+    "English": "Extension Column"
+  },
+  {
+    "Key": "multipleSelection",
+    "English": "Multiple Selection"
+  },
+  {
+    "Key": "addSelectionsRows",
+    "English": "Add selections as rows"
+  },
+  {
+    "Key": "mapSettings",
+    "English": "Map Settings"
+  },
+  {
+    "Key": "formatAndFeatures",
+    "English": "Format and Features"
+  },
+  {
+    "Key": "enterDateRange",
+    "English": "Enter the date range value"
+  },
+  {
+    "Key": "filesCanUploadedUsers",
+    "English": "Files can be uploaded by users"
+  },
+  {
+    "Key": "barcodeColumn",
+    "English": "Barcode Column"
+  },
+  {
+    "Key": "autoAscend",
+    "English": "Auto Ascending"
+  },
+  {
+    "Key": "roundType",
+    "English": "Round Type"
+  },
+  {
+    "Key": "font",
+    "English": "Font"
+  },
+  {
+    "Key": "columnProcess",
+    "English": "Column Process"
+  },
+  {
+    "Key": "exportColumnTotal",
+    "English": "Export column total"
+  },
+  {
+    "Key": "outsideElementDisabled",
+    "English": "Disable Outside Elements"
+  },
+  {
+    "Key": "chat",
+    "English": "Chat"
+  },
+  {
+    "Key": "languages",
+    "English": "Languages"
+  },
+  {
+    "Key": "display",
+    "English": "Display"
+  },
+  {
+    "Key": "enterYourComment",
+    "English": "enter your comment"
+  },
+  {
+    "Key": "comment",
+    "English": "Comments"
+  },
+  {
+    "Key": "fileUploaded",
+    "English": "File Uploaded"
+  },
+  {
+    "Key": "pdfViewIsButton",
+    "English": "Display as Button"
+  },
+  {
+    "Key": "takeScreenshot",
+    "English": "Take a Screenshot"
+  },
+  {
+    "Key": "alertText",
+    "English": "Alert Text"
+  },
+  {
+    "Key": "clearButtonVisible",
+    "English": "Show Clear Button"
+  },
+  {
+    "Key": "allText",
+    "English": "All"
+  },
+  {
+    "Key": "letter",
+    "English": "Only Letter"
+  },
+  {
+    "Key": "letterandnumber",
+    "English": "Letter and Number"
+  },
+  {
+    "Key": "letterandsymbol",
+    "English": "Letter and Symbol"
+  },
+  {
+    "Key": "numberandsymbol",
+    "English": "Number and Symbol"
+  },
+  {
+    "Key": "showIDColumn",
+    "English": "Show ID Column"
+  },
+  {
+    "Key": "showCopyButton",
+    "English": "Show Copy Button"
+  },
+  {
+    "Key": "showDeleteButton",
+    "English": "Show Delete Button"
+  },
+  {
+    "Key": "showCheckboxButton",
+    "English": "Show Checkbox Button"
+  },
+  {
+    "Key": "autoRowHeight",
+    "English": "Auto Row Height"
+  },
+  {
+    "Key": "exportImport",
+    "English": "Form Export Import"
+  },
+  {
+    "Key": "export",
+    "English": "Export"
+  },
+  {
+    "Key": "import",
+    "English": "Import"
+  },
+  {
+    "Key": "toastImport",
+    "English": "Form Import Completed Successfully."
+  },
+  {
+    "Key": "defaultTodaysDateWithTime",
+    "English": "Default is today's Date and Time"
+  },
+  {
+    "Key": "warningApproveImport",
+    "English": "Confirm the transaction after making the necessary adjustments. Importing the form will close the currently open form."
+  },
+  {
+    "Key": "filterVisible",
+    "English": "Show Column Filtering"
+  },
+  {
+    "Key": "updatableMaxQuantity",
+    "English": "Updatable Max Quantity"
+  },
+  {
+    "Key": "hideQuantity",
+    "English": "Hide quantity selection"
+  },
+  {
+    "Key": "disableQuantityTextbox",
+    "English": "Disable quantity typing"
+  },
+  {
+    "Key": "multiplesOfQuantity",
+    "English": "Increase/decrease multiples of the quantity"
+  },
+  {
+    "Key": "justnumber",
+    "English": "Just number"
+  },
+  {
+    "Key": "paymentHourWarning",
+    "English": "You cannot make payments outside of checkout hours."
+  },
+  {
+    "Key": "addColumn",
+    "English": "Add Column"
+  },
+  {
+    "Key": "mailSettings",
+    "English": "Mail Settings"
+  },
+  {
+    "Key": "newTaskMailDetail",
+    "English": "Mail Text to be Sent When New Task Is Assigned"
+  },
+  {
+    "Key": "updateTaskMailDetail",
+    "English": "Mail Text to Send when task is edited"
+  },
+  {
+    "Key": "taskOnDropMail",
+    "English": "Mail Text to be Sent when the Task is Relocated"
+  },
+  {
+    "Key": "selectSMTP",
+    "English": "Select SMTP Adress"
+  },
+  {
+    "Key": "taskCreator",
+    "English": "Task Creator"
+  },
+  {
+    "Key": "taskEndDate",
+    "English": "Task End Date"
+  },
+  {
+    "Key": "tags",
+    "English": "Tags"
+  },
+  {
+    "Key": "taskStartDate",
+    "English": "Task Start Date"
+  },
+  {
+    "Key": "taskAssigned",
+    "English": "Task Assigned"
+  },
+  {
+    "Key": "taskDetail",
+    "English": "Task Detail"
+  },
+  {
+    "Key": "taskSubject",
+    "English": "Task Subject"
+  },
+  {
+    "Key": "taskPri",
+    "English": "Task Priorty"
+  },
+  {
+    "Key": "taskEdit",
+    "English": "Task Edit"
+  },
+  {
+    "Key": "addTask",
+    "English": "Add Task"
+  },
+  {
+    "Key": "taskStatus",
+    "English": "Task Status"
+  },
+  {
+    "Key": "excelExportSettings",
+    "English": "Excel Export Settings"
+  },
+  {
+    "Key": "excelExportRequiredColor",
+    "English": "Required Field Row Color"
+  },
+  {
+    "Key": "allDataExcelExport",
+    "English": "Export Data as Excel"
+  },
+  {
+    "Key": "warningApproveImportReport",
+    "English": "Confirm the transaction after making the necessary adjustments. Importing the report will close the currently open report."
+  },
+  {
+    "Key": "reportName",
+    "English": "Report Name"
+  },
+  {
+    "Key": "old",
+    "English": "Old"
+  },
+  {
+    "Key": "upperNode",
+    "English": "Upper Node"
+  },
+  {
+    "Key": "pdfViewStaticPdf",
+    "English": "Show Fixed File"
+  },
+  {
+    "Key": "actions",
+    "English": "Actions"
+  },
+  {
+    "Key": "loading",
+    "English": "Loading"
+  },
+  {
+    "Key": "exportDataToExcell",
+    "English": "Export all data to Excel"
+  },
+  {
+    "Key": "showRefreshIcon",
+    "English": "Refresh Icon"
+  },
+  {
+    "Key": "headerFilter",
+    "English": "Header Filter"
+  },
+  {
+    "Key": "filterRowVisible",
+    "English": "Row Filter"
+  },
+  {
+    "Key": "password",
+    "English": "Password"
+  },
+  {
+    "Key": "categories",
+    "English": "Categories"
+  },
+  {
+    "Key": "pressEnter",
+    "English": "Press Enter"
+  },
+  {
+    "Key": "historyColumnValue",
+    "English": "Data History Column"
+  },
+  {
+    "Key": "hideMobile",
+    "English": "Hide on Mobile"
+  },
+  {
+    "Key": "align",
+    "English": "Alignment"
+  },
+  {
+    "Key": "theme",
+    "English": "Theme"
+  },
+  {
+    "Key": "info",
+    "English": "Info"
+  },
+  {
+    "Key": "showTitle",
+    "English": "Show Title"
+  },
+  {
+    "Key": "purple",
+    "English": "Purple"
+  },
+  {
+    "Key": "brown",
+    "English": "Brown"
+  },
+  {
+    "Key": "yellow",
+    "English": "Yellow"
+  },
+  {
+    "Key": "turnOnComments",
+    "English": "Turn on Comments"
+  },
+  {
+    "Key": "showContent",
+    "English": "Show Content"
+  },
+  {
+    "Key": "canBeHidden",
+    "English": "Can Be Hidden"
+  },
+  {
+    "Key": "allowEdit",
+    "English": "Allow Edit"
+  },
+  {
+    "Key": "allowDelete",
+    "English": "Allow Delete"
+  },
+  {
+    "Key": "toastDeleteErrorMessage",
+    "English": "This component is used in Form Preference scripts. It cannot be deleted."
+  },
+  {
+    "Key": "formOpeningMultiElementEvent",
+    "English": "Form Open Multiple Element Event"
+  },
+  {
+    "Key": "resetDatagridLocalSettings",
+    "English": "Reset Datagrid Local Settings"
+  },
+  {
+    "Key": "loginP1",
+    "English": "\"River\" provides a comprehensive memory system as your corporate memory, which includes information about your organization or institution's past experiences, successes, failures, lessons learned, culture, and values, and can be used as a reference source for future decisions and actions. Institutional memory encompasses your organization's history, business processes, employees' knowledge, customer experiences, product and service development, and many other pieces of information. This information will serve as a guide for your organization's future goals and strategies."
+  },
+  {
+    "Key": "loginP2",
+    "English": "River helps your business to carry out its workflow more efficiently and effectively with its web and advanced native mobile application supported structure. Everything you need to access is as close as your computer, tablet, or smartphone."
+  },
+  {
+    "Key": "loginConnect",
+    "English": "Connect"
+  },
+  {
+    "Key": "loginText",
+    "English": "Login"
+  },
+  {
+    "Key": "loginRightMore",
+    "English": "More"
+  },
+  {
+    "Key": "loginHeaderP1",
+    "English": "Corporate memory"
+  },
+  {
+    "Key": "loginHeaderP2",
+    "English": "Mobility"
+  },
+  {
+    "Key": "loginHeaderP3",
+    "English": "Graphic Power"
+  },
+  {
+    "Key": "kanbanaddTasks",
+    "English": "Add Kanban Task"
+  },
+  {
+    "Key": "taskstatusDesciption",
+    "English": "It displays the name of the column to which the Kanban task will be assigned."
+  },
+  {
+    "Key": "tasksubjectDescription",
+    "English": "Allows entering the title of the Kanban task. The Kanban title is a required field."
+  },
+  {
+    "Key": "taskassignedToTask",
+    "English": "Groups Added to the Tasks:"
+  },
+  {
+    "Key": "taskassignedTaskDescription",
+    "English": "It enables the selection of groups to be assigned to the Kanban task."
+  },
+  {
+    "Key": "addedForTasks",
+    "English": "Added For Task"
+  },
+  {
+    "Key": "taskAssignedInfoDescription",
+    "English": "Persons to be Informed for the Position"
+  },
+  {
+    "Key": "assignedInfo",
+    "English": "Persons to be informed"
+  },
+  {
+    "Key": "groupInfo",
+    "English": "Groups to be Informed for the Task"
+  },
+  {
+    "Key": "sortEnd",
+    "English": "Sort By End Date"
+  },
+  {
+    "Key": "sender",
+    "English": "Sender"
+  },
+  {
+    "Key": "forward",
+    "English": "Forward"
+  },
+  {
+    "Key": "attachments",
+    "English": "Attachments"
+  },
+  {
+    "Key": "loginP3",
+    "English": "Kanban and Gantt charts are extremely useful tools for visualizing a project or workflow. They provide visual representations of work items, their current status, and the workflow at different stages of the work. This makes it easy to identify bottlenecks, prioritize work, and improve process efficiency. Kanban and Gantt charts are practical and effective for managing agile projects, software development, and other continuous improvement processes."
+  },
+  {
+    "Key": "taskdetailDescription",
+    "English": "It allows entering the details of the Kanban task. Kanban is a detailed required field."
+  },
+  {
+    "Key": "taskassignedDescription",
+    "English": "It enables the selection of users to be assigned to the Kanban task. At least one user is required to be assigned to the kanban."
+  },
+  {
+    "Key": "taskstartdateDescription",
+    "English": "Allows you to select the start date of the Kanban task. In Kanban, the start date automatically takes the creation time of the task."
+  },
+  {
+    "Key": "taskenddateDescription",
+    "English": "It allows to select the end date of the Kanban task. In Kanban, the task due date is automatically one week after the task creation time."
+  },
+  {
+    "Key": "taskpriDescription",
+    "English": "It allows to select the priority status of the Kanban task. In Kanban, the task due date is automatically one week after the task creation time."
+  },
+  {
+    "Key": "tagsDescription",
+    "English": "It allows adding the tags of the Kanban task. Tags are separated from each other as they are added with commas."
+  },
+  {
+    "Key": "outlookDescription",
+    "English": "When adding the task to Outlook option is turned on, the task is automatically added to the calendar by logging into your outlook account."
+  },
+  {
+    "Key": "taskAssInfoDescription",
+    "English": "It is the area used for people who are not assigned to the task but whose knowledge is requested. Persons added to inform cannot act on tasks."
+  },
+  {
+    "Key": "receiver",
+    "English": "Receiver"
+  },
+  {
+    "Key": "draft",
+    "English": "Draft"
+  },
+  {
+    "Key": "spam",
+    "English": "Spam"
+  },
+  {
+    "Key": "filterstate",
+    "English": "Filter by Status"
+  },
+  {
+    "Key": "checkForspelling",
+    "English": "Check for Spelling Errors"
+  },
+  {
+    "Key": "emailToForward",
+    "English": "E-mail to be forwarded."
+  },
+  {
+    "Key": "lowImpMails",
+    "English": "Low Importance Emails"
+  },
+  {
+    "Key": "normalImpMails",
+    "English": "\"Normal Importance Emails"
+  },
+  {
+    "Key": "highImpEmails",
+    "English": "High Importance Emails"
+  },
+  {
+    "Key": "showReadMails",
+    "English": "Show Read Mails"
+  },
+  {
+    "Key": "groupinfoDescription",
+    "English": "This is the field used for groups that are not assigned to a task but are requested to have information. Persons belonging to groups added to inform cannot act on tasks."
+  },
+  {
+    "Key": "timeoutMission",
+    "English": "Time to Begin Alert Before Mission Ends"
+  },
+  {
+    "Key": "timeoutmissionDescription",
+    "English": "It is used to specify the time to start the alert when the Kanban task is approaching its end time."
+  },
+  {
+    "Key": "taskperiodDescription",
+    "English": "It is used to specify the periodic reminder time when the end date of the Kanban task is approaching."
+  },
+  {
+    "Key": "taskProgress",
+    "English": "Task Progress"
+  },
+  {
+    "Key": "taskProgressDescription",
+    "English": "It is used to indicate the progress of the Kanban task. Progress can be viewed on the Gantt chart."
+  },
+  {
+    "Key": "updatekanbanTask",
+    "English": "Kanban Task Update"
+  },
+  {
+    "Key": "taskcreatorDescription",
+    "English": "Kanban allows the person who created the task to be displayed."
+  },
+  {
+    "Key": "uploadfileDescription",
+    "English": "It is used to upload files to Kanban task. Files or pictures are recorded on DMS."
+  },
+  {
+    "Key": "infoPersons",
+    "English": "Persons to be Informed"
+  },
+  {
+    "Key": "warningtime",
+    "English": "Warning Time"
+  },
+  {
+    "Key": "taskPeriod",
+    "English": "Task Period"
+  },
+  {
+    "Key": "taskProgresSatus",
+    "English": "Task Progress"
+  },
+  {
+    "Key": "makeTask",
+    "English": "Task Creator"
+  },
+  {
+    "Key": "outlookIntegration",
+    "English": "Outlook Integration"
+  },
+  {
+    "Key": "loginoutlook",
+    "English": "Login to Outlook Calendar"
+  },
+  {
+    "Key": "fetchoutlook",
+    "English": "Fetch Data from Outlook Calendar"
+  },
+  {
+    "Key": "progressStatus",
+    "English": "Progress status"
+  },
+  {
+    "Key": "taskColors",
+    "English": "Task colors"
+  },
+  {
+    "Key": "addcalendarTask",
+    "English": "Add a Task to Calendar"
+  },
+  {
+    "Key": "updatetaskCalendar",
+    "English": "Calendar Task Update"
+  },
+  {
+    "Key": "statusComplete",
+    "English": "Completion Status Filtering"
+  },
+  {
+    "Key": "priorityFilter",
+    "English": "Priority Filtering"
+  },
+  {
+    "Key": "columnFilter",
+    "English": "Column Filtering"
+  },
+  {
+    "Key": "assignPerson",
+    "English": "Assigned Persons"
+  },
+  {
+    "Key": "assignGroup",
+    "English": "Assigned Groups"
+  },
+  {
+    "Key": "noTask",
+    "English": "No Tasks Found"
+  },
+  {
+    "Key": "resetSort",
+    "English": "Reset Sort"
+  },
+  {
+    "Key": "sortASC",
+    "English": "Sort A - Z"
+  },
+  {
+    "Key": "sortDESC",
+    "English": "Sort Z - A"
+  },
+  {
+    "Key": "sortAppointment",
+    "English": "Sort By Appointment Date"
+  },
+  {
+    "Key": "trash",
+    "English": "Trash"
+  },
+  {
+    "Key": "showOlderMail",
+    "English": "Show Older Mails"
+  },
+  {
+    "Key": "mailNotFound",
+    "English": "Mail not found."
+  },
+  {
+    "Key": "sendNewMail",
+    "English": "Send New Mail"
+  },
+  {
+    "Key": "showUnreadMails",
+    "English": "Show Unread Mails"
+  },
+  {
+    "Key": "updateColumnMail",
+    "English": "Message to the Person When a Task is Added to the Column"
+  },
+  {
+    "Key": "addTaskToOutlook",
+    "English": "Add Task To Outlook"
+  },
+  {
+    "Key": "enterYourMessage",
+    "English": "Enter Your Message"
+  },
+  {
+    "Key": "reminder",
+    "English": "Reminder"
+  },
+  {
+    "Key": "determinedToTask",
+    "English": "Time determined for the task"
+  },
+  {
+    "Key": "remainingTime",
+    "English": "Remaining Time"
+  },
+  {
+    "Key": "hours",
+    "English": "Hours"
+  },
+  {
+    "Key": "withoutPriority",
+    "English": "Without Priority"
+  },
+  {
+    "Key": "lowPri",
+    "English": "Low Priority"
+  },
+  {
+    "Key": "normalPri",
+    "English": "Normal Priority"
+  },
+  {
+    "Key": "highPri",
+    "English": "High Priority"
+  },
+  {
+    "Key": "showAllTasks",
+    "English": "Show All"
+  },
+  {
+    "Key": "showIncompleteTasks",
+    "English": "Show Incomplete"
+  },
+  {
+    "Key": "showCompeletedTasks",
+    "English": "Show Completed"
+  },
+  {
+    "Key": "reportDesigner",
+    "English": "Report Designer"
+  },
+  {
+    "Key": "fileManagementSystem",
+    "English": "File Management System"
+  },
+  {
+    "Key": "formDesigner",
+    "English": "Form Designer"
+  },
+  {
+    "Key": "boardDesigner",
+    "English": "Board Designer"
+  },
+  {
+    "Key": "themeSettings",
+    "English": "Theme Settings"
+  },
+  {
+    "Key": "social",
+    "English": "Social"
+  },
+  {
+    "Key": "profile",
+    "English": "Profile"
+  },
+  {
+    "Key": "contacts",
+    "English": "Contacts"
+  },
+  {
+    "Key": "files",
+    "English": "Files"
+  },
+  {
+    "Key": "pages",
+    "English": "Pages"
+  },
+  {
+    "Key": "noResultsFound",
+    "English": "No results found"
+  },
+  {
+    "Key": "processes",
+    "English": "Processes"
+  },
+  {
+    "Key": "filterByStatus",
+    "English": "Filter by Status"
+  },
+  {
+    "Key": "filterByPri",
+    "English": "Filter by Priority"
+  },
+  {
+    "Key": "filterByCol",
+    "English": "Filter by Column"
+  },
+  {
+    "Key": "todoAddTasks",
+    "English": "Add To-Do Task"
+  },
+  {
+    "Key": "addLabel",
+    "English": "Add Label"
+  },
+  {
+    "Key": "showWithSubTasks",
+    "English": "Show Those With Subtasks\t"
+  },
+  {
+    "Key": "riverBoard",
+    "English": "River Boards\t"
+  },
+  {
+    "Key": "notify",
+    "English": "Notifications"
+  },
+  {
+    "Key": "likedYourPost",
+    "English": "Liked Your Post"
+  },
+  {
+    "Key": "likedYourComment",
+    "English": "Liked Your Comment"
+  },
+  {
+    "Key": "systemNotify",
+    "English": "System Notifications"
+  },
+  {
+    "Key": "readAllNotify",
+    "English": "Read All Notifications"
+  },
+  {
+    "Key": "recommendedUsers",
+    "English": "Recommended Users"
+  },
+  {
+    "Key": "suggestedPosts",
+    "English": "Suggested Posts"
+  },
+  {
+    "Key": "sPostReposted",
+    "English": "'s Post Reposted"
+  },
+  {
+    "Key": "shareSomething",
+    "English": "Share Something"
+  },
+  {
+    "Key": "updatePost",
+    "English": "Update Post"
+  },
+  {
+    "Key": "ifYouDoNotSelectGroup",
+    "English": "If you do not select a group,everyone can see your post"
+  },
+  {
+    "Key": "addComment",
+    "English": "Add Comment"
+  },
+  {
+    "Key": "sendComment",
+    "English": "Send Comment"
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisPost",
+    "English": "Are you sure you want to delete this post"
+  },
+  {
+    "Key": "yes",
+    "English": "Yes"
+  },
+  {
+    "Key": "no",
+    "English": "No"
+  },
+  {
+    "Key": "deletePost",
+    "English": "Delete Post"
+  },
+  {
+    "Key": "postSuccesfullyDeleted",
+    "English": "Post successfully deleted"
+  },
+  {
+    "Key": "deleteComment",
+    "English": "Delete Comment"
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisComment",
+    "English": "Are you sure you want to delete this comment\r\n"
+  },
+  {
+    "Key": "commentSuccesfullyDeleted",
+    "English": "Comment successfully deleted"
+  },
+  {
+    "Key": "sharePost",
+    "English": "Share Post"
+  },
+  {
+    "Key": "areYouSureYouWantToShareThisPost",
+    "English": "Are you sure you want to share this post?\r\n"
+  },
+  {
+    "Key": "repostedSuccessfully",
+    "English": "Reposted successfully"
+  },
+  {
+    "Key": "upload",
+    "English": "Upload"
+  },
+  {
+    "Key": "refresh",
+    "English": "Refresh"
+  },
+  {
+    "Key": "allowedExtentions",
+    "English": "Allowed extensions: JPG, GIF or PNG. Maximum file size\r\n"
+  },
+  {
+    "Key": "systemLandingPagePreference",
+    "English": "Landing Page Preference"
+  },
+  {
+    "Key": "Allownonadminuserstosearchforotherusers",
+    "English": "Allow non-admin users to search for other users"
+  },
+  {
+    "Key": "passwordChange",
+    "English": "Password Change\r\n"
+  },
+  {
+    "Key": "newPassword",
+    "English": "New Password"
+  },
+  {
+    "Key": "Retypethenewpassword",
+    "English": "Retype the new password"
+  },
+  {
+    "Key": "notifications",
+    "English": "Notifications\r\n"
+  },
+  {
+    "Key": "showWhoLikesYourPost",
+    "English": "Show who likes your posts"
+  },
+  {
+    "Key": "showWhoLikesYourComment",
+    "English": "Show who Likes your comment"
+  },
+  {
+    "Key": "aboutMe",
+    "English": "About Me"
+  },
+  {
+    "Key": "bio",
+    "English": "Biography"
+  },
+  {
+    "Key": "dateOfBirth",
+    "English": "Date of birth\r\n"
+  },
+  {
+    "Key": "website",
+    "English": "Website"
+  },
+  {
+    "Key": "phone",
+    "English": "Phone"
+  },
+  {
+    "Key": "saveChanges",
+    "English": "Save Changes"
+  },
+  {
+    "Key": "content",
+    "English": "Content"
+  },
+  {
+    "Key": "projectManagement",
+    "English": "Project Management"
+  },
+  {
+    "Key": "addPage",
+    "English": "Add Page"
+  },
+  {
+    "Key": "addFolder",
+    "English": "Add Folder"
+  },
+  {
+    "Key": "showUsers",
+    "English": "Show Users"
+  },
+  {
+    "Key": "showGroups",
+    "English": "Show Groups"
+  },
+  {
+    "Key": "readonlyUsers",
+    "English": "Readonly Users"
+  },
+  {
+    "Key": "readonlyGroups",
+    "English": "Readonly Groups"
+  },
+  {
+    "Key": "columnHeight",
+    "English": "Column Height"
+  },
+  {
+    "Key": "showKanbanCount",
+    "English": "Show Kanban Count Information"
+  },
+  {
+    "Key": "kanbanSettings",
+    "English": "Kanban Settings"
+  },
+  {
+    "Key": "gantSettings",
+    "English": "Gant Settings"
+  },
+  {
+    "Key": "schedulerSettings",
+    "English": "Scheduler Settings"
+  },
+  {
+    "Key": "activateOutlookConnection",
+    "English": "Enable Outlook Connection"
+  },
+  {
+    "Key": "selectOutlookColumn",
+    "English": "Select the Outlook column"
+  },
+  {
+    "Key": "selectSMTPPopoverText",
+    "English": "The mail SMTP to be used in Kanban, Gantt, Calendar or To-Do components is selected."
+  },
+  {
+    "Key": "menuFilePathId",
+    "English": " River Menu Files Folder Id"
+  },
+  {
+    "Key": "recycleBinPathName",
+    "English": " River Recycle Bin Folder Name"
+  },
+  {
+    "Key": "recycleBinPathId",
+    "English": " River Recycle Bin Folder Id"
+  },
+  {
+    "Key": "fileNameChangedMessage",
+    "English": "Filename changed successfully."
+  },
+  {
+    "Key": "fileNameChangedErrorMessage",
+    "English": " The filename could not be changed."
+  },
+  {
+    "Key": "fileCreatedMessage",
+    "English": " Dosya başarıyla oluşturuldu."
+  },
+  {
+    "Key": "newTaskMailDetailPopoverText",
+    "English": "When a new task is assigned to Kanban, Gantt, Calendar or To-Do components, the part of the mail content that will be added to the automatic mail that will be sent to the assigned users."
+  },
+  {
+    "Key": "taskOnDropMailPopoverText",
+    "English": "The part where the content of the mail to be added to the automatic mail that will be sent to the Kanban, Gantt, Calendar or To-Do components with the change of the column containing a task is added."
+  },
+  {
+    "Key": "createdBy",
+    "English": "Created by"
+  },
+  {
+    "Key": "updatedBy",
+    "English": "Updated by"
+  },
+  {
+    "Key": "createdDate",
+    "English": "Created date"
+  },
+  {
+    "Key": "updatedDate",
+    "English": "Updated date"
+  },
+  {
+    "Key": "folderPermissionSettings",
+    "English": "Folder permissions"
+  },
+  {
+    "Key": "quantity",
+    "English": " Quantity"
+  },
+  {
+    "Key": "fileManagementPermissionSettings",
+    "English": " File management permission settings"
+  },
+  {
+    "Key": "fileNotFoundErrorText",
+    "English": " No files were found matching your search criteria."
+  },
+  {
+    "Key": "updateTaskMailDetailPopoverText",
+    "English": "The part where the content of the mail to be added to the automatic mail that will be sent to the assigned users when changes are made to the related task to the Kanban, Gantt, Calendar or To-Do components."
+  },
+  {
+    "Key": "selectOutlookColumnPopoverText",
+    "English": "It is selected in which column the tasks to be added via Outlook will be included."
+  },
+  {
+    "Key": "createFolder",
+    "English": " Create folder"
+  },
+  {
+    "Key": "versionHistory",
+    "English": " Version history"
+  },
+  {
+    "Key": "deletePermanently",
+    "English": " Delete permanently"
+  },
+  {
+    "Key": "recover",
+    "English": " Recover"
+  },
+  {
+    "Key": "groupPermissions",
+    "English": " Group permissions"
+  },
+  {
+    "Key": "allowUpload",
+    "English": "Allow upload"
+  },
+  {
+    "Key": "allowView",
+    "English": " Allow view"
+  },
+  {
+    "Key": "allowDownload",
+    "English": " Allow download"
+  },
+  {
+    "Key": "permissionType",
+    "English": " Permission type"
+  },
+  {
+    "Key": "applyToSubFolders",
+    "English": " Apply to sub folders"
+  },
+  {
+    "Key": "newFolderName",
+    "English": " New folder name"
+  },
+  {
+    "Key": "tagTips",
+    "English": " Labeling should be done with a # sign at the beginning. It can contain only numbers and numbers. Example usage = #example #example1"
+  },
+  {
+    "Key": "addAsNewVersion",
+    "English": " Add as new version"
+  },
+  {
+    "Key": "addAndChangeName",
+    "English": " Add and change name"
+  },
+  {
+    "Key": "skip",
+    "English": " Skip"
+  },
+  {
+    "Key": "fileExistError",
+    "English": " There is a file with the same name in the destination folder"
+  },
+  {
+    "Key": "processFileShow",
+    "English": " River Process Files Show"
+  },
+  {
+    "Key": "processFilePathName",
+    "English": " River Process Files Folder Name"
+  },
+  {
+    "Key": "processFilePathId",
+    "English": " River Process Files Folder Id"
+  },
+  {
+    "Key": "menuFileShow",
+    "English": " River Menu Files Show"
+  },
+  {
+    "Key": "menuFilePathName",
+    "English": " River Menu Files Folder Name"
+  },
+  {
+    "Key": "fileCreatedErrorMessage",
+    "English": " File creation failed."
+  },
+  {
+    "Key": "fileDeletedessage",
+    "English": " File deletion is complete."
+  },
+  {
+    "Key": "fileDeletedErrorMessage",
+    "English": " File deletion failed."
+  },
+  {
+    "Key": "fileMovedMessage",
+    "English": "File move completed."
+  },
+  {
+    "Key": "fileMovedErrorMessage",
+    "English": " File move operation failed."
+  },
+  {
+    "Key": "fileCopyMessage",
+    "English": "File copying is complete."
+  },
+  {
+    "Key": "fileCopyErrorMessage",
+    "English": "File copy operation failed."
+  },
+  {
+    "Key": "fileDownloadMessage",
+    "English": "File download completed."
+  },
+  {
+    "Key": "fileDownloadErrorMessage",
+    "English": "File download failed."
+  },
+  {
+    "Key": "fileSizeShowErrorMessage",
+    "English": " We cannot view it because the file size is large. Please download the file"
+  },
+  {
+    "Key": "unsupportedFile",
+    "English": " Unsupported file"
+  },
+  {
+    "Key": "fileNameError",
+    "English": " There is a file with this file name, please try again with a different name."
+  },
+  {
+    "Key": "fileGivePermissionMessage",
+    "English": " File authorization completed successfully."
+  },
+  {
+    "Key": "fileGivePermissionErrorMessage",
+    "English": " An error occurred in the file authorization. Registration failed."
+  },
+  {
+    "Key": "groupName",
+    "English": "Group Name"
+  },
+  {
+    "Key": "createGroup",
+    "English": "Create group"
+  },
+  {
+    "Key": "conversation",
+    "English": " Conversation"
+  },
+  {
+    "Key": "startConversation",
+    "English": "Start conversation"
+  },
+  {
+    "Key": "userNotFound",
+    "English": " User not found"
+  },
+  {
+    "Key": "chatNotFound",
+    "English": " Chat not found"
+  },
+  {
+    "Key": "themeTypeLight",
+    "English": "Light"
+  },
+  {
+    "Key": "themeTypeBorderedLight",
+    "English": "Bordered"
+  },
+  {
+    "Key": "themeHalfDark",
+    "English": "Half Dark"
+  },
+  {
+    "Key": "themeDark",
+    "English": "Dark"
+  },
+  {
+    "Key": "themeRouteAnimation",
+    "English": "Route Animation"
+  },
+  {
+    "Key": "themeRouteAnimationFadeInLeft",
+    "English": "Fade in left"
+  },
+  {
+    "Key": "themeRouteAnimationZoomIn",
+    "English": "Zoom in"
+  },
+  {
+    "Key": "themeRouteAnimationFadeIn",
+    "English": " Fade in"
+  },
+  {
+    "Key": "themeRouteAnimationNone",
+    "English": " None"
+  },
+  {
+    "Key": "themeMenuType",
+    "English": " Chat not found"
+  },
+  {
+    "Key": "themeMenuTypeHorizontal",
+    "English": "Horizontal"
+  },
+  {
+    "Key": "themeMenuTypeVertical",
+    "English": "Vertical"
+  },
+  {
+    "Key": "themeMenuCollapse",
+    "English": "Collapse Menu"
+  },
+  {
+    "Key": "themeNavbarColor",
+    "English": "Navbar colors"
+  },
+  {
+    "Key": "themeNavbarType",
+    "English": "Navbar type"
+  },
+  {
+    "Key": "themeSticky",
+    "English": "Sticky"
+  },
+  {
+    "Key": "themeStatic",
+    "English": "Static"
+  },
+  {
+    "Key": "themeFloating",
+    "English": "Floating"
+  },
+  {
+    "Key": "themeHidden",
+    "English": "Hidden"
+  },
+  {
+    "Key": "themeFooterType",
+    "English": "Footer Type"
+  },
+  {
+    "Key": "catalog",
+    "English": "Catalog"
+  },
+  {
+    "Key": "riverBoards",
+    "English": "River Boards"
+  },
+  {
+    "Key": "clipboardDesigner",
+    "English": "Clipboard Designer"
+  },
+  {
+    "Key": "desingMode",
+    "English": "You are in Design Mode"
+  },
+  {
+    "Key": "editPage",
+    "English": "Edit Page"
+  },
+  {
+    "Key": "rename",
+    "English": "Rename"
+  },
+  {
+    "Key": "exportToPdf",
+    "English": "Export as PDF"
+  },
+  {
+    "Key": "exportToExcel",
+    "English": "Export as Excel"
+  },
+  {
+    "Key": "revenueReport",
+    "English": "Revenue Report"
+  },
+  {
+    "Key": "header",
+    "English": "Header"
+  },
+  {
+    "Key": "connection",
+    "English": "Connection"
+  },
+  {
+    "Key": "primaryKey",
+    "English": "Primary Key"
+  },
+  {
+    "Key": "secondaryKey",
+    "English": "Secondary Key"
+  },
+  {
+    "Key": "completedKey",
+    "English": "Completed Key"
+  },
+  {
+    "Key": "countKey",
+    "English": "Count Key"
+  },
+  {
+    "Key": "statusKey",
+    "English": "Status Key"
+  },
+  {
+    "Key": "progressConnection",
+    "English": "Progress Connection"
+  },
+  {
+    "Key": "progressScript",
+    "English": "Progress Script"
+  },
+  {
+    "Key": "progressPrimaryKey",
+    "English": "Progress Primary Key"
+  },
+  {
+    "Key": "progressCountKey",
+    "English": "Progress Count Key"
+  },
+  {
+    "Key": "progressPercentageKey",
+    "English": "Progress Percentage Key"
+  },
+  {
+    "Key": "progressColorKey",
+    "English": "Progress Color Key"
+  },
+  {
+    "Key": "keyColumn",
+    "English": "Value Column"
+  },
+  {
+    "Key": "currency",
+    "English": "Currency"
+  },
+  {
+    "Key": "whitePage",
+    "English": "White Page"
+  },
+  {
+    "Key": "noReportSelected",
+    "English": "No Report Selected"
+  },
+  {
+    "Key": "noTypeSelected",
+    "English": "Report Type Not Selected"
+  },
+  {
+    "Key": "whitePageReports",
+    "English": "White Page Reports"
+  },
+  {
+    "Key": "addBranch",
+    "English": "Add Branch/Sub Branch"
+  },
+  {
+    "Key": "branchName",
+    "English": "Branch Name"
+  },
+  {
+    "Key": "rowNumber",
+    "English": "Row Number"
+  },
+  {
+    "Key": "reportTypeSelect",
+    "English": "Select Report Type"
+  },
+  {
+    "Key": "reportDescription",
+    "English": "Report description..."
+  },
+  {
+    "Key": "useWeb",
+    "English": "Use on the Web"
+  },
+  {
+    "Key": "useMobile",
+    "English": "Use on mobile"
+  },
+  {
+    "Key": "mainScript",
+    "English": "Main Script"
+  },
+  {
+    "Key": "pre-runScript",
+    "English": "Pre-run script?"
+  },
+  {
+    "Key": "preScript",
+    "English": "Pre-Script"
+  },
+  {
+    "Key": "testIt",
+    "English": "Test it"
+  },
+  {
+    "Key": "selectAll",
+    "English": "Select All"
+  },
+  {
+    "Key": "addReport",
+    "English": "Add Report"
+  },
+  {
+    "Key": "selectReportType",
+    "English": "Select Report Type"
+  },
+  {
+    "Key": "reportType",
+    "English": "Report Type"
+  },
+  {
+    "Key": "reportDesingPermission",
+    "English": "The user does not have report esign permissions."
+  },
+  {
+    "Key": "reportImportedOpenLeftMenu",
+    "English": "Report Imported. You can open it from the left menu."
+  },
+  {
+    "Key": "forReportExport",
+    "English": "For Report Export, you must first select a report. "
+  },
+  {
+    "Key": "anErrorOccurred",
+    "English": "An error occurred"
+  },
+  {
+    "Key": "reportDeleted",
+    "English": "Report Deleted"
+  },
+  {
+    "Key": "branchDeleted",
+    "English": "Branch Deleted"
+  },
+  {
+    "Key": "addBranchName",
+    "English": "\r\nPlease enter the breakdown name"
+  },
+  {
+    "Key": "addedBranch",
+    "English": "Added Branch"
+  },
+  {
+    "Key": "selectConnectionAddress",
+    "English": "Please select a connection address"
+  },
+  {
+    "Key": "enterSqlScript",
+    "English": "Please enter sql script"
+  },
+  {
+    "Key": "enterReportName",
+    "English": "Please enter the report name"
+  },
+  {
+    "Key": "reportAdded",
+    "English": "Report Added"
+  },
+  {
+    "Key": "numberOfDataToBeProcessed",
+    "English": "Connection successful. Number of data to be processed:"
+  },
+  {
+    "Key": "dataNotFoundCheckYourConnection",
+    "English": "Data not found! Please check your connection and sql command"
+  },
+  {
+    "Key": "connectionNotFoundCheckYourConnection",
+    "English": "Connection failed! Please check your connection and sql command"
+  },
+  {
+    "Key": "fillConnectionAndSql",
+    "English": "Please fill your connection and sql command"
+  },
+  {
+    "Key": "allTypesActivate",
+    "English": "All Types Activate at the Time of Display"
+  },
+  {
+    "Key": "passwordRequired",
+    "English": "Password is required"
+  },
+  {
+    "Key": "showLess",
+    "English": "Show Less"
+  },
+  {
+    "Key": "showMore",
+    "English": "Show More"
+  },
+  {
+    "Key": "authority",
+    "English": "Authority"
+  },
+  {
+    "Key": "preScriptDescription",
+    "English": "Pre-script description"
+  },
+  {
+    "Key": "enterReportFilters",
+    "English": "Enter Report Filters"
+  },
+  {
+    "Key": "gridDesigner",
+    "English": "Grid Designer"
+  },
+  {
+    "Key": "addMainBranch",
+    "English": "Add Main Branch"
+  },
+  {
+    "Key": "resetSettings",
+    "English": "Reset the settings"
+  },
+  {
+    "Key": "columsToGroup",
+    "English": "Use the context menu of header columns to group data"
+  },
+  {
+    "Key": "customize",
+    "English": "Customize"
+  },
+  {
+    "Key": "colorType",
+    "English": "Color Type"
+  },
+  {
+    "Key": "formatManagement",
+    "English": "Format Management"
+  },
+  {
+    "Key": "bottomTotalColumn",
+    "English": "Bottom Total Column"
+  },
+  {
+    "Key": "formatType",
+    "English": "Format Type"
+  },
+  {
+    "Key": "datagridSettingsReset",
+    "English": "Data grid settings will be reset"
+  },
+  {
+    "Key": "unexpectedError",
+    "English": "Sorry, we encountered an unexpected error."
+  },
+  {
+    "Key": "changesSaved",
+    "English": "Changes saved"
+  },
+  {
+    "Key": "addGantTask",
+    "English": "Add Gantt Tasks"
+  },
+  {
+    "Key": "updGantTask",
+    "English": "Update Gantt Tasks"
+  },
+  {
+    "Key": "updSchedulerTask",
+    "English": "Update Scheduler Tasks"
+  },
+  {
+    "Key": "updTodoTask",
+    "English": "Update To-Do Tasks"
+  },
+  {
+    "Key": "completeTask",
+    "English": "Complete Task"
+  },
+  {
+    "Key": "cantBeEmptyKanban",
+    "English": "Task title, task detail and task assignee cannot be empty"
+  },
+  {
+    "Key": "successAdd",
+    "English": "Task successfully added"
+  },
+  {
+    "Key": "successUpd",
+    "English": "Task successfully updated"
+  },
+  {
+    "Key": "statusChangeTodo",
+    "English": "Task Completion Status Changed Successfully."
+  },
+  {
+    "Key": "reminderSended",
+    "English": "Successfully sent reminder email for task."
+  },
+  {
+    "Key": "askForCompleteTask",
+    "English": "Are you sure you want to complete the task?"
+  },
+  {
+    "Key": "infoForCompletedTask",
+    "English": "Sub-tasks of your task will also be completed."
+  },
+  {
+    "Key": "noPermisison",
+    "English": "You are not authorized."
+  },
+  {
+    "Key": "successDependencyAdded",
+    "English": "Task Dependency Added Successfully"
+  },
+  {
+    "Key": "filterimportant",
+    "English": "Filter By Importance"
+  },
+  {
+    "Key": "enterEmail",
+    "English": "Enter E-Mail Adress"
+  },
+  {
+    "Key": "reply",
+    "English": "Reply"
+  },
+  {
+    "Key": "newCol",
+    "English": "Yeni Sütun"
+  },
+  {
+    "Key": "thickness",
+    "English": "Thickness"
+  },
+  {
+    "Key": "distanceToUpperComponent",
+    "English": "Distance  to upper component"
+  },
+  {
+    "Key": "companyName",
+    "English": "Company Namew"
+  },
+  {
+    "Key": "showEmailModule",
+    "English": "Show E-Mail Module"
+  },
+  {
+    "Key": "distanceToBottomComponent",
+    "English": "Distance to bottom component"
+  },
+  {
+    "Key": "canNonAdminUsersPost",
+    "English": "Can Non-Admin users  post"
+  },
+  {
+    "Key": "columnColor",
+    "English": "Column Color"
+  },
+  {
+    "Key": "byWho",
+    "English": "By"
+  },
+  {
+    "Key": "added",
+    "English": "Added"
+  },
+  {
+    "Key": "updated",
+    "English": "Updated"
+  },
+  {
+    "Key": "commentAdded",
+    "English": "Comment Added"
+  },
+  {
+    "Key": "completed",
+    "English": "Completed"
+  },
+  {
+    "Key": "addRemoveColumns",
+    "English": "Add-Remove Columns"
+  },
+  {
+    "Key": "searchMessage",
+    "English": "Search in messages"
+  },
+  {
+    "Key": "riverReports",
+    "English": "River BI Reports"
+  },
+  {
+    "Key": "forms",
+    "English": "Forms"
+  },
+  {
+    "Key": "searchinforms",
+    "English": "Search In Forms"
+  },
+  {
+    "Key": "searchVoiceMessage",
+    "English": "The message you are looking for is in this audio file"
+  },
+  {
+    "Key": "searchVoiceMessages",
+    "English": "Search in voicemails"
+  },
+  {
+    "Key": "showSocialNotifications",
+    "English": "Show Social Notifications"
+  },
+  {
+    "Key": "showProjectManagementNotifications",
+    "English": "Show Project Management Notifications"
+  },
+  {
+    "Key": "showProcessNotifications",
+    "English": "Show Process Notifications"
+  },
+  {
+    "Key": "pageDesingPermission",
+    "English": "The user does not have page design permissions."
+  },
+  {
+    "Key": "filemanagementDesingPermission",
+    "English": "The user does not have file management permissions."
+  },
+  {
+    "Key": "taskDelete",
+    "English": "task will be deleted."
+  },
+  {
+    "Key": "tasksWillDeleted",
+    "English": "Are you sure you want to delete the task?"
+  },
+  {
+    "Key": "componentSettings",
+    "English": "Component Settings"
+  },
+  {
+    "Key": "aboutComponent",
+    "English": "About Component"
+  },
+  {
+    "Key": "sureSaveChanges",
+    "English": "Are you sure you want to record the changes you have made"
+  },
+  {
+    "Key": "showDeletedNotifications",
+    "English": "Show Deleted Notifications"
+  },
+  {
+    "Key": "shareSometthing",
+    "English": "Share Something"
+  },
+  {
+    "Key": "resetPageLayout",
+    "English": "Reset Page Layout"
+  },
+  {
+    "Key": "downloadingSS",
+    "English": "Downloading the screenshot.Please Wait."
+  },
+  {
+    "Key": "showHorizontalLines",
+    "English": "Show horizontal lines"
+  },
+  {
+    "Key": "turnOnVerticalHide",
+    "English": "Turn on Vertical Hide"
+  },
+  {
+    "Key": "whichHorizontalLinelinesAreNotVisible",
+    "English": "Which horizontal line - lines are not visible"
+  },
+  {
+    "Key": "test",
     "English": ""
   }
 ]
