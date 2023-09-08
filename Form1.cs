@@ -11,14 +11,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
-
+using Newtonsoft.Json.Linq;
 
 namespace RİVERTRASLATEJSON
 {
     public partial class RIVER : Form
     {
 
-
+        string[] array = new string[] { "TR","EN","DE","IT","FR","AR","GR","AZ","FL"};
+    
         public RIVER()
         {
             InitializeComponent();
@@ -47,38 +48,14 @@ namespace RİVERTRASLATEJSON
             dataGridView1.DataSource = tbl;
             return tbl;
         }
-        //void lnglist()
-        //{
-        //    SqlDataAdapter da = new SqlDataAdapter("select * from tbllang1", con);
-        //    DataTable dt = new DataTable();
-        //    da.Fill(dt);
-        //    dataGridView1.DataSource = dt;
-        //}
+
+        
+        
         private void btnsave_Click(object sender, EventArgs e)
         {
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("insert into tbllang2(keystr,trtr,enen,dede,ıtıt,arar,frfr,flfl,grgr,azaz) values(@p1,@p2,@p3,@p4,@p5,@p6,@p7,@p8,@p9,@p10)", con);
-            //cmd.Parameters.AddWithValue("@p1", txtkey.Text);
-            //cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
-            //cmd.Parameters.AddWithValue("@p3", txten.Text);
-            //cmd.Parameters.AddWithValue("@p4", txtde.Text);
-            //cmd.Parameters.AddWithValue("@p5", txtıt.Text);
-            //cmd.Parameters.AddWithValue("@p6", txtar.Text);
-            //cmd.Parameters.AddWithValue("@p7", txtfr.Text);
-            //cmd.Parameters.AddWithValue("@p8", txtfl.Text);
-            //cmd.Parameters.AddWithValue("@p9", txtgr.Text);
-            //cmd.Parameters.AddWithValue("@p10", txtaz.Text);
-
-            ////StreamWriter sw = new StreamWriter("dosya.txt");
-            ////sw.WriteLine(txtkey.Text + ":" + txtvalue.Text);
-            ////sw.Close();
-            //cmd.ExecuteNonQuery();
-            //con.Close();
-            //lnglist();
-            //SqlCommand cmd = new SqlCommand("select * from tbllangs where keystr=@keystr");
-      
 
             //commandbuilder bizim için crud işlemlerini hazırlar ve adapter nesnesi ile ilişkilendirir.
+
             try
             {
                 commandBuilder = new SqlCommandBuilder(adapter);
@@ -91,7 +68,6 @@ namespace RİVERTRASLATEJSON
             }
 
             //try catch bloğu kullanılarak hata alındığında catch içerisinde hata mesajı ve hata kodu birlikte fırlatılmaktadır.
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -101,31 +77,10 @@ namespace RİVERTRASLATEJSON
             //list butonu ile ilişkilendirilerek buton listeleme yapabilmek için işlevsel hale getirilmiştir.
         }
 
-        private void btnupdate_Click(object sender, EventArgs e)
-        {
-            //con.Open();
-            //SqlCommand cmd = new SqlCommand("update tbllang2 set keystr=@p1,trtr=@p2,enen=@p3,dede=@p4,ıtıt=@p5,frfr=@p6,arar=@p7,grgr=@p8,azaz=@p9,flfl=@p10 where keystr=@keystr", con);
-            //cmd.Parameters.AddWithValue("@p1", txtkey.Text);
-            //cmd.Parameters.AddWithValue("@p2", txtvalue.Text);
-            //cmd.Parameters.AddWithValue("@p3", txten.Text);
-            //cmd.Parameters.AddWithValue("@p4", txtde.Text);
-            //cmd.Parameters.AddWithValue("@p5", txtıt.Text);
-            //cmd.Parameters.AddWithValue("@p6", txtfr.Text);
-            //cmd.Parameters.AddWithValue("@p7", txtar.Text);
-            //cmd.Parameters.AddWithValue("@p8", txtgr.Text);
-            //cmd.Parameters.AddWithValue("@p9", txtaz.Text);
-            //cmd.Parameters.AddWithValue("@p10", txtfl.Text);
-            //cmd.Parameters.AddWithValue("@keystr", txtkey.Text);
-            //cmd.ExecuteNonQuery();
-            //con.Close();
-            ////lnglist();
-            //MessageBox.Show("Güncellendi");
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
 
-            //search butonunun metodudur sqlcommand ile sql komutlarımız sayesinde tablonun içinde bulunan keystr ile parametre olan keystr eşleşmesi durumunda ekranda o veri dönmektedir.
+                //search butonunun metodudur sqlcommand ile sql komutlarımız sayesinde tablonun içinde bulunan keystr ile parametre olan keystr eşleşmesi durumunda ekranda o veri dönmektedir.
                 con.Open();
             
                 SqlCommand cmd = new SqlCommand("SELECT * FROM testtbl WHERE KEYSTR=@KEYSTR", con);
@@ -135,7 +90,7 @@ namespace RİVERTRASLATEJSON
                 da.Fill(dt);
                 dataGridView1.DataSource = dt;
                 MessageBox.Show("Kayıt Bulundu", "BİLGİ", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            
+                
                 con.Close();
                 //getlist();
         }
@@ -170,105 +125,95 @@ namespace RİVERTRASLATEJSON
         //sqldatareader nesnesi yardımıyla satır satır okuma işlemi yapımıştır.datareader nesnesinin sağlıklı çalışabilmesi için veritabanı bağlantısı açık kalmalıdır.
         private void btnjson_Click(object sender, EventArgs e)
         {
-            List<trtr> tr = new List<trtr>();
-            List<enen> languageDataListen = new List<enen>();
-            List<de> languageDataListde = new List<de>();
-            List<ıtıt> languageDataListıt = new List<ıtıt>();
-            List<grgr> languageDataListgr = new List<grgr>();
-            List<frfr> languageDataListfr = new List<frfr>();
-            List<flfl> languageDataListfl = new List<flfl>();
-            List<azaz> languageDataListaz = new List<azaz>();
-            List<arar> languageDataListar = new List<arar>();
+        
             con.Open();
 
-           
-            //supportlangs = ["TR",]
+            
             //sqlcommand sayesinde veritabanına gerekli komut iletilerek veri çağrılması işlemi gerçekleştirilmiştir.
             //bir veya birden fazla satır dönüleceği zaman sqlcommandın executereader metodu kullanılarak datareader türünde veri dönülmesi sağlanmaktadır.
             SqlCommand cmd = new SqlCommand("SELECT * FROM testtbl", con);
             SqlDataReader reader = cmd.ExecuteReader();
 
+            //Jobject kullanılarak istenilen json formatına geçiş sağlanmıştır jobject nesnelerini oluşturduk.
+            JObject jsonObjecttr = new JObject();
+            JObject jsonObjecten = new JObject();
+            JObject jsonObjectde = new JObject();
+            JObject jsonObjectıt = new JObject();
+            JObject jsonObjectfr = new JObject();
+            JObject jsonObjectar = new JObject();
+            JObject jsonObjectgr = new JObject();
+            JObject jsonObjectaz = new JObject();
+            JObject jsonObjectfl = new JObject();
+            
+            
+            JObject jsonObjecttrtr = new JObject();
+            JObject jsonObjectenen = new JObject();
+            JObject jsonObjectdede = new JObject();
+            JObject jsonObjectıtıt = new JObject();
+            JObject jsonObjectfrfr = new JObject();
+            JObject jsonObjectarar = new JObject();
+            JObject jsonObjectgrgr = new JObject();
+            JObject jsonObjectazaz = new JObject();
+            JObject jsonObjectflfl = new JObject();
+
+            //oluşturğumuz nesnenin içerisine lang:tr şeklinde eklememizi yaptık
+            jsonObjecttr.Add("LANG", "TR");
+            jsonObjecten.Add("LANG", "EN");
+            jsonObjectde.Add("LANG", "DE");
+            jsonObjectıt.Add("LANG", "IT");
+            jsonObjectfr.Add("LANG", "FR");
+            jsonObjectar.Add("LANG", "AR");
+            jsonObjectgr.Add("LANG", "GR");
+            jsonObjectaz.Add("LANG", "AZ");
+            jsonObjectfl.Add("LANG", "FL");
             //whle metodu koşul true olduğu sürece işleme devam edecektir.reader.read metodu kullanılarak while döngüsünün içinde bulunan koşul sağlandığı müddetçe işlem sürekli tekrar edecektir.
             while (reader.Read())
-            {
-                trtr datatr = new trtr
-                {
-                    Key = reader["keystr"].ToString(),
-                    Turkish = reader["trtr"].ToString(),
-
-                };
-                //string name = (string)jObject["keystr"]["enen"];
-
-                enen dataen = new enen
-                {
-                    Key = reader["keystr"].ToString(),
-                    English = reader["enen"].ToString(),
-
-                };
-                de datade = new de
-                {
-                    Key = reader["keystr"].ToString(),
-                    German = reader["dede"].ToString(),
-
-                };
-                ıtıt dataıt = new ıtıt
-                {
-                    Key = reader["keystr"].ToString(),
-                    Italian = reader["ıtıt"].ToString(),
-
-                };
-                frfr datafr = new frfr
-                {
-                    Key = reader["keystr"].ToString(),
-                    French = reader["frfr"].ToString(),
-
-                };
-                arar dataar = new arar
-                {
-                    Key = reader["keystr"].ToString(),
-                    Arabic = reader["arar"].ToString(),
-
-                };
-                grgr datagr = new grgr
-                {
-                    Key = reader["keystr"].ToString(),
-                    Georgia = reader["grgr"].ToString(),
-
-                };
-                azaz dataaz = new azaz
-                {
-                    Key = reader["keystr"].ToString(),
-                    Azerbajani = reader["azaz"].ToString(),
-                };
-                flfl datafl = new flfl
-                {
-                    Key = reader["keystr"].ToString(),
-                    Dutch = reader["flfl"].ToString()
-                };
-
+            { 
+                //jsonobjectler oluşturularak içeriğine reader ile okuduğumuz keystr ve value değerlerini tostring metoduyla stringe dönüştürdük.
+                Newtonsoft.Json.JsonSerializer serializer = new Newtonsoft. Json.JsonSerializer();
+          
+                jsonObjecttrtr.Add(reader["keystr"].ToString(), reader["trtr"].ToString());
+                jsonObjectenen.Add(reader["keystr"].ToString(), reader["enen"].ToString());
+                jsonObjectdede.Add(reader["keystr"].ToString(), reader["dede"].ToString());
+                jsonObjectıtıt.Add(reader["keystr"].ToString(), reader["ıtıt"].ToString());
+                jsonObjectfrfr.Add(reader["keystr"].ToString(), reader["frfr"].ToString());
+                jsonObjectarar.Add(reader["keystr"].ToString(), reader["arar"].ToString());
+                jsonObjectgrgr.Add(reader["keystr"].ToString(), reader["grgr"].ToString());
+                jsonObjectazaz.Add(reader["keystr"].ToString(), reader["azaz"].ToString());
+                jsonObjectflfl.Add(reader["keystr"].ToString(), reader["flfl"].ToString());
 
                 //okunan veriler dilleri liste türünde tuttuğumuz yerlere eklenmiştir.
-                tr.Add(datatr);
-                languageDataListen.Add(dataen);
-                languageDataListde.Add(datade);
-                languageDataListaz.Add(dataaz);
-                languageDataListfr.Add(datafr);
-                languageDataListgr.Add(datagr);
-                languageDataListar.Add(dataar);
-                languageDataListfl.Add(datafl);
+                //tr.Add(datatr)
+                //languageDataListen.Add(dataen);
 
             }
+            //ilk başta oluşturduğumuz jobject nesnesinin içeriğine data keyi ekleyerek ve aynı zamanda sonradan oluşturduğumuz jObject nesnelerini kullandık.
+            //sonradan oluşturulan jobject'ler verilerin doldurulacağı jobjectlerdir.
+            jsonObjecttr.Add("data", jsonObjecttrtr);
+            jsonObjecten.Add("data", jsonObjectenen);
+            jsonObjectde.Add("data", jsonObjectdede);
+            jsonObjectıt.Add("data", jsonObjectıtıt);
+            jsonObjectfr.Add("data", jsonObjectfrfr);
+            jsonObjectar.Add("data", jsonObjectarar);
+            jsonObjectgr.Add("data", jsonObjectgrgr);
+            jsonObjectaz.Add("data", jsonObjectazaz);
+            jsonObjectfl.Add("data", jsonObjectflfl);
 
+          
             con.Close();
 
             //okunup listelerde tuttuğumuz veriler newtonsoft.json kütüphanesi yardımıyla json formatına dönüştürülerek kaydedilmiştir.
             //JSON verisini dosyaya kaydet
-            string json = JsonConvert.SerializeObject(tr, Formatting.Indented);
-            string json1 = JsonConvert.SerializeObject(languageDataListen, Formatting.Indented);
-            string json2 = JsonConvert.SerializeObject(languageDataListde, Formatting.Indented);
-            string json3 = JsonConvert.SerializeObject(languageDataListar, Formatting.Indented);
-            string json4 = JsonConvert.SerializeObject(languageDataListaz, Formatting.Indented);
-            string json5 = JsonConvert.SerializeObject(languageDataListıt, Formatting.Indented);
+            string json = JsonConvert.SerializeObject(jsonObjecttr, Formatting.Indented);
+            string json1 = JsonConvert.SerializeObject(jsonObjecten, Formatting.Indented);
+            string json2 = JsonConvert.SerializeObject(jsonObjectde, Formatting.Indented);
+            string json3 = JsonConvert.SerializeObject(jsonObjectar, Formatting.Indented);
+            string json4 = JsonConvert.SerializeObject(jsonObjectaz, Formatting.Indented);
+            string json5 = JsonConvert.SerializeObject(jsonObjectıt, Formatting.Indented);
+            string json6 = JsonConvert.SerializeObject(jsonObjectgr, Formatting.Indented);
+            string json7 = JsonConvert.SerializeObject(jsonObjectfl, Formatting.Indented);
+            string json8 = JsonConvert.SerializeObject(jsonObjectfr, Formatting.Indented);
+
             //var x;
             // StringBuilder sb;
             // sb.Append(F);
@@ -288,109 +233,14 @@ namespace RİVERTRASLATEJSON
             File.WriteAllText("ar.json", json3);
             File.WriteAllText("az.json", json4);
             File.WriteAllText("ıt.json", json5);
-            
+            File.WriteAllText("gr.json", json6);
+            File.WriteAllText("flfl.json", json7);
+            File.WriteAllText("fr.json", json8);
+
             MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
-        //private void button3_Click(object sender, EventArgs e, string @string)
-        //{
-        //    List<trtr> tr = new List<trtr>();
-        //    List<enen> languageDataListen = new List<enen>();
-        //    List<de> languageDataListde = new List<de>();
-        //    List<ıtıt> languageDataListıt = new List<ıtıt>();
-        //    List<grgr> languageDataListgr = new List<grgr>();
-        //    List<frfr> languageDataListfr = new List<frfr>();
-        //    List<flfl> languageDataListfl = new List<flfl>();
-        //    List<azaz> languageDataListaz = new List<azaz>();
-        //    List<arar> languageDataListar = new List<arar>();
-
-        //    //supportlangs = ["TR",]
-        //    con.Open();
-        //    SqlCommand cmd = new SqlCommand("SELECT * FROM TBLLANG2", con);
-        //    SqlDataReader reader = cmd.ExecuteReader();
-
-        //    while (reader.Read())
-        //    {
-        //        trtr datatr = new trtr
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            Turkish = reader["trtr"].ToString(),
-
-        //        };
-        //        //string name = (string)jObject["keystr"]["enen"];
-
-        //        enen dataen = new enen
-        //        {
-
-        //            Key = reader["keystr"].ToString(),
-        //            English = reader["enen"].ToString(),
-
-        //        };
-        //        de datade = new de
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            German = reader["dede"].ToString(),
-
-        //        };
-        //        ıtıt dataıt = new ıtıt
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            Italian = reader["ıtıt"].ToString(),
-
-
-        //        };
-        //        frfr datafr = new frfr
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            French = reader["frfr"].ToString(),
-
-
-        //        };
-        //        arar dataar = new arar
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            Arabic = reader["arar"].ToString(),
-
-        //        };
-        //        grgr datagr = new grgr
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            Georgia = reader["grgr"].ToString(),
-
-        //        };
-        //        azaz dataaz = new azaz
-        //        {
-        //            Key = reader["keystr"].ToString(),
-        //            Azerbajani = reader["azaz"].ToString(),
-        //        };
-
-        //        tr.Add(datatr);
-        //        languageDataListen.Add(dataen);
-        //        languageDataListde.Add(datade);
-        //        languageDataListaz.Add(dataaz);
-        //        languageDataListfr.Add(datafr);
-        //        languageDataListgr.Add(datagr);
-        //        languageDataListar.Add(dataar);
-
-        //    }
-
-        //    con.Close();
-
-        //    //JSON verisini dosyaya kaydet
-        //    string json = JsonConvert.SerializeObject(tr, Formatting.Indented);
-        //    string json1 = JsonConvert.SerializeObject(languageDataListen, Formatting.Indented);
-        //    string json2 = JsonConvert.SerializeObject(languageDataListde, Formatting.Indented);
-        //    string json3 = JsonConvert.SerializeObject(languageDataListar, Formatting.Indented);
-        //    string json4 = JsonConvert.SerializeObject(languageDataListaz, Formatting.Indented);
-        //    string json5 = JsonConvert.SerializeObject(languageDataListıt, Formatting.Indented);
-
-        //    File.WriteAllText("tr.json", json);
-        //    File.WriteAllText("az.json", json4);
-        //    File.WriteAllText("en.json", json1);
-        //    File.WriteAllText("de.json", json2);
-
-        //    MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        //}
+       
 
         private void txtsearch_TextChanged(object sender, EventArgs e)
         {
@@ -400,6 +250,30 @@ namespace RİVERTRASLATEJSON
         private void button3_Click(object sender, EventArgs e)
         {
             tbl.Clear();
+        }
+
+        private void btnupdate_Click(object sender, EventArgs e)
+        {
+        //    string keystrToUpdate = txtsearch.Text; 
+        //    con.Open();
+        //    SqlCommand cmd = new SqlCommand("update testtbl set keystr=@p1,trtr=@p2,enen=@p3,dede=@p4,ıtıt=@p5,frfr=@p6,arar=@p7,grgr=@p8,azaz=@p9,flfl=@p10 where keystr=@keystr", con);
+        //    cmd.Parameters.AddWithValue("@p1", keystrToUpdate); 
+        //    cmd.Parameters.AddWithValue("@p2", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p3", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p4", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p5", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p6", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p7", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p8", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p9", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@p10", txtsearch.Text);
+        //    cmd.Parameters.AddWithValue("@keystr", keystrToUpdate); 
+        //    cmd.ExecuteNonQuery();
+        //    con.Close();
+
+        //    MessageBox.Show("Güncelleme Başarılı", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+          
         }
     }
 }

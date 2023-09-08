@@ -37,6 +37,7 @@
             this.txtsearch = new System.Windows.Forms.TextBox();
             this.btnjson = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.btnupdate = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -45,9 +46,9 @@
             this.btnsave.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnsave.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.btnsave.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnsave.Location = new System.Drawing.Point(12, 507);
+            this.btnsave.Location = new System.Drawing.Point(195, 503);
             this.btnsave.Name = "btnsave";
-            this.btnsave.Size = new System.Drawing.Size(172, 31);
+            this.btnsave.Size = new System.Drawing.Size(135, 31);
             this.btnsave.TabIndex = 4;
             this.btnsave.Text = "SAVE";
             this.btnsave.UseVisualStyleBackColor = false;
@@ -73,9 +74,9 @@
             this.button1.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.button1.Font = new System.Drawing.Font("Book Antiqua", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button1.Location = new System.Drawing.Point(190, 507);
+            this.button1.Location = new System.Drawing.Point(477, 503);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(167, 32);
+            this.button1.Size = new System.Drawing.Size(135, 31);
             this.button1.TabIndex = 3;
             this.button1.Text = "LİST";
             this.button1.UseVisualStyleBackColor = false;
@@ -86,9 +87,9 @@
             this.button2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button2.Font = new System.Drawing.Font("Book Antiqua", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button2.Location = new System.Drawing.Point(762, 507);
+            this.button2.Location = new System.Drawing.Point(900, 503);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(243, 33);
+            this.button2.Size = new System.Drawing.Size(135, 31);
             this.button2.TabIndex = 4;
             this.button2.Text = "SEARCH";
             this.button2.UseVisualStyleBackColor = false;
@@ -98,10 +99,10 @@
             // 
             this.txtsearch.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.txtsearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.txtsearch.Location = new System.Drawing.Point(1011, 507);
+            this.txtsearch.Location = new System.Drawing.Point(1041, 503);
             this.txtsearch.Multiline = true;
             this.txtsearch.Name = "txtsearch";
-            this.txtsearch.Size = new System.Drawing.Size(322, 32);
+            this.txtsearch.Size = new System.Drawing.Size(135, 31);
             this.txtsearch.TabIndex = 5;
             this.txtsearch.TextChanged += new System.EventHandler(this.txtsearch_TextChanged);
             // 
@@ -110,9 +111,9 @@
             this.btnjson.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnjson.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.btnjson.Font = new System.Drawing.Font("Book Antiqua", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnjson.Location = new System.Drawing.Point(363, 507);
+            this.btnjson.Location = new System.Drawing.Point(618, 503);
             this.btnjson.Name = "btnjson";
-            this.btnjson.Size = new System.Drawing.Size(157, 31);
+            this.btnjson.Size = new System.Drawing.Size(135, 31);
             this.btnjson.TabIndex = 6;
             this.btnjson.Text = "JSON";
             this.btnjson.UseVisualStyleBackColor = false;
@@ -123,13 +124,25 @@
             this.button3.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.button3.Font = new System.Drawing.Font("Book Antiqua", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button3.Location = new System.Drawing.Point(526, 507);
+            this.button3.Location = new System.Drawing.Point(759, 503);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(230, 32);
+            this.button3.Size = new System.Drawing.Size(135, 31);
             this.button3.TabIndex = 7;
             this.button3.Text = "List Clear";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // btnupdate
+            // 
+            this.btnupdate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.btnupdate.Font = new System.Drawing.Font("Book Antiqua", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnupdate.Location = new System.Drawing.Point(336, 504);
+            this.btnupdate.Name = "btnupdate";
+            this.btnupdate.Size = new System.Drawing.Size(135, 30);
+            this.btnupdate.TabIndex = 8;
+            this.btnupdate.Text = "Update";
+            this.btnupdate.UseVisualStyleBackColor = false;
+            this.btnupdate.Click += new System.EventHandler(this.btnupdate_Click);
             // 
             // RIVER
             // 
@@ -138,6 +151,7 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1345, 572);
+            this.Controls.Add(this.btnupdate);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.btnjson);
             this.Controls.Add(this.txtsearch);
@@ -165,6 +179,7 @@
         private System.Windows.Forms.TextBox txtsearch;
         private System.Windows.Forms.Button btnjson;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnupdate;
     }
 }
 

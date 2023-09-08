@@ -1,3838 +1,921 @@
-[
-  {
-    "Key": "loginButton",
-    "Turkish": "Giriş"
-  },
-  {
-    "Key": "userName",
-    "Turkish": "Kullanıcı Adı"
-  },
-  {
-    "Key": "pass",
-    "Turkish": "Şifre"
-  },
-  {
-    "Key": "remember",
-    "Turkish": "Beni Hatırla"
-  },
-  {
-    "Key": "forgotPass",
-    "Turkish": "Şifremi Unuttum"
-  },
-  {
-    "Key": "modules",
-    "Turkish": "Modüller"
-  },
-  {
-    "Key": "generic",
-    "Turkish": "Genel"
-  },
-  {
-    "Key": "search",
-    "Turkish": "Ara"
-  },
-  {
-    "Key": "logout",
-    "Turkish": "Çıkış"
-  },
-  {
-    "Key": "waitingJob",
-    "Turkish": "Bekleyen İşlerim"
-  },
-  {
-    "Key": "myStarted",
-    "Turkish": "Başlattıklarım"
-  },
-  {
-    "Key": "myIncluded",
-    "Turkish": "Dahil Olduklarım"
-  },
-  {
-    "Key": "myCompleted",
-    "Turkish": "Bitirdiğim İşler"
-  },
-  {
-    "Key": "jobList",
-    "Turkish": "İş Listesi"
-  },
-  {
-    "Key": "formNo",
-    "Turkish": "Form No"
-  },
-  {
-    "Key": "status",
-    "Turkish": "Durum"
-  },
-  {
-    "Key": "starter",
-    "Turkish": "Başlatan"
-  },
-  {
-    "Key": "assigned",
-    "Turkish": "Devredilen"
-  },
-  {
-    "Key": "timeoutDate",
-    "Turkish": "Zaman Aşım Tar."
-  },
-  {
-    "Key": "startDate",
-    "Turkish": "Başlama Tarihi"
-  },
-  {
-    "Key": "processing",
-    "Turkish": "İşleniyor"
-  },
-  {
-    "Key": "you",
-    "Turkish": "Siz"
-  },
-  {
-    "Key": "history",
-    "Turkish": "Tarihçe"
-  },
-  {
-    "Key": "description",
-    "Turkish": "Açıklama"
-  },
-  {
-    "Key": "date",
-    "Turkish": "Tarih"
-  },
-  {
-    "Key": "growShrink",
-    "Turkish": "Büyüt/Küçült"
-  },
-  {
-    "Key": "close",
-    "Turkish": "Kapat"
-  },
-  {
-    "Key": "gridReset",
-    "Turkish": "Grid Ayarlarını Sıfırla"
-  },
-  {
-    "Key": "columnSelect",
-    "Turkish": "Kolon Seçimi"
-  },
-  {
-    "Key": "jobName",
-    "Turkish": "İş Adı"
-  },
-  {
-    "Key": "keyword",
-    "Turkish": "Anahtar Kelime"
-  },
-  {
-    "Key": "completion",
-    "Turkish": "Tamamlanma"
-  },
-  {
-    "Key": "all",
-    "Turkish": "Hepsi"
-  },
-  {
-    "Key": "completedDate",
-    "Turkish": "Bitiş Tarihi"
-  },
-  {
-    "Key": "completions",
-    "Turkish": "Tamamlananlar"
-  },
-  {
-    "Key": "ongoing",
-    "Turkish": "Devam Edenler"
-  },
-  {
-    "Key": "formName",
-    "Turkish": "Form Adı"
-  },
-  {
-    "Key": "sunday",
-    "Turkish": "Pazar"
-  },
-  {
-    "Key": "monday",
-    "Turkish": "Pazartesi"
-  },
-  {
-    "Key": "tuesday",
-    "Turkish": "Salı"
-  },
-  {
-    "Key": "wednesday",
-    "Turkish": "Çarşamba"
-  },
-  {
-    "Key": "thursday",
-    "Turkish": "Perşembe"
-  },
-  {
-    "Key": "friday",
-    "Turkish": "Cuma"
-  },
-  {
-    "Key": "saturday",
-    "Turkish": "Cumartesi"
-  },
-  {
-    "Key": "pdfExport",
-    "Turkish": "Pdf Dışarı Aktar"
-  },
-  {
-    "Key": "sendPassword",
-    "Turkish": "Şifremi Gönder"
-  },
-  {
-    "Key": "assignedDate",
-    "Turkish": "Atama Tarihi"
-  },
-  {
-    "Key": "events",
-    "Turkish": "Eventler"
-  },
-  {
-    "Key": "new",
-    "Turkish": "Yeni"
-  },
-  {
-    "Key": "save",
-    "Turkish": "Kaydet"
-  },
-  {
-    "Key": "formula",
-    "Turkish": "Formül"
-  },
-  {
-    "Key": "selectDataSource",
-    "Turkish": "DataSource Seçiniz"
-  },
-  {
-    "Key": "requiredField",
-    "Turkish": "Zorunlu Alan"
-  },
-  {
-    "Key": "suffix",
-    "Turkish": "Son Ek"
-  },
-  {
-    "Key": "valueColumn",
-    "Turkish": "Değer Kolonu"
-  },
-  {
-    "Key": "showLength",
-    "Turkish": "Sütunlardaki Görev Sayısını Göster"
-  },
-  {
-    "Key": "clearButton",
-    "Turkish": "Temizle Butonu"
-  },
-  {
-    "Key": "allCaps",
-    "Turkish": "Hepsi Büyük Harf"
-  },
-  {
-    "Key": "autoAsc",
-    "Turkish": "Otomatik Artan"
-  },
-  {
-    "Key": "width",
-    "Turkish": "Genişlik"
-  },
-  {
-    "Key": "length",
-    "Turkish": "Uzunluk"
-  },
-  {
-    "Key": "functions",
-    "Turkish": "Fonksiyonlar"
-  },
-  {
-    "Key": "selectElement",
-    "Turkish": "Element Seçiniz"
-  },
-  {
-    "Key": "selectColumn",
-    "Turkish": "Kolon Seçiniz"
-  },
-  {
-    "Key": "edit",
-    "Turkish": "Düzenle"
-  },
-  {
-    "Key": "changeEventActions",
-    "Turkish": "Etkinlik Eylemlerini Değiştir"
-  },
-  {
-    "Key": "barcode",
-    "Turkish": "Barkod"
-  },
-  {
-    "Key": "systemInfo",
-    "Turkish": "Sistem Bilgi"
-  },
-  {
-    "Key": "prefix",
-    "Turkish": "Ön Ek"
-  },
-  {
-    "Key": "max",
-    "Turkish": "Maksimum"
-  },
-  {
-    "Key": "showMinMaxInfo",
-    "Turkish": "Minimum ve Maksimum bilgisini görüntüle"
-  },
-  {
-    "Key": "selectUser",
-    "Turkish": "Kullanıcı Seçiniz"
-  },
-  {
-    "Key": "spinButton",
-    "Turkish": "Spin Butonu"
-  },
-  {
-    "Key": "numberIncDecButton",
-    "Turkish": "Sayı Artır-Azalt Butonu"
-  },
-  {
-    "Key": "decimal",
-    "Turkish": "Ondalık Sayı"
-  },
-  {
-    "Key": "numeral",
-    "Turkish": "Rakam"
-  },
-  {
-    "Key": "wrongFormat",
-    "Turkish": "hatalı format girdiniz"
-  },
-  {
-    "Key": "height",
-    "Turkish": "Yükseklik"
-  },
-  {
-    "Key": "microphone",
-    "Turkish": "Mikrofon"
-  },
-  {
-    "Key": "notifyDataReset",
-    "Turkish": "Data Sıfırlandı"
-  },
-  {
-    "Key": "data",
-    "Turkish": "Veriler"
-  },
-  {
-    "Key": "dynamicData",
-    "Turkish": "Dinamik Veri"
-  },
-  {
-    "Key": "manualData",
-    "Turkish": "Manuel Veri"
-  },
-  {
-    "Key": "selectDataGrid",
-    "Turkish": "Datagrid Seçiniz"
-  },
-  {
-    "Key": "overrideUserChange",
-    "Turkish": "Kullanıcı değişikliklerini ez"
-  },
-  {
-    "Key": "textColumn",
-    "Turkish": "Text Kolonu"
-  },
-  {
-    "Key": "makeInitialValue",
-    "Turkish": "İlk Değer Varsayılan Olsun"
-  },
-  {
-    "Key": "undo",
-    "Turkish": "Geri Al"
-  },
-  {
-    "Key": "copy",
-    "Turkish": "Kopyala"
-  },
-  {
-    "Key": "delete",
-    "Turkish": "Sil"
-  },
-  {
-    "Key": "cancel",
-    "Turkish": "Vazgeç"
-  },
-  {
-    "Key": "languageSettings",
-    "Turkish": "Dil Ayarları"
-  },
-  {
-    "Key": "messageSqlLinkDeleted",
-    "Turkish": "Manuel veri eklediğiniz için sql script ve bağlantı adresi silinecektir! Devam edilsin mi?"
-  },
-  {
-    "Key": "permissions",
-    "Turkish": "İzinler"
-  },
-  {
-    "Key": "objectid",
-    "Turkish": "Nesne ID"
-  },
-  {
-    "Key": "fontSize",
-    "Turkish": "Yazı Boyutu"
-  },
-  {
-    "Key": "fontWidth",
-    "Turkish": "Yazı Genişliği"
-  },
-  {
-    "Key": "fontStyle",
-    "Turkish": "Yazı Stili"
-  },
-  {
-    "Key": "underline",
-    "Turkish": "Altı Çizili"
-  },
-  {
-    "Key": "textColor",
-    "Turkish": "Yazı Rengi"
-  },
-  {
-    "Key": "visibility",
-    "Turkish": "Görünürlük"
-  },
-  {
-    "Key": "textAlignment",
-    "Turkish": "Yazı Hizalama"
-  },
-  {
-    "Key": "settings",
-    "Turkish": "Ayarlar"
-  },
-  {
-    "Key": "messageUnsaved",
-    "Turkish": "Yaptığınız değişikleri kaydetmeden çıkmak istediğinizden emin misiniz?"
-  },
-  {
-    "Key": "warning",
-    "Turkish": "Uyarı!"
-  },
-  {
-    "Key": "userAuthorizations",
-    "Turkish": "Kullanıcı Yetkileri"
-  },
-  {
-    "Key": "formPreferences",
-    "Turkish": "Form Tercihler"
-  },
-  {
-    "Key": "formOpeningevent",
-    "Turkish": "Form Açma Olayı"
-  },
-  {
-    "Key": "chooseConnectionAddress",
-    "Turkish": "Bağlantı Adresi Seçiniz"
-  },
-  {
-    "Key": "selectPriorty",
-    "Turkish": " Öncelik Seçiniz"
-  },
-  {
-    "Key": "loadingEditor",
-    "Turkish": "Editor Yükleniyor ..."
-  },
-  {
-    "Key": "showAddButton",
-    "Turkish": "Sütun Ekleme Butonunu Göster "
-  },
-  {
-    "Key": "update",
-    "Turkish": "Güncelle"
-  },
-  {
-    "Key": "connectionID",
-    "Turkish": "Bağlantı ID"
-  },
-  {
-    "Key": "formPreview",
-    "Turkish": "Form Önizleme"
-  },
-  {
-    "Key": "nameDisplayedform",
-    "Turkish": "Görüntülenen formun adı"
-  },
-  {
-    "Key": "formNamevariable",
-    "Turkish": "Form Adı Değişkeni"
-  },
-  {
-    "Key": "category",
-    "Turkish": "Kategori"
-  },
-  {
-    "Key": "formColor",
-    "Turkish": "Form Rengi"
-  },
-  {
-    "Key": "generalForm",
-    "Turkish": "Genel Form"
-  },
-  {
-    "Key": "saveForm",
-    "Turkish": "Formu Kaydet"
-  },
-  {
-    "Key": "messageNeworupdate",
-    "Turkish": "Var olan form üzerinde yaptığınız değişiklikler silenecektir. Devam edilsin mi?"
-  },
-  {
-    "Key": "messageDelete",
-    "Turkish": "Formu silmek istediğinize emin misiniz?"
-  },
-  {
-    "Key": "toastDeleted",
-    "Turkish": "Form Silindi"
-  },
-  {
-    "Key": "toastError",
-    "Turkish": "Üzgünüz, işlem sırasında bir hata oluştu"
-  },
-  {
-    "Key": "alertDifferentID",
-    "Turkish": "Bu id başka bir yerde kullanılıyor, lütfen farklı bir id belirtiniz."
-  },
-  {
-    "Key": "confirmChanges",
-    "Turkish": "Değişiklikleri onaylayın"
-  },
-  {
-    "Key": "toastUserpermission",
-    "Turkish": "Kullanıcının form tasarım izni bulunmamaktadır."
-  },
-  {
-    "Key": "toastCodeeditor",
-    "Turkish": "Codeditor zaten mevcut"
-  },
-  {
-    "Key": "messageDeletesure",
-    "Turkish": "Bu component içerisindeki elemanlar silinecektir"
-  },
-  {
-    "Key": "messageSure",
-    "Turkish": "Emin misiniz?"
-  },
-  {
-    "Key": "Success",
-    "Turkish": "Başarılı"
-  },
-  {
-    "Key": "Error",
-    "Turkish": "Hata"
-  },
-  {
-    "Key": "toastFormupdate",
-    "Turkish": "Form Güncellendi"
-  },
-  {
-    "Key": "toastMistake",
-    "Turkish": "Üzgünüz, işlem sırasında bir hata oluştu"
-  },
-  {
-    "Key": "toastSaved",
-    "Turkish": "Kaydedildi"
-  },
-  {
-    "Key": "toastCopied",
-    "Turkish": "Kopyalandı"
-  },
-  {
-    "Key": "toastEmptyFormMessage",
-    "Turkish": "Henüz form elemanları eklenmedi"
-  },
-  {
-    "Key": "toastGiveName",
-    "Turkish": "Lütfen formunuza bir isim veriniz"
-  },
-  {
-    "Key": "toastGiveVariableName",
-    "Turkish": "Lütfen form adı değişkenine bir isim veriniz"
-  },
-  {
-    "Key": "toastVariableNameNumberWarning",
-    "Turkish": "Değişken adı sayı ile başlayamaz"
-  },
-  {
-    "Key": "formCopy",
-    "Turkish": "Formu Kopyala"
-  },
-  {
-    "Key": "messageButtonDelete",
-    "Turkish": "Butonu silmek istediğinizden emin misiniz?"
-  },
-  {
-    "Key": "noDataFound",
-    "Turkish": "Veri Bulunamadı"
-  },
-  {
-    "Key": "language",
-    "Turkish": "Dil"
-  },
-  {
-    "Key": "filterDatagrid",
-    "Turkish": "Datagrid Filtreleme"
-  },
-  {
-    "Key": "addManualData",
-    "Turkish": "Çalışma Anında Manual Veri Eklensin"
-  },
-  {
-    "Key": "dateFormat",
-    "Turkish": "Tarih Formatı"
-  },
-  {
-    "Key": "messageSqlLinkDelete",
-    "Turkish": "Manuel veri eklediğiniz için sql script ve bağlantı adresi silinecektir! Devam edilsin mi?"
-  },
-  {
-    "Key": "timeOption",
-    "Turkish": "Saat Seçeneği"
-  },
-  {
-    "Key": "defaultTodaysDate",
-    "Turkish": "Varsayılan bugünün tarihi olsun"
-  },
-  {
-    "Key": "dateRange",
-    "Turkish": "Tarih Aralığı"
-  },
-  {
-    "Key": "minToday",
-    "Turkish": "Minimum Bugün"
-  },
-  {
-    "Key": "maxToday",
-    "Turkish": "Maximum Bugün"
-  },
-  {
-    "Key": "dateRangeDay",
-    "Turkish": "Tarih Aralığı (Gün)"
-  },
-  {
-    "Key": "enterDateRangeValue",
-    "Turkish": "Tarih aralığı değerini giriniz"
-  },
-  {
-    "Key": "imageIdColumn",
-    "Turkish": "Id Kolonu"
-  },
-  {
-    "Key": "statusSettings",
-    "Turkish": "Durum Ayarları"
-  },
-  {
-    "Key": "active",
-    "Turkish": "Aktif"
-  },
-  {
-    "Key": "passive",
-    "Turkish": "Pasif"
-  },
-  {
-    "Key": "enable",
-    "Turkish": "Etkin"
-  },
-  {
-    "Key": "disable",
-    "Turkish": "Devre Dışı"
-  },
-  {
-    "Key": "visible",
-    "Turkish": "Görünür"
-  },
-  {
-    "Key": "invisible",
-    "Turkish": "Görünmez"
-  },
-  {
-    "Key": "items",
-    "Turkish": "Öğeler"
-  },
-  {
-    "Key": "showItems",
-    "Turkish": "Öğeleri Görüntüle"
-  },
-  {
-    "Key": "array",
-    "Turkish": "Diziliş"
-  },
-  {
-    "Key": "letLabelAppear",
-    "Turkish": "Etiket Göster"
-  },
-  {
-    "Key": "add",
-    "Turkish": "Ekle"
-  },
-  {
-    "Key": "horizontal",
-    "Turkish": "Yatay"
-  },
-  {
-    "Key": "vertical",
-    "Turkish": "Dikey"
-  },
-  {
-    "Key": "text",
-    "Turkish": "Metin"
-  },
-  {
-    "Key": "alertFillRequiredFields",
-    "Turkish": "Lütfen zorunlu alanları doldurun"
-  },
-  {
-    "Key": "alertSignatureField",
-    "Turkish": "İmza alanı boş olamaz"
-  },
-  {
-    "Key": "messageApproveTransaction",
-    "Turkish": "İşlemi onaylıyor musunuz?"
-  },
-  {
-    "Key": "button",
-    "Turkish": "Buton"
-  },
-  {
-    "Key": "reasonforRefusal",
-    "Turkish": "Reddetme Sebebi"
-  },
-  {
-    "Key": "enterReasonRejection",
-    "Turkish": "Reddetme Sebebini Giriniz"
-  },
-  {
-    "Key": "reject",
-    "Turkish": "Reddet"
-  },
-  {
-    "Key": "addDeleteButton",
-    "Turkish": "Buton Ekle/Sil"
-  },
-  {
-    "Key": "showBorder",
-    "Turkish": "Kenarlık Görünsün"
-  },
-  {
-    "Key": "buttons",
-    "Turkish": "Butonlar"
-  },
-  {
-    "Key": "clean",
-    "Turkish": "Temizle"
-  },
-  {
-    "Key": "buttonSettings",
-    "Turkish": "Buton Ayarları"
-  },
-  {
-    "Key": "saveLocation",
-    "Turkish": "Konum Kaydedilsin"
-  },
-  {
-    "Key": "paymentButton",
-    "Turkish": "Ödeme Butonu"
-  },
-  {
-    "Key": "paymentProvider",
-    "Turkish": "Ödeme Sağlayıcı"
-  },
-  {
-    "Key": "price",
-    "Turkish": "Fiyat"
-  },
-  {
-    "Key": "numberOfInstallments",
-    "Turkish": "Taksit Sayısı"
-  },
-  {
-    "Key": "descriptionField",
-    "Turkish": "Açıklama Alanı"
-  },
-  {
-    "Key": "current",
-    "Turkish": "Cari"
-  },
-  {
-    "Key": "currentForm",
-    "Turkish": "Cari Formu"
-  },
-  {
-    "Key": "name",
-    "Turkish": "İsim"
-  },
-  {
-    "Key": "surname",
-    "Turkish": "Soyadı"
-  },
-  {
-    "Key": "country",
-    "Turkish": "Ülke"
-  },
-  {
-    "Key": "city",
-    "Turkish": "Şehir"
-  },
-  {
-    "Key": "address",
-    "Turkish": "Adres"
-  },
-  {
-    "Key": "authorizations",
-    "Turkish": "Yetkiler"
-  },
-  {
-    "Key": "users",
-    "Turkish": "Kullanıcılar"
-  },
-  {
-    "Key": "user",
-    "Turkish": "Kullanıcı"
-  },
-  {
-    "Key": "givePermission",
-    "Turkish": "Yetki Ver"
-  },
-  {
-    "Key": "groups",
-    "Turkish": "Gruplar"
-  },
-  {
-    "Key": "group",
-    "Turkish": "Grup"
-  },
-  {
-    "Key": "saveandSend",
-    "Turkish": "Kaydet ve Gönder"
-  },
-  {
-    "Key": "approve",
-    "Turkish": "Onayla"
-  },
-  {
-    "Key": "sendBack",
-    "Turkish": "Geri Gönder"
-  },
-  {
-    "Key": "deslineAndEnd",
-    "Turkish": "Reddet ve Bitir"
-  },
-  {
-    "Key": "complete",
-    "Turkish": "Tamamla"
-  },
-  {
-    "Key": "blue",
-    "Turkish": "Mavi"
-  },
-  {
-    "Key": "grey",
-    "Turkish": "Gri"
-  },
-  {
-    "Key": "green",
-    "Turkish": "Yeşil"
-  },
-  {
-    "Key": "red",
-    "Turkish": "Kırmızı"
-  },
-  {
-    "Key": "left",
-    "Turkish": "Sol"
-  },
-  {
-    "Key": "right",
-    "Turkish": "Sağ"
-  },
-  {
-    "Key": "color",
-    "Turkish": "Renk"
-  },
-  {
-    "Key": "symbol",
-    "Turkish": "Simge"
-  },
-  {
-    "Key": "position",
-    "Turkish": "Pozisyon"
-  },
-  {
-    "Key": "action",
-    "Turkish": "Aksiyon"
-  },
-  {
-    "Key": "total",
-    "Turkish": "Toplam"
-  },
-  {
-    "Key": "filePath",
-    "Turkish": "Dosya Yolu"
-  },
-  {
-    "Key": "fileName",
-    "Turkish": "Dosya Adı"
-  },
-  {
-    "Key": "fileUpload",
-    "Turkish": "Dosya Yükle"
-  },
-  {
-    "Key": "choose",
-    "Turkish": "Seç"
-  },
-  {
-    "Key": "updateData",
-    "Turkish": "Veriyi Güncelle"
-  },
-  {
-    "Key": "preview",
-    "Turkish": "Ön İzleme"
-  },
-  {
-    "Key": "show",
-    "Turkish": "Göster"
-  },
-  {
-    "Key": "columns",
-    "Turkish": "Kolonlar"
-  },
-  {
-    "Key": "changeEvent",
-    "Turkish": "Etkinliği Değiştir"
-  },
-  {
-    "Key": "columnSettings",
-    "Turkish": "Kolon Ayarları"
-  },
-  {
-    "Key": "columnName",
-    "Turkish": "Kolon Adı"
-  },
-  {
-    "Key": "deleteColumn",
-    "Turkish": "Kolonu Sil"
-  },
-  {
-    "Key": "columnSqlScripts",
-    "Turkish": "Kolon Sql Scriptleri"
-  },
-  {
-    "Key": "imageNameColumn",
-    "Turkish": "Dosya İsim Kolonu"
-  },
-  {
-    "Key": "columnLanguageSetting",
-    "Turkish": "Kolon Dil Ayarı"
-  },
-  {
-    "Key": "dataSource",
-    "Turkish": "Veri kaynağı"
-  },
-  {
-    "Key": "filter",
-    "Turkish": "Filtre"
-  },
-  {
-    "Key": "reset",
-    "Turkish": "Sıfırla"
-  },
-  {
-    "Key": "column",
-    "Turkish": "Kolon"
-  },
-  {
-    "Key": "image",
-    "Turkish": "Resim"
-  },
-  {
-    "Key": "searchLocation",
-    "Turkish": "Konum Ara..."
-  },
-  {
-    "Key": "draggable",
-    "Turkish": "Sürüklenebilir"
-  },
-  {
-    "Key": "usersCanChange",
-    "Turkish": "Kullanıcılar Değiştirebilsin"
-  },
-  {
-    "Key": "multiMarker",
-    "Turkish": "Çoklu İşaretleyici"
-  },
-  {
-    "Key": "markerLimit",
-    "Turkish": "İşaret Limiti (0: Limit Yok)"
-  },
-  {
-    "Key": "meetingType",
-    "Turkish": "Toplantı Türü"
-  },
-  {
-    "Key": "meetingName",
-    "Turkish": "Toplantı Adı"
-  },
-  {
-    "Key": "loadingFiles",
-    "Turkish": "Dosyalar yükleniyor..."
-  },
-  {
-    "Key": "fileSizeExceeded",
-    "Turkish": "Dosya boyutu aşıldı"
-  },
-  {
-    "Key": "filesLoaded",
-    "Turkish": "Dosyalar yüklendi"
-  },
-  {
-    "Key": "condition",
-    "Turkish": "Koşul"
-  },
-  {
-    "Key": "value",
-    "Turkish": "Değer"
-  },
-  {
-    "Key": "connectionAdress",
-    "Turkish": "Bağlantı Adresi"
-  },
-  {
-    "Key": "imageTypeColumn",
-    "Turkish": "Dosya Tipi kolonu"
-  },
-  {
-    "Key": "visibleColumn",
-    "Turkish": "Görünür Kolon"
-  },
-  {
-    "Key": "selectionMode",
-    "Turkish": "Seçim Modu"
-  },
-  {
-    "Key": "selectMode",
-    "Turkish": "Mod Seçiniz"
-  },
-  {
-    "Key": "datagridFiltering",
-    "Turkish": "Datagrid Filtering"
-  },
-  {
-    "Key": "imageDataColumn",
-    "Turkish": "Dosya kolonu"
-  },
-  {
-    "Key": "selectDataColumn",
-    "Turkish": "Datagrid Kolonu Seçiniz"
-  },
-  {
-    "Key": "dataFormat",
-    "Turkish": "Veri Formatı"
-  },
-  {
-    "Key": "photoPreview",
-    "Turkish": "Fotoğraf Ön İzleme"
-  },
-  {
-    "Key": "videoPreview",
-    "Turkish": "Video Ön İzleme"
-  },
-  {
-    "Key": "displayPhoto",
-    "Turkish": "Fotoğraf Görüntülensin"
-  },
-  {
-    "Key": "displayVideo",
-    "Turkish": "Video Görüntülensin"
-  },
-  {
-    "Key": "imageColumn",
-    "Turkish": "Resim Kolonu"
-  },
-  {
-    "Key": "videoColumn",
-    "Turkish": "Video Kolonu"
-  },
-  {
-    "Key": "columnNameAppear",
-    "Turkish": "Görünecek kolon adı"
-  },
-  {
-    "Key": "selected",
-    "Turkish": "Seçilenler"
-  },
-  {
-    "Key": "inStock",
-    "Turkish": "Stokta Olanlar"
-  },
-  {
-    "Key": "gallery",
-    "Turkish": "Galeri"
-  },
-  {
-    "Key": "dollar",
-    "Turkish": "Dolar"
-  },
-  {
-    "Key": "sterling",
-    "Turkish": "Sterlin"
-  },
-  {
-    "Key": "underPhoto",
-    "Turkish": "Fotoğrafın Altı"
-  },
-  {
-    "Key": "topPhoto",
-    "Turkish": "Fotoğrafın Üstü"
-  },
-  {
-    "Key": "byCategory",
-    "Turkish": "Kategoriye Göre"
-  },
-  {
-    "Key": "dashboardShowHide",
-    "Turkish": "Dashboard Göster/Gizle"
-  },
-  {
-    "Key": "showDetail",
-    "Turkish": "Detayı Görüntüle"
-  },
-  {
-    "Key": "hideDetail",
-    "Turkish": "Detayı Gizle"
-  },
-  {
-    "Key": "decrease",
-    "Turkish": "Azalt"
-  },
-  {
-    "Key": "increase",
-    "Turkish": "Arttır"
-  },
-  {
-    "Key": "watch",
-    "Turkish": "İzle"
-  },
-  {
-    "Key": "watchMovie",
-    "Turkish": "Filmi İzle"
-  },
-  {
-    "Key": "noRecordsFound",
-    "Turkish": "Kayıt Bulunamadı!"
-  },
-  {
-    "Key": "appearance",
-    "Turkish": "Görünüm"
-  },
-  {
-    "Key": "numberofColumns",
-    "Turkish": "Kolon Sayısı"
-  },
-  {
-    "Key": "pagingRecords",
-    "Turkish": "Sayfalama Kayıt Sayısı"
-  },
-  {
-    "Key": "detailLocation",
-    "Turkish": "Detay Konumu"
-  },
-  {
-    "Key": "hideImages",
-    "Turkish": "Resimleri Gizle"
-  },
-  {
-    "Key": "quantityCategoryDisable",
-    "Turkish": "Adet Arttığında Kategori Devre Dışı Bırakılsın"
-  },
-  {
-    "Key": "general",
-    "Turkish": "Genel"
-  },
-  {
-    "Key": "idColumn",
-    "Turkish": "Id Kolonu"
-  },
-  {
-    "Key": "availableQuantity",
-    "Turkish": "Mevcut Miktar"
-  },
-  {
-    "Key": "categoryColumn",
-    "Turkish": "Kategori Kolonu"
-  },
-  {
-    "Key": "photoColumn",
-    "Turkish": "Fotoğraf Kolonu"
-  },
-  {
-    "Key": "titleColumn",
-    "Turkish": "Başlık Kolonu"
-  },
-  {
-    "Key": "priceColumn",
-    "Turkish": "Fiyat Kolonu"
-  },
-  {
-    "Key": "updatablePrice",
-    "Turkish": "Güncellenebilir Fiyat"
-  },
-  {
-    "Key": "videoGallery",
-    "Turkish": "Video Galeri"
-  },
-  {
-    "Key": "uniqueComponent",
-    "Turkish": "Benzersiz Bileşen"
-  },
-  {
-    "Key": "showVariant",
-    "Turkish": "Varyantı Göster"
-  },
-  {
-    "Key": "transferTotalAmount",
-    "Turkish": "Toplam Tutarı Aktar"
-  },
-  {
-    "Key": "connectionAddress",
-    "Turkish": "Bağlantı Adresi"
-  },
-  {
-    "Key": "title",
-    "Turkish": "Başlık"
-  },
-  {
-    "Key": "hide",
-    "Turkish": "Gizle"
-  },
-  {
-    "Key": "detail",
-    "Turkish": "Detay"
-  },
-  {
-    "Key": "priceQuery",
-    "Turkish": "Fiyat Sorgusu"
-  },
-  {
-    "Key": "quantityQuery",
-    "Turkish": "Miktar Sorgusu"
-  },
-  {
-    "Key": "uniqueComponentError",
-    "Turkish": "Benzersiz Bileşen Hatası "
-  },
-  {
-    "Key": "joinColumn",
-    "Turkish": "Join Kolonu"
-  },
-  {
-    "Key": "nameColumn",
-    "Turkish": "İsim Kolonu"
-  },
-  {
-    "Key": "variantScript",
-    "Turkish": "Varyant Script"
-  },
-  {
-    "Key": "variantImages",
-    "Turkish": "Varyant Resimler"
-  },
-  {
-    "Key": "variantJoinColumn",
-    "Turkish": "Varyant Join Kolonu"
-  },
-  {
-    "Key": "showAll",
-    "Turkish": "Tümünü Göster"
-  },
-  {
-    "Key": "showSelected",
-    "Turkish": "Seçilenleri Göster"
-  },
-  {
-    "Key": "showByCategory",
-    "Turkish": "Kategoriye Göre Göster"
-  },
-  {
-    "Key": "showInStock",
-    "Turkish": "Stokta Olanları Göster"
-  },
-  {
-    "Key": "notYetAdded",
-    "Turkish": "Henüz eklenmedi"
-  },
-  {
-    "Key": "startingDate",
-    "Turkish": "Başlama Tarihi"
-  },
-  {
-    "Key": "endDate",
-    "Turkish": "Bitiş Tarihi"
-  },
-  {
-    "Key": "themeFeatures",
-    "Turkish": "Tema Özellikleri"
-  },
-  {
-    "Key": "menu",
-    "Turkish": "Katalog"
-  },
-  {
-    "Key": "selectMenu",
-    "Turkish": "Menü Seçiniz"
-  },
-  {
-    "Key": "selectSubmenu",
-    "Turkish": "Alt Menü Seçiniz"
-  },
-  {
-    "Key": "selectMenuBrowser",
-    "Turkish": "Menü Tarayıcısını Seçin"
-  },
-  {
-    "Key": "nameElement",
-    "Turkish": "Ad Elementi"
-  },
-  {
-    "Key": "subject",
-    "Turkish": "Konu"
-  },
-  {
-    "Key": "picture",
-    "Turkish": "Resim"
-  },
-  {
-    "Key": "pictureElement",
-    "Turkish": "Resim Elementi"
-  },
-  {
-    "Key": "startingDateElement",
-    "Turkish": "Başlama Tarihi Elementi"
-  },
-  {
-    "Key": "endDateElement",
-    "Turkish": "Bitiş Tarihi Elementi"
-  },
-  {
-    "Key": "usersCanEdit",
-    "Turkish": "Kullanıcılar Düzenleyebilsin"
-  },
-  {
-    "Key": "thisPropertyCant",
-    "Turkish": "Bu özellik veriler SQL'den alınıyorsa KULLANILAMAZ"
-  },
-  {
-    "Key": "calendarDisplay",
-    "Turkish": "Takvim Gösterim Özellikleri"
-  },
-  {
-    "Key": "monthly",
-    "Turkish": "Aylık"
-  },
-  {
-    "Key": "generalDisplayLunarDays",
-    "Turkish": "Ay Günlerininin Genel Gösterimi"
-  },
-  {
-    "Key": "agenda",
-    "Turkish": "Ajanda"
-  },
-  {
-    "Key": "listofWeeklyEvents",
-    "Turkish": "Haftalık Eventlerin Listesi"
-  },
-  {
-    "Key": "weekly",
-    "Turkish": "Haftalık"
-  },
-  {
-    "Key": "weekend",
-    "Turkish": "Hafta sonu"
-  },
-  {
-    "Key": "generalDisplayWeekDays",
-    "Turkish": "Hafta Günlerinin Genel Gösterimi"
-  },
-  {
-    "Key": "showWeekendDaysWhileWeekdays",
-    "Turkish": "Hafta Günleri Gösterilken Hafta Sonu Günlerini de Göster"
-  },
-  {
-    "Key": "daily",
-    "Turkish": "Günlük"
-  },
-  {
-    "Key": "listofDailyEvents",
-    "Turkish": "Günlük Eventlerin Listesi"
-  },
-  {
-    "Key": "startTime",
-    "Turkish": "Başlangıç Saati"
-  },
-  {
-    "Key": "endTime",
-    "Turkish": "Bitiş Saati"
-  },
-  {
-    "Key": "changeDefaultColor",
-    "Turkish": "Varsayılan Renkleri Değiştir"
-  },
-  {
-    "Key": "weekdayColor",
-    "Turkish": "Hafta İçi Rengi"
-  },
-  {
-    "Key": "weekendColor",
-    "Turkish": "Hafta Sonu Rengi"
-  },
-  {
-    "Key": "eventColor",
-    "Turkish": "Event Rengi"
-  },
-  {
-    "Key": "groupBySql",
-    "Turkish": "Sql'ye Göre Gruplandır"
-  },
-  {
-    "Key": "groupColumnName",
-    "Turkish": "Grup Kolon Adı"
-  },
-  {
-    "Key": "assignedColumnName",
-    "Turkish": "Atanmış Kolon Adı"
-  },
-  {
-    "Key": "taskPriortiyColumnName",
-    "Turkish": "Görev Önceliği Kolon Adı"
-  },
-  {
-    "Key": "taskSubjectColumnName",
-    "Turkish": "Görev Konusu Kolon Adı"
-  },
-  {
-    "Key": "taskDetailColumnName",
-    "Turkish": "Görev Ayrıntısı Sütun Adı"
-  },
-  {
-    "Key": "taskQuery",
-    "Turkish": "Görev Sorgusu"
-  },
-  {
-    "Key": "taskKeyExpression",
-    "Turkish": "Görev Anahtarı İfadesi"
-  },
-  {
-    "Key": "taskTitleExpression",
-    "Turkish": "Görev Başlığı İfadesi"
-  },
-  {
-    "Key": "taskStartDateExpression",
-    "Turkish": "Görev Başlangıç Tarihi İfadesi"
-  },
-  {
-    "Key": "taskEndDateName",
-    "Turkish": "Görev Bitiş Tarihi Adı"
-  },
-  {
-    "Key": "taskParentExpression",
-    "Turkish": "Görev Üst İfadesi"
-  },
-  {
-    "Key": "taskProgressExpression",
-    "Turkish": "Görev İlerleme İfadesi"
-  },
-  {
-    "Key": "taskColorExpression",
-    "Turkish": "Görev Rengi İfadesi"
-  },
-  {
-    "Key": "taskConnections",
-    "Turkish": "Görev Bağlantıları"
-  },
-  {
-    "Key": "diagramClear",
-    "Turkish": "Diyagramı temizlemek istediğinizden emin misiniz? Bu işlem geri alınamaz."
-  },
-  {
-    "Key": "uniqueComponentMenuCloneWarning",
-    "Turkish": "Lütfen kopyalamadan önce benzersiz bileşeni değiştiriniz."
-  },
-  {
-    "Key": "filesLoading",
-    "Turkish": "Dosyalar yükleniyor..."
-  },
-  {
-    "Key": "couldnotbeLoaded",
-    "Turkish": "\"KB) yüklenemedi."
-  },
-  {
-    "Key": "fileSizeLimit",
-    "Turkish": "( Dosya Boyutu sınırı"
-  },
-  {
-    "Key": "filesUploaded",
-    "Turkish": "Dosyalar yüklendi"
-  },
-  {
-    "Key": "filesWillDeleted",
-    "Turkish": "Dosyalar Silinecek!"
-  },
-  {
-    "Key": "filesSureDelete",
-    "Turkish": "Dosyaları silmek istediğinize emin misiniz?"
-  },
-  {
-    "Key": "fileDelete",
-    "Turkish": "Dosyayı silmek istiyor musunuz?"
-  },
-  {
-    "Key": "uploadedPhotos",
-    "Turkish": "Yüklenen Fotoğraflar"
-  },
-  {
-    "Key": "maxSize",
-    "Turkish": "Maksimum Boyut"
-  },
-  {
-    "Key": "center",
-    "Turkish": "Orta"
-  },
-  {
-    "Key": "size",
-    "Turkish": "Boyut"
-  },
-  {
-    "Key": "canItBeUpdated",
-    "Turkish": "Yüklemeden sonra güncellenebilsin mi ?"
-  },
-  {
-    "Key": "uploadedFiles",
-    "Turkish": "Yüklenen Dosyalar"
-  },
-  {
-    "Key": "type",
-    "Turkish": "Tip"
-  },
-  {
-    "Key": "showdeleteOldData",
-    "Turkish": "Eski Veriler İçin Silinme Seçenekleri"
-  },
-  {
-    "Key": "videoBrowser",
-    "Turkish": "Tarayıcınız video etiketini desteklemiyor."
-  },
-  {
-    "Key": "deleted",
-    "Turkish": "Silindi"
-  },
-  {
-    "Key": "theseComponentElementsDeleted",
-    "Turkish": "Bu bileşen elemanları silinecektir."
-  },
-  {
-    "Key": "invalidTarget",
-    "Turkish": "Geçersiz hedef"
-  },
-  {
-    "Key": "ridge",
-    "Turkish": "Düz Çizgi"
-  },
-  {
-    "Key": "dotted",
-    "Turkish": "Nokta"
-  },
-  {
-    "Key": "dashed",
-    "Turkish": "Çizgili"
-  },
-  {
-    "Key": "addRowColumn",
-    "Turkish": "Satır/Sütun Ekle"
-  },
-  {
-    "Key": "dataPagingShow",
-    "Turkish": "Veriler Sayfalar Halinde Getirilsin"
-  },
-  {
-    "Key": "borderType",
-    "Turkish": "Kenarlık Tipi"
-  },
-  {
-    "Key": "maxCharacters",
-    "Turkish": "Maksimum Karakter Sayısı"
-  },
-  {
-    "Key": "edgeThickness",
-    "Turkish": "Kenar Kalınlığı"
-  },
-  {
-    "Key": "lineSpacing",
-    "Turkish": "Satırlar Arası Boşluk"
-  },
-  {
-    "Key": "settingsRowColumn",
-    "Turkish": "Satır/Sütun Ayarları"
-  },
-  {
-    "Key": "addRow",
-    "Turkish": "Satır Ekle"
-  },
-  {
-    "Key": "deleteRow",
-    "Turkish": "Satır Sil"
-  },
-  {
-    "Key": "rowPermission",
-    "Turkish": "Satır Yetkileri"
-  },
-  {
-    "Key": "addTabs",
-    "Turkish": "Sekme Ekle"
-  },
-  {
-    "Key": "deletePanel",
-    "Turkish": "Paneli Sil"
-  },
-  {
-    "Key": "tabPermission",
-    "Turkish": "Sekme Yetkileri"
-  },
-  {
-    "Key": "addPanel",
-    "Turkish": "Panel Ekle"
-  },
-  {
-    "Key": "panelPermission",
-    "Turkish": "Panel Yetkileri"
-  },
-  {
-    "Key": "backgroundColor",
-    "Turkish": "Arkaplan Rengi"
-  },
-  {
-    "Key": "saveAndCloseChildForm",
-    "Turkish": "Yeni Form Açılırken Bu Child Formu Kaydet ve Kapat"
-  },
-  {
-    "Key": "icon",
-    "Turkish": "Symbol"
-  },
-  {
-    "Key": "selectForm",
-    "Turkish": "Form Seçiniz"
-  },
-  {
-    "Key": "fontColor",
-    "Turkish": "Yazı Rengi"
-  },
-  {
-    "Key": "minCharacters",
-    "Turkish": "Minimum Karakter Sayısı"
-  },
-  {
-    "Key": "generalCategory",
-    "Turkish": "Genel Kategori"
-  },
-  {
-    "Key": "removeRow",
-    "Turkish": "Kaydı silmek istediğinizden emin misiniz?"
-  },
-  {
-    "Key": "send",
-    "Turkish": "Gönder"
-  },
-  {
-    "Key": "declineFinish",
-    "Turkish": "Reddet ve Bitir"
-  },
-  {
-    "Key": "finish",
-    "Turkish": "Bitir"
-  },
-  {
-    "Key": "noData",
-    "Turkish": "Veri Yok"
-  },
-  {
-    "Key": "createEditMenu",
-    "Turkish": "Menü Oluştur/Düzenle"
-  },
-  {
-    "Key": "addNewBreakdown",
-    "Turkish": "Yeni Kırılım Ekle"
-  },
-  {
-    "Key": "addForm",
-    "Turkish": "Form Ekle"
-  },
-  {
-    "Key": "addBottomBreak",
-    "Turkish": "Alt Kırılım Ekle"
-  },
-  {
-    "Key": "addNode",
-    "Turkish": "Düğüm Ekle"
-  },
-  {
-    "Key": "topCategory",
-    "Turkish": "Üst Kategori"
-  },
-  {
-    "Key": "explanation",
-    "Turkish": "Açıklama"
-  },
-  {
-    "Key": "browserTitle",
-    "Turkish": "Tarayıcı Başlığı"
-  },
-  {
-    "Key": "formTitle",
-    "Turkish": "Form Başlığı"
-  },
-  {
-    "Key": "addSqlColumn",
-    "Turkish": "Sql Kolon Ekle"
-  },
-  {
-    "Key": "formBg",
-    "Turkish": "Form Arka Planı"
-  },
-  {
-    "Key": "codeEditor",
-    "Turkish": "Kod Düzenleyici"
-  },
-  {
-    "Key": "authorityType",
-    "Turkish": "Yetki Türü"
-  },
-  {
-    "Key": "viewOnly",
-    "Turkish": "Sadece Görüntüle"
-  },
-  {
-    "Key": "dark",
-    "Turkish": "Koyu"
-  },
-  {
-    "Key": "white",
-    "Turkish": "Beyaz"
-  },
-  {
-    "Key": "hightBlack",
-    "Turkish": "Siyah"
-  },
-  {
-    "Key": "run",
-    "Turkish": "Çalıştır"
-  },
-  {
-    "Key": "rowColor",
-    "Turkish": "Satır Rengi"
-  },
-  {
-    "Key": "operator",
-    "Turkish": "Operatör"
-  },
-  {
-    "Key": "flowOfForm",
-    "Turkish": "Form Akışı"
-  },
-  {
-    "Key": "columnWidth",
-    "Turkish": "Sütun Genişliği"
-  },
-  {
-    "Key": "alignLeft",
-    "Turkish": "Sola Yasla"
-  },
-  {
-    "Key": "alignRight",
-    "Turkish": "Sağa Yasla"
-  },
-  {
-    "Key": "alignButton",
-    "Turkish": ""
-  },
-  {
-    "Key": "imageTableNameColumn",
-    "Turkish": "Tablo İsmi "
-  },
-  {
-    "Key": "uploadBg",
-    "Turkish": "Arkaplan Yükle"
-  },
-  {
-    "Key": "selectFile",
-    "Turkish": "Dosya Seçiniz"
-  },
-  {
-    "Key": "dropFile",
-    "Turkish": "veya Dosyayı buraya bırakın"
-  },
-  {
-    "Key": "alwaysRoundUp",
-    "Turkish": "Her Zaman Üste Yuvarla"
-  },
-  {
-    "Key": "alwaysRoundBot",
-    "Turkish": "Her Zaman Alta Yuvarla"
-  },
-  {
-    "Key": "default",
-    "Turkish": "Varsayılan"
-  },
-  {
-    "Key": "deleteOldDataTable",
-    "Turkish": "tablosuna ait eski veriler silinsin mi?"
-  },
-  {
-    "Key": "deleteOldData",
-    "Turkish": "Eski veriler silinsin mi?"
-  },
-  {
-    "Key": "integer",
-    "Turkish": "Tam Sayı"
-  },
-  {
-    "Key": "double",
-    "Turkish": "Ondalık Sayı"
-  },
-  {
-    "Key": "pleaseFillFields",
-    "Turkish": "Lütfen zorunlu alanları doldurun."
-  },
-  {
-    "Key": "toastColumnNameNumber",
-    "Turkish": "Kolon adı sayı ile başlayamaz"
-  },
-  {
-    "Key": "areYouSure",
-    "Turkish": "Emin misiniz?"
-  },
-  {
-    "Key": "columnDeleted",
-    "Turkish": "Kolon Silinecek"
-  },
-  {
-    "Key": "allColumnDeleted",
-    "Turkish": "Tüm Kolonlar Silinecek"
-  },
-  {
-    "Key": "idCantStartNumber",
-    "Turkish": "Id sayı ile başlayamaz"
-  },
-  {
-    "Key": "uploadFile",
-    "Turkish": "Dosya Yükle"
-  },
-  {
-    "Key": "fileViewer",
-    "Turkish": "Dosya Görüntüleyici"
-  },
-  {
-    "Key": "ok",
-    "Turkish": "Tamam"
-  },
-  {
-    "Key": "map",
-    "Turkish": "Harita"
-  },
-  {
-    "Key": "editPanel",
-    "Turkish": "Düzenleme Paneli"
-  },
-  {
-    "Key": "filterColumnName",
-    "Turkish": "Filtre Kolon Adı"
-  },
-  {
-    "Key": "hintExamples",
-    "Turkish": "örnek:ToplamTutar, örnek:Maas"
-  },
-  {
-    "Key": "columnLanguageSettings",
-    "Turkish": "Kolon Dil Ayarları"
-  },
-  {
-    "Key": "fileColumn",
-    "Turkish": "Dosya Kolonu"
-  },
-  {
-    "Key": "extensionColumn",
-    "Turkish": "Uzantı Kolonu"
-  },
-  {
-    "Key": "multipleSelection",
-    "Turkish": "Çoklu Seçim"
-  },
-  {
-    "Key": "addSelectionsRows",
-    "Turkish": "Seçimleri satır olarak ekle"
-  },
-  {
-    "Key": "mapSettings",
-    "Turkish": "Harita Ayarları"
-  },
-  {
-    "Key": "formatAndFeatures",
-    "Turkish": "Biçim ve Özellikler"
-  },
-  {
-    "Key": "enterDateRange",
-    "Turkish": "Tarih aralığı değerini giriniz"
-  },
-  {
-    "Key": "filesCanUploadedUsers",
-    "Turkish": "Kullanıcılar tarafından dosya yüklenebilir"
-  },
-  {
-    "Key": "barcodeColumn",
-    "Turkish": "Barkod Kolonu"
-  },
-  {
-    "Key": "autoAscend",
-    "Turkish": "Otomatik Artan"
-  },
-  {
-    "Key": "roundType",
-    "Turkish": "Yuvarlama Tipi"
-  },
-  {
-    "Key": "font",
-    "Turkish": "Yazı Tipi"
-  },
-  {
-    "Key": "columnProcess",
-    "Turkish": "Kolon İşlemi"
-  },
-  {
-    "Key": "exportColumnTotal",
-    "Turkish": "Kolon toplamını dışarıya aktar"
-  },
-  {
-    "Key": "outsideElementDisabled",
-    "Turkish": "Dış Öğeler Devre Dışı Bırak"
-  },
-  {
-    "Key": "chat",
-    "Turkish": "Sohbet"
-  },
-  {
-    "Key": "languages",
-    "Turkish": "Diller"
-  },
-  {
-    "Key": "display",
-    "Turkish": "Görüntü"
-  },
-  {
-    "Key": "enterYourComment",
-    "Turkish": "Yorumunuzu girin"
-  },
-  {
-    "Key": "comment",
-    "Turkish": "Yorumlar"
-  },
-  {
-    "Key": "fileUploaded",
-    "Turkish": "adet yüklendi"
-  },
-  {
-    "Key": "pdfViewIsButton",
-    "Turkish": "Button Şeklinde Göster"
-  },
-  {
-    "Key": "takeScreenshot",
-    "Turkish": "Ekran Görüntüsü Al"
-  },
-  {
-    "Key": "alertText",
-    "Turkish": "Alarm Metni"
-  },
-  {
-    "Key": "clearButtonVisible",
-    "Turkish": "Temizleme Butonunu Göster"
-  },
-  {
-    "Key": "allText",
-    "Turkish": "Hepsi"
-  },
-  {
-    "Key": "letter",
-    "Turkish": "Yalnız Harf"
-  },
-  {
-    "Key": "letterandnumber",
-    "Turkish": "Harf ve Numara"
-  },
-  {
-    "Key": "letterandsymbol",
-    "Turkish": "Harf ve Sembol"
-  },
-  {
-    "Key": "numberandsymbol",
-    "Turkish": "Numara ve Sembol"
-  },
-  {
-    "Key": "showIDColumn",
-    "Turkish": "Id Kolonunu Göster"
-  },
-  {
-    "Key": "showCopyButton",
-    "Turkish": "Kopyalama Buttonunu Göster"
-  },
-  {
-    "Key": "showDeleteButton",
-    "Turkish": "Silme Buttonunu Göster"
-  },
-  {
-    "Key": "showCheckboxButton",
-    "Turkish": "Checkbox Butonunu Göster"
-  },
-  {
-    "Key": "autoRowHeight",
-    "Turkish": "Otomatik Satır Yüksekliği"
-  },
-  {
-    "Key": "exportImport",
-    "Turkish": "Form İçe Aktar / Dışa Aktar"
-  },
-  {
-    "Key": "export",
-    "Turkish": "Dışarı Aktar"
-  },
-  {
-    "Key": "import",
-    "Turkish": "İçeri Aktar"
-  },
-  {
-    "Key": "toastImport",
-    "Turkish": "Form İçeri Aktarma Tamamlandı."
-  },
-  {
-    "Key": "defaultTodaysDateWithTime",
-    "Turkish": "Varsayılan bugünün tarih ve saati olsun"
-  },
-  {
-    "Key": "warningApproveImport",
-    "Turkish": "Gerekli düzenlemeleri yaptıktan sonra işlemi onaylayınız. Formu içeri aktarmak, şuanda açık olan formu kapatacaktır"
-  },
-  {
-    "Key": "filterVisible",
-    "Turkish": "Sütun Filtreleme Göster"
-  },
-  {
-    "Key": "updatableMaxQuantity",
-    "Turkish": "Güncellenebilir Maks. Miktar"
-  },
-  {
-    "Key": "hideQuantity",
-    "Turkish": "Miktar seçimini gizle"
-  },
-  {
-    "Key": "disableQuantityTextbox",
-    "Turkish": "Miktar yazmayı pasif yap"
-  },
-  {
-    "Key": "multiplesOfQuantity",
-    "Turkish": "Miktarın artma/azaltma katları"
-  },
-  {
-    "Key": "justnumber",
-    "Turkish": "Yalnızca sayı"
-  },
-  {
-    "Key": "paymentHourWarning",
-    "Turkish": "Ödeme saatleri dışında ödeme yapamazsınız."
-  },
-  {
-    "Key": "addColumn",
-    "Turkish": "Sütun Ekle"
-  },
-  {
-    "Key": "mailSettings",
-    "Turkish": "Mail Seçenekleri"
-  },
-  {
-    "Key": "newTaskMailDetail",
-    "Turkish": "Yeni Görev Atandığında Gönderilecek Mail Metni"
-  },
-  {
-    "Key": "updateTaskMailDetail",
-    "Turkish": "Görev Düzenlendiğinde Gönderilecek Mail Metni"
-  },
-  {
-    "Key": "taskOnDropMail",
-    "Turkish": "Görevin Yeri Değiştirildiğinde Gönderilecek Mail Metni"
-  },
-  {
-    "Key": "selectSMTP",
-    "Turkish": "SMTP Adresini Seçin"
-  },
-  {
-    "Key": "taskCreator",
-    "Turkish": "Görev Atayan Kişi"
-  },
-  {
-    "Key": "taskEndDate",
-    "Turkish": "Görev Sona Erme Tarihi"
-  },
-  {
-    "Key": "tags",
-    "Turkish": "Etiketler"
-  },
-  {
-    "Key": "taskStartDate",
-    "Turkish": "Görev Başlangıç Tarihi"
-  },
-  {
-    "Key": "taskAssigned",
-    "Turkish": "Görev Atanan Kişi"
-  },
-  {
-    "Key": "taskDetail",
-    "Turkish": "Görev Detayı"
-  },
-  {
-    "Key": "taskSubject",
-    "Turkish": "Görev Başlığı"
-  },
-  {
-    "Key": "taskPri",
-    "Turkish": "Görev Önceliği"
-  },
-  {
-    "Key": "taskEdit",
-    "Turkish": "Görev Güncelleme"
-  },
-  {
-    "Key": "addTask",
-    "Turkish": "Görev Ekleme"
-  },
-  {
-    "Key": "taskStatus",
-    "Turkish": "Görev Durumu"
-  },
-  {
-    "Key": "excelExportSettings",
-    "Turkish": "Excel Dışarı Aktar Ayarları"
-  },
-  {
-    "Key": "excelExportRequiredColor",
-    "Turkish": "Zorunlu Alan Kolon Rengi"
-  },
-  {
-    "Key": "allDataExcelExport",
-    "Turkish": "Verileri Excel Olarak Dışarı Al"
-  },
-  {
-    "Key": "warningApproveImportReport",
-    "Turkish": "Gerekli düzenlemeleri yaptıktan sonra işlemi onaylayınız. Raporu içeri aktarmak, şuanda açık olan raporu kapatacaktır."
-  },
-  {
-    "Key": "reportName",
-    "Turkish": "Rapor Adı"
-  },
-  {
-    "Key": "old",
-    "Turkish": "Eski"
-  },
-  {
-    "Key": "upperNode",
-    "Turkish": "Üst Kırılım"
-  },
-  {
-    "Key": "pdfViewStaticPdf",
-    "Turkish": "Sabit Dosya Göster"
-  },
-  {
-    "Key": "actions",
-    "Turkish": "Eylemler"
-  },
-  {
-    "Key": "loading",
-    "Turkish": "Yükleniyor"
-  },
-  {
-    "Key": "exportDataToExcell",
-    "Turkish": "Tüm verileri Excel'e aktarın"
-  },
-  {
-    "Key": "showRefreshIcon",
-    "Turkish": "Yenile Butonu"
-  },
-  {
-    "Key": "headerFilter",
-    "Turkish": "Başlık Filtresi"
-  },
-  {
-    "Key": "filterRowVisible",
-    "Turkish": "Sütunda Arama Kutusu Gözüksün"
-  },
-  {
-    "Key": "password",
-    "Turkish": "Parola"
-  },
-  {
-    "Key": "categories",
-    "Turkish": "Kategoriler"
-  },
-  {
-    "Key": "pressEnter",
-    "Turkish": "Enter'a Basın"
-  },
-  {
-    "Key": "historyColumnValue",
-    "Turkish": "Data History Kolonu"
-  },
-  {
-    "Key": "hideMobile",
-    "Turkish": "Mobilde Gizle"
-  },
-  {
-    "Key": "align",
-    "Turkish": "Hizalama"
-  },
-  {
-    "Key": "theme",
-    "Turkish": "Tema"
-  },
-  {
-    "Key": "info",
-    "Turkish": "Bilgi"
-  },
-  {
-    "Key": "showTitle",
-    "Turkish": "Başlığı Göster"
-  },
-  {
-    "Key": "purple",
-    "Turkish": "Mor"
-  },
-  {
-    "Key": "brown",
-    "Turkish": "Kahverengi"
-  },
-  {
-    "Key": "yellow",
-    "Turkish": "Sarı"
-  },
-  {
-    "Key": "turnOnComments",
-    "Turkish": "Yorumları aç"
-  },
-  {
-    "Key": "showContent",
-    "Turkish": "İçeriği Göster"
-  },
-  {
-    "Key": "canBeHidden",
-    "Turkish": "Gizlenebilir"
-  },
-  {
-    "Key": "allowEdit",
-    "Turkish": "Düzenlemeye İzin Ver"
-  },
-  {
-    "Key": "allowDelete",
-    "Turkish": "Silmeye İzin Ver"
-  },
-  {
-    "Key": "toastDeleteErrorMessage",
-    "Turkish": "Bu component Form Tercih scriptlerinde kullaniliyor. Silinemez."
-  },
-  {
-    "Key": "formOpeningMultiElementEvent",
-    "Turkish": "Form Açma Çoklu Element Olayi"
-  },
-  {
-    "Key": "resetDatagridLocalSettings",
-    "Turkish": "Datagrid Yerel Ayarlarını Sıfırla"
-  },
-  {
-    "Key": "loginP1",
-    "Turkish": "River kurumsal hafızanız olarak organizasyon veya kurumunuzun\r\n\r\ngeçmişteki deneyimleri, başarıları, başarısızlıkları, öğrenilen dersler,\r\n\r\nkültürü ve değerleri gibi bilgileri içeren, gelecekteki kararlar ve eylemler için\r\n\r\nbir referans kaynağı olarak kullanılabilecek bütünsel bir bellek sistemi sağlar.\r\n\r\nKurumsal hafıza, organizasyonun tarihini, iş süreçlerini, çalışanlarının bilgi birikimini,\r\n\r\nmüşteri deneyimlerini, ürün ve hizmetlerinin gelişimini ve daha birçok bilgiyi kapsar.\r\n\r\nBu bilgiler, kurumun gelecekteki hedef ve stratejileri için yol gösterici olacaktır."
-  },
-  {
-    "Key": "loginP2",
-    "Turkish": "River, web ve gelişmiş native mobil uygulama destekli yapısı ile işletmenizin iş \r\n\r\nsüreçlerini daha verimli ve etkili bir şekilde yürütmesine yardımcı olur. \r\n\r\nErişmeniz gereken her şey size bilgisayar, tablet ya da akıllı telefonunuz kadar yakın."
-  },
-  {
-    "Key": "loginConnect",
-    "Turkish": "Bağlan"
-  },
-  {
-    "Key": "loginText",
-    "Turkish": "Giriş"
-  },
-  {
-    "Key": "loginRightMore",
-    "Turkish": "Dahası"
-  },
-  {
-    "Key": "loginHeaderP1",
-    "Turkish": "Kurumsal Hafızanız"
-  },
-  {
-    "Key": "loginHeaderP2",
-    "Turkish": "Mobilite"
-  },
-  {
-    "Key": "loginHeaderP3",
-    "Turkish": "Grafiksel Güç"
-  },
-  {
-    "Key": "kanbanaddTasks",
-    "Turkish": "Kanban Task Ekleme"
-  },
-  {
-    "Key": "taskstatusDesciption",
-    "Turkish": "Kanban görevinin atanacağı sütunun isminin görüntülenmesini sağlamaktadır."
-  },
-  {
-    "Key": "tasksubjectDescription",
-    "Turkish": "Kanban görevine ait başlık girilmesini sağlamaktadır. Kanban başlığı bir zorunlu alandır."
-  },
-  {
-    "Key": "taskassignedToTask",
-    "Turkish": "Göreve Eklenen Gruplar:"
-  },
-  {
-    "Key": "taskassignedTaskDescription",
-    "Turkish": "Kanban görevine atanacak grupların seçilmesini sağlamaktadır."
-  },
-  {
-    "Key": "addedForTasks",
-    "Turkish": "Görev İçin Eklenenler"
-  },
-  {
-    "Key": "taskAssignedInfoDescription",
-    "Turkish": "Görev İçin Bilgilendirilecek Kişiler"
-  },
-  {
-    "Key": "assignedInfo",
-    "Turkish": "Bilgilendirilecek kişiler"
-  },
-  {
-    "Key": "groupInfo",
-    "Turkish": "Görev İçin Bilgilendirilecek Gruplar"
-  },
-  {
-    "Key": "sortEnd",
-    "Turkish": "Bitiş Tarihine Göre Sırala"
-  },
-  {
-    "Key": "sender",
-    "Turkish": "Gönderen"
-  },
-  {
-    "Key": "forward",
-    "Turkish": "İlet"
-  },
-  {
-    "Key": "attachments",
-    "Turkish": "Ekler"
-  },
-  {
-    "Key": "loginP3",
-    "Turkish": "Kanban ve gantt çizelgeleri, bir projenin veya iş akışını görselleştirmek için son derece faydalı araçlardır. \r\n\r\nİş öğelerinin, mevcut durumlarını ve işin farklı aşamalarındaki iş akışını gösteren görsel temsil sağlarlar.\r\n\r\n Bu, tıkanıklıkları belirlemeyi, işleri önceliklendirmeyi ve işlem verimliliğini geliştirmeyi kolaylaştırır.\r\n\r\n Kanban ve gantt çizelgeleri, çevik projeleri, yazılım geliştirmeyi ve diğer sürekli iyileştirme süreçlerini yönetmek için pratik ve etkilidir."
-  },
-  {
-    "Key": "taskdetailDescription",
-    "Turkish": "Kanban görevine ait detayların girilmesini sağlamaktadır. Kanban detayı bir zorunlu alandır."
-  },
-  {
-    "Key": "taskassignedDescription",
-    "Turkish": "Kanban görevine atanacak kullanıcıların seçilmesini sağlamaktadır. Kanbanda en az bir kullanıcı atanması zorunludur."
-  },
-  {
-    "Key": "taskstartdateDescription",
-    "Turkish": "Kanban görevinin başlangıç tarihinin seçilmesini sağlamaktadır. Kanbanda başlangıç tarihi otomatik olarak görevin oluşturulma zamanını almaktadır."
-  },
-  {
-    "Key": "taskenddateDescription",
-    "Turkish": "Kanban görevinin bitiş tarihinin seçilmesini sağlamaktadır. Kanbanda görev bitiş tarihi otomatik olarak görevin oluşturulma zamanınından bir hafta sonrasını almaktadır."
-  },
-  {
-    "Key": "taskpriDescription",
-    "Turkish": "Kanban görevinin öncelik durumunu seçilmesini sağlamaktadır. Kanbanda görev bitiş tarihi otomatik olarak görevin oluşturulma zamanınından bir hafta sonrasını almaktadır."
-  },
-  {
-    "Key": "tagsDescription",
-    "Turkish": "Kanban görevine ait etiketlerin eklenmesini sağlamaktadır. Etiketler virgül ile eklendikçe birbirlerinden ayrılmaktadır."
-  },
-  {
-    "Key": "outlookDescription",
-    "Turkish": "Outlook a eklensin seçeneği açıkken yapılan görev eklemelerinde outlook hesabınıza giriş yapıp otomatik olarak takvime görev eklenmektedir."
-  },
-  {
-    "Key": "taskAssInfoDescription",
-    "Turkish": "Göreve atanmayan ancak bilgisinin olması istenilen kişiler için kullanılan alandır. Bilgilendirmek için eklenen kişiler görevler üzerinde işlem yapamazlar."
-  },
-  {
-    "Key": "receiver",
-    "Turkish": "Alıcı"
-  },
-  {
-    "Key": "draft",
-    "Turkish": "Taslak"
-  },
-  {
-    "Key": "spam",
-    "Turkish": "Gereksiz E-Posta"
-  },
-  {
-    "Key": "filterstate",
-    "Turkish": "Duruma Göre Filtrele"
-  },
-  {
-    "Key": "checkForspelling",
-    "Turkish": "Yazım Hatalarını Kontrol Et"
-  },
-  {
-    "Key": "emailToForward",
-    "Turkish": "İletilecek E-Posta "
-  },
-  {
-    "Key": "lowImpMails",
-    "Turkish": "Düşük Önemli Mailler "
-  },
-  {
-    "Key": "normalImpMails",
-    "Turkish": "\"Normal Önemli Mailler "
-  },
-  {
-    "Key": "highImpEmails",
-    "Turkish": "Yüksek Önemli Mailler "
-  },
-  {
-    "Key": "showReadMails",
-    "Turkish": "Okunmuş Mailleri Göster "
-  },
-  {
-    "Key": "groupinfoDescription",
-    "Turkish": "Göreve atanmayan ancak bilgisinin olması istenilen gruplar için kullanılan alandır. Bilgilendirmek için eklenen gruplara ait kişiler görevler üzerinde işlem yapamazlar."
-  },
-  {
-    "Key": "timeoutMission",
-    "Turkish": "Görev Bitmeden Uyarıya Başlanacak Saat"
-  },
-  {
-    "Key": "timeoutmissionDescription",
-    "Turkish": "Kanban görevinin bitiş zamanına yaklaşıldığında uyarıya başlanılacak zamanı belirtmek için kullanılmaktadır."
-  },
-  {
-    "Key": "taskperiodDescription",
-    "Turkish": "Kanban görevinin bitiş tarihine yaklaşıldığında periyodik olarak hatırlatma süresini belirtmek için kullanılmaktadır."
-  },
-  {
-    "Key": "taskProgress",
-    "Turkish": "Görev İlerleme Durumu"
-  },
-  {
-    "Key": "taskProgressDescription",
-    "Turkish": "Kanban görevine ait ilerleme durumunu belirtmek için kullanılmaktadır. İlerleme durumları Gantt şeması üzerinden görüntülenebilmektedir."
-  },
-  {
-    "Key": "updatekanbanTask",
-    "Turkish": "Kanban Task Güncelleme"
-  },
-  {
-    "Key": "taskcreatorDescription",
-    "Turkish": "Kanban görevi oluşturan kişinin görüntülenmesini sağlamaktadır."
-  },
-  {
-    "Key": "uploadfileDescription",
-    "Turkish": "Kanban görevine dosya yüklemek için kullanılmaktadır. Dosya veya resimler DMS üzerine kayıt olmaktadır."
-  },
-  {
-    "Key": "infoPersons",
-    "Turkish": "Bilgilendirilecek Kişiler"
-  },
-  {
-    "Key": "warningtime",
-    "Turkish": "Uyarı Zamanı"
-  },
-  {
-    "Key": "taskPeriod",
-    "Turkish": "Görev Periyodu"
-  },
-  {
-    "Key": "taskProgresSatus",
-    "Turkish": "Görev İlerleme Durumu"
-  },
-  {
-    "Key": "makeTask",
-    "Turkish": "Görevi Oluşturan Kişi"
-  },
-  {
-    "Key": "outlookIntegration",
-    "Turkish": "Outlook Entegrasyonu"
-  },
-  {
-    "Key": "loginoutlook",
-    "Turkish": "Outlook Takvimine Giriş Yap"
-  },
-  {
-    "Key": "fetchoutlook",
-    "Turkish": "Outlook Takvimindeki Verileri Getir"
-  },
-  {
-    "Key": "progressStatus",
-    "Turkish": "İlerleme Durumu"
-  },
-  {
-    "Key": "taskColors",
-    "Turkish": "Görev Renkleri"
-  },
-  {
-    "Key": "addcalendarTask",
-    "Turkish": "Takvime Görev Ekleme"
-  },
-  {
-    "Key": "updatetaskCalendar",
-    "Turkish": "Takvim Task Güncelleme"
-  },
-  {
-    "Key": "statusComplete",
-    "Turkish": "Tamamlanma Durumu Filtreleme "
-  },
-  {
-    "Key": "priorityFilter",
-    "Turkish": "Öncelik Filtreleme"
-  },
-  {
-    "Key": "columnFilter",
-    "Turkish": "Sütun Filtreleme"
-  },
-  {
-    "Key": "assignPerson",
-    "Turkish": "Atanan Kişiler"
-  },
-  {
-    "Key": "assignGroup",
-    "Turkish": "Atanan Gruplar"
-  },
-  {
-    "Key": "noTask",
-    "Turkish": "Hiçbir Görev Bulunamadı"
-  },
-  {
-    "Key": "resetSort",
-    "Turkish": "Sıralamayı Sıfırla"
-  },
-  {
-    "Key": "sortASC",
-    "Turkish": "Sırala A - Z"
-  },
-  {
-    "Key": "sortDESC",
-    "Turkish": "Sırala Z - A"
-  },
-  {
-    "Key": "sortAppointment",
-    "Turkish": "Atanma Tarihine Göre Sırala"
-  },
-  {
-    "Key": "trash",
-    "Turkish": "Çöp Kutusu"
-  },
-  {
-    "Key": "showOlderMail",
-    "Turkish": "Daha Eski Mailleri Göster"
-  },
-  {
-    "Key": "mailNotFound",
-    "Turkish": "Mail Bulunamadı"
-  },
-  {
-    "Key": "sendNewMail",
-    "Turkish": "Yeni Mail Gönder"
-  },
-  {
-    "Key": "showUnreadMails",
-    "Turkish": "Okunmamış Mailleri Göster "
-  },
-  {
-    "Key": "updateColumnMail",
-    "Turkish": "Sütuna Görev Eklendiğinde Kişiye Gidecek Mesaj "
-  },
-  {
-    "Key": "addTaskToOutlook",
-    "Turkish": "Görev Outlooka da eklensin "
-  },
-  {
-    "Key": "enterYourMessage",
-    "Turkish": "Mesajınızı Giriniz "
-  },
-  {
-    "Key": "reminder",
-    "Turkish": "Hatırlatıcı "
-  },
-  {
-    "Key": "determinedToTask",
-    "Turkish": "Görev için belirlenen süre "
-  },
-  {
-    "Key": "remainingTime",
-    "Turkish": "Kalan süre "
-  },
-  {
-    "Key": "hours",
-    "Turkish": "Saat "
-  },
-  {
-    "Key": "withoutPriority",
-    "Turkish": "Önceliksiz "
-  },
-  {
-    "Key": "lowPri",
-    "Turkish": "Düşük Öncelikli "
-  },
-  {
-    "Key": "normalPri",
-    "Turkish": "Orta Öncelikli "
-  },
-  {
-    "Key": "highPri",
-    "Turkish": "Yüksek Öncelikli "
-  },
-  {
-    "Key": "showAllTasks",
-    "Turkish": "Hepsini Göster "
-  },
-  {
-    "Key": "showIncompleteTasks",
-    "Turkish": "Tamamlanmamışları Göster "
-  },
-  {
-    "Key": "showCompeletedTasks",
-    "Turkish": "Tamamlananları Göster "
-  },
-  {
-    "Key": "reportDesigner",
-    "Turkish": "Rapor Tasarımcısı "
-  },
-  {
-    "Key": "fileManagementSystem",
-    "Turkish": " Dosya Yönetim Sistemi "
-  },
-  {
-    "Key": "formDesigner",
-    "Turkish": "Form Tasarımcısı "
-  },
-  {
-    "Key": "boardDesigner",
-    "Turkish": " Pano Tasarımcısı"
-  },
-  {
-    "Key": "themeSettings",
-    "Turkish": " Tema Özellikleri"
-  },
-  {
-    "Key": "social",
-    "Turkish": " Sosyal"
-  },
-  {
-    "Key": "profile",
-    "Turkish": " Profil"
-  },
-  {
-    "Key": "contacts",
-    "Turkish": " Kişiler"
-  },
-  {
-    "Key": "files",
-    "Turkish": " Dosyalar"
-  },
-  {
-    "Key": "pages",
-    "Turkish": " Sayfalar"
-  },
-  {
-    "Key": "noResultsFound",
-    "Turkish": " Sonuç Bulunamadı"
-  },
-  {
-    "Key": "processes",
-    "Turkish": " Süreçler"
-  },
-  {
-    "Key": "filterByStatus",
-    "Turkish": " Duruma Göre Filtrele "
-  },
-  {
-    "Key": "filterByPri",
-    "Turkish": " Önceliğe Göre Filtrele"
-  },
-  {
-    "Key": "filterByCol",
-    "Turkish": " Sütuna Göre Filtrele"
-  },
-  {
-    "Key": "todoAddTasks",
-    "Turkish": "To-Do Task Ekleme"
-  },
-  {
-    "Key": "addLabel",
-    "Turkish": "Etiket Giriniz"
-  },
-  {
-    "Key": "showWithSubTasks",
-    "Turkish": "Alt Görevi Olanları Göster "
-  },
-  {
-    "Key": "riverBoard",
-    "Turkish": "River Panolar "
-  },
-  {
-    "Key": "notify",
-    "Turkish": "Bildirimler "
-  },
-  {
-    "Key": "likedYourPost",
-    "Turkish": "Gönderinizi Beğendi "
-  },
-  {
-    "Key": "likedYourComment",
-    "Turkish": "Yorumunuzu Beğendi "
-  },
-  {
-    "Key": "systemNotify",
-    "Turkish": "Sistem Bildirimleri "
-  },
-  {
-    "Key": "readAllNotify",
-    "Turkish": "Tum Bildirimleri Oku "
-  },
-  {
-    "Key": "recommendedUsers",
-    "Turkish": "Önerilen Kişiler"
-  },
-  {
-    "Key": "suggestedPosts",
-    "Turkish": "Önerilen Gönderiler"
-  },
-  {
-    "Key": "sPostReposted",
-    "Turkish": "Gönderisi Yeniden Paylaşıldı"
-  },
-  {
-    "Key": "shareSomething",
-    "Turkish": "Birşeyler Paylaş"
-  },
-  {
-    "Key": "updatePost",
-    "Turkish": "Gönderiyi Güncelle"
-  },
-  {
-    "Key": "ifYouDoNotSelectGroup",
-    "Turkish": "Grup seçmezseniz gönderinizi herkes görebilir"
-  },
-  {
-    "Key": "addComment",
-    "Turkish": "Yorum Ekle"
-  },
-  {
-    "Key": "sendComment",
-    "Turkish": "Yorum Gönder"
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisPost",
-    "Turkish": "Gönderiyi Silmek İstediğinizden Emin misiniz"
-  },
-  {
-    "Key": "yes",
-    "Turkish": "Evet"
-  },
-  {
-    "Key": "no",
-    "Turkish": "Hayır"
-  },
-  {
-    "Key": "deletePost",
-    "Turkish": "Gönderiyi Sil"
-  },
-  {
-    "Key": "postSuccesfullyDeleted",
-    "Turkish": "Gönderi başarıyla silindi"
-  },
-  {
-    "Key": "deleteComment",
-    "Turkish": "Yorum Sil"
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisComment",
-    "Turkish": "Bu yorumu silmek istediğinizden emin misiniz"
-  },
-  {
-    "Key": "commentSuccesfullyDeleted",
-    "Turkish": "Yorum Başarıyla Silindi"
-  },
-  {
-    "Key": "sharePost",
-    "Turkish": "Gönderi Paylaş"
-  },
-  {
-    "Key": "areYouSureYouWantToShareThisPost",
-    "Turkish": "Bu gönderiyi paylaşmak istediğinizden emin misiniz"
-  },
-  {
-    "Key": "repostedSuccessfully",
-    "Turkish": "Başarıyla Yeniden Paylaşıldı"
-  },
-  {
-    "Key": "upload",
-    "Turkish": "Yükle"
-  },
-  {
-    "Key": "refresh",
-    "Turkish": "Yenile"
-  },
-  {
-    "Key": "allowedExtentions",
-    "Turkish": "İzin verilen uzantılar: JPG, GIF veya PNG. Maksimum dosya boyutu"
-  },
-  {
-    "Key": "systemLandingPagePreference",
-    "Turkish": "Açılış sayfası Tercihi"
-  },
-  {
-    "Key": "Allownonadminuserstosearchforotherusers",
-    "Turkish": "Admin olmayan kullanıcılar diğer kullanıcıları arayabilsin"
-  },
-  {
-    "Key": "passwordChange",
-    "Turkish": "Şifre Değişikliği"
-  },
-  {
-    "Key": "newPassword",
-    "Turkish": "Yeni Şifre"
-  },
-  {
-    "Key": "Retypethenewpassword",
-    "Turkish": "Yeni şifreyi tekrar yazınız"
-  },
-  {
-    "Key": "notifications",
-    "Turkish": "Bildirimler"
-  },
-  {
-    "Key": "showWhoLikesYourPost",
-    "Turkish": "Postlarınızı beğenenleri göster"
-  },
-  {
-    "Key": "showWhoLikesYourComment",
-    "Turkish": "Yorumlarınızı beğenenleri göster"
-  },
-  {
-    "Key": "aboutMe",
-    "Turkish": "Hakkımda"
-  },
-  {
-    "Key": "bio",
-    "Turkish": "Biyografi"
-  },
-  {
-    "Key": "dateOfBirth",
-    "Turkish": "Doğum Tarihi"
-  },
-  {
-    "Key": "website",
-    "Turkish": "Web sitesi"
-  },
-  {
-    "Key": "phone",
-    "Turkish": "Telefon"
-  },
-  {
-    "Key": "saveChanges",
-    "Turkish": "Değişiklikleri Kaydet"
-  },
-  {
-    "Key": "content",
-    "Turkish": "İçerik"
-  },
-  {
-    "Key": "projectManagement",
-    "Turkish": "Proje Yönetimi"
-  },
-  {
-    "Key": "addPage",
-    "Turkish": "Sayfa Ekle "
-  },
-  {
-    "Key": "addFolder",
-    "Turkish": "Klasör Ekle "
-  },
-  {
-    "Key": "showUsers",
-    "Turkish": "Görebilecek Kullanıcılar "
-  },
-  {
-    "Key": "showGroups",
-    "Turkish": "Görebilecek Gruplar "
-  },
-  {
-    "Key": "readonlyUsers",
-    "Turkish": "Okuyabilecek Kullanıcılar "
-  },
-  {
-    "Key": "readonlyGroups",
-    "Turkish": "Okuyabilecek Gruplar "
-  },
-  {
-    "Key": "columnHeight",
-    "Turkish": "Sütun Yüksekliği"
-  },
-  {
-    "Key": "showKanbanCount",
-    "Turkish": "Kanban Adet Bilgisini Göster  "
-  },
-  {
-    "Key": "kanbanSettings",
-    "Turkish": "Kanban Ayarları "
-  },
-  {
-    "Key": "gantSettings",
-    "Turkish": "Gant Ayarları "
-  },
-  {
-    "Key": "schedulerSettings",
-    "Turkish": "Takvim Ayarları "
-  },
-  {
-    "Key": "activateOutlookConnection",
-    "Turkish": "Outlook Bağlantısını Etkinleştir "
-  },
-  {
-    "Key": "selectOutlookColumn",
-    "Turkish": "Outlook sütununu seçiniz "
-  },
-  {
-    "Key": "selectSMTPPopoverText",
-    "Turkish": "Kanban, Gantt, Takvim veya To-Do bileşenlerinde kullanılacak mail SMTP seçimi yapılmaktadır. "
-  },
-  {
-    "Key": "menuFilePathId",
-    "Turkish": "River Menu klasörü id"
-  },
-  {
-    "Key": "recycleBinPathName",
-    "Turkish": "River Çöp Kutusu Klasörü Adı"
-  },
-  {
-    "Key": "recycleBinPathId",
-    "Turkish": "River Çop Kutusu Klasörü Id"
-  },
-  {
-    "Key": "fileNameChangedMessage",
-    "Turkish": "Dosya ismi başarıyla değiştirildi."
-  },
-  {
-    "Key": "fileNameChangedErrorMessage",
-    "Turkish": "Dosya ismi değiştirilemedi."
-  },
-  {
-    "Key": "fileCreatedMessage",
-    "Turkish": "Dosya başarıyla oluşturuldu."
-  },
-  {
-    "Key": "newTaskMailDetailPopoverText",
-    "Turkish": "Kanban, Gantt, Takvim veya To-Do bileşenlerine yeni bir görev atandığında, atanan kullanıcılara gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. "
-  },
-  {
-    "Key": "taskOnDropMailPopoverText",
-    "Turkish": "Kanban, Gantt, Takvim veya To-Do bileşenlerine bir görevin bulunduğu sütununun değiştirilmesiyle birlikte gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. "
-  },
-  {
-    "Key": "createdBy",
-    "Turkish": "Oluşturan"
-  },
-  {
-    "Key": "updatedBy",
-    "Turkish": "Güncelleyen"
-  },
-  {
-    "Key": "createdDate",
-    "Turkish": "Oluşturulma Tarihi"
-  },
-  {
-    "Key": "updatedDate",
-    "Turkish": "Güncellenme Tarihi"
-  },
-  {
-    "Key": "folderPermissionSettings",
-    "Turkish": "Dosyası yetki ayarları"
-  },
-  {
-    "Key": "quantity",
-    "Turkish": "Adet"
-  },
-  {
-    "Key": "fileManagementPermissionSettings",
-    "Turkish": "Dosya Yönetimi Yetki Ayarları"
-  },
-  {
-    "Key": "fileNotFoundErrorText",
-    "Turkish": "Aradığınız kriterlere uygun dosya bulunamadı."
-  },
-  {
-    "Key": "updateTaskMailDetailPopoverText",
-    "Turkish": "Kanban, Gantt, Takvim veya To-Do bileşenlerine ilgili görevde değişiklik yapıldığında, atanan kullanıcılara gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. "
-  },
-  {
-    "Key": "selectOutlookColumnPopoverText",
-    "Turkish": "Outlook üzerinden eklenecek olan görevlerin hangi sütuna dahil edileceği seçilmektedir. "
-  },
-  {
-    "Key": "createFolder",
-    "Turkish": "Dosya Oluştur"
-  },
-  {
-    "Key": "versionHistory",
-    "Turkish": "Sürüm Geçmişi"
-  },
-  {
-    "Key": "deletePermanently",
-    "Turkish": "Kalıcı Olarak sil"
-  },
-  {
-    "Key": "recover",
-    "Turkish": "Kurtar"
-  },
-  {
-    "Key": "groupPermissions",
-    "Turkish": "Grup Yetkileri"
-  },
-  {
-    "Key": "allowUpload",
-    "Turkish": "Dosya Yüklemeye izin ver"
-  },
-  {
-    "Key": "allowView",
-    "Turkish": "Dosya görüntülemeye izin ver"
-  },
-  {
-    "Key": "allowDownload",
-    "Turkish": "Dosya indirmeye izin ver"
-  },
-  {
-    "Key": "permissionType",
-    "Turkish": "İzin Tipi"
-  },
-  {
-    "Key": "applyToSubFolders",
-    "Turkish": "Tüm alt klasörlere uygula"
-  },
-  {
-    "Key": "newFolderName",
-    "Turkish": "Yeni Dosya Adı"
-  },
-  {
-    "Key": "tagTips",
-    "Turkish": "Etiketlemeler başında # işareti ile yapılmalıdır. İçerisinde sadece sayı ve numara bulunabilir"
-  },
-  {
-    "Key": "addAsNewVersion",
-    "Turkish": "Yeni bir sürüm olarak yükle"
-  },
-  {
-    "Key": "addAndChangeName",
-    "Turkish": "İsmini değiştirerek yükle"
-  },
-  {
-    "Key": "skip",
-    "Turkish": "Atla"
-  },
-  {
-    "Key": "fileExistError",
-    "Turkish": "Hedef klasörde aynı isimde dosya mevcut"
-  },
-  {
-    "Key": "processFileShow",
-    "Turkish": "River Süreç Klasörünü göster"
-  },
-  {
-    "Key": "processFilePathName",
-    "Turkish": "River Süreç Klasörü ismi"
-  },
-  {
-    "Key": "processFilePathId",
-    "Turkish": "River Süreç klasörü id"
-  },
-  {
-    "Key": "menuFileShow",
-    "Turkish": "River Menü Klasörünü göster"
-  },
-  {
-    "Key": "menuFilePathName",
-    "Turkish": "River Menu Klasörü ismi"
-  },
-  {
-    "Key": "fileCreatedErrorMessage",
-    "Turkish": "Dosya oluşturma işlemi başarısız."
-  },
-  {
-    "Key": "fileDeletedessage",
-    "Turkish": "Dosya silme işlemi tamamlandı."
-  },
-  {
-    "Key": "fileDeletedErrorMessage",
-    "Turkish": "Dosya silme işlemi başarısız."
-  },
-  {
-    "Key": "fileMovedMessage",
-    "Turkish": "Dosya taşıma işlemi tamamlandı."
-  },
-  {
-    "Key": "fileMovedErrorMessage",
-    "Turkish": "Dosya taşıma işlemi başarısız."
-  },
-  {
-    "Key": "fileCopyMessage",
-    "Turkish": "Dosya kopyalama işlemi tamamlandı."
-  },
-  {
-    "Key": "fileCopyErrorMessage",
-    "Turkish": "Dosya kopyalama işlemi başarısız."
-  },
-  {
-    "Key": "fileDownloadMessage",
-    "Turkish": "Dosya indirme işlemi tamamlandı."
-  },
-  {
-    "Key": "fileDownloadErrorMessage",
-    "Turkish": "Dosya indirme işlemi başarısız."
-  },
-  {
-    "Key": "fileSizeShowErrorMessage",
-    "Turkish": "Dosya boyutu büyük olduğu için görüntüleyemiyoruz. Lütfen dosyayı indirin"
-  },
-  {
-    "Key": "unsupportedFile",
-    "Turkish": "Desteklenmeyen dosya"
-  },
-  {
-    "Key": "fileNameError",
-    "Turkish": "Bu dosya adında bir dosya mevcut farklı bir ad ile tekrar deneyiniz"
-  },
-  {
-    "Key": "fileGivePermissionMessage",
-    "Turkish": "Dosya yetkilendirmesi başarıyla tamamlandı."
-  },
-  {
-    "Key": "fileGivePermissionErrorMessage",
-    "Turkish": "Dosya yetkilendirmesinde hata oluştu. Kayıt başarısız."
-  },
-  {
-    "Key": "groupName",
-    "Turkish": "Grup Adı"
-  },
-  {
-    "Key": "createGroup",
-    "Turkish": "Grup Oluştur"
-  },
-  {
-    "Key": "conversation",
-    "Turkish": "Konuşmalar"
-  },
-  {
-    "Key": "startConversation",
-    "Turkish": "Konuşma Başlat"
-  },
-  {
-    "Key": "userNotFound",
-    "Turkish": "Kişi bulunamadı"
-  },
-  {
-    "Key": "chatNotFound",
-    "Turkish": "Sohbet bulunamadı"
-  },
-  {
-    "Key": "themeTypeLight",
-    "Turkish": "Aydınlık"
-  },
-  {
-    "Key": "themeTypeBorderedLight",
-    "Turkish": "Çerçeveli"
-  },
-  {
-    "Key": "themeHalfDark",
-    "Turkish": "Yarı Koyu"
-  },
-  {
-    "Key": "themeDark",
-    "Turkish": "Koyu"
-  },
-  {
-    "Key": "themeRouteAnimation",
-    "Turkish": "Geçiş Animasyonu"
-  },
-  {
-    "Key": "themeRouteAnimationFadeInLeft",
-    "Turkish": "Soldan Solma"
-  },
-  {
-    "Key": "themeRouteAnimationZoomIn",
-    "Turkish": "Yakınlaştır"
-  },
-  {
-    "Key": "themeRouteAnimationFadeIn",
-    "Turkish": "Solma"
-  },
-  {
-    "Key": "themeRouteAnimationNone",
-    "Turkish": "Yok"
-  },
-  {
-    "Key": "themeMenuType",
-    "Turkish": "Menü Tipi"
-  },
-  {
-    "Key": "themeMenuTypeHorizontal",
-    "Turkish": "Yatay"
-  },
-  {
-    "Key": "themeMenuTypeVertical",
-    "Turkish": "Dikey"
-  },
-  {
-    "Key": "themeMenuCollapse",
-    "Turkish": "Dar Menu"
-  },
-  {
-    "Key": "themeNavbarColor",
-    "Turkish": "Gezinme çubuğu rengi"
-  },
-  {
-    "Key": "themeNavbarType",
-    "Turkish": "Gezinme çubuğu türü"
-  },
-  {
-    "Key": "themeSticky",
-    "Turkish": "Yapışkan"
-  },
-  {
-    "Key": "themeStatic",
-    "Turkish": "Statik"
-  },
-  {
-    "Key": "themeFloating",
-    "Turkish": "Yüzer"
-  },
-  {
-    "Key": "themeHidden",
-    "Turkish": "Gizli"
-  },
-  {
-    "Key": "themeFooterType",
-    "Turkish": "Alt bilgi türü"
-  },
-  {
-    "Key": "catalog",
-    "Turkish": "Katalog"
-  },
-  {
-    "Key": "riverBoards",
-    "Turkish": "River Panolar"
-  },
-  {
-    "Key": "clipboardDesigner",
-    "Turkish": "Pano Tasarımcısı"
-  },
-  {
-    "Key": "desingMode",
-    "Turkish": "Tasarım Modundasınız"
-  },
-  {
-    "Key": "editPage",
-    "Turkish": "Sayfayı Düzenle"
-  },
-  {
-    "Key": "rename",
-    "Turkish": "Yeniden Adlandır"
-  },
-  {
-    "Key": "exportToPdf",
-    "Turkish": "PDF olarak Çıktı Al"
-  },
-  {
-    "Key": "exportToExcel",
-    "Turkish": "Excel Olarak Çıktı Al"
-  },
-  {
-    "Key": "revenueReport",
-    "Turkish": "Gelir Raporu"
-  },
-  {
-    "Key": "header",
-    "Turkish": "Başlık"
-  },
-  {
-    "Key": "connection",
-    "Turkish": "Bağlantı"
-  },
-  {
-    "Key": "primaryKey",
-    "Turkish": "Birincil anahtar"
-  },
-  {
-    "Key": "secondaryKey",
-    "Turkish": "İkincil Anahtar"
-  },
-  {
-    "Key": "completedKey",
-    "Turkish": "Tamamlanan Anahtar"
-  },
-  {
-    "Key": "countKey",
-    "Turkish": "Sayım Anahtarı"
-  },
-  {
-    "Key": "statusKey",
-    "Turkish": "Durum Anahtarı"
-  },
-  {
-    "Key": "progressConnection",
-    "Turkish": "İlerleme Bağlantısı"
-  },
-  {
-    "Key": "progressScript",
-    "Turkish": "İlerleme Scripti"
-  },
-  {
-    "Key": "progressPrimaryKey",
-    "Turkish": "İlerleme Birincil Anahtarı"
-  },
-  {
-    "Key": "progressCountKey",
-    "Turkish": "İlerleme Sayısı Anahtarı"
-  },
-  {
-    "Key": "progressPercentageKey",
-    "Turkish": "İlerleme Yüzdesi Anahtarı"
-  },
-  {
-    "Key": "progressColorKey",
-    "Turkish": "İlerleme Renk Anahtarı"
-  },
-  {
-    "Key": "keyColumn",
-    "Turkish": "Değer Sütunu"
-  },
-  {
-    "Key": "currency",
-    "Turkish": "Para Birimi"
-  },
-  {
-    "Key": "whitePage",
-    "Turkish": "Beyaz Sayfa"
-  },
-  {
-    "Key": "noReportSelected",
-    "Turkish": "Rapor Seçilmedi"
-  },
-  {
-    "Key": "noTypeSelected",
-    "Turkish": "Rapor Tipi Seçilmedi"
-  },
-  {
-    "Key": "whitePageReports",
-    "Turkish": "Beyaz Sayfa Raporu"
-  },
-  {
-    "Key": "addBranch",
-    "Turkish": "Kırılım/Alt Kırılım Ekle"
-  },
-  {
-    "Key": "branchName",
-    "Turkish": "Kırılım Adı"
-  },
-  {
-    "Key": "rowNumber",
-    "Turkish": "Sıra Numarası"
-  },
-  {
-    "Key": "reportTypeSelect",
-    "Turkish": "Rapor Tipi Seçiniz"
-  },
-  {
-    "Key": "reportDescription",
-    "Turkish": "Rapor açıklaması..."
-  },
-  {
-    "Key": "useWeb",
-    "Turkish": " Web'de Kullanılsın"
-  },
-  {
-    "Key": "useMobile",
-    "Turkish": "Mobil'de Kullanılsın"
-  },
-  {
-    "Key": "mainScript",
-    "Turkish": "Ana Script"
-  },
-  {
-    "Key": "pre-runScript",
-    "Turkish": "Ön script çalıştır?"
-  },
-  {
-    "Key": "preScript",
-    "Turkish": "Ön Script"
-  },
-  {
-    "Key": "testIt",
-    "Turkish": "Test Et"
-  },
-  {
-    "Key": "selectAll",
-    "Turkish": "Tümünü Seç"
-  },
-  {
-    "Key": "addReport",
-    "Turkish": "Rapor Ekle"
-  },
-  {
-    "Key": "selectReportType",
-    "Turkish": "Rapor Tipi Seçiniz"
-  },
-  {
-    "Key": "reportType",
-    "Turkish": "Rapor Tipi"
-  },
-  {
-    "Key": "reportDesingPermission",
-    "Turkish": "Kullanıcının rapor tasarım izni bulunmamaktadır."
-  },
-  {
-    "Key": "reportImportedOpenLeftMenu",
-    "Turkish": "Rapor İçeri Aktarıldı. Sol Menüden Açabilirsiniz."
-  },
-  {
-    "Key": "forReportExport",
-    "Turkish": "Rapor Export için önce rapor seçmelisiniz."
-  },
-  {
-    "Key": "anErrorOccurred",
-    "Turkish": "Hata oluştu"
-  },
-  {
-    "Key": "reportDeleted",
-    "Turkish": "Rapor Silindi"
-  },
-  {
-    "Key": "branchDeleted",
-    "Turkish": "Kırılım Silindi"
-  },
-  {
-    "Key": "addBranchName",
-    "Turkish": "Lütfen kırılım adını giriniz"
-  },
-  {
-    "Key": "addedBranch",
-    "Turkish": "Kırılım Eklendi"
-  },
-  {
-    "Key": "selectConnectionAddress",
-    "Turkish": "Lütfen bağlantı adresi seçiniz"
-  },
-  {
-    "Key": "enterSqlScript",
-    "Turkish": "Lütfen sql script giriniz"
-  },
-  {
-    "Key": "enterReportName",
-    "Turkish": "Lütfen rapor adını giriniz"
-  },
-  {
-    "Key": "reportAdded",
-    "Turkish": "Rapor Eklendi"
-  },
-  {
-    "Key": "numberOfDataToBeProcessed",
-    "Turkish": "Bağlantı başarılı. İşlenecek veri sayısı:"
-  },
-  {
-    "Key": "dataNotFoundCheckYourConnection",
-    "Turkish": "Veri bulunamadı! Lütfen bağlantınızı ve sql komutunuzu kontrol ediniz"
-  },
-  {
-    "Key": "connectionNotFoundCheckYourConnection",
-    "Turkish": "Bağlantı sağlanamadı! Lütfen bağlantınızı ve sql komutunuzu kontrol ediniz"
-  },
-  {
-    "Key": "fillConnectionAndSql",
-    "Turkish": "Lütfen bağlantınızı ve sql komutunuzu doldurunuz"
-  },
-  {
-    "Key": "allTypesActivate",
-    "Turkish": "Görüntüleme Anında Bütün Tipler Aktif Olsun"
-  },
-  {
-    "Key": "passwordRequired",
-    "Turkish": "\r\nŞifre gereklidir"
-  },
-  {
-    "Key": "showLess",
-    "Turkish": "Daha Az Göster"
-  },
-  {
-    "Key": "showMore",
-    "Turkish": "Daha Fazla Göster"
-  },
-  {
-    "Key": "authority",
-    "Turkish": "Yetki"
-  },
-  {
-    "Key": "preScriptDescription",
-    "Turkish": "Ön sccript açıklaması"
-  },
-  {
-    "Key": "enterReportFilters",
-    "Turkish": "Rapor Filtrelerini Giriniz"
-  },
-  {
-    "Key": "gridDesigner",
-    "Turkish": "Grid Tasarımcı"
-  },
-  {
-    "Key": "addMainBranch",
-    "Turkish": "Ana Kırılım Ekle"
-  },
-  {
-    "Key": "resetSettings",
-    "Turkish": "Ayarları Sıfırla"
-  },
-  {
-    "Key": "columsToGroup",
-    "Turkish": "Verileri gruplandırmak için başlık sütunlarının içerik menüsünü kullanın"
-  },
-  {
-    "Key": "customize",
-    "Turkish": "Özelleştirme"
-  },
-  {
-    "Key": "colorType",
-    "Turkish": "Renk Tipi"
-  },
-  {
-    "Key": "formatManagement",
-    "Turkish": "Format Yönetimi"
-  },
-  {
-    "Key": "bottomTotalColumn",
-    "Turkish": "Dip Toplam Kolonu"
-  },
-  {
-    "Key": "formatType",
-    "Turkish": "Format Tipi"
-  },
-  {
-    "Key": "datagridSettingsReset",
-    "Turkish": "Data grid ayarları sıfırlanacak"
-  },
-  {
-    "Key": "unexpectedError",
-    "Turkish": "Üzgünüz, beklenmedik bir hata ile karşılaştık."
-  },
-  {
-    "Key": "changesSaved",
-    "Turkish": "Değişiklikler kaydedildi"
-  },
-  {
-    "Key": "addGantTask",
-    "Turkish": "Gant Görevi Ekle"
-  },
-  {
-    "Key": "updGantTask",
-    "Turkish": "Gant Görevi Güncelle"
-  },
-  {
-    "Key": "updSchedulerTask",
-    "Turkish": "Takvim Görevi Güncelle"
-  },
-  {
-    "Key": "updTodoTask",
-    "Turkish": "To-Do Görevi Güncelle"
-  },
-  {
-    "Key": "completeTask",
-    "Turkish": "Görevi Tamamla"
-  },
-  {
-    "Key": "cantBeEmptyKanban",
-    "Turkish": "Görev başlığı, görev detayı ve görev atanan kişi boş olamaz"
-  },
-  {
-    "Key": "successAdd",
-    "Turkish": "Görev başarıyla eklendi"
-  },
-  {
-    "Key": "successUpd",
-    "Turkish": "Görev başarıyla güncellendi"
-  },
-  {
-    "Key": "statusChangeTodo",
-    "Turkish": "Görevin Tamamlanma Durumu Başarıyla Değiştirildi."
-  },
-  {
-    "Key": "reminderSended",
-    "Turkish": "Görev için başarıyla hatırlatma maili gönderildi"
-  },
-  {
-    "Key": "askForCompleteTask",
-    "Turkish": "Görevi Tamamlamak İstediğinize Emin Misiniz?"
-  },
-  {
-    "Key": "infoForCompletedTask",
-    "Turkish": "Görevinize ait alt görevler de tamamlanacaktır."
-  },
-  {
-    "Key": "noPermisison",
-    "Turkish": "Yetkiniz Bulunmamaktadır."
-  },
-  {
-    "Key": "successDependencyAdded",
-    "Turkish": "Görev Bağımlılığı Başarıyla Eklendi"
-  },
-  {
-    "Key": "filterimportant",
-    "Turkish": "Önemine Göre Filtrele"
-  },
-  {
-    "Key": "enterEmail",
-    "Turkish": "E-posta adresi giriniz"
-  },
-  {
-    "Key": "reply",
-    "Turkish": "Cevapla"
-  },
-  {
-    "Key": "newCol",
-    "Turkish": "Yeni Sütun"
-  },
-  {
-    "Key": "thickness",
-    "Turkish": "Kalınlık"
-  },
-  {
-    "Key": "distanceToUpperComponent",
-    "Turkish": "Üstteki komponentle arasındaki mesafe"
-  },
-  {
-    "Key": "companyName",
-    "Turkish": "Şirket İsmi"
-  },
-  {
-    "Key": "showEmailModule",
-    "Turkish": "E-Posta modülünü göster"
-  },
-  {
-    "Key": "distanceToBottomComponent",
-    "Turkish": "Alttaki komponentle  arasındaki mesafe"
-  },
-  {
-    "Key": "canNonAdminUsersPost",
-    "Turkish": "Admin olmayan kullanıcılar post atabilsin mi"
-  },
-  {
-    "Key": "columnColor",
-    "Turkish": "Sütun Rengi"
-  },
-  {
-    "Key": "byWho",
-    "Turkish": "Tarafından"
-  },
-  {
-    "Key": "added",
-    "Turkish": "Eklendi"
-  },
-  {
-    "Key": "updated",
-    "Turkish": "Güncellendi"
-  },
-  {
-    "Key": "commentAdded",
-    "Turkish": "Yorum Eklendi"
-  },
-  {
-    "Key": "completed",
-    "Turkish": "Tamamlandı"
-  },
-  {
-    "Key": "addRemoveColumns",
-    "Turkish": "Sütun Ekle-Çıkar"
-  },
-  {
-    "Key": "searchMessage",
-    "Turkish": "Mesajlarda ara"
-  },
-  {
-    "Key": "riverReports",
-    "Turkish": "River BI Raporlar"
-  },
-  {
-    "Key": "forms",
-    "Turkish": "Formlar"
-  },
-  {
-    "Key": "searchinforms",
-    "Turkish": "Formlarda Ara"
-  },
-  {
-    "Key": "searchVoiceMessage",
-    "Turkish": "Aradığınız mesaj bu ses dosyasının içinde geçmektedir"
-  },
-  {
-    "Key": "searchVoiceMessages",
-    "Turkish": "Sesli mesajlarda arama"
-  },
-  {
-    "Key": "showSocialNotifications",
-    "Turkish": "Sosyal Bildirimlerini Göster"
-  },
-  {
-    "Key": "showProjectManagementNotifications",
-    "Turkish": "Proje Yönetimi Bildirimlerini Göster"
-  },
-  {
-    "Key": "showProcessNotifications",
-    "Turkish": "Süreç Bildirimlerini Göster"
-  },
-  {
-    "Key": "pageDesingPermission",
-    "Turkish": "Kullanıcının sayfa tasarım izni bulunmamaktadır."
-  },
-  {
-    "Key": "filemanagementDesingPermission",
-    "Turkish": "Kullanıcının dosya yönetim izni bulunmamaktadır."
-  },
-  {
-    "Key": "taskDelete",
-    "Turkish": "Görev Silinecek."
-  },
-  {
-    "Key": "tasksWillDeleted",
-    "Turkish": "Görevi Silmek İstediğinize Emin Misiniz?."
-  },
-  {
-    "Key": "componentSettings",
-    "Turkish": "Bileşen Ayarları"
-  },
-  {
-    "Key": "aboutComponent",
-    "Turkish": "Bileşen Hakkında"
-  },
-  {
-    "Key": "sureSaveChanges",
-    "Turkish": "Yaptığınız değişikleri kaydetmek istediğinizden emin misiniz?"
-  },
-  {
-    "Key": "showDeletedNotifications",
-    "Turkish": "Sildiğim Bildirimleri Göster"
-  },
-  {
-    "Key": "shareSometthing",
-    "Turkish": "Bir Şeyler Paylaş"
-  },
-  {
-    "Key": "resetPageLayout",
-    "Turkish": "Sayfa Tasarımını Sıfırla"
-  },
-  {
-    "Key": "downloadingSS",
-    "Turkish": "Ekran görüntüsü indiriliyor.Lütfen Bekleyiniz."
-  },
-  {
-    "Key": "showHorizontalLines",
-    "Turkish": "Yatay Çizgiler Görünsün"
-  },
-  {
-    "Key": "turnOnVerticalHide",
-    "Turkish": "Dikey Gizleme Açılsın"
-  },
-  {
-    "Key": "whichHorizontalLinelinesAreNotVisible",
-    "Turkish": "Hangi yatay çizgi -çizgiler görünmesin"
-  },
-  {
-    "Key": "mbnnb",
-    "Turkish": ""
-  },
-  {
-    "Key": "test",
-    "Turkish": ""
-  },
-  {
-    "Key": "aaaaaa",
-    "Turkish": "aaaaaa"
-  },
-  {
-    "Key": "bbbbbb",
-    "Turkish": ""
-  },
-  {
-    "Key": "cccccc",
-    "Turkish": ""
-  },
-  {
-    "Key": "ddddd",
-    "Turkish": ""
-  },
-  {
-    "Key": "eeeee",
-    "Turkish": ""
-  },
-  {
-    "Key": "fffffff",
-    "Turkish": ""
-  },
-  {
-    "Key": "ggggg",
-    "Turkish": ""
-  },
-  {
-    "Key": "mmmmmmm",
-    "Turkish": ""
-  },
-  {
-    "Key": "wwwwwww",
-    "Turkish": ""
-  },
-  {
-    "Key": "ggggggggg",
-    "Turkish": ""
-  },
-  {
-    "Key": "llllllllll",
-    "Turkish": ""
-  },
-  {
-    "Key": "iiiiiiiiii",
-    "Turkish": ""
-  },
-  {
-    "Key": "oooooooo",
-    "Turkish": ""
-  },
-  {
-    "Key": "üüüüüü",
-    "Turkish": ""
-  },
-  {
-    "Key": "ppppp",
-    "Turkish": ""
+{
+  "LANG": "TR",
+  "data": {
+    "loginButton": "Giriş",
+    "userName": "Kullanıcı Adı",
+    "pass": "Şifre",
+    "remember": "Beni Hatırla",
+    "forgotPass": "Şifremi Unuttum",
+    "modules": "Modüller",
+    "generic": "Genel",
+    "search": "Ara",
+    "logout": "Çıkış",
+    "waitingJob": "Bekleyen İşlerim",
+    "myStarted": "Başlattıklarım",
+    "myIncluded": "Dahil Olduklarım",
+    "myCompleted": "Bitirdiğim İşler",
+    "jobList": "İş Listesi",
+    "formNo": "Form No",
+    "status": "Durum",
+    "starter": "Başlatan",
+    "assigned": "Devredilen",
+    "timeoutDate": "Zaman Aşım Tar.",
+    "startDate": "Başlama Tarihi",
+    "processing": "İşleniyor",
+    "you": "Siz",
+    "history": "Tarihçe",
+    "description": "Açıklama",
+    "date": "Tarih",
+    "growShrink": "Büyüt/Küçült",
+    "close": "Kapat",
+    "gridReset": "Grid Ayarlarını Sıfırla",
+    "columnSelect": "Kolon Seçimi",
+    "jobName": "İş Adı",
+    "keyword": "Anahtar Kelime",
+    "completion": "Tamamlanma",
+    "all": "Hepsi",
+    "completedDate": "Bitiş Tarihi",
+    "completions": "Tamamlananlar",
+    "ongoing": "Devam Edenler",
+    "formName": "Form Adı",
+    "sunday": "Pazar",
+    "monday": "Pazartesi",
+    "tuesday": "Salı",
+    "wednesday": "Çarşamba",
+    "thursday": "Perşembe",
+    "friday": "Cuma",
+    "saturday": "Cumartesi",
+    "pdfExport": "Pdf Dışarı Aktar",
+    "sendPassword": "Şifremi Gönder",
+    "assignedDate": "Atama Tarihi",
+    "events": "Eventler",
+    "new": "Yeni",
+    "save": "Kaydet",
+    "formula": "Formül",
+    "selectDataSource": "DataSource Seçiniz",
+    "requiredField": "Zorunlu Alan",
+    "suffix": "Son Ek",
+    "valueColumn": "Değer Kolonu",
+    "showLength": "Sütunlardaki Görev Sayısını Göster",
+    "clearButton": "Temizle Butonu",
+    "allCaps": "Hepsi Büyük Harf",
+    "autoAsc": "Otomatik Artan",
+    "width": "Genişlik",
+    "length": "Uzunluk",
+    "functions": "Fonksiyonlar",
+    "selectElement": "Element Seçiniz",
+    "selectColumn": "Kolon Seçiniz",
+    "edit": "Düzenle",
+    "changeEventActions": "Etkinlik Eylemlerini Değiştir",
+    "barcode": "Barkod",
+    "systemInfo": "Sistem Bilgi",
+    "prefix": "Ön Ek",
+    "max": "Maksimum",
+    "showMinMaxInfo": "Minimum ve Maksimum bilgisini görüntüle",
+    "selectUser": "Kullanıcı Seçiniz",
+    "spinButton": "Spin Butonu",
+    "numberIncDecButton": "Sayı Artır-Azalt Butonu",
+    "decimal": "Ondalık Sayı",
+    "numeral": "Rakam",
+    "wrongFormat": "hatalı format girdiniz",
+    "height": "Yükseklik",
+    "microphone": "Mikrofon",
+    "notifyDataReset": "Data Sıfırlandı",
+    "data": "Veriler",
+    "dynamicData": "Dinamik Veri",
+    "manualData": "Manuel Veri",
+    "selectDataGrid": "Datagrid Seçiniz",
+    "overrideUserChange": "Kullanıcı değişikliklerini ez",
+    "textColumn": "Text Kolonu",
+    "makeInitialValue": "İlk Değer Varsayılan Olsun",
+    "undo": "Geri Al",
+    "copy": "Kopyala",
+    "delete": "Sil",
+    "cancel": "Vazgeç",
+    "languageSettings": "Dil Ayarları",
+    "messageSqlLinkDeleted": "Manuel veri eklediğiniz için sql script ve bağlantı adresi silinecektir! Devam edilsin mi?",
+    "permissions": "İzinler",
+    "objectid": "Nesne ID",
+    "fontSize": "Yazı Boyutu",
+    "fontWidth": "Yazı Genişliği",
+    "fontStyle": "Yazı Stili",
+    "underline": "Altı Çizili",
+    "textColor": "Yazı Rengi",
+    "visibility": "Görünürlük",
+    "textAlignment": "Yazı Hizalama",
+    "settings": "Ayarlar",
+    "messageUnsaved": "Yaptığınız değişikleri kaydetmeden çıkmak istediğinizden emin misiniz?",
+    "warning": "Uyarı!",
+    "userAuthorizations": "Kullanıcı Yetkileri",
+    "formPreferences": "Form Tercihler",
+    "formOpeningevent": "Form Açma Olayı",
+    "chooseConnectionAddress": "Bağlantı Adresi Seçiniz",
+    "selectPriorty": " Öncelik Seçiniz",
+    "loadingEditor": "Editor Yükleniyor ...",
+    "showAddButton": "Sütun Ekleme Butonunu Göster ",
+    "update": "Güncelle",
+    "connectionID": "Bağlantı ID",
+    "formPreview": "Form Önizleme",
+    "nameDisplayedform": "Görüntülenen formun adı",
+    "formNamevariable": "Form Adı Değişkeni",
+    "category": "Kategori",
+    "formColor": "Form Rengi",
+    "generalForm": "Genel Form",
+    "saveForm": "Formu Kaydet",
+    "messageNeworupdate": "Var olan form üzerinde yaptığınız değişiklikler silenecektir. Devam edilsin mi?",
+    "messageDelete": "Formu silmek istediğinize emin misiniz?",
+    "toastDeleted": "Form Silindi",
+    "toastError": "Üzgünüz, işlem sırasında bir hata oluştu",
+    "alertDifferentID": "Bu id başka bir yerde kullanılıyor, lütfen farklı bir id belirtiniz.",
+    "confirmChanges": "Değişiklikleri onaylayın",
+    "toastUserpermission": "Kullanıcının form tasarım izni bulunmamaktadır.",
+    "toastCodeeditor": "Codeditor zaten mevcut",
+    "messageDeletesure": "Bu component içerisindeki elemanlar silinecektir",
+    "messageSure": "Emin misiniz?",
+    "Success": "Başarılı",
+    "Error": "Hata",
+    "toastFormupdate": "Form Güncellendi",
+    "toastMistake": "Üzgünüz, işlem sırasında bir hata oluştu",
+    "toastSaved": "Kaydedildi",
+    "toastCopied": "Kopyalandı",
+    "toastEmptyFormMessage": "Henüz form elemanları eklenmedi",
+    "toastGiveName": "Lütfen formunuza bir isim veriniz",
+    "toastGiveVariableName": "Lütfen form adı değişkenine bir isim veriniz",
+    "toastVariableNameNumberWarning": "Değişken adı sayı ile başlayamaz",
+    "formCopy": "Formu Kopyala",
+    "messageButtonDelete": "Butonu silmek istediğinizden emin misiniz?",
+    "noDataFound": "Veri Bulunamadı",
+    "language": "Dil",
+    "filterDatagrid": "Datagrid Filtreleme",
+    "addManualData": "Çalışma Anında Manual Veri Eklensin",
+    "dateFormat": "Tarih Formatı",
+    "messageSqlLinkDelete": "Manuel veri eklediğiniz için sql script ve bağlantı adresi silinecektir! Devam edilsin mi?",
+    "timeOption": "Saat Seçeneği",
+    "defaultTodaysDate": "Varsayılan bugünün tarihi olsun",
+    "dateRange": "Tarih Aralığı",
+    "minToday": "Minimum Bugün",
+    "maxToday": "Maximum Bugün",
+    "dateRangeDay": "Tarih Aralığı (Gün)",
+    "enterDateRangeValue": "Tarih aralığı değerini giriniz",
+    "imageIdColumn": "Id Kolonu",
+    "statusSettings": "Durum Ayarları",
+    "active": "Aktif",
+    "passive": "Pasif",
+    "enable": "Etkin",
+    "disable": "Devre Dışı",
+    "visible": "Görünür",
+    "invisible": "Görünmez",
+    "items": "Öğeler",
+    "showItems": "Öğeleri Görüntüle",
+    "array": "Diziliş",
+    "letLabelAppear": "Etiket Göster",
+    "add": "Ekle",
+    "horizontal": "Yatay",
+    "vertical": "Dikey",
+    "text": "Metin",
+    "alertFillRequiredFields": "Lütfen zorunlu alanları doldurun",
+    "alertSignatureField": "İmza alanı boş olamaz",
+    "messageApproveTransaction": "İşlemi onaylıyor musunuz?",
+    "button": "Buton",
+    "reasonforRefusal": "Reddetme Sebebi",
+    "enterReasonRejection": "Reddetme Sebebini Giriniz",
+    "reject": "Reddet",
+    "addDeleteButton": "Buton Ekle/Sil",
+    "showBorder": "Kenarlık Görünsün",
+    "buttons": "Butonlar",
+    "clean": "Temizle",
+    "buttonSettings": "Buton Ayarları",
+    "saveLocation": "Konum Kaydedilsin",
+    "paymentButton": "Ödeme Butonu",
+    "paymentProvider": "Ödeme Sağlayıcı",
+    "price": "Fiyat",
+    "numberOfInstallments": "Taksit Sayısı",
+    "descriptionField": "Açıklama Alanı",
+    "current": "Cari",
+    "currentForm": "Cari Formu",
+    "name": "İsim",
+    "surname": "Soyadı",
+    "country": "Ülke",
+    "city": "Şehir",
+    "address": "Adres",
+    "authorizations": "Yetkiler",
+    "users": "Kullanıcılar",
+    "user": "Kullanıcı",
+    "givePermission": "Yetki Ver",
+    "groups": "Gruplar",
+    "group": "Grup",
+    "saveandSend": "Kaydet ve Gönder",
+    "approve": "Onayla",
+    "sendBack": "Geri Gönder",
+    "deslineAndEnd": "Reddet ve Bitir",
+    "complete": "Tamamla",
+    "blue": "Mavi",
+    "grey": "Gri",
+    "green": "Yeşil",
+    "red": "Kırmızı",
+    "left": "Sol",
+    "right": "Sağ",
+    "color": "Renk",
+    "symbol": "Simge",
+    "position": "Pozisyon",
+    "action": "Aksiyon",
+    "total": "Toplam",
+    "filePath": "Dosya Yolu",
+    "fileName": "Dosya Adı",
+    "fileUpload": "Dosya Yükle",
+    "choose": "Seç",
+    "updateData": "Veriyi Güncelle",
+    "preview": "Ön İzleme",
+    "show": "Göster",
+    "columns": "Kolonlar",
+    "changeEvent": "Etkinliği Değiştir",
+    "columnSettings": "Kolon Ayarları",
+    "columnName": "Kolon Adı",
+    "deleteColumn": "Kolonu Sil",
+    "columnSqlScripts": "Kolon Sql Scriptleri",
+    "imageNameColumn": "Dosya İsim Kolonu",
+    "columnLanguageSetting": "Kolon Dil Ayarı",
+    "dataSource": "Veri kaynağı",
+    "filter": "Filtre",
+    "reset": "Sıfırla",
+    "column": "Kolon",
+    "image": "Resim",
+    "searchLocation": "Konum Ara...",
+    "draggable": "Sürüklenebilir",
+    "usersCanChange": "Kullanıcılar Değiştirebilsin",
+    "multiMarker": "Çoklu İşaretleyici",
+    "markerLimit": "İşaret Limiti (0: Limit Yok)",
+    "meetingType": "Toplantı Türü",
+    "meetingName": "Toplantı Adı",
+    "loadingFiles": "Dosyalar yükleniyor...",
+    "fileSizeExceeded": "Dosya boyutu aşıldı",
+    "filesLoaded": "Dosyalar yüklendi",
+    "condition": "Koşul",
+    "value": "Değer",
+    "connectionAdress": "Bağlantı Adresi",
+    "imageTypeColumn": "Dosya Tipi kolonu",
+    "visibleColumn": "Görünür Kolon",
+    "selectionMode": "Seçim Modu",
+    "selectMode": "Mod Seçiniz",
+    "datagridFiltering": "Datagrid Filtering",
+    "imageDataColumn": "Dosya kolonu",
+    "selectDataColumn": "Datagrid Kolonu Seçiniz",
+    "dataFormat": "Veri Formatı",
+    "photoPreview": "Fotoğraf Ön İzleme",
+    "videoPreview": "Video Ön İzleme",
+    "displayPhoto": "Fotoğraf Görüntülensin",
+    "displayVideo": "Video Görüntülensin",
+    "imageColumn": "Resim Kolonu",
+    "videoColumn": "Video Kolonu",
+    "columnNameAppear": "Görünecek kolon adı",
+    "selected": "Seçilenler",
+    "inStock": "Stokta Olanlar",
+    "gallery": "Galeri",
+    "dollar": "Dolar",
+    "sterling": "Sterlin",
+    "underPhoto": "Fotoğrafın Altı",
+    "topPhoto": "Fotoğrafın Üstü",
+    "byCategory": "Kategoriye Göre",
+    "dashboardShowHide": "Dashboard Göster/Gizle",
+    "showDetail": "Detayı Görüntüle",
+    "hideDetail": "Detayı Gizle",
+    "decrease": "Azalt",
+    "increase": "Arttır",
+    "watch": "İzle",
+    "watchMovie": "Filmi İzle",
+    "noRecordsFound": "Kayıt Bulunamadı!",
+    "appearance": "Görünüm",
+    "numberofColumns": "Kolon Sayısı",
+    "pagingRecords": "Sayfalama Kayıt Sayısı",
+    "detailLocation": "Detay Konumu",
+    "hideImages": "Resimleri Gizle",
+    "quantityCategoryDisable": "Adet Arttığında Kategori Devre Dışı Bırakılsın",
+    "general": "Genel",
+    "idColumn": "Id Kolonu",
+    "availableQuantity": "Mevcut Miktar",
+    "categoryColumn": "Kategori Kolonu",
+    "photoColumn": "Fotoğraf Kolonu",
+    "titleColumn": "Başlık Kolonu",
+    "priceColumn": "Fiyat Kolonu",
+    "updatablePrice": "Güncellenebilir Fiyat",
+    "videoGallery": "Video Galeri",
+    "uniqueComponent": "Benzersiz Bileşen",
+    "showVariant": "Varyantı Göster",
+    "transferTotalAmount": "Toplam Tutarı Aktar",
+    "connectionAddress": "Bağlantı Adresi",
+    "title": "Başlık",
+    "hide": "Gizle",
+    "detail": "Detay",
+    "priceQuery": "Fiyat Sorgusu",
+    "quantityQuery": "Miktar Sorgusu",
+    "uniqueComponentError": "Benzersiz Bileşen Hatası ",
+    "joinColumn": "Join Kolonu",
+    "nameColumn": "İsim Kolonu",
+    "variantScript": "Varyant Script",
+    "variantImages": "Varyant Resimler",
+    "variantJoinColumn": "Varyant Join Kolonu",
+    "showAll": "Tümünü Göster",
+    "showSelected": "Seçilenleri Göster",
+    "showByCategory": "Kategoriye Göre Göster",
+    "showInStock": "Stokta Olanları Göster",
+    "notYetAdded": "Henüz eklenmedi",
+    "startingDate": "Başlama Tarihi",
+    "endDate": "Bitiş Tarihi",
+    "themeFeatures": "Tema Özellikleri",
+    "menu": "Katalog",
+    "selectMenu": "Menü Seçiniz",
+    "selectSubmenu": "Alt Menü Seçiniz",
+    "selectMenuBrowser": "Menü Tarayıcısını Seçin",
+    "nameElement": "Ad Elementi",
+    "subject": "Konu",
+    "picture": "Resim",
+    "pictureElement": "Resim Elementi",
+    "startingDateElement": "Başlama Tarihi Elementi",
+    "endDateElement": "Bitiş Tarihi Elementi",
+    "usersCanEdit": "Kullanıcılar Düzenleyebilsin",
+    "thisPropertyCant": "Bu özellik veriler SQL'den alınıyorsa KULLANILAMAZ",
+    "calendarDisplay": "Takvim Gösterim Özellikleri",
+    "monthly": "Aylık",
+    "generalDisplayLunarDays": "Ay Günlerininin Genel Gösterimi",
+    "agenda": "Ajanda",
+    "listofWeeklyEvents": "Haftalık Eventlerin Listesi",
+    "weekly": "Haftalık",
+    "weekend": "Hafta sonu",
+    "generalDisplayWeekDays": "Hafta Günlerinin Genel Gösterimi",
+    "showWeekendDaysWhileWeekdays": "Hafta Günleri Gösterilken Hafta Sonu Günlerini de Göster",
+    "daily": "Günlük",
+    "listofDailyEvents": "Günlük Eventlerin Listesi",
+    "startTime": "Başlangıç Saati",
+    "endTime": "Bitiş Saati",
+    "changeDefaultColor": "Varsayılan Renkleri Değiştir",
+    "weekdayColor": "Hafta İçi Rengi",
+    "weekendColor": "Hafta Sonu Rengi",
+    "eventColor": "Event Rengi",
+    "groupBySql": "Sql'ye Göre Gruplandır",
+    "groupColumnName": "Grup Kolon Adı",
+    "assignedColumnName": "Atanmış Kolon Adı",
+    "taskPriortiyColumnName": "Görev Önceliği Kolon Adı",
+    "taskSubjectColumnName": "Görev Konusu Kolon Adı",
+    "taskDetailColumnName": "Görev Ayrıntısı Sütun Adı",
+    "taskQuery": "Görev Sorgusu",
+    "taskKeyExpression": "Görev Anahtarı İfadesi",
+    "taskTitleExpression": "Görev Başlığı İfadesi",
+    "taskStartDateExpression": "Görev Başlangıç Tarihi İfadesi",
+    "taskEndDateName": "Görev Bitiş Tarihi Adı",
+    "taskParentExpression": "Görev Üst İfadesi",
+    "taskProgressExpression": "Görev İlerleme İfadesi",
+    "taskColorExpression": "Görev Rengi İfadesi",
+    "taskConnections": "Görev Bağlantıları",
+    "diagramClear": "Diyagramı temizlemek istediğinizden emin misiniz? Bu işlem geri alınamaz.",
+    "uniqueComponentMenuCloneWarning": "Lütfen kopyalamadan önce benzersiz bileşeni değiştiriniz.",
+    "filesLoading": "Dosyalar yükleniyor...",
+    "couldnotbeLoaded": "\"KB) yüklenemedi.",
+    "fileSizeLimit": "( Dosya Boyutu sınırı",
+    "filesUploaded": "Dosyalar yüklendi",
+    "filesWillDeleted": "Dosyalar Silinecek!",
+    "filesSureDelete": "Dosyaları silmek istediğinize emin misiniz?",
+    "fileDelete": "Dosyayı silmek istiyor musunuz?",
+    "uploadedPhotos": "Yüklenen Fotoğraflar",
+    "maxSize": "Maksimum Boyut",
+    "center": "Orta",
+    "size": "Boyut",
+    "canItBeUpdated": "Yüklemeden sonra güncellenebilsin mi ?",
+    "uploadedFiles": "Yüklenen Dosyalar",
+    "type": "Tip",
+    "showdeleteOldData": "Eski Veriler İçin Silinme Seçenekleri",
+    "videoBrowser": "Tarayıcınız video etiketini desteklemiyor.",
+    "deleted": "Silindi",
+    "theseComponentElementsDeleted": "Bu bileşen elemanları silinecektir.",
+    "invalidTarget": "Geçersiz hedef",
+    "ridge": "Düz Çizgi",
+    "dotted": "Nokta",
+    "dashed": "Çizgili",
+    "addRowColumn": "Satır/Sütun Ekle",
+    "dataPagingShow": "Veriler Sayfalar Halinde Getirilsin",
+    "borderType": "Kenarlık Tipi",
+    "maxCharacters": "Maksimum Karakter Sayısı",
+    "edgeThickness": "Kenar Kalınlığı",
+    "lineSpacing": "Satırlar Arası Boşluk",
+    "settingsRowColumn": "Satır/Sütun Ayarları",
+    "addRow": "Satır Ekle",
+    "deleteRow": "Satır Sil",
+    "rowPermission": "Satır Yetkileri",
+    "addTabs": "Sekme Ekle",
+    "deletePanel": "Paneli Sil",
+    "tabPermission": "Sekme Yetkileri",
+    "addPanel": "Panel Ekle",
+    "panelPermission": "Panel Yetkileri",
+    "backgroundColor": "Arkaplan Rengi",
+    "saveAndCloseChildForm": "Yeni Form Açılırken Bu Child Formu Kaydet ve Kapat",
+    "icon": "Symbol",
+    "selectForm": "Form Seçiniz",
+    "fontColor": "Yazı Rengi",
+    "minCharacters": "Minimum Karakter Sayısı",
+    "generalCategory": "Genel Kategori",
+    "removeRow": "Kaydı silmek istediğinizden emin misiniz?",
+    "send": "Gönder",
+    "declineFinish": "Reddet ve Bitir",
+    "finish": "Bitir",
+    "noData": "Veri Yok",
+    "createEditMenu": "Menü Oluştur/Düzenle",
+    "addNewBreakdown": "Yeni Kırılım Ekle",
+    "addForm": "Form Ekle",
+    "addBottomBreak": "Alt Kırılım Ekle",
+    "addNode": "Düğüm Ekle",
+    "topCategory": "Üst Kategori",
+    "explanation": "Açıklama",
+    "browserTitle": "Tarayıcı Başlığı",
+    "formTitle": "Form Başlığı",
+    "addSqlColumn": "Sql Kolon Ekle",
+    "formBg": "Form Arka Planı",
+    "codeEditor": "Kod Düzenleyici",
+    "authorityType": "Yetki Türü",
+    "viewOnly": "Sadece Görüntüle",
+    "dark": "Koyu",
+    "white": "Beyaz",
+    "hightBlack": "Siyah",
+    "run": "Çalıştır",
+    "rowColor": "Satır Rengi",
+    "operator": "Operatör",
+    "flowOfForm": "Form Akışı",
+    "columnWidth": "Sütun Genişliği",
+    "alignLeft": "Sola Yasla",
+    "alignRight": "Sağa Yasla",
+    "alignButton": "",
+    "imageTableNameColumn": "Tablo İsmi ",
+    "uploadBg": "Arkaplan Yükle",
+    "selectFile": "Dosya Seçiniz",
+    "dropFile": "veya Dosyayı buraya bırakın",
+    "alwaysRoundUp": "Her Zaman Üste Yuvarla",
+    "alwaysRoundBot": "Her Zaman Alta Yuvarla",
+    "default": "Varsayılan",
+    "deleteOldDataTable": "tablosuna ait eski veriler silinsin mi?",
+    "deleteOldData": "Eski veriler silinsin mi?",
+    "integer": "Tam Sayı",
+    "double": "Ondalık Sayı",
+    "pleaseFillFields": "Lütfen zorunlu alanları doldurun.",
+    "toastColumnNameNumber": "Kolon adı sayı ile başlayamaz",
+    "areYouSure": "Emin misiniz?",
+    "columnDeleted": "Kolon Silinecek",
+    "allColumnDeleted": "Tüm Kolonlar Silinecek",
+    "idCantStartNumber": "Id sayı ile başlayamaz",
+    "uploadFile": "Dosya Yükle",
+    "fileViewer": "Dosya Görüntüleyici",
+    "ok": "Tamam",
+    "map": "Harita",
+    "editPanel": "Düzenleme Paneli",
+    "filterColumnName": "Filtre Kolon Adı",
+    "hintExamples": "örnek:ToplamTutar, örnek:Maas",
+    "columnLanguageSettings": "Kolon Dil Ayarları",
+    "fileColumn": "Dosya Kolonu",
+    "extensionColumn": "Uzantı Kolonu",
+    "multipleSelection": "Çoklu Seçim",
+    "addSelectionsRows": "Seçimleri satır olarak ekle",
+    "mapSettings": "Harita Ayarları",
+    "formatAndFeatures": "Biçim ve Özellikler",
+    "enterDateRange": "Tarih aralığı değerini giriniz",
+    "filesCanUploadedUsers": "Kullanıcılar tarafından dosya yüklenebilir",
+    "barcodeColumn": "Barkod Kolonu",
+    "autoAscend": "Otomatik Artan",
+    "roundType": "Yuvarlama Tipi",
+    "font": "Yazı Tipi",
+    "columnProcess": "Kolon İşlemi",
+    "exportColumnTotal": "Kolon toplamını dışarıya aktar",
+    "outsideElementDisabled": "Dış Öğeler Devre Dışı Bırak",
+    "chat": "Sohbet",
+    "languages": "Diller",
+    "display": "Görüntü",
+    "enterYourComment": "Yorumunuzu girin",
+    "comment": "Yorumlar",
+    "fileUploaded": "adet yüklendi",
+    "pdfViewIsButton": "Button Şeklinde Göster",
+    "takeScreenshot": "Ekran Görüntüsü Al",
+    "alertText": "Alarm Metni",
+    "clearButtonVisible": "Temizleme Butonunu Göster",
+    "allText": "Hepsi",
+    "letter": "Yalnız Harf",
+    "letterandnumber": "Harf ve Numara",
+    "letterandsymbol": "Harf ve Sembol",
+    "numberandsymbol": "Numara ve Sembol",
+    "showIDColumn": "Id Kolonunu Göster",
+    "showCopyButton": "Kopyalama Buttonunu Göster",
+    "showDeleteButton": "Silme Buttonunu Göster",
+    "showCheckboxButton": "Checkbox Butonunu Göster",
+    "autoRowHeight": "Otomatik Satır Yüksekliği",
+    "exportImport": "Form İçe Aktar / Dışa Aktar",
+    "export": "Dışarı Aktar",
+    "import": "İçeri Aktar",
+    "toastImport": "Form İçeri Aktarma Tamamlandı.",
+    "defaultTodaysDateWithTime": "Varsayılan bugünün tarih ve saati olsun",
+    "warningApproveImport": "Gerekli düzenlemeleri yaptıktan sonra işlemi onaylayınız. Formu içeri aktarmak, şuanda açık olan formu kapatacaktır",
+    "filterVisible": "Sütun Filtreleme Göster",
+    "updatableMaxQuantity": "Güncellenebilir Maks. Miktar",
+    "hideQuantity": "Miktar seçimini gizle",
+    "disableQuantityTextbox": "Miktar yazmayı pasif yap",
+    "multiplesOfQuantity": "Miktarın artma/azaltma katları",
+    "justnumber": "Yalnızca sayı",
+    "paymentHourWarning": "Ödeme saatleri dışında ödeme yapamazsınız.",
+    "addColumn": "Sütun Ekle",
+    "mailSettings": "Mail Seçenekleri",
+    "newTaskMailDetail": "Yeni Görev Atandığında Gönderilecek Mail Metni",
+    "updateTaskMailDetail": "Görev Düzenlendiğinde Gönderilecek Mail Metni",
+    "taskOnDropMail": "Görevin Yeri Değiştirildiğinde Gönderilecek Mail Metni",
+    "selectSMTP": "SMTP Adresini Seçin",
+    "taskCreator": "Görev Atayan Kişi",
+    "taskEndDate": "Görev Sona Erme Tarihi",
+    "tags": "Etiketler",
+    "taskStartDate": "Görev Başlangıç Tarihi",
+    "taskAssigned": "Görev Atanan Kişi",
+    "taskDetail": "Görev Detayı",
+    "taskSubject": "Görev Başlığı",
+    "taskPri": "Görev Önceliği",
+    "taskEdit": "Görev Güncelleme",
+    "addTask": "Görev Ekleme",
+    "taskStatus": "Görev Durumu",
+    "excelExportSettings": "Excel Dışarı Aktar Ayarları",
+    "excelExportRequiredColor": "Zorunlu Alan Kolon Rengi",
+    "allDataExcelExport": "Verileri Excel Olarak Dışarı Al",
+    "warningApproveImportReport": "Gerekli düzenlemeleri yaptıktan sonra işlemi onaylayınız. Raporu içeri aktarmak, şuanda açık olan raporu kapatacaktır.",
+    "reportName": "Rapor Adı",
+    "old": "Eski",
+    "upperNode": "Üst Kırılım",
+    "pdfViewStaticPdf": "Sabit Dosya Göster",
+    "actions": "Eylemler",
+    "loading": "Yükleniyor",
+    "exportDataToExcell": "Tüm verileri Excel'e aktarın",
+    "showRefreshIcon": "Yenile Butonu",
+    "headerFilter": "Başlık Filtresi",
+    "filterRowVisible": "Sütunda Arama Kutusu Gözüksün",
+    "password": "Parola",
+    "categories": "Kategoriler",
+    "pressEnter": "Enter'a Basın",
+    "historyColumnValue": "Data History Kolonu",
+    "hideMobile": "Mobilde Gizle",
+    "align": "Hizalama",
+    "theme": "Tema",
+    "info": "Bilgi",
+    "showTitle": "Başlığı Göster",
+    "purple": "Mor",
+    "brown": "Kahverengi",
+    "yellow": "Sarı",
+    "turnOnComments": "Yorumları aç",
+    "showContent": "İçeriği Göster",
+    "canBeHidden": "Gizlenebilir",
+    "allowEdit": "Düzenlemeye İzin Ver",
+    "allowDelete": "Silmeye İzin Ver",
+    "toastDeleteErrorMessage": "Bu component Form Tercih scriptlerinde kullaniliyor. Silinemez.",
+    "formOpeningMultiElementEvent": "Form Açma Çoklu Element Olayi",
+    "resetDatagridLocalSettings": "Datagrid Yerel Ayarlarını Sıfırla",
+    "loginP1": "River kurumsal hafızanız olarak organizasyon veya kurumunuzun\r\n\r\ngeçmişteki deneyimleri, başarıları, başarısızlıkları, öğrenilen dersler,\r\n\r\nkültürü ve değerleri gibi bilgileri içeren, gelecekteki kararlar ve eylemler için\r\n\r\nbir referans kaynağı olarak kullanılabilecek bütünsel bir bellek sistemi sağlar.\r\n\r\nKurumsal hafıza, organizasyonun tarihini, iş süreçlerini, çalışanlarının bilgi birikimini,\r\n\r\nmüşteri deneyimlerini, ürün ve hizmetlerinin gelişimini ve daha birçok bilgiyi kapsar.\r\n\r\nBu bilgiler, kurumun gelecekteki hedef ve stratejileri için yol gösterici olacaktır.",
+    "loginP2": "River, web ve gelişmiş native mobil uygulama destekli yapısı ile işletmenizin iş \r\n\r\nsüreçlerini daha verimli ve etkili bir şekilde yürütmesine yardımcı olur. \r\n\r\nErişmeniz gereken her şey size bilgisayar, tablet ya da akıllı telefonunuz kadar yakın.",
+    "loginConnect": "Bağlan",
+    "loginText": "Giriş",
+    "loginRightMore": "Dahası",
+    "loginHeaderP1": "Kurumsal Hafızanız",
+    "loginHeaderP2": "Mobilite",
+    "loginHeaderP3": "Grafiksel Güç",
+    "kanbanaddTasks": "Kanban Task Ekleme",
+    "taskstatusDesciption": "Kanban görevinin atanacağı sütunun isminin görüntülenmesini sağlamaktadır.",
+    "tasksubjectDescription": "Kanban görevine ait başlık girilmesini sağlamaktadır. Kanban başlığı bir zorunlu alandır.",
+    "taskassignedToTask": "Göreve Eklenen Gruplar:",
+    "taskassignedTaskDescription": "Kanban görevine atanacak grupların seçilmesini sağlamaktadır.",
+    "addedForTasks": "Görev İçin Eklenenler",
+    "taskAssignedInfoDescription": "Görev İçin Bilgilendirilecek Kişiler",
+    "assignedInfo": "Bilgilendirilecek kişiler",
+    "groupInfo": "Görev İçin Bilgilendirilecek Gruplar",
+    "sortEnd": "Bitiş Tarihine Göre Sırala",
+    "sender": "Gönderen",
+    "forward": "İlet",
+    "attachments": "Ekler",
+    "loginP3": "Kanban ve gantt çizelgeleri, bir projenin veya iş akışını görselleştirmek için son derece faydalı araçlardır. \r\n\r\nİş öğelerinin, mevcut durumlarını ve işin farklı aşamalarındaki iş akışını gösteren görsel temsil sağlarlar.\r\n\r\n Bu, tıkanıklıkları belirlemeyi, işleri önceliklendirmeyi ve işlem verimliliğini geliştirmeyi kolaylaştırır.\r\n\r\n Kanban ve gantt çizelgeleri, çevik projeleri, yazılım geliştirmeyi ve diğer sürekli iyileştirme süreçlerini yönetmek için pratik ve etkilidir.",
+    "taskdetailDescription": "Kanban görevine ait detayların girilmesini sağlamaktadır. Kanban detayı bir zorunlu alandır.",
+    "taskassignedDescription": "Kanban görevine atanacak kullanıcıların seçilmesini sağlamaktadır. Kanbanda en az bir kullanıcı atanması zorunludur.",
+    "taskstartdateDescription": "Kanban görevinin başlangıç tarihinin seçilmesini sağlamaktadır. Kanbanda başlangıç tarihi otomatik olarak görevin oluşturulma zamanını almaktadır.",
+    "taskenddateDescription": "Kanban görevinin bitiş tarihinin seçilmesini sağlamaktadır. Kanbanda görev bitiş tarihi otomatik olarak görevin oluşturulma zamanınından bir hafta sonrasını almaktadır.",
+    "taskpriDescription": "Kanban görevinin öncelik durumunu seçilmesini sağlamaktadır. Kanbanda görev bitiş tarihi otomatik olarak görevin oluşturulma zamanınından bir hafta sonrasını almaktadır.",
+    "tagsDescription": "Kanban görevine ait etiketlerin eklenmesini sağlamaktadır. Etiketler virgül ile eklendikçe birbirlerinden ayrılmaktadır.",
+    "outlookDescription": "Outlook a eklensin seçeneği açıkken yapılan görev eklemelerinde outlook hesabınıza giriş yapıp otomatik olarak takvime görev eklenmektedir.",
+    "taskAssInfoDescription": "Göreve atanmayan ancak bilgisinin olması istenilen kişiler için kullanılan alandır. Bilgilendirmek için eklenen kişiler görevler üzerinde işlem yapamazlar.",
+    "receiver": "Alıcı",
+    "draft": "Taslak",
+    "spam": "Gereksiz E-Posta",
+    "filterstate": "Duruma Göre Filtrele",
+    "checkForspelling": "Yazım Hatalarını Kontrol Et",
+    "emailToForward": "İletilecek E-Posta ",
+    "lowImpMails": "Düşük Önemli Mailler ",
+    "normalImpMails": "\"Normal Önemli Mailler ",
+    "highImpEmails": "Yüksek Önemli Mailler ",
+    "showReadMails": "Okunmuş Mailleri Göster ",
+    "groupinfoDescription": "Göreve atanmayan ancak bilgisinin olması istenilen gruplar için kullanılan alandır. Bilgilendirmek için eklenen gruplara ait kişiler görevler üzerinde işlem yapamazlar.",
+    "timeoutMission": "Görev Bitmeden Uyarıya Başlanacak Saat",
+    "timeoutmissionDescription": "Kanban görevinin bitiş zamanına yaklaşıldığında uyarıya başlanılacak zamanı belirtmek için kullanılmaktadır.",
+    "taskperiodDescription": "Kanban görevinin bitiş tarihine yaklaşıldığında periyodik olarak hatırlatma süresini belirtmek için kullanılmaktadır.",
+    "taskProgress": "Görev İlerleme Durumu",
+    "taskProgressDescription": "Kanban görevine ait ilerleme durumunu belirtmek için kullanılmaktadır. İlerleme durumları Gantt şeması üzerinden görüntülenebilmektedir.",
+    "updatekanbanTask": "Kanban Task Güncelleme",
+    "taskcreatorDescription": "Kanban görevi oluşturan kişinin görüntülenmesini sağlamaktadır.",
+    "uploadfileDescription": "Kanban görevine dosya yüklemek için kullanılmaktadır. Dosya veya resimler DMS üzerine kayıt olmaktadır.",
+    "infoPersons": "Bilgilendirilecek Kişiler",
+    "warningtime": "Uyarı Zamanı",
+    "taskPeriod": "Görev Periyodu",
+    "taskProgresSatus": "Görev İlerleme Durumu",
+    "makeTask": "Görevi Oluşturan Kişi",
+    "outlookIntegration": "Outlook Entegrasyonu",
+    "loginoutlook": "Outlook Takvimine Giriş Yap",
+    "fetchoutlook": "Outlook Takvimindeki Verileri Getir",
+    "progressStatus": "İlerleme Durumu",
+    "taskColors": "Görev Renkleri",
+    "addcalendarTask": "Takvime Görev Ekleme",
+    "updatetaskCalendar": "Takvim Task Güncelleme",
+    "statusComplete": "Tamamlanma Durumu Filtreleme ",
+    "priorityFilter": "Öncelik Filtreleme",
+    "columnFilter": "Sütun Filtreleme",
+    "assignPerson": "Atanan Kişiler",
+    "assignGroup": "Atanan Gruplar",
+    "noTask": "Hiçbir Görev Bulunamadı",
+    "resetSort": "Sıralamayı Sıfırla",
+    "sortASC": "Sırala A - Z",
+    "sortDESC": "Sırala Z - A",
+    "sortAppointment": "Atanma Tarihine Göre Sırala",
+    "trash": "Çöp Kutusu",
+    "showOlderMail": "Daha Eski Mailleri Göster",
+    "mailNotFound": "Mail Bulunamadı",
+    "sendNewMail": "Yeni Mail Gönder",
+    "showUnreadMails": "Okunmamış Mailleri Göster ",
+    "updateColumnMail": "Sütuna Görev Eklendiğinde Kişiye Gidecek Mesaj ",
+    "addTaskToOutlook": "Görev Outlooka da eklensin ",
+    "enterYourMessage": "Mesajınızı Giriniz ",
+    "reminder": "Hatırlatıcı ",
+    "determinedToTask": "Görev için belirlenen süre ",
+    "remainingTime": "Kalan süre ",
+    "hours": "Saat ",
+    "withoutPriority": "Önceliksiz ",
+    "lowPri": "Düşük Öncelikli ",
+    "normalPri": "Orta Öncelikli ",
+    "highPri": "Yüksek Öncelikli ",
+    "showAllTasks": "Hepsini Göster ",
+    "showIncompleteTasks": "Tamamlanmamışları Göster ",
+    "showCompeletedTasks": "Tamamlananları Göster ",
+    "reportDesigner": "Rapor Tasarımcısı ",
+    "fileManagementSystem": " Dosya Yönetim Sistemi ",
+    "formDesigner": "Form Tasarımcısı ",
+    "boardDesigner": " Pano Tasarımcısı",
+    "themeSettings": " Tema Özellikleri",
+    "social": " Sosyal",
+    "profile": " Profil",
+    "contacts": " Kişiler",
+    "files": " Dosyalar",
+    "pages": " Sayfalar",
+    "noResultsFound": " Sonuç Bulunamadı",
+    "processes": " Süreçler",
+    "filterByStatus": " Duruma Göre Filtrele ",
+    "filterByPri": " Önceliğe Göre Filtrele",
+    "filterByCol": " Sütuna Göre Filtrele",
+    "todoAddTasks": "To-Do Task Ekleme",
+    "addLabel": "Etiket Giriniz",
+    "showWithSubTasks": "Alt Görevi Olanları Göster ",
+    "riverBoard": "River Panolar ",
+    "notify": "Bildirimler ",
+    "likedYourPost": "Gönderinizi Beğendi ",
+    "likedYourComment": "Yorumunuzu Beğendi ",
+    "systemNotify": "Sistem Bildirimleri ",
+    "readAllNotify": "Tum Bildirimleri Oku ",
+    "recommendedUsers": "Önerilen Kişiler",
+    "suggestedPosts": "Önerilen Gönderiler",
+    "sPostReposted": "Gönderisi Yeniden Paylaşıldı",
+    "shareSomething": "Birşeyler Paylaş",
+    "updatePost": "Gönderiyi Güncelle",
+    "ifYouDoNotSelectGroup": "Grup seçmezseniz gönderinizi herkes görebilir",
+    "addComment": "Yorum Ekle",
+    "sendComment": "Yorum Gönder",
+    "areYouSureYouWantToDeleteThisPost": "Gönderiyi Silmek İstediğinizden Emin misiniz",
+    "yes": "Evet",
+    "no": "Hayır",
+    "deletePost": "Gönderiyi Sil",
+    "postSuccesfullyDeleted": "Gönderi başarıyla silindi",
+    "deleteComment": "Yorum Sil",
+    "areYouSureYouWantToDeleteThisComment": "Bu yorumu silmek istediğinizden emin misiniz",
+    "commentSuccesfullyDeleted": "Yorum Başarıyla Silindi",
+    "sharePost": "Gönderi Paylaş",
+    "areYouSureYouWantToShareThisPost": "Bu gönderiyi paylaşmak istediğinizden emin misiniz",
+    "repostedSuccessfully": "Başarıyla Yeniden Paylaşıldı",
+    "upload": "Yükle",
+    "refresh": "Yenile",
+    "allowedExtentions": "İzin verilen uzantılar: JPG, GIF veya PNG. Maksimum dosya boyutu",
+    "systemLandingPagePreference": "Açılış sayfası Tercihi",
+    "Allownonadminuserstosearchforotherusers": "Admin olmayan kullanıcılar diğer kullanıcıları arayabilsin",
+    "passwordChange": "Şifre Değişikliği",
+    "newPassword": "Yeni Şifre",
+    "Retypethenewpassword": "Yeni şifreyi tekrar yazınız",
+    "notifications": "Bildirimler",
+    "showWhoLikesYourPost": "Postlarınızı beğenenleri göster",
+    "showWhoLikesYourComment": "Yorumlarınızı beğenenleri göster",
+    "aboutMe": "Hakkımda",
+    "bio": "Biyografi",
+    "dateOfBirth": "Doğum Tarihi",
+    "website": "Web sitesi",
+    "phone": "Telefon",
+    "saveChanges": "Değişiklikleri Kaydet",
+    "content": "İçerik",
+    "projectManagement": "Proje Yönetimi",
+    "addPage": "Sayfa Ekle ",
+    "addFolder": "Klasör Ekle ",
+    "showUsers": "Görebilecek Kullanıcılar ",
+    "showGroups": "Görebilecek Gruplar ",
+    "readonlyUsers": "Okuyabilecek Kullanıcılar ",
+    "readonlyGroups": "Okuyabilecek Gruplar ",
+    "columnHeight": "Sütun Yüksekliği",
+    "showKanbanCount": "Kanban Adet Bilgisini Göster  ",
+    "kanbanSettings": "Kanban Ayarları ",
+    "gantSettings": "Gant Ayarları ",
+    "schedulerSettings": "Takvim Ayarları ",
+    "activateOutlookConnection": "Outlook Bağlantısını Etkinleştir ",
+    "selectOutlookColumn": "Outlook sütununu seçiniz ",
+    "selectSMTPPopoverText": "Kanban, Gantt, Takvim veya To-Do bileşenlerinde kullanılacak mail SMTP seçimi yapılmaktadır. ",
+    "menuFilePathId": "River Menu klasörü id",
+    "recycleBinPathName": "River Çöp Kutusu Klasörü Adı",
+    "recycleBinPathId": "River Çop Kutusu Klasörü Id",
+    "fileNameChangedMessage": "Dosya ismi başarıyla değiştirildi.",
+    "fileNameChangedErrorMessage": "Dosya ismi değiştirilemedi.",
+    "fileCreatedMessage": "Dosya başarıyla oluşturuldu.",
+    "newTaskMailDetailPopoverText": "Kanban, Gantt, Takvim veya To-Do bileşenlerine yeni bir görev atandığında, atanan kullanıcılara gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. ",
+    "taskOnDropMailPopoverText": "Kanban, Gantt, Takvim veya To-Do bileşenlerine bir görevin bulunduğu sütununun değiştirilmesiyle birlikte gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. ",
+    "createdBy": "Oluşturan",
+    "updatedBy": "Güncelleyen",
+    "createdDate": "Oluşturulma Tarihi",
+    "updatedDate": "Güncellenme Tarihi",
+    "folderPermissionSettings": "Dosyası yetki ayarları",
+    "quantity": "Adet",
+    "fileManagementPermissionSettings": "Dosya Yönetimi Yetki Ayarları",
+    "fileNotFoundErrorText": "Aradığınız kriterlere uygun dosya bulunamadı.",
+    "updateTaskMailDetailPopoverText": "Kanban, Gantt, Takvim veya To-Do bileşenlerine ilgili görevde değişiklik yapıldığında, atanan kullanıcılara gönderilecek olan otomatik mail içerisine eklenecek mail içeriğinin eklendiği kısım. ",
+    "selectOutlookColumnPopoverText": "Outlook üzerinden eklenecek olan görevlerin hangi sütuna dahil edileceği seçilmektedir. ",
+    "createFolder": "Dosya Oluştur",
+    "versionHistory": "Sürüm Geçmişi",
+    "deletePermanently": "Kalıcı Olarak sil",
+    "recover": "Kurtar",
+    "groupPermissions": "Grup Yetkileri",
+    "allowUpload": "Dosya Yüklemeye izin ver",
+    "allowView": "Dosya görüntülemeye izin ver",
+    "allowDownload": "Dosya indirmeye izin ver",
+    "permissionType": "İzin Tipi",
+    "applyToSubFolders": "Tüm alt klasörlere uygula",
+    "newFolderName": "Yeni Dosya Adı",
+    "tagTips": "Etiketlemeler başında # işareti ile yapılmalıdır. İçerisinde sadece sayı ve numara bulunabilir",
+    "addAsNewVersion": "Yeni bir sürüm olarak yükle",
+    "addAndChangeName": "İsmini değiştirerek yükle",
+    "skip": "Atla",
+    "fileExistError": "Hedef klasörde aynı isimde dosya mevcut",
+    "processFileShow": "River Süreç Klasörünü göster",
+    "processFilePathName": "River Süreç Klasörü ismi",
+    "processFilePathId": "River Süreç klasörü id",
+    "menuFileShow": "River Menü Klasörünü göster",
+    "menuFilePathName": "River Menu Klasörü ismi",
+    "fileCreatedErrorMessage": "Dosya oluşturma işlemi başarısız.",
+    "fileDeletedessage": "Dosya silme işlemi tamamlandı.",
+    "fileDeletedErrorMessage": "Dosya silme işlemi başarısız.",
+    "fileMovedMessage": "Dosya taşıma işlemi tamamlandı.",
+    "fileMovedErrorMessage": "Dosya taşıma işlemi başarısız.",
+    "fileCopyMessage": "Dosya kopyalama işlemi tamamlandı.",
+    "fileCopyErrorMessage": "Dosya kopyalama işlemi başarısız.",
+    "fileDownloadMessage": "Dosya indirme işlemi tamamlandı.",
+    "fileDownloadErrorMessage": "Dosya indirme işlemi başarısız.",
+    "fileSizeShowErrorMessage": "Dosya boyutu büyük olduğu için görüntüleyemiyoruz. Lütfen dosyayı indirin",
+    "unsupportedFile": "Desteklenmeyen dosya",
+    "fileNameError": "Bu dosya adında bir dosya mevcut farklı bir ad ile tekrar deneyiniz",
+    "fileGivePermissionMessage": "Dosya yetkilendirmesi başarıyla tamamlandı.",
+    "fileGivePermissionErrorMessage": "Dosya yetkilendirmesinde hata oluştu. Kayıt başarısız.",
+    "groupName": "Grup Adı",
+    "createGroup": "Grup Oluştur",
+    "conversation": "Konuşmalar",
+    "startConversation": "Konuşma Başlat",
+    "userNotFound": "Kişi bulunamadı",
+    "chatNotFound": "Sohbet bulunamadı",
+    "themeTypeLight": "Aydınlık",
+    "themeTypeBorderedLight": "Çerçeveli",
+    "themeHalfDark": "Yarı Koyu",
+    "themeDark": "Koyu",
+    "themeRouteAnimation": "Geçiş Animasyonu",
+    "themeRouteAnimationFadeInLeft": "Soldan Solma",
+    "themeRouteAnimationZoomIn": "Yakınlaştır",
+    "themeRouteAnimationFadeIn": "Solma",
+    "themeRouteAnimationNone": "Yok",
+    "themeMenuType": "Menü Tipi",
+    "themeMenuTypeHorizontal": "Yatay",
+    "themeMenuTypeVertical": "Dikey",
+    "themeMenuCollapse": "Dar Menu",
+    "themeNavbarColor": "Gezinme çubuğu rengi",
+    "themeNavbarType": "Gezinme çubuğu türü",
+    "themeSticky": "Yapışkan",
+    "themeStatic": "Statik",
+    "themeFloating": "Yüzer",
+    "themeHidden": "Gizli",
+    "themeFooterType": "Alt bilgi türü",
+    "catalog": "Katalog",
+    "riverBoards": "River Panolar",
+    "clipboardDesigner": "Pano Tasarımcısı",
+    "desingMode": "Tasarım Modundasınız",
+    "editPage": "Sayfayı Düzenle",
+    "rename": "Yeniden Adlandır",
+    "exportToPdf": "PDF olarak Çıktı Al",
+    "exportToExcel": "Excel Olarak Çıktı Al",
+    "revenueReport": "Gelir Raporu",
+    "header": "Başlık",
+    "connection": "Bağlantı",
+    "primaryKey": "Birincil anahtar",
+    "secondaryKey": "İkincil Anahtar",
+    "completedKey": "Tamamlanan Anahtar",
+    "countKey": "Sayım Anahtarı",
+    "statusKey": "Durum Anahtarı",
+    "progressConnection": "İlerleme Bağlantısı",
+    "progressScript": "İlerleme Scripti",
+    "progressPrimaryKey": "İlerleme Birincil Anahtarı",
+    "progressCountKey": "İlerleme Sayısı Anahtarı",
+    "progressPercentageKey": "İlerleme Yüzdesi Anahtarı",
+    "progressColorKey": "İlerleme Renk Anahtarı",
+    "keyColumn": "Değer Sütunu",
+    "currency": "Para Birimi",
+    "whitePage": "Beyaz Sayfa",
+    "noReportSelected": "Rapor Seçilmedi",
+    "noTypeSelected": "Rapor Tipi Seçilmedi",
+    "whitePageReports": "Beyaz Sayfa Raporu",
+    "addBranch": "Kırılım/Alt Kırılım Ekle",
+    "branchName": "Kırılım Adı",
+    "rowNumber": "Sıra Numarası",
+    "reportTypeSelect": "Rapor Tipi Seçiniz",
+    "reportDescription": "Rapor açıklaması...",
+    "useWeb": " Web'de Kullanılsın",
+    "useMobile": "Mobil'de Kullanılsın",
+    "mainScript": "Ana Script",
+    "pre-runScript": "Ön script çalıştır?",
+    "preScript": "Ön Script",
+    "testIt": "Test Et",
+    "selectAll": "Tümünü Seç",
+    "addReport": "Rapor Ekle",
+    "selectReportType": "Rapor Tipi Seçiniz",
+    "reportType": "Rapor Tipi",
+    "reportDesingPermission": "Kullanıcının rapor tasarım izni bulunmamaktadır.",
+    "reportImportedOpenLeftMenu": "Rapor İçeri Aktarıldı. Sol Menüden Açabilirsiniz.",
+    "forReportExport": "Rapor Export için önce rapor seçmelisiniz.",
+    "anErrorOccurred": "Hata oluştu",
+    "reportDeleted": "Rapor Silindi",
+    "branchDeleted": "Kırılım Silindi",
+    "addBranchName": "Lütfen kırılım adını giriniz",
+    "addedBranch": "Kırılım Eklendi",
+    "selectConnectionAddress": "Lütfen bağlantı adresi seçiniz",
+    "enterSqlScript": "Lütfen sql script giriniz",
+    "enterReportName": "Lütfen rapor adını giriniz",
+    "reportAdded": "Rapor Eklendi",
+    "numberOfDataToBeProcessed": "Bağlantı başarılı. İşlenecek veri sayısı:",
+    "dataNotFoundCheckYourConnection": "Veri bulunamadı! Lütfen bağlantınızı ve sql komutunuzu kontrol ediniz",
+    "connectionNotFoundCheckYourConnection": "Bağlantı sağlanamadı! Lütfen bağlantınızı ve sql komutunuzu kontrol ediniz",
+    "fillConnectionAndSql": "Lütfen bağlantınızı ve sql komutunuzu doldurunuz",
+    "allTypesActivate": "Görüntüleme Anında Bütün Tipler Aktif Olsun",
+    "passwordRequired": "\r\nŞifre gereklidir",
+    "showLess": "Daha Az Göster",
+    "showMore": "Daha Fazla Göster",
+    "authority": "Yetki",
+    "preScriptDescription": "Ön sccript açıklaması",
+    "enterReportFilters": "Rapor Filtrelerini Giriniz",
+    "gridDesigner": "Grid Tasarımcı",
+    "addMainBranch": "Ana Kırılım Ekle",
+    "resetSettings": "Ayarları Sıfırla",
+    "reply": "Cevapla",
+    "companyName": "Şirket İsmi",
+    "showEmailModule": "E-Posta modülünü göster",
+    "distanceToBottomComponent": "Alttaki komponentle  arasındaki mesafe",
+    "canNonAdminUsersPost": "Admin olmayan kullanıcılar post atabilsin mi",
+    "columnColor": "Sütun Rengi",
+    "byWho": "Tarafından",
+    "added": "Eklendi",
+    "updated": "Güncellendi",
+    "commentAdded": "Yorum Eklendi",
+    "completed": "Tamamlandı",
+    "addRemoveColumns": "Sütun Ekle-Çıkar",
+    "searchMessage": "Mesajlarda ara",
+    "riverReports": "River BI Raporlar",
+    "forms": "Formlar",
+    "searchinforms": "Formlarda Ara",
+    "searchVoiceMessage": "Aradığınız mesaj bu ses dosyasının içinde geçmektedir",
+    "searchVoiceMessages": "Sesli mesajlarda arama",
+    "showSocialNotifications": "Sosyal Bildirimlerini Göster",
+    "showProjectManagementNotifications": "Proje Yönetimi Bildirimlerini Göster",
+    "showProcessNotifications": "Süreç Bildirimlerini Göster",
+    "pageDesingPermission": "Kullanıcının sayfa tasarım izni bulunmamaktadır.",
+    "filemanagementDesingPermission": "Kullanıcının dosya yönetim izni bulunmamaktadır.",
+    "taskDelete": "Görev Silinecek.",
+    "tasksWillDeleted": "Görevi Silmek İstediğinize Emin Misiniz?.",
+    "componentSettings": "Bileşen Ayarları",
+    "aboutComponent": "Bileşen Hakkında",
+    "sureSaveChanges": "Yaptığınız değişikleri kaydetmek istediğinizden emin misiniz?",
+    "showDeletedNotifications": "Sildiğim Bildirimleri Göster",
+    "shareSometthing": "Bir Şeyler Paylaş",
+    "resetPageLayout": "Sayfa Tasarımını Sıfırla",
+    "downloadingSS": "Ekran görüntüsü indiriliyor.Lütfen Bekleyiniz.",
+    "showHorizontalLines": "Yatay Çizgiler Görünsün",
+    "turnOnVerticalHide": "Dikey Gizleme Açılsın",
+    "whichHorizontalLinelinesAreNotVisible": "Hangi yatay çizgi -çizgiler görünmesin",
+    "test": "test",
+    "aaa": "aaa"
   }
-]
+}

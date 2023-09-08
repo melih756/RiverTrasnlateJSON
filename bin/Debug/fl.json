@@ -1,0 +1,3658 @@
+[
+  {
+    "Key": "loginButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "userName",
+    "Dutch": ""
+  },
+  {
+    "Key": "pass",
+    "Dutch": ""
+  },
+  {
+    "Key": "remember",
+    "Dutch": ""
+  },
+  {
+    "Key": "forgotPass",
+    "Dutch": ""
+  },
+  {
+    "Key": "modules",
+    "Dutch": ""
+  },
+  {
+    "Key": "generic",
+    "Dutch": ""
+  },
+  {
+    "Key": "search",
+    "Dutch": ""
+  },
+  {
+    "Key": "logout",
+    "Dutch": ""
+  },
+  {
+    "Key": "waitingJob",
+    "Dutch": ""
+  },
+  {
+    "Key": "myStarted",
+    "Dutch": ""
+  },
+  {
+    "Key": "myIncluded",
+    "Dutch": ""
+  },
+  {
+    "Key": "myCompleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "jobList",
+    "Dutch": ""
+  },
+  {
+    "Key": "formNo",
+    "Dutch": ""
+  },
+  {
+    "Key": "status",
+    "Dutch": ""
+  },
+  {
+    "Key": "starter",
+    "Dutch": ""
+  },
+  {
+    "Key": "assigned",
+    "Dutch": ""
+  },
+  {
+    "Key": "timeoutDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "startDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "processing",
+    "Dutch": ""
+  },
+  {
+    "Key": "you",
+    "Dutch": ""
+  },
+  {
+    "Key": "history",
+    "Dutch": ""
+  },
+  {
+    "Key": "description",
+    "Dutch": ""
+  },
+  {
+    "Key": "date",
+    "Dutch": ""
+  },
+  {
+    "Key": "growShrink",
+    "Dutch": ""
+  },
+  {
+    "Key": "close",
+    "Dutch": ""
+  },
+  {
+    "Key": "gridReset",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnSelect",
+    "Dutch": ""
+  },
+  {
+    "Key": "jobName",
+    "Dutch": ""
+  },
+  {
+    "Key": "keyword",
+    "Dutch": ""
+  },
+  {
+    "Key": "completion",
+    "Dutch": ""
+  },
+  {
+    "Key": "all",
+    "Dutch": ""
+  },
+  {
+    "Key": "completedDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "completions",
+    "Dutch": ""
+  },
+  {
+    "Key": "ongoing",
+    "Dutch": ""
+  },
+  {
+    "Key": "formName",
+    "Dutch": ""
+  },
+  {
+    "Key": "sunday",
+    "Dutch": ""
+  },
+  {
+    "Key": "monday",
+    "Dutch": ""
+  },
+  {
+    "Key": "tuesday",
+    "Dutch": ""
+  },
+  {
+    "Key": "wednesday",
+    "Dutch": ""
+  },
+  {
+    "Key": "thursday",
+    "Dutch": ""
+  },
+  {
+    "Key": "friday",
+    "Dutch": ""
+  },
+  {
+    "Key": "saturday",
+    "Dutch": ""
+  },
+  {
+    "Key": "pdfExport",
+    "Dutch": ""
+  },
+  {
+    "Key": "sendPassword",
+    "Dutch": ""
+  },
+  {
+    "Key": "assignedDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "events",
+    "Dutch": ""
+  },
+  {
+    "Key": "new",
+    "Dutch": ""
+  },
+  {
+    "Key": "save",
+    "Dutch": ""
+  },
+  {
+    "Key": "formula",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectDataSource",
+    "Dutch": ""
+  },
+  {
+    "Key": "requiredField",
+    "Dutch": ""
+  },
+  {
+    "Key": "suffix",
+    "Dutch": ""
+  },
+  {
+    "Key": "valueColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "showLength",
+    "Dutch": ""
+  },
+  {
+    "Key": "clearButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "allCaps",
+    "Dutch": ""
+  },
+  {
+    "Key": "autoAsc",
+    "Dutch": ""
+  },
+  {
+    "Key": "width",
+    "Dutch": ""
+  },
+  {
+    "Key": "length",
+    "Dutch": ""
+  },
+  {
+    "Key": "functions",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectElement",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "edit",
+    "Dutch": ""
+  },
+  {
+    "Key": "changeEventActions",
+    "Dutch": ""
+  },
+  {
+    "Key": "barcode",
+    "Dutch": ""
+  },
+  {
+    "Key": "systemInfo",
+    "Dutch": ""
+  },
+  {
+    "Key": "prefix",
+    "Dutch": ""
+  },
+  {
+    "Key": "max",
+    "Dutch": ""
+  },
+  {
+    "Key": "showMinMaxInfo",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectUser",
+    "Dutch": ""
+  },
+  {
+    "Key": "spinButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "numberIncDecButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "decimal",
+    "Dutch": ""
+  },
+  {
+    "Key": "numeral",
+    "Dutch": ""
+  },
+  {
+    "Key": "wrongFormat",
+    "Dutch": ""
+  },
+  {
+    "Key": "height",
+    "Dutch": ""
+  },
+  {
+    "Key": "microphone",
+    "Dutch": ""
+  },
+  {
+    "Key": "notifyDataReset",
+    "Dutch": ""
+  },
+  {
+    "Key": "data",
+    "Dutch": ""
+  },
+  {
+    "Key": "dynamicData",
+    "Dutch": ""
+  },
+  {
+    "Key": "manualData",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectDataGrid",
+    "Dutch": ""
+  },
+  {
+    "Key": "overrideUserChange",
+    "Dutch": ""
+  },
+  {
+    "Key": "textColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "makeInitialValue",
+    "Dutch": ""
+  },
+  {
+    "Key": "undo",
+    "Dutch": ""
+  },
+  {
+    "Key": "copy",
+    "Dutch": ""
+  },
+  {
+    "Key": "delete",
+    "Dutch": ""
+  },
+  {
+    "Key": "cancel",
+    "Dutch": ""
+  },
+  {
+    "Key": "languageSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageSqlLinkDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "permissions",
+    "Dutch": ""
+  },
+  {
+    "Key": "objectid",
+    "Dutch": ""
+  },
+  {
+    "Key": "fontSize",
+    "Dutch": ""
+  },
+  {
+    "Key": "fontWidth",
+    "Dutch": ""
+  },
+  {
+    "Key": "fontStyle",
+    "Dutch": ""
+  },
+  {
+    "Key": "underline",
+    "Dutch": ""
+  },
+  {
+    "Key": "textColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "visibility",
+    "Dutch": ""
+  },
+  {
+    "Key": "textAlignment",
+    "Dutch": ""
+  },
+  {
+    "Key": "settings",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageUnsaved",
+    "Dutch": ""
+  },
+  {
+    "Key": "warning",
+    "Dutch": ""
+  },
+  {
+    "Key": "userAuthorizations",
+    "Dutch": ""
+  },
+  {
+    "Key": "formPreferences",
+    "Dutch": ""
+  },
+  {
+    "Key": "formOpeningevent",
+    "Dutch": ""
+  },
+  {
+    "Key": "chooseConnectionAddress",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectPriorty",
+    "Dutch": ""
+  },
+  {
+    "Key": "loadingEditor",
+    "Dutch": ""
+  },
+  {
+    "Key": "showAddButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "update",
+    "Dutch": ""
+  },
+  {
+    "Key": "connectionID",
+    "Dutch": ""
+  },
+  {
+    "Key": "formPreview",
+    "Dutch": ""
+  },
+  {
+    "Key": "nameDisplayedform",
+    "Dutch": ""
+  },
+  {
+    "Key": "formNamevariable",
+    "Dutch": ""
+  },
+  {
+    "Key": "category",
+    "Dutch": ""
+  },
+  {
+    "Key": "formColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "generalForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "saveForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageNeworupdate",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastError",
+    "Dutch": ""
+  },
+  {
+    "Key": "alertDifferentID",
+    "Dutch": ""
+  },
+  {
+    "Key": "confirmChanges",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastUserpermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastCodeeditor",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageDeletesure",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageSure",
+    "Dutch": ""
+  },
+  {
+    "Key": "Success",
+    "Dutch": ""
+  },
+  {
+    "Key": "Error",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastFormupdate",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastMistake",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastSaved",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastCopied",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastEmptyFormMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastGiveName",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastGiveVariableName",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastVariableNameNumberWarning",
+    "Dutch": ""
+  },
+  {
+    "Key": "formCopy",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageButtonDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "noDataFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "language",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterDatagrid",
+    "Dutch": ""
+  },
+  {
+    "Key": "addManualData",
+    "Dutch": ""
+  },
+  {
+    "Key": "dateFormat",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageSqlLinkDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "timeOption",
+    "Dutch": ""
+  },
+  {
+    "Key": "defaultTodaysDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "dateRange",
+    "Dutch": ""
+  },
+  {
+    "Key": "minToday",
+    "Dutch": ""
+  },
+  {
+    "Key": "maxToday",
+    "Dutch": ""
+  },
+  {
+    "Key": "dateRangeDay",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterDateRangeValue",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageIdColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "statusSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "active",
+    "Dutch": ""
+  },
+  {
+    "Key": "passive",
+    "Dutch": ""
+  },
+  {
+    "Key": "enable",
+    "Dutch": ""
+  },
+  {
+    "Key": "disable",
+    "Dutch": ""
+  },
+  {
+    "Key": "visible",
+    "Dutch": ""
+  },
+  {
+    "Key": "invisible",
+    "Dutch": ""
+  },
+  {
+    "Key": "items",
+    "Dutch": ""
+  },
+  {
+    "Key": "showItems",
+    "Dutch": ""
+  },
+  {
+    "Key": "array",
+    "Dutch": ""
+  },
+  {
+    "Key": "letLabelAppear",
+    "Dutch": ""
+  },
+  {
+    "Key": "add",
+    "Dutch": ""
+  },
+  {
+    "Key": "horizontal",
+    "Dutch": ""
+  },
+  {
+    "Key": "vertical",
+    "Dutch": ""
+  },
+  {
+    "Key": "text",
+    "Dutch": ""
+  },
+  {
+    "Key": "alertFillRequiredFields",
+    "Dutch": ""
+  },
+  {
+    "Key": "alertSignatureField",
+    "Dutch": ""
+  },
+  {
+    "Key": "messageApproveTransaction",
+    "Dutch": ""
+  },
+  {
+    "Key": "button",
+    "Dutch": ""
+  },
+  {
+    "Key": "reasonforRefusal",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterReasonRejection",
+    "Dutch": ""
+  },
+  {
+    "Key": "reject",
+    "Dutch": ""
+  },
+  {
+    "Key": "addDeleteButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "showBorder",
+    "Dutch": ""
+  },
+  {
+    "Key": "buttons",
+    "Dutch": ""
+  },
+  {
+    "Key": "clean",
+    "Dutch": ""
+  },
+  {
+    "Key": "buttonSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "saveLocation",
+    "Dutch": ""
+  },
+  {
+    "Key": "paymentButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "paymentProvider",
+    "Dutch": ""
+  },
+  {
+    "Key": "price",
+    "Dutch": ""
+  },
+  {
+    "Key": "numberOfInstallments",
+    "Dutch": ""
+  },
+  {
+    "Key": "descriptionField",
+    "Dutch": ""
+  },
+  {
+    "Key": "current",
+    "Dutch": ""
+  },
+  {
+    "Key": "currentForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "name",
+    "Dutch": ""
+  },
+  {
+    "Key": "surname",
+    "Dutch": ""
+  },
+  {
+    "Key": "country",
+    "Dutch": ""
+  },
+  {
+    "Key": "city",
+    "Dutch": ""
+  },
+  {
+    "Key": "address",
+    "Dutch": ""
+  },
+  {
+    "Key": "authorizations",
+    "Dutch": ""
+  },
+  {
+    "Key": "users",
+    "Dutch": ""
+  },
+  {
+    "Key": "user",
+    "Dutch": ""
+  },
+  {
+    "Key": "givePermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "groups",
+    "Dutch": ""
+  },
+  {
+    "Key": "group",
+    "Dutch": ""
+  },
+  {
+    "Key": "saveandSend",
+    "Dutch": ""
+  },
+  {
+    "Key": "approve",
+    "Dutch": ""
+  },
+  {
+    "Key": "sendBack",
+    "Dutch": ""
+  },
+  {
+    "Key": "deslineAndEnd",
+    "Dutch": ""
+  },
+  {
+    "Key": "complete",
+    "Dutch": ""
+  },
+  {
+    "Key": "blue",
+    "Dutch": ""
+  },
+  {
+    "Key": "grey",
+    "Dutch": ""
+  },
+  {
+    "Key": "green",
+    "Dutch": ""
+  },
+  {
+    "Key": "red",
+    "Dutch": ""
+  },
+  {
+    "Key": "left",
+    "Dutch": ""
+  },
+  {
+    "Key": "right",
+    "Dutch": ""
+  },
+  {
+    "Key": "color",
+    "Dutch": ""
+  },
+  {
+    "Key": "symbol",
+    "Dutch": ""
+  },
+  {
+    "Key": "position",
+    "Dutch": ""
+  },
+  {
+    "Key": "action",
+    "Dutch": ""
+  },
+  {
+    "Key": "total",
+    "Dutch": ""
+  },
+  {
+    "Key": "filePath",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileName",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileUpload",
+    "Dutch": ""
+  },
+  {
+    "Key": "choose",
+    "Dutch": ""
+  },
+  {
+    "Key": "updateData",
+    "Dutch": ""
+  },
+  {
+    "Key": "preview",
+    "Dutch": ""
+  },
+  {
+    "Key": "show",
+    "Dutch": ""
+  },
+  {
+    "Key": "columns",
+    "Dutch": ""
+  },
+  {
+    "Key": "changeEvent",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleteColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnSqlScripts",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageNameColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnLanguageSetting",
+    "Dutch": ""
+  },
+  {
+    "Key": "dataSource",
+    "Dutch": ""
+  },
+  {
+    "Key": "filter",
+    "Dutch": ""
+  },
+  {
+    "Key": "reset",
+    "Dutch": ""
+  },
+  {
+    "Key": "column",
+    "Dutch": ""
+  },
+  {
+    "Key": "image",
+    "Dutch": ""
+  },
+  {
+    "Key": "searchLocation",
+    "Dutch": ""
+  },
+  {
+    "Key": "draggable",
+    "Dutch": ""
+  },
+  {
+    "Key": "usersCanChange",
+    "Dutch": ""
+  },
+  {
+    "Key": "multiMarker",
+    "Dutch": ""
+  },
+  {
+    "Key": "markerLimit",
+    "Dutch": ""
+  },
+  {
+    "Key": "meetingType",
+    "Dutch": ""
+  },
+  {
+    "Key": "meetingName",
+    "Dutch": ""
+  },
+  {
+    "Key": "loadingFiles",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileSizeExceeded",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesLoaded",
+    "Dutch": ""
+  },
+  {
+    "Key": "condition",
+    "Dutch": ""
+  },
+  {
+    "Key": "value",
+    "Dutch": ""
+  },
+  {
+    "Key": "connectionAdress",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageTypeColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "visibleColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectionMode",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectMode",
+    "Dutch": ""
+  },
+  {
+    "Key": "datagridFiltering",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageDataColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectDataColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "dataFormat",
+    "Dutch": ""
+  },
+  {
+    "Key": "photoPreview",
+    "Dutch": ""
+  },
+  {
+    "Key": "videoPreview",
+    "Dutch": ""
+  },
+  {
+    "Key": "displayPhoto",
+    "Dutch": ""
+  },
+  {
+    "Key": "displayVideo",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "videoColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnNameAppear",
+    "Dutch": ""
+  },
+  {
+    "Key": "selected",
+    "Dutch": ""
+  },
+  {
+    "Key": "inStock",
+    "Dutch": ""
+  },
+  {
+    "Key": "gallery",
+    "Dutch": ""
+  },
+  {
+    "Key": "dollar",
+    "Dutch": ""
+  },
+  {
+    "Key": "sterling",
+    "Dutch": ""
+  },
+  {
+    "Key": "underPhoto",
+    "Dutch": ""
+  },
+  {
+    "Key": "topPhoto",
+    "Dutch": ""
+  },
+  {
+    "Key": "byCategory",
+    "Dutch": ""
+  },
+  {
+    "Key": "dashboardShowHide",
+    "Dutch": ""
+  },
+  {
+    "Key": "showDetail",
+    "Dutch": ""
+  },
+  {
+    "Key": "hideDetail",
+    "Dutch": ""
+  },
+  {
+    "Key": "decrease",
+    "Dutch": ""
+  },
+  {
+    "Key": "increase",
+    "Dutch": ""
+  },
+  {
+    "Key": "watch",
+    "Dutch": ""
+  },
+  {
+    "Key": "watchMovie",
+    "Dutch": ""
+  },
+  {
+    "Key": "noRecordsFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "appearance",
+    "Dutch": ""
+  },
+  {
+    "Key": "numberofColumns",
+    "Dutch": ""
+  },
+  {
+    "Key": "pagingRecords",
+    "Dutch": ""
+  },
+  {
+    "Key": "detailLocation",
+    "Dutch": ""
+  },
+  {
+    "Key": "hideImages",
+    "Dutch": ""
+  },
+  {
+    "Key": "quantityCategoryDisable",
+    "Dutch": ""
+  },
+  {
+    "Key": "general",
+    "Dutch": ""
+  },
+  {
+    "Key": "idColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "availableQuantity",
+    "Dutch": ""
+  },
+  {
+    "Key": "categoryColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "photoColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "titleColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "priceColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatablePrice",
+    "Dutch": ""
+  },
+  {
+    "Key": "videoGallery",
+    "Dutch": ""
+  },
+  {
+    "Key": "uniqueComponent",
+    "Dutch": ""
+  },
+  {
+    "Key": "showVariant",
+    "Dutch": ""
+  },
+  {
+    "Key": "transferTotalAmount",
+    "Dutch": ""
+  },
+  {
+    "Key": "connectionAddress",
+    "Dutch": ""
+  },
+  {
+    "Key": "title",
+    "Dutch": ""
+  },
+  {
+    "Key": "hide",
+    "Dutch": ""
+  },
+  {
+    "Key": "detail",
+    "Dutch": ""
+  },
+  {
+    "Key": "priceQuery",
+    "Dutch": ""
+  },
+  {
+    "Key": "quantityQuery",
+    "Dutch": ""
+  },
+  {
+    "Key": "uniqueComponentError",
+    "Dutch": ""
+  },
+  {
+    "Key": "joinColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "nameColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "variantScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "variantImages",
+    "Dutch": ""
+  },
+  {
+    "Key": "variantJoinColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "showAll",
+    "Dutch": ""
+  },
+  {
+    "Key": "showSelected",
+    "Dutch": ""
+  },
+  {
+    "Key": "showByCategory",
+    "Dutch": ""
+  },
+  {
+    "Key": "showInStock",
+    "Dutch": ""
+  },
+  {
+    "Key": "notYetAdded",
+    "Dutch": ""
+  },
+  {
+    "Key": "startingDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "endDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeFeatures",
+    "Dutch": ""
+  },
+  {
+    "Key": "menu",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectMenu",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectSubmenu",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectMenuBrowser",
+    "Dutch": ""
+  },
+  {
+    "Key": "nameElement",
+    "Dutch": ""
+  },
+  {
+    "Key": "subject",
+    "Dutch": ""
+  },
+  {
+    "Key": "picture",
+    "Dutch": ""
+  },
+  {
+    "Key": "pictureElement",
+    "Dutch": ""
+  },
+  {
+    "Key": "startingDateElement",
+    "Dutch": ""
+  },
+  {
+    "Key": "endDateElement",
+    "Dutch": ""
+  },
+  {
+    "Key": "usersCanEdit",
+    "Dutch": ""
+  },
+  {
+    "Key": "thisPropertyCant",
+    "Dutch": ""
+  },
+  {
+    "Key": "calendarDisplay",
+    "Dutch": ""
+  },
+  {
+    "Key": "monthly",
+    "Dutch": ""
+  },
+  {
+    "Key": "generalDisplayLunarDays",
+    "Dutch": ""
+  },
+  {
+    "Key": "agenda",
+    "Dutch": ""
+  },
+  {
+    "Key": "listofWeeklyEvents",
+    "Dutch": ""
+  },
+  {
+    "Key": "weekly",
+    "Dutch": ""
+  },
+  {
+    "Key": "weekend",
+    "Dutch": ""
+  },
+  {
+    "Key": "generalDisplayWeekDays",
+    "Dutch": ""
+  },
+  {
+    "Key": "showWeekendDaysWhileWeekdays",
+    "Dutch": ""
+  },
+  {
+    "Key": "daily",
+    "Dutch": ""
+  },
+  {
+    "Key": "listofDailyEvents",
+    "Dutch": ""
+  },
+  {
+    "Key": "startTime",
+    "Dutch": ""
+  },
+  {
+    "Key": "endTime",
+    "Dutch": ""
+  },
+  {
+    "Key": "changeDefaultColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "weekdayColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "weekendColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "eventColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupBySql",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "assignedColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskPriortiyColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskSubjectColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskDetailColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskQuery",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskKeyExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskTitleExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskStartDateExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskEndDateName",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskParentExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskProgressExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskColorExpression",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskConnections",
+    "Dutch": ""
+  },
+  {
+    "Key": "diagramClear",
+    "Dutch": ""
+  },
+  {
+    "Key": "uniqueComponentMenuCloneWarning",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesLoading",
+    "Dutch": ""
+  },
+  {
+    "Key": "couldnotbeLoaded",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileSizeLimit",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesUploaded",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesWillDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesSureDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "uploadedPhotos",
+    "Dutch": ""
+  },
+  {
+    "Key": "maxSize",
+    "Dutch": ""
+  },
+  {
+    "Key": "center",
+    "Dutch": ""
+  },
+  {
+    "Key": "size",
+    "Dutch": ""
+  },
+  {
+    "Key": "canItBeUpdated",
+    "Dutch": ""
+  },
+  {
+    "Key": "uploadedFiles",
+    "Dutch": ""
+  },
+  {
+    "Key": "type",
+    "Dutch": ""
+  },
+  {
+    "Key": "showdeleteOldData",
+    "Dutch": ""
+  },
+  {
+    "Key": "videoBrowser",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "theseComponentElementsDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "invalidTarget",
+    "Dutch": ""
+  },
+  {
+    "Key": "ridge",
+    "Dutch": ""
+  },
+  {
+    "Key": "dotted",
+    "Dutch": ""
+  },
+  {
+    "Key": "dashed",
+    "Dutch": ""
+  },
+  {
+    "Key": "addRowColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "dataPagingShow",
+    "Dutch": ""
+  },
+  {
+    "Key": "borderType",
+    "Dutch": ""
+  },
+  {
+    "Key": "maxCharacters",
+    "Dutch": ""
+  },
+  {
+    "Key": "edgeThickness",
+    "Dutch": ""
+  },
+  {
+    "Key": "lineSpacing",
+    "Dutch": ""
+  },
+  {
+    "Key": "settingsRowColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "addRow",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleteRow",
+    "Dutch": ""
+  },
+  {
+    "Key": "rowPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "addTabs",
+    "Dutch": ""
+  },
+  {
+    "Key": "deletePanel",
+    "Dutch": ""
+  },
+  {
+    "Key": "tabPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "addPanel",
+    "Dutch": ""
+  },
+  {
+    "Key": "panelPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "backgroundColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "saveAndCloseChildForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "icon",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "fontColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "minCharacters",
+    "Dutch": ""
+  },
+  {
+    "Key": "generalCategory",
+    "Dutch": ""
+  },
+  {
+    "Key": "removeRow",
+    "Dutch": ""
+  },
+  {
+    "Key": "send",
+    "Dutch": ""
+  },
+  {
+    "Key": "declineFinish",
+    "Dutch": ""
+  },
+  {
+    "Key": "finish",
+    "Dutch": ""
+  },
+  {
+    "Key": "noData",
+    "Dutch": ""
+  },
+  {
+    "Key": "createEditMenu",
+    "Dutch": ""
+  },
+  {
+    "Key": "addNewBreakdown",
+    "Dutch": ""
+  },
+  {
+    "Key": "addForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "addBottomBreak",
+    "Dutch": ""
+  },
+  {
+    "Key": "addNode",
+    "Dutch": ""
+  },
+  {
+    "Key": "topCategory",
+    "Dutch": ""
+  },
+  {
+    "Key": "explanation",
+    "Dutch": ""
+  },
+  {
+    "Key": "browserTitle",
+    "Dutch": ""
+  },
+  {
+    "Key": "formTitle",
+    "Dutch": ""
+  },
+  {
+    "Key": "addSqlColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "formBg",
+    "Dutch": ""
+  },
+  {
+    "Key": "codeEditor",
+    "Dutch": ""
+  },
+  {
+    "Key": "authorityType",
+    "Dutch": ""
+  },
+  {
+    "Key": "viewOnly",
+    "Dutch": ""
+  },
+  {
+    "Key": "dark",
+    "Dutch": ""
+  },
+  {
+    "Key": "white",
+    "Dutch": ""
+  },
+  {
+    "Key": "hightBlack",
+    "Dutch": ""
+  },
+  {
+    "Key": "run",
+    "Dutch": ""
+  },
+  {
+    "Key": "rowColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "operator",
+    "Dutch": ""
+  },
+  {
+    "Key": "flowOfForm",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnWidth",
+    "Dutch": ""
+  },
+  {
+    "Key": "alignLeft",
+    "Dutch": ""
+  },
+  {
+    "Key": "alignRight",
+    "Dutch": ""
+  },
+  {
+    "Key": "alignButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "imageTableNameColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "uploadBg",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectFile",
+    "Dutch": ""
+  },
+  {
+    "Key": "dropFile",
+    "Dutch": ""
+  },
+  {
+    "Key": "alwaysRoundUp",
+    "Dutch": ""
+  },
+  {
+    "Key": "alwaysRoundBot",
+    "Dutch": ""
+  },
+  {
+    "Key": "default",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleteOldDataTable",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleteOldData",
+    "Dutch": ""
+  },
+  {
+    "Key": "integer",
+    "Dutch": ""
+  },
+  {
+    "Key": "double",
+    "Dutch": ""
+  },
+  {
+    "Key": "pleaseFillFields",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastColumnNameNumber",
+    "Dutch": ""
+  },
+  {
+    "Key": "areYouSure",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "allColumnDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "idCantStartNumber",
+    "Dutch": ""
+  },
+  {
+    "Key": "uploadFile",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileViewer",
+    "Dutch": ""
+  },
+  {
+    "Key": "ok",
+    "Dutch": ""
+  },
+  {
+    "Key": "map",
+    "Dutch": ""
+  },
+  {
+    "Key": "editPanel",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterColumnName",
+    "Dutch": ""
+  },
+  {
+    "Key": "hintExamples",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnLanguageSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "extensionColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "multipleSelection",
+    "Dutch": ""
+  },
+  {
+    "Key": "addSelectionsRows",
+    "Dutch": ""
+  },
+  {
+    "Key": "mapSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "formatAndFeatures",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterDateRange",
+    "Dutch": ""
+  },
+  {
+    "Key": "filesCanUploadedUsers",
+    "Dutch": ""
+  },
+  {
+    "Key": "barcodeColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "autoAscend",
+    "Dutch": ""
+  },
+  {
+    "Key": "roundType",
+    "Dutch": ""
+  },
+  {
+    "Key": "font",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnProcess",
+    "Dutch": ""
+  },
+  {
+    "Key": "exportColumnTotal",
+    "Dutch": ""
+  },
+  {
+    "Key": "outsideElementDisabled",
+    "Dutch": ""
+  },
+  {
+    "Key": "chat",
+    "Dutch": ""
+  },
+  {
+    "Key": "languages",
+    "Dutch": ""
+  },
+  {
+    "Key": "display",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterYourComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "comment",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileUploaded",
+    "Dutch": ""
+  },
+  {
+    "Key": "pdfViewIsButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "takeScreenshot",
+    "Dutch": ""
+  },
+  {
+    "Key": "alertText",
+    "Dutch": ""
+  },
+  {
+    "Key": "clearButtonVisible",
+    "Dutch": ""
+  },
+  {
+    "Key": "allText",
+    "Dutch": ""
+  },
+  {
+    "Key": "letter",
+    "Dutch": ""
+  },
+  {
+    "Key": "letterandnumber",
+    "Dutch": ""
+  },
+  {
+    "Key": "letterandsymbol",
+    "Dutch": ""
+  },
+  {
+    "Key": "numberandsymbol",
+    "Dutch": ""
+  },
+  {
+    "Key": "showIDColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "showCopyButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "showDeleteButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "showCheckboxButton",
+    "Dutch": ""
+  },
+  {
+    "Key": "autoRowHeight",
+    "Dutch": ""
+  },
+  {
+    "Key": "exportImport",
+    "Dutch": ""
+  },
+  {
+    "Key": "export",
+    "Dutch": ""
+  },
+  {
+    "Key": "import",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastImport",
+    "Dutch": ""
+  },
+  {
+    "Key": "defaultTodaysDateWithTime",
+    "Dutch": ""
+  },
+  {
+    "Key": "warningApproveImport",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterVisible",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatableMaxQuantity",
+    "Dutch": ""
+  },
+  {
+    "Key": "hideQuantity",
+    "Dutch": ""
+  },
+  {
+    "Key": "disableQuantityTextbox",
+    "Dutch": ""
+  },
+  {
+    "Key": "multiplesOfQuantity",
+    "Dutch": ""
+  },
+  {
+    "Key": "justnumber",
+    "Dutch": ""
+  },
+  {
+    "Key": "paymentHourWarning",
+    "Dutch": ""
+  },
+  {
+    "Key": "addColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "mailSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "newTaskMailDetail",
+    "Dutch": ""
+  },
+  {
+    "Key": "updateTaskMailDetail",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskOnDropMail",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectSMTP",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskCreator",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskEndDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "tags",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskStartDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskAssigned",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskDetail",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskSubject",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskPri",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskEdit",
+    "Dutch": ""
+  },
+  {
+    "Key": "addTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskStatus",
+    "Dutch": ""
+  },
+  {
+    "Key": "excelExportSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "excelExportRequiredColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "allDataExcelExport",
+    "Dutch": ""
+  },
+  {
+    "Key": "warningApproveImportReport",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportName",
+    "Dutch": ""
+  },
+  {
+    "Key": "old",
+    "Dutch": ""
+  },
+  {
+    "Key": "upperNode",
+    "Dutch": ""
+  },
+  {
+    "Key": "pdfViewStaticPdf",
+    "Dutch": ""
+  },
+  {
+    "Key": "actions",
+    "Dutch": ""
+  },
+  {
+    "Key": "loading",
+    "Dutch": ""
+  },
+  {
+    "Key": "exportDataToExcell",
+    "Dutch": ""
+  },
+  {
+    "Key": "showRefreshIcon",
+    "Dutch": ""
+  },
+  {
+    "Key": "headerFilter",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterRowVisible",
+    "Dutch": ""
+  },
+  {
+    "Key": "password",
+    "Dutch": ""
+  },
+  {
+    "Key": "categories",
+    "Dutch": ""
+  },
+  {
+    "Key": "pressEnter",
+    "Dutch": ""
+  },
+  {
+    "Key": "historyColumnValue",
+    "Dutch": ""
+  },
+  {
+    "Key": "hideMobile",
+    "Dutch": ""
+  },
+  {
+    "Key": "align",
+    "Dutch": ""
+  },
+  {
+    "Key": "theme",
+    "Dutch": ""
+  },
+  {
+    "Key": "info",
+    "Dutch": ""
+  },
+  {
+    "Key": "showTitle",
+    "Dutch": ""
+  },
+  {
+    "Key": "purple",
+    "Dutch": ""
+  },
+  {
+    "Key": "brown",
+    "Dutch": ""
+  },
+  {
+    "Key": "yellow",
+    "Dutch": ""
+  },
+  {
+    "Key": "turnOnComments",
+    "Dutch": ""
+  },
+  {
+    "Key": "showContent",
+    "Dutch": ""
+  },
+  {
+    "Key": "canBeHidden",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowEdit",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "toastDeleteErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "formOpeningMultiElementEvent",
+    "Dutch": ""
+  },
+  {
+    "Key": "resetDatagridLocalSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginP1",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginP2",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginConnect",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginText",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginRightMore",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginHeaderP1",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginHeaderP2",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginHeaderP3",
+    "Dutch": ""
+  },
+  {
+    "Key": "kanbanaddTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskstatusDesciption",
+    "Dutch": ""
+  },
+  {
+    "Key": "tasksubjectDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskassignedToTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskassignedTaskDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "addedForTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskAssignedInfoDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "assignedInfo",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupInfo",
+    "Dutch": ""
+  },
+  {
+    "Key": "sortEnd",
+    "Dutch": ""
+  },
+  {
+    "Key": "sender",
+    "Dutch": ""
+  },
+  {
+    "Key": "forward",
+    "Dutch": ""
+  },
+  {
+    "Key": "attachments",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginP3",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskdetailDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskassignedDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskstartdateDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskenddateDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskpriDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "tagsDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "outlookDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskAssInfoDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "receiver",
+    "Dutch": ""
+  },
+  {
+    "Key": "draft",
+    "Dutch": ""
+  },
+  {
+    "Key": "spam",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterstate",
+    "Dutch": ""
+  },
+  {
+    "Key": "checkForspelling",
+    "Dutch": ""
+  },
+  {
+    "Key": "emailToForward",
+    "Dutch": ""
+  },
+  {
+    "Key": "lowImpMails",
+    "Dutch": ""
+  },
+  {
+    "Key": "normalImpMails",
+    "Dutch": ""
+  },
+  {
+    "Key": "highImpEmails",
+    "Dutch": ""
+  },
+  {
+    "Key": "showReadMails",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupinfoDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "timeoutMission",
+    "Dutch": ""
+  },
+  {
+    "Key": "timeoutmissionDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskperiodDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskProgress",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskProgressDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatekanbanTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskcreatorDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "uploadfileDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "infoPersons",
+    "Dutch": ""
+  },
+  {
+    "Key": "warningtime",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskPeriod",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskProgresSatus",
+    "Dutch": ""
+  },
+  {
+    "Key": "makeTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "outlookIntegration",
+    "Dutch": ""
+  },
+  {
+    "Key": "loginoutlook",
+    "Dutch": ""
+  },
+  {
+    "Key": "fetchoutlook",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressStatus",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskColors",
+    "Dutch": ""
+  },
+  {
+    "Key": "addcalendarTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatetaskCalendar",
+    "Dutch": ""
+  },
+  {
+    "Key": "statusComplete",
+    "Dutch": ""
+  },
+  {
+    "Key": "priorityFilter",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnFilter",
+    "Dutch": ""
+  },
+  {
+    "Key": "assignPerson",
+    "Dutch": ""
+  },
+  {
+    "Key": "assignGroup",
+    "Dutch": ""
+  },
+  {
+    "Key": "noTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "resetSort",
+    "Dutch": ""
+  },
+  {
+    "Key": "sortASC",
+    "Dutch": ""
+  },
+  {
+    "Key": "sortDESC",
+    "Dutch": ""
+  },
+  {
+    "Key": "sortAppointment",
+    "Dutch": ""
+  },
+  {
+    "Key": "trash",
+    "Dutch": ""
+  },
+  {
+    "Key": "showOlderMail",
+    "Dutch": ""
+  },
+  {
+    "Key": "mailNotFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "sendNewMail",
+    "Dutch": ""
+  },
+  {
+    "Key": "showUnreadMails",
+    "Dutch": ""
+  },
+  {
+    "Key": "updateColumnMail",
+    "Dutch": ""
+  },
+  {
+    "Key": "addTaskToOutlook",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterYourMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "reminder",
+    "Dutch": ""
+  },
+  {
+    "Key": "determinedToTask",
+    "Dutch": ""
+  },
+  {
+    "Key": "remainingTime",
+    "Dutch": ""
+  },
+  {
+    "Key": "hours",
+    "Dutch": ""
+  },
+  {
+    "Key": "withoutPriority",
+    "Dutch": ""
+  },
+  {
+    "Key": "lowPri",
+    "Dutch": ""
+  },
+  {
+    "Key": "normalPri",
+    "Dutch": ""
+  },
+  {
+    "Key": "highPri",
+    "Dutch": ""
+  },
+  {
+    "Key": "showAllTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "showIncompleteTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "showCompeletedTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportDesigner",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileManagementSystem",
+    "Dutch": ""
+  },
+  {
+    "Key": "formDesigner",
+    "Dutch": ""
+  },
+  {
+    "Key": "boardDesigner",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "social",
+    "Dutch": ""
+  },
+  {
+    "Key": "profile",
+    "Dutch": ""
+  },
+  {
+    "Key": "contacts",
+    "Dutch": ""
+  },
+  {
+    "Key": "files",
+    "Dutch": ""
+  },
+  {
+    "Key": "pages",
+    "Dutch": ""
+  },
+  {
+    "Key": "noResultsFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "processes",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterByStatus",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterByPri",
+    "Dutch": ""
+  },
+  {
+    "Key": "filterByCol",
+    "Dutch": ""
+  },
+  {
+    "Key": "todoAddTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "addLabel",
+    "Dutch": ""
+  },
+  {
+    "Key": "showWithSubTasks",
+    "Dutch": ""
+  },
+  {
+    "Key": "riverBoard",
+    "Dutch": ""
+  },
+  {
+    "Key": "notify",
+    "Dutch": ""
+  },
+  {
+    "Key": "likedYourPost",
+    "Dutch": ""
+  },
+  {
+    "Key": "likedYourComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "systemNotify",
+    "Dutch": ""
+  },
+  {
+    "Key": "readAllNotify",
+    "Dutch": ""
+  },
+  {
+    "Key": "recommendedUsers",
+    "Dutch": ""
+  },
+  {
+    "Key": "suggestedPosts",
+    "Dutch": ""
+  },
+  {
+    "Key": "sPostReposted",
+    "Dutch": ""
+  },
+  {
+    "Key": "shareSomething",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatePost",
+    "Dutch": ""
+  },
+  {
+    "Key": "ifYouDoNotSelectGroup",
+    "Dutch": ""
+  },
+  {
+    "Key": "addComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "sendComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisPost",
+    "Dutch": ""
+  },
+  {
+    "Key": "yes",
+    "Dutch": ""
+  },
+  {
+    "Key": "no",
+    "Dutch": ""
+  },
+  {
+    "Key": "deletePost",
+    "Dutch": ""
+  },
+  {
+    "Key": "postSuccesfullyDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "deleteComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "areYouSureYouWantToDeleteThisComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "commentSuccesfullyDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "sharePost",
+    "Dutch": ""
+  },
+  {
+    "Key": "areYouSureYouWantToShareThisPost",
+    "Dutch": ""
+  },
+  {
+    "Key": "repostedSuccessfully",
+    "Dutch": ""
+  },
+  {
+    "Key": "upload",
+    "Dutch": ""
+  },
+  {
+    "Key": "refresh",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowedExtentions",
+    "Dutch": ""
+  },
+  {
+    "Key": "systemLandingPagePreference",
+    "Dutch": ""
+  },
+  {
+    "Key": "Allownonadminuserstosearchforotherusers",
+    "Dutch": ""
+  },
+  {
+    "Key": "passwordChange",
+    "Dutch": ""
+  },
+  {
+    "Key": "newPassword",
+    "Dutch": ""
+  },
+  {
+    "Key": "Retypethenewpassword",
+    "Dutch": ""
+  },
+  {
+    "Key": "notifications",
+    "Dutch": ""
+  },
+  {
+    "Key": "showWhoLikesYourPost",
+    "Dutch": ""
+  },
+  {
+    "Key": "showWhoLikesYourComment",
+    "Dutch": ""
+  },
+  {
+    "Key": "aboutMe",
+    "Dutch": ""
+  },
+  {
+    "Key": "bio",
+    "Dutch": ""
+  },
+  {
+    "Key": "dateOfBirth",
+    "Dutch": ""
+  },
+  {
+    "Key": "website",
+    "Dutch": ""
+  },
+  {
+    "Key": "phone",
+    "Dutch": ""
+  },
+  {
+    "Key": "saveChanges",
+    "Dutch": ""
+  },
+  {
+    "Key": "content",
+    "Dutch": ""
+  },
+  {
+    "Key": "projectManagement",
+    "Dutch": ""
+  },
+  {
+    "Key": "addPage",
+    "Dutch": ""
+  },
+  {
+    "Key": "addFolder",
+    "Dutch": ""
+  },
+  {
+    "Key": "showUsers",
+    "Dutch": ""
+  },
+  {
+    "Key": "showGroups",
+    "Dutch": ""
+  },
+  {
+    "Key": "readonlyUsers",
+    "Dutch": ""
+  },
+  {
+    "Key": "readonlyGroups",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnHeight",
+    "Dutch": ""
+  },
+  {
+    "Key": "showKanbanCount",
+    "Dutch": ""
+  },
+  {
+    "Key": "kanbanSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "gantSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "schedulerSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "activateOutlookConnection",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectOutlookColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectSMTPPopoverText",
+    "Dutch": ""
+  },
+  {
+    "Key": "menuFilePathId",
+    "Dutch": ""
+  },
+  {
+    "Key": "recycleBinPathName",
+    "Dutch": ""
+  },
+  {
+    "Key": "recycleBinPathId",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileNameChangedMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileNameChangedErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileCreatedMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "newTaskMailDetailPopoverText",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskOnDropMailPopoverText",
+    "Dutch": ""
+  },
+  {
+    "Key": "createdBy",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatedBy",
+    "Dutch": ""
+  },
+  {
+    "Key": "createdDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "updatedDate",
+    "Dutch": ""
+  },
+  {
+    "Key": "folderPermissionSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "quantity",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileManagementPermissionSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileNotFoundErrorText",
+    "Dutch": ""
+  },
+  {
+    "Key": "updateTaskMailDetailPopoverText",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectOutlookColumnPopoverText",
+    "Dutch": ""
+  },
+  {
+    "Key": "createFolder",
+    "Dutch": ""
+  },
+  {
+    "Key": "versionHistory",
+    "Dutch": ""
+  },
+  {
+    "Key": "deletePermanently",
+    "Dutch": ""
+  },
+  {
+    "Key": "recover",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupPermissions",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowUpload",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowView",
+    "Dutch": ""
+  },
+  {
+    "Key": "allowDownload",
+    "Dutch": ""
+  },
+  {
+    "Key": "permissionType",
+    "Dutch": ""
+  },
+  {
+    "Key": "applyToSubFolders",
+    "Dutch": ""
+  },
+  {
+    "Key": "newFolderName",
+    "Dutch": ""
+  },
+  {
+    "Key": "tagTips",
+    "Dutch": ""
+  },
+  {
+    "Key": "addAsNewVersion",
+    "Dutch": ""
+  },
+  {
+    "Key": "addAndChangeName",
+    "Dutch": ""
+  },
+  {
+    "Key": "skip",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileExistError",
+    "Dutch": ""
+  },
+  {
+    "Key": "processFileShow",
+    "Dutch": ""
+  },
+  {
+    "Key": "processFilePathName",
+    "Dutch": ""
+  },
+  {
+    "Key": "processFilePathId",
+    "Dutch": ""
+  },
+  {
+    "Key": "menuFileShow",
+    "Dutch": ""
+  },
+  {
+    "Key": "menuFilePathName",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileCreatedErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileDeletedessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileDeletedErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileMovedMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileMovedErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileCopyMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileCopyErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileDownloadMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileDownloadErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileSizeShowErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "unsupportedFile",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileNameError",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileGivePermissionMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "fileGivePermissionErrorMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "groupName",
+    "Dutch": ""
+  },
+  {
+    "Key": "createGroup",
+    "Dutch": ""
+  },
+  {
+    "Key": "conversation",
+    "Dutch": ""
+  },
+  {
+    "Key": "startConversation",
+    "Dutch": ""
+  },
+  {
+    "Key": "userNotFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "chatNotFound",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeTypeLight",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeTypeBorderedLight",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeHalfDark",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeDark",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeRouteAnimation",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeRouteAnimationFadeInLeft",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeRouteAnimationZoomIn",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeRouteAnimationFadeIn",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeRouteAnimationNone",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeMenuType",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeMenuTypeHorizontal",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeMenuTypeVertical",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeMenuCollapse",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeNavbarColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeNavbarType",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeSticky",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeStatic",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeFloating",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeHidden",
+    "Dutch": ""
+  },
+  {
+    "Key": "themeFooterType",
+    "Dutch": ""
+  },
+  {
+    "Key": "catalog",
+    "Dutch": ""
+  },
+  {
+    "Key": "riverBoards",
+    "Dutch": ""
+  },
+  {
+    "Key": "clipboardDesigner",
+    "Dutch": ""
+  },
+  {
+    "Key": "desingMode",
+    "Dutch": ""
+  },
+  {
+    "Key": "editPage",
+    "Dutch": ""
+  },
+  {
+    "Key": "rename",
+    "Dutch": ""
+  },
+  {
+    "Key": "exportToPdf",
+    "Dutch": ""
+  },
+  {
+    "Key": "exportToExcel",
+    "Dutch": ""
+  },
+  {
+    "Key": "revenueReport",
+    "Dutch": ""
+  },
+  {
+    "Key": "header",
+    "Dutch": ""
+  },
+  {
+    "Key": "connection",
+    "Dutch": ""
+  },
+  {
+    "Key": "primaryKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "secondaryKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "completedKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "countKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "statusKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressConnection",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressPrimaryKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressCountKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressPercentageKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "progressColorKey",
+    "Dutch": ""
+  },
+  {
+    "Key": "keyColumn",
+    "Dutch": ""
+  },
+  {
+    "Key": "currency",
+    "Dutch": ""
+  },
+  {
+    "Key": "whitePage",
+    "Dutch": ""
+  },
+  {
+    "Key": "noReportSelected",
+    "Dutch": ""
+  },
+  {
+    "Key": "noTypeSelected",
+    "Dutch": ""
+  },
+  {
+    "Key": "whitePageReports",
+    "Dutch": ""
+  },
+  {
+    "Key": "addBranch",
+    "Dutch": ""
+  },
+  {
+    "Key": "branchName",
+    "Dutch": ""
+  },
+  {
+    "Key": "rowNumber",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportTypeSelect",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "useWeb",
+    "Dutch": ""
+  },
+  {
+    "Key": "useMobile",
+    "Dutch": ""
+  },
+  {
+    "Key": "mainScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "pre-runScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "preScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "testIt",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectAll",
+    "Dutch": ""
+  },
+  {
+    "Key": "addReport",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectReportType",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportType",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportDesingPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportImportedOpenLeftMenu",
+    "Dutch": ""
+  },
+  {
+    "Key": "forReportExport",
+    "Dutch": ""
+  },
+  {
+    "Key": "anErrorOccurred",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "branchDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "addBranchName",
+    "Dutch": ""
+  },
+  {
+    "Key": "addedBranch",
+    "Dutch": ""
+  },
+  {
+    "Key": "selectConnectionAddress",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterSqlScript",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterReportName",
+    "Dutch": ""
+  },
+  {
+    "Key": "reportAdded",
+    "Dutch": ""
+  },
+  {
+    "Key": "numberOfDataToBeProcessed",
+    "Dutch": ""
+  },
+  {
+    "Key": "dataNotFoundCheckYourConnection",
+    "Dutch": ""
+  },
+  {
+    "Key": "connectionNotFoundCheckYourConnection",
+    "Dutch": ""
+  },
+  {
+    "Key": "fillConnectionAndSql",
+    "Dutch": ""
+  },
+  {
+    "Key": "allTypesActivate",
+    "Dutch": ""
+  },
+  {
+    "Key": "passwordRequired",
+    "Dutch": ""
+  },
+  {
+    "Key": "showLess",
+    "Dutch": ""
+  },
+  {
+    "Key": "showMore",
+    "Dutch": ""
+  },
+  {
+    "Key": "authority",
+    "Dutch": ""
+  },
+  {
+    "Key": "preScriptDescription",
+    "Dutch": ""
+  },
+  {
+    "Key": "enterReportFilters",
+    "Dutch": ""
+  },
+  {
+    "Key": "gridDesigner",
+    "Dutch": ""
+  },
+  {
+    "Key": "addMainBranch",
+    "Dutch": ""
+  },
+  {
+    "Key": "resetSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "reply",
+    "Dutch": ""
+  },
+  {
+    "Key": "companyName",
+    "Dutch": ""
+  },
+  {
+    "Key": "showEmailModule",
+    "Dutch": ""
+  },
+  {
+    "Key": "distanceToBottomComponent",
+    "Dutch": ""
+  },
+  {
+    "Key": "canNonAdminUsersPost",
+    "Dutch": ""
+  },
+  {
+    "Key": "columnColor",
+    "Dutch": ""
+  },
+  {
+    "Key": "byWho",
+    "Dutch": ""
+  },
+  {
+    "Key": "added",
+    "Dutch": ""
+  },
+  {
+    "Key": "updated",
+    "Dutch": ""
+  },
+  {
+    "Key": "commentAdded",
+    "Dutch": ""
+  },
+  {
+    "Key": "completed",
+    "Dutch": ""
+  },
+  {
+    "Key": "addRemoveColumns",
+    "Dutch": ""
+  },
+  {
+    "Key": "searchMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "riverReports",
+    "Dutch": ""
+  },
+  {
+    "Key": "forms",
+    "Dutch": ""
+  },
+  {
+    "Key": "searchinforms",
+    "Dutch": ""
+  },
+  {
+    "Key": "searchVoiceMessage",
+    "Dutch": ""
+  },
+  {
+    "Key": "searchVoiceMessages",
+    "Dutch": ""
+  },
+  {
+    "Key": "showSocialNotifications",
+    "Dutch": ""
+  },
+  {
+    "Key": "showProjectManagementNotifications",
+    "Dutch": ""
+  },
+  {
+    "Key": "showProcessNotifications",
+    "Dutch": ""
+  },
+  {
+    "Key": "pageDesingPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "filemanagementDesingPermission",
+    "Dutch": ""
+  },
+  {
+    "Key": "taskDelete",
+    "Dutch": ""
+  },
+  {
+    "Key": "tasksWillDeleted",
+    "Dutch": ""
+  },
+  {
+    "Key": "componentSettings",
+    "Dutch": ""
+  },
+  {
+    "Key": "aboutComponent",
+    "Dutch": ""
+  },
+  {
+    "Key": "sureSaveChanges",
+    "Dutch": ""
+  },
+  {
+    "Key": "showDeletedNotifications",
+    "Dutch": ""
+  },
+  {
+    "Key": "shareSometthing",
+    "Dutch": ""
+  },
+  {
+    "Key": "resetPageLayout",
+    "Dutch": ""
+  },
+  {
+    "Key": "downloadingSS",
+    "Dutch": ""
+  },
+  {
+    "Key": "showHorizontalLines",
+    "Dutch": ""
+  },
+  {
+    "Key": "turnOnVerticalHide",
+    "Dutch": ""
+  },
+  {
+    "Key": "whichHorizontalLinelinesAreNotVisible",
+    "Dutch": ""
+  }
+]

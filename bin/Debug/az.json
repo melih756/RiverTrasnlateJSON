@@ -1,3838 +1,921 @@
-[
-  {
-    "Key": "loginButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "userName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pass",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "remember",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "forgotPass",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "modules",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "generic",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "search",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "logout",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "waitingJob",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "myStarted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "myIncluded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "myCompleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "jobList",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formNo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "status",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "starter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assigned",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "timeoutDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "startDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "processing",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "you",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "history",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "description",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "date",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "growShrink",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "close",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "gridReset",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnSelect",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "jobName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "keyword",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completion",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "all",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completedDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ongoing",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sunday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "monday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tuesday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "wednesday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "thursday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "friday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saturday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pdfExport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sendPassword",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assignedDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "events",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "new",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "save",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formula",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectDataSource",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "requiredField",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "suffix",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "valueColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showLength",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "clearButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allCaps",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "autoAsc",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "width",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "length",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "functions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectElement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "edit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "changeEventActions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "barcode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "systemInfo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "prefix",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "max",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showMinMaxInfo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectUser",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "spinButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numberIncDecButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "decimal",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numeral",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "wrongFormat",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "height",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "microphone",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "notifyDataReset",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "data",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dynamicData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "manualData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectDataGrid",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "overrideUserChange",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "textColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "makeInitialValue",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "undo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "copy",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "delete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "cancel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "languageSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageSqlLinkDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "permissions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "objectid",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fontSize",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fontWidth",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fontStyle",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "underline",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "textColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "visibility",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "textAlignment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "settings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageUnsaved",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "warning",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "userAuthorizations",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formPreferences",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formOpeningevent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "chooseConnectionAddress",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectPriorty",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loadingEditor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showAddButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "update",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "connectionID",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formPreview",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "nameDisplayedform",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formNamevariable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "category",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "generalForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saveForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageNeworupdate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastError",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alertDifferentID",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "confirmChanges",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastUserpermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastCodeeditor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageDeletesure",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageSure",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "Success",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "Error",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastFormupdate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastMistake",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastSaved",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastCopied",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastEmptyFormMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastGiveName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastGiveVariableName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastVariableNameNumberWarning",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formCopy",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageButtonDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noDataFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "language",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterDatagrid",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addManualData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dateFormat",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageSqlLinkDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "timeOption",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "defaultTodaysDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dateRange",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "minToday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "maxToday",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dateRangeDay",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterDateRangeValue",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageIdColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "statusSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "active",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "passive",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "disable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "visible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "invisible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "items",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showItems",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "array",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "letLabelAppear",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "add",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "horizontal",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "vertical",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "text",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alertFillRequiredFields",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alertSignatureField",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "messageApproveTransaction",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "button",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reasonforRefusal",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterReasonRejection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reject",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addDeleteButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showBorder",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "buttons",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "clean",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "buttonSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saveLocation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "paymentButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "paymentProvider",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "price",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numberOfInstallments",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "descriptionField",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "current",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "currentForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "name",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "surname",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "country",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "city",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "address",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "authorizations",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "users",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "user",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "givePermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groups",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "group",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saveandSend",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "approve",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sendBack",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deslineAndEnd",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "complete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "blue",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "grey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "green",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "red",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "left",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "right",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "color",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "symbol",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "position",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "action",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "total",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filePath",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileUpload",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "choose",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updateData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "preview",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "show",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columns",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "changeEvent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleteColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnSqlScripts",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageNameColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnLanguageSetting",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dataSource",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reset",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "column",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "image",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "searchLocation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "draggable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "usersCanChange",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "multiMarker",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "markerLimit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "meetingType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "meetingName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loadingFiles",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileSizeExceeded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesLoaded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "condition",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "value",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "connectionAdress",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageTypeColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "visibleColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectionMode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectMode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "datagridFiltering",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageDataColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectDataColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dataFormat",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "photoPreview",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "videoPreview",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "displayPhoto",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "displayVideo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "videoColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnNameAppear",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selected",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "inStock",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "gallery",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dollar",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sterling",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "underPhoto",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "topPhoto",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "byCategory",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dashboardShowHide",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showDetail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hideDetail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "decrease",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "increase",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "watch",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "watchMovie",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noRecordsFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "appearance",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numberofColumns",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pagingRecords",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "detailLocation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hideImages",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "quantityCategoryDisable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "general",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "idColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "availableQuantity",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "categoryColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "photoColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "titleColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "priceColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatablePrice",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "videoGallery",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uniqueComponent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showVariant",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "transferTotalAmount",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "connectionAddress",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "title",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hide",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "detail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "priceQuery",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "quantityQuery",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uniqueComponentError",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "joinColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "nameColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "variantScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "variantImages",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "variantJoinColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showAll",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showSelected",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showByCategory",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showInStock",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "notYetAdded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "startingDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "endDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeFeatures",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "menu",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectMenu",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectSubmenu",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectMenuBrowser",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "nameElement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "subject",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "picture",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pictureElement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "startingDateElement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "endDateElement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "usersCanEdit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "thisPropertyCant",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "calendarDisplay",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "monthly",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "generalDisplayLunarDays",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "agenda",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "listofWeeklyEvents",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "weekly",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "weekend",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "generalDisplayWeekDays",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showWeekendDaysWhileWeekdays",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "daily",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "listofDailyEvents",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "startTime",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "endTime",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "changeDefaultColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "weekdayColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "weekendColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "eventColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupBySql",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assignedColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskPriortiyColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskSubjectColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskDetailColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskQuery",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskKeyExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskTitleExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskStartDateExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskEndDateName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskParentExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskProgressExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskColorExpression",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskConnections",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "diagramClear",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uniqueComponentMenuCloneWarning",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesLoading",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "couldnotbeLoaded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileSizeLimit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesUploaded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesWillDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesSureDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uploadedPhotos",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "maxSize",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "center",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "size",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "canItBeUpdated",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uploadedFiles",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "type",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showdeleteOldData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "videoBrowser",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "theseComponentElementsDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "invalidTarget",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ridge",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dotted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dashed",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addRowColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dataPagingShow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "borderType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "maxCharacters",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "edgeThickness",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "lineSpacing",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "settingsRowColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addRow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleteRow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "rowPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addTabs",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deletePanel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tabPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addPanel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "panelPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "backgroundColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saveAndCloseChildForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "icon",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fontColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "minCharacters",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "generalCategory",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "removeRow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "send",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "declineFinish",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "finish",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "createEditMenu",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addNewBreakdown",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addBottomBreak",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addNode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "topCategory",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "explanation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "browserTitle",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formTitle",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addSqlColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formBg",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "codeEditor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "authorityType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "viewOnly",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dark",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "white",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hightBlack",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "run",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "rowColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "operator",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "flowOfForm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnWidth",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alignLeft",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alignRight",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alignButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "imageTableNameColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uploadBg",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectFile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dropFile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alwaysRoundUp",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alwaysRoundBot",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "default",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleteOldDataTable",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleteOldData",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "integer",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "double",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pleaseFillFields",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastColumnNameNumber",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "areYouSure",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allColumnDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "idCantStartNumber",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uploadFile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileViewer",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ok",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "map",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "editPanel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterColumnName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hintExamples",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnLanguageSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "extensionColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "multipleSelection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addSelectionsRows",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mapSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formatAndFeatures",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterDateRange",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filesCanUploadedUsers",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "barcodeColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "autoAscend",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "roundType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "font",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnProcess",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "exportColumnTotal",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "outsideElementDisabled",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "chat",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "languages",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "display",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterYourComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "comment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileUploaded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pdfViewIsButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "takeScreenshot",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "alertText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "clearButtonVisible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "letter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "letterandnumber",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "letterandsymbol",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numberandsymbol",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showIDColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showCopyButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showDeleteButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showCheckboxButton",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "autoRowHeight",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "exportImport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "export",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "import",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastImport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "defaultTodaysDateWithTime",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "warningApproveImport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterVisible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatableMaxQuantity",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hideQuantity",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "disableQuantityTextbox",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "multiplesOfQuantity",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "justnumber",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "paymentHourWarning",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mailSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "newTaskMailDetail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updateTaskMailDetail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskOnDropMail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectSMTP",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskCreator",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskEndDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tags",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskStartDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskAssigned",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskDetail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskSubject",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskPri",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskEdit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskStatus",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "excelExportSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "excelExportRequiredColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allDataExcelExport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "warningApproveImportReport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "old",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "upperNode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pdfViewStaticPdf",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "actions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loading",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "exportDataToExcell",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showRefreshIcon",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "headerFilter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterRowVisible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "password",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "categories",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pressEnter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "historyColumnValue",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hideMobile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "align",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "theme",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "info",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showTitle",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "purple",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "brown",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "yellow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "turnOnComments",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showContent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "canBeHidden",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowEdit",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "toastDeleteErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formOpeningMultiElementEvent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "resetDatagridLocalSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginP1",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginP2",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginConnect",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginRightMore",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginHeaderP1",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginHeaderP2",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginHeaderP3",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "kanbanaddTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskstatusDesciption",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tasksubjectDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskassignedToTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskassignedTaskDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addedForTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskAssignedInfoDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assignedInfo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupInfo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sortEnd",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sender",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "forward",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "attachments",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginP3",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskdetailDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskassignedDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskstartdateDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskenddateDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskpriDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tagsDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "outlookDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskAssInfoDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "receiver",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "draft",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "spam",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterstate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "checkForspelling",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "emailToForward",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "lowImpMails",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "normalImpMails",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "highImpEmails",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showReadMails",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupinfoDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "timeoutMission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "timeoutmissionDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskperiodDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskProgress",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskProgressDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatekanbanTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskcreatorDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "uploadfileDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "infoPersons",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "warningtime",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskPeriod",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskProgresSatus",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "makeTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "outlookIntegration",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "loginoutlook",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fetchoutlook",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressStatus",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskColors",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addcalendarTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatetaskCalendar",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "statusComplete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "priorityFilter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnFilter",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assignPerson",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "assignGroup",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "resetSort",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sortASC",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sortDESC",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sortAppointment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "trash",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showOlderMail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mailNotFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sendNewMail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showUnreadMails",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updateColumnMail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addTaskToOutlook",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterYourMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reminder",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "determinedToTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "remainingTime",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "hours",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "withoutPriority",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "lowPri",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "normalPri",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "highPri",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showAllTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showIncompleteTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showCompeletedTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportDesigner",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileManagementSystem",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formDesigner",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "boardDesigner",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "social",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "profile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "contacts",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "files",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pages",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noResultsFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "processes",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterByStatus",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterByPri",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterByCol",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "todoAddTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addLabel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showWithSubTasks",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "riverBoard",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "notify",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "likedYourPost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "likedYourComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "systemNotify",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "readAllNotify",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "recommendedUsers",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "suggestedPosts",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sPostReposted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "shareSomething",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatePost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ifYouDoNotSelectGroup",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sendComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisPost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "yes",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "no",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deletePost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "postSuccesfullyDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deleteComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "commentSuccesfullyDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sharePost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "areYouSureYouWantToShareThisPost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "repostedSuccessfully",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "upload",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "refresh",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowedExtentions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "systemLandingPagePreference",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "Allownonadminuserstosearchforotherusers",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "passwordChange",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "newPassword",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "Retypethenewpassword",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "notifications",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showWhoLikesYourPost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showWhoLikesYourComment",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "aboutMe",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "bio",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dateOfBirth",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "website",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "phone",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "saveChanges",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "content",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "projectManagement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addPage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addFolder",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showUsers",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showGroups",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "readonlyUsers",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "readonlyGroups",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnHeight",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showKanbanCount",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "kanbanSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "gantSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "schedulerSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "activateOutlookConnection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectOutlookColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectSMTPPopoverText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "menuFilePathId",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "recycleBinPathName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "recycleBinPathId",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileNameChangedMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileNameChangedErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileCreatedMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "newTaskMailDetailPopoverText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskOnDropMailPopoverText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "createdBy",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatedBy",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "createdDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updatedDate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "folderPermissionSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "quantity",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileManagementPermissionSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileNotFoundErrorText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updateTaskMailDetailPopoverText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectOutlookColumnPopoverText",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "createFolder",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "versionHistory",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "deletePermanently",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "recover",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupPermissions",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowUpload",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowView",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allowDownload",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "permissionType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "applyToSubFolders",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "newFolderName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tagTips",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addAsNewVersion",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addAndChangeName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "skip",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileExistError",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "processFileShow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "processFilePathName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "processFilePathId",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "menuFileShow",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "menuFilePathName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileCreatedErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileDeletedessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileDeletedErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileMovedMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileMovedErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileCopyMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileCopyErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileDownloadMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileDownloadErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileSizeShowErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "unsupportedFile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileNameError",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileGivePermissionMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fileGivePermissionErrorMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "groupName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "createGroup",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "conversation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "startConversation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "userNotFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "chatNotFound",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeTypeLight",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeTypeBorderedLight",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeHalfDark",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeDark",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeRouteAnimation",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeRouteAnimationFadeInLeft",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeRouteAnimationZoomIn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeRouteAnimationFadeIn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeRouteAnimationNone",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeMenuType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeMenuTypeHorizontal",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeMenuTypeVertical",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeMenuCollapse",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeNavbarColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeNavbarType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeSticky",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeStatic",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeFloating",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeHidden",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "themeFooterType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "catalog",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "riverBoards",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "clipboardDesigner",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "desingMode",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "editPage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "rename",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "exportToPdf",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "exportToExcel",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "revenueReport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "header",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "connection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "primaryKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "secondaryKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completedKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "countKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "statusKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressConnection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressPrimaryKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressCountKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressPercentageKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "progressColorKey",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "keyColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "currency",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "whitePage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noReportSelected",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noTypeSelected",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "whitePageReports",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addBranch",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "branchName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "rowNumber",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportTypeSelect",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "useWeb",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "useMobile",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mainScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pre-runScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "preScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "testIt",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectAll",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addReport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectReportType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportDesingPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportImportedOpenLeftMenu",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "forReportExport",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "anErrorOccurred",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "branchDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addBranchName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addedBranch",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "selectConnectionAddress",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterSqlScript",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterReportName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reportAdded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "numberOfDataToBeProcessed",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "dataNotFoundCheckYourConnection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "connectionNotFoundCheckYourConnection",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fillConnectionAndSql",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "allTypesActivate",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "passwordRequired",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showLess",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showMore",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "authority",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "preScriptDescription",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterReportFilters",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "gridDesigner",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addMainBranch",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "resetSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columsToGroup",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "customize",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "colorType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formatManagement",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "bottomTotalColumn",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "formatType",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "datagridSettingsReset",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "unexpectedError",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "changesSaved",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addGantTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updGantTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updSchedulerTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updTodoTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completeTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "cantBeEmptyKanban",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "successAdd",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "successUpd",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "statusChangeTodo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reminderSended",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "askForCompleteTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "infoForCompletedTask",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "noPermisison",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "successDependencyAdded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filterimportant",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "enterEmail",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "reply",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "newCol",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "thickness",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "distanceToUpperComponent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "companyName",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showEmailModule",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "distanceToBottomComponent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "canNonAdminUsersPost",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "columnColor",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "byWho",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "added",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "updated",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "commentAdded",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "completed",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "addRemoveColumns",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "searchMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "riverReports",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "forms",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "searchinforms",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "searchVoiceMessage",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "searchVoiceMessages",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showSocialNotifications",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showProjectManagementNotifications",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showProcessNotifications",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "pageDesingPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "filemanagementDesingPermission",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "taskDelete",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "tasksWillDeleted",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "componentSettings",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "aboutComponent",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "sureSaveChanges",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showDeletedNotifications",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "shareSometthing",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "resetPageLayout",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "downloadingSS",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "showHorizontalLines",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "turnOnVerticalHide",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "whichHorizontalLinelinesAreNotVisible",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mbnnb",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "test",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "aaaaaa",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "bbbbbb",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "cccccc",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ddddd",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "eeeee",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "fffffff",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ggggg",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "mmmmmmm",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "wwwwwww",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ggggggggg",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "llllllllll",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "iiiiiiiiii",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "oooooooo",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "üüüüüü",
-    "Azerbajani": ""
-  },
-  {
-    "Key": "ppppp",
-    "Azerbajani": ""
+{
+  "LANG": "AZ",
+  "data": {
+    "loginButton": "",
+    "userName": "",
+    "pass": "",
+    "remember": "",
+    "forgotPass": "",
+    "modules": "",
+    "generic": "",
+    "search": "",
+    "logout": "",
+    "waitingJob": "",
+    "myStarted": "",
+    "myIncluded": "",
+    "myCompleted": "",
+    "jobList": "",
+    "formNo": "",
+    "status": "",
+    "starter": "",
+    "assigned": "",
+    "timeoutDate": "",
+    "startDate": "",
+    "processing": "",
+    "you": "",
+    "history": "",
+    "description": "",
+    "date": "",
+    "growShrink": "",
+    "close": "",
+    "gridReset": "",
+    "columnSelect": "",
+    "jobName": "",
+    "keyword": "",
+    "completion": "",
+    "all": "",
+    "completedDate": "",
+    "completions": "",
+    "ongoing": "",
+    "formName": "",
+    "sunday": "",
+    "monday": "",
+    "tuesday": "",
+    "wednesday": "",
+    "thursday": "",
+    "friday": "",
+    "saturday": "",
+    "pdfExport": "",
+    "sendPassword": "",
+    "assignedDate": "",
+    "events": "",
+    "new": "",
+    "save": "",
+    "formula": "",
+    "selectDataSource": "",
+    "requiredField": "",
+    "suffix": "",
+    "valueColumn": "",
+    "showLength": "",
+    "clearButton": "",
+    "allCaps": "",
+    "autoAsc": "",
+    "width": "",
+    "length": "",
+    "functions": "",
+    "selectElement": "",
+    "selectColumn": "",
+    "edit": "",
+    "changeEventActions": "",
+    "barcode": "",
+    "systemInfo": "",
+    "prefix": "",
+    "max": "",
+    "showMinMaxInfo": "",
+    "selectUser": "",
+    "spinButton": "",
+    "numberIncDecButton": "",
+    "decimal": "",
+    "numeral": "",
+    "wrongFormat": "",
+    "height": "",
+    "microphone": "",
+    "notifyDataReset": "",
+    "data": "",
+    "dynamicData": "",
+    "manualData": "",
+    "selectDataGrid": "",
+    "overrideUserChange": "",
+    "textColumn": "",
+    "makeInitialValue": "",
+    "undo": "",
+    "copy": "",
+    "delete": "",
+    "cancel": "",
+    "languageSettings": "",
+    "messageSqlLinkDeleted": "",
+    "permissions": "",
+    "objectid": "",
+    "fontSize": "",
+    "fontWidth": "",
+    "fontStyle": "",
+    "underline": "",
+    "textColor": "",
+    "visibility": "",
+    "textAlignment": "",
+    "settings": "",
+    "messageUnsaved": "",
+    "warning": "",
+    "userAuthorizations": "",
+    "formPreferences": "",
+    "formOpeningevent": "",
+    "chooseConnectionAddress": "",
+    "selectPriorty": "",
+    "loadingEditor": "",
+    "showAddButton": "",
+    "update": "",
+    "connectionID": "",
+    "formPreview": "",
+    "nameDisplayedform": "",
+    "formNamevariable": "",
+    "category": "",
+    "formColor": "",
+    "generalForm": "",
+    "saveForm": "",
+    "messageNeworupdate": "",
+    "messageDelete": "",
+    "toastDeleted": "",
+    "toastError": "",
+    "alertDifferentID": "",
+    "confirmChanges": "",
+    "toastUserpermission": "",
+    "toastCodeeditor": "",
+    "messageDeletesure": "",
+    "messageSure": "",
+    "Success": "",
+    "Error": "",
+    "toastFormupdate": "",
+    "toastMistake": "",
+    "toastSaved": "",
+    "toastCopied": "",
+    "toastEmptyFormMessage": "",
+    "toastGiveName": "",
+    "toastGiveVariableName": "",
+    "toastVariableNameNumberWarning": "",
+    "formCopy": "",
+    "messageButtonDelete": "",
+    "noDataFound": "",
+    "language": "",
+    "filterDatagrid": "",
+    "addManualData": "",
+    "dateFormat": "",
+    "messageSqlLinkDelete": "",
+    "timeOption": "",
+    "defaultTodaysDate": "",
+    "dateRange": "",
+    "minToday": "",
+    "maxToday": "",
+    "dateRangeDay": "",
+    "enterDateRangeValue": "",
+    "imageIdColumn": "",
+    "statusSettings": "",
+    "active": "",
+    "passive": "",
+    "enable": "",
+    "disable": "",
+    "visible": "",
+    "invisible": "",
+    "items": "",
+    "showItems": "",
+    "array": "",
+    "letLabelAppear": "",
+    "add": "",
+    "horizontal": "",
+    "vertical": "",
+    "text": "",
+    "alertFillRequiredFields": "",
+    "alertSignatureField": "",
+    "messageApproveTransaction": "",
+    "button": "",
+    "reasonforRefusal": "",
+    "enterReasonRejection": "",
+    "reject": "",
+    "addDeleteButton": "",
+    "showBorder": "",
+    "buttons": "",
+    "clean": "",
+    "buttonSettings": "",
+    "saveLocation": "",
+    "paymentButton": "",
+    "paymentProvider": "",
+    "price": "",
+    "numberOfInstallments": "",
+    "descriptionField": "",
+    "current": "",
+    "currentForm": "",
+    "name": "",
+    "surname": "",
+    "country": "",
+    "city": "",
+    "address": "",
+    "authorizations": "",
+    "users": "",
+    "user": "",
+    "givePermission": "",
+    "groups": "",
+    "group": "",
+    "saveandSend": "",
+    "approve": "",
+    "sendBack": "",
+    "deslineAndEnd": "",
+    "complete": "",
+    "blue": "",
+    "grey": "",
+    "green": "",
+    "red": "",
+    "left": "",
+    "right": "",
+    "color": "",
+    "symbol": "",
+    "position": "",
+    "action": "",
+    "total": "",
+    "filePath": "",
+    "fileName": "",
+    "fileUpload": "",
+    "choose": "",
+    "updateData": "",
+    "preview": "",
+    "show": "",
+    "columns": "",
+    "changeEvent": "",
+    "columnSettings": "",
+    "columnName": "",
+    "deleteColumn": "",
+    "columnSqlScripts": "",
+    "imageNameColumn": "",
+    "columnLanguageSetting": "",
+    "dataSource": "",
+    "filter": "",
+    "reset": "",
+    "column": "",
+    "image": "",
+    "searchLocation": "",
+    "draggable": "",
+    "usersCanChange": "",
+    "multiMarker": "",
+    "markerLimit": "",
+    "meetingType": "",
+    "meetingName": "",
+    "loadingFiles": "",
+    "fileSizeExceeded": "",
+    "filesLoaded": "",
+    "condition": "",
+    "value": "",
+    "connectionAdress": "",
+    "imageTypeColumn": "",
+    "visibleColumn": "",
+    "selectionMode": "",
+    "selectMode": "",
+    "datagridFiltering": "",
+    "imageDataColumn": "",
+    "selectDataColumn": "",
+    "dataFormat": "",
+    "photoPreview": "",
+    "videoPreview": "",
+    "displayPhoto": "",
+    "displayVideo": "",
+    "imageColumn": "",
+    "videoColumn": "",
+    "columnNameAppear": "",
+    "selected": "",
+    "inStock": "",
+    "gallery": "",
+    "dollar": "",
+    "sterling": "",
+    "underPhoto": "",
+    "topPhoto": "",
+    "byCategory": "",
+    "dashboardShowHide": "",
+    "showDetail": "",
+    "hideDetail": "",
+    "decrease": "",
+    "increase": "",
+    "watch": "",
+    "watchMovie": "",
+    "noRecordsFound": "",
+    "appearance": "",
+    "numberofColumns": "",
+    "pagingRecords": "",
+    "detailLocation": "",
+    "hideImages": "",
+    "quantityCategoryDisable": "",
+    "general": "",
+    "idColumn": "",
+    "availableQuantity": "",
+    "categoryColumn": "",
+    "photoColumn": "",
+    "titleColumn": "",
+    "priceColumn": "",
+    "updatablePrice": "",
+    "videoGallery": "",
+    "uniqueComponent": "",
+    "showVariant": "",
+    "transferTotalAmount": "",
+    "connectionAddress": "",
+    "title": "",
+    "hide": "",
+    "detail": "",
+    "priceQuery": "",
+    "quantityQuery": "",
+    "uniqueComponentError": "",
+    "joinColumn": "",
+    "nameColumn": "",
+    "variantScript": "",
+    "variantImages": "",
+    "variantJoinColumn": "",
+    "showAll": "",
+    "showSelected": "",
+    "showByCategory": "",
+    "showInStock": "",
+    "notYetAdded": "",
+    "startingDate": "",
+    "endDate": "",
+    "themeFeatures": "",
+    "menu": "",
+    "selectMenu": "",
+    "selectSubmenu": "",
+    "selectMenuBrowser": "",
+    "nameElement": "",
+    "subject": "",
+    "picture": "",
+    "pictureElement": "",
+    "startingDateElement": "",
+    "endDateElement": "",
+    "usersCanEdit": "",
+    "thisPropertyCant": "",
+    "calendarDisplay": "",
+    "monthly": "",
+    "generalDisplayLunarDays": "",
+    "agenda": "",
+    "listofWeeklyEvents": "",
+    "weekly": "",
+    "weekend": "",
+    "generalDisplayWeekDays": "",
+    "showWeekendDaysWhileWeekdays": "",
+    "daily": "",
+    "listofDailyEvents": "",
+    "startTime": "",
+    "endTime": "",
+    "changeDefaultColor": "",
+    "weekdayColor": "",
+    "weekendColor": "",
+    "eventColor": "",
+    "groupBySql": "",
+    "groupColumnName": "",
+    "assignedColumnName": "",
+    "taskPriortiyColumnName": "",
+    "taskSubjectColumnName": "",
+    "taskDetailColumnName": "",
+    "taskQuery": "",
+    "taskKeyExpression": "",
+    "taskTitleExpression": "",
+    "taskStartDateExpression": "",
+    "taskEndDateName": "",
+    "taskParentExpression": "",
+    "taskProgressExpression": "",
+    "taskColorExpression": "",
+    "taskConnections": "",
+    "diagramClear": "",
+    "uniqueComponentMenuCloneWarning": "",
+    "filesLoading": "",
+    "couldnotbeLoaded": "",
+    "fileSizeLimit": "",
+    "filesUploaded": "",
+    "filesWillDeleted": "",
+    "filesSureDelete": "",
+    "fileDelete": "",
+    "uploadedPhotos": "",
+    "maxSize": "",
+    "center": "",
+    "size": "",
+    "canItBeUpdated": "",
+    "uploadedFiles": "",
+    "type": "",
+    "showdeleteOldData": "",
+    "videoBrowser": "",
+    "deleted": "",
+    "theseComponentElementsDeleted": "",
+    "invalidTarget": "",
+    "ridge": "",
+    "dotted": "",
+    "dashed": "",
+    "addRowColumn": "",
+    "dataPagingShow": "",
+    "borderType": "",
+    "maxCharacters": "",
+    "edgeThickness": "",
+    "lineSpacing": "",
+    "settingsRowColumn": "",
+    "addRow": "",
+    "deleteRow": "",
+    "rowPermission": "",
+    "addTabs": "",
+    "deletePanel": "",
+    "tabPermission": "",
+    "addPanel": "",
+    "panelPermission": "",
+    "backgroundColor": "",
+    "saveAndCloseChildForm": "",
+    "icon": "",
+    "selectForm": "",
+    "fontColor": "",
+    "minCharacters": "",
+    "generalCategory": "",
+    "removeRow": "",
+    "send": "",
+    "declineFinish": "",
+    "finish": "",
+    "noData": "",
+    "createEditMenu": "",
+    "addNewBreakdown": "",
+    "addForm": "",
+    "addBottomBreak": "",
+    "addNode": "",
+    "topCategory": "",
+    "explanation": "",
+    "browserTitle": "",
+    "formTitle": "",
+    "addSqlColumn": "",
+    "formBg": "",
+    "codeEditor": "",
+    "authorityType": "",
+    "viewOnly": "",
+    "dark": "",
+    "white": "",
+    "hightBlack": "",
+    "run": "",
+    "rowColor": "",
+    "operator": "",
+    "flowOfForm": "",
+    "columnWidth": "",
+    "alignLeft": "",
+    "alignRight": "",
+    "alignButton": "",
+    "imageTableNameColumn": "",
+    "uploadBg": "",
+    "selectFile": "",
+    "dropFile": "",
+    "alwaysRoundUp": "",
+    "alwaysRoundBot": "",
+    "default": "",
+    "deleteOldDataTable": "",
+    "deleteOldData": "",
+    "integer": "",
+    "double": "",
+    "pleaseFillFields": "",
+    "toastColumnNameNumber": "",
+    "areYouSure": "",
+    "columnDeleted": "",
+    "allColumnDeleted": "",
+    "idCantStartNumber": "",
+    "uploadFile": "",
+    "fileViewer": "",
+    "ok": "",
+    "map": "",
+    "editPanel": "",
+    "filterColumnName": "",
+    "hintExamples": "",
+    "columnLanguageSettings": "",
+    "fileColumn": "",
+    "extensionColumn": "",
+    "multipleSelection": "",
+    "addSelectionsRows": "",
+    "mapSettings": "",
+    "formatAndFeatures": "",
+    "enterDateRange": "",
+    "filesCanUploadedUsers": "",
+    "barcodeColumn": "",
+    "autoAscend": "",
+    "roundType": "",
+    "font": "",
+    "columnProcess": "",
+    "exportColumnTotal": "",
+    "outsideElementDisabled": "",
+    "chat": "",
+    "languages": "",
+    "display": "",
+    "enterYourComment": "",
+    "comment": "",
+    "fileUploaded": "",
+    "pdfViewIsButton": "",
+    "takeScreenshot": "",
+    "alertText": "",
+    "clearButtonVisible": "",
+    "allText": "",
+    "letter": "",
+    "letterandnumber": "",
+    "letterandsymbol": "",
+    "numberandsymbol": "",
+    "showIDColumn": "",
+    "showCopyButton": "",
+    "showDeleteButton": "",
+    "showCheckboxButton": "",
+    "autoRowHeight": "",
+    "exportImport": "",
+    "export": "",
+    "import": "",
+    "toastImport": "",
+    "defaultTodaysDateWithTime": "",
+    "warningApproveImport": "",
+    "filterVisible": "",
+    "updatableMaxQuantity": "",
+    "hideQuantity": "",
+    "disableQuantityTextbox": "",
+    "multiplesOfQuantity": "",
+    "justnumber": "",
+    "paymentHourWarning": "",
+    "addColumn": "",
+    "mailSettings": "",
+    "newTaskMailDetail": "",
+    "updateTaskMailDetail": "",
+    "taskOnDropMail": "",
+    "selectSMTP": "",
+    "taskCreator": "",
+    "taskEndDate": "",
+    "tags": "",
+    "taskStartDate": "",
+    "taskAssigned": "",
+    "taskDetail": "",
+    "taskSubject": "",
+    "taskPri": "",
+    "taskEdit": "",
+    "addTask": "",
+    "taskStatus": "",
+    "excelExportSettings": "",
+    "excelExportRequiredColor": "",
+    "allDataExcelExport": "",
+    "warningApproveImportReport": "",
+    "reportName": "",
+    "old": "",
+    "upperNode": "",
+    "pdfViewStaticPdf": "",
+    "actions": "",
+    "loading": "",
+    "exportDataToExcell": "",
+    "showRefreshIcon": "",
+    "headerFilter": "",
+    "filterRowVisible": "",
+    "password": "",
+    "categories": "",
+    "pressEnter": "",
+    "historyColumnValue": "",
+    "hideMobile": "",
+    "align": "",
+    "theme": "",
+    "info": "",
+    "showTitle": "",
+    "purple": "",
+    "brown": "",
+    "yellow": "",
+    "turnOnComments": "",
+    "showContent": "",
+    "canBeHidden": "",
+    "allowEdit": "",
+    "allowDelete": "",
+    "toastDeleteErrorMessage": "",
+    "formOpeningMultiElementEvent": "",
+    "resetDatagridLocalSettings": "",
+    "loginP1": "",
+    "loginP2": "",
+    "loginConnect": "",
+    "loginText": "",
+    "loginRightMore": "",
+    "loginHeaderP1": "",
+    "loginHeaderP2": "",
+    "loginHeaderP3": "",
+    "kanbanaddTasks": "",
+    "taskstatusDesciption": "",
+    "tasksubjectDescription": "",
+    "taskassignedToTask": "",
+    "taskassignedTaskDescription": "",
+    "addedForTasks": "",
+    "taskAssignedInfoDescription": "",
+    "assignedInfo": "",
+    "groupInfo": "",
+    "sortEnd": "",
+    "sender": "",
+    "forward": "",
+    "attachments": "",
+    "loginP3": "",
+    "taskdetailDescription": "",
+    "taskassignedDescription": "",
+    "taskstartdateDescription": "",
+    "taskenddateDescription": "",
+    "taskpriDescription": "",
+    "tagsDescription": "",
+    "outlookDescription": "",
+    "taskAssInfoDescription": "",
+    "receiver": "",
+    "draft": "",
+    "spam": "",
+    "filterstate": "",
+    "checkForspelling": "",
+    "emailToForward": "",
+    "lowImpMails": "",
+    "normalImpMails": "",
+    "highImpEmails": "",
+    "showReadMails": "",
+    "groupinfoDescription": "",
+    "timeoutMission": "",
+    "timeoutmissionDescription": "",
+    "taskperiodDescription": "",
+    "taskProgress": "",
+    "taskProgressDescription": "",
+    "updatekanbanTask": "",
+    "taskcreatorDescription": "",
+    "uploadfileDescription": "",
+    "infoPersons": "",
+    "warningtime": "",
+    "taskPeriod": "",
+    "taskProgresSatus": "",
+    "makeTask": "",
+    "outlookIntegration": "",
+    "loginoutlook": "",
+    "fetchoutlook": "",
+    "progressStatus": "",
+    "taskColors": "",
+    "addcalendarTask": "",
+    "updatetaskCalendar": "",
+    "statusComplete": "",
+    "priorityFilter": "",
+    "columnFilter": "",
+    "assignPerson": "",
+    "assignGroup": "",
+    "noTask": "",
+    "resetSort": "",
+    "sortASC": "",
+    "sortDESC": "",
+    "sortAppointment": "",
+    "trash": "",
+    "showOlderMail": "",
+    "mailNotFound": "",
+    "sendNewMail": "",
+    "showUnreadMails": "",
+    "updateColumnMail": "",
+    "addTaskToOutlook": "",
+    "enterYourMessage": "",
+    "reminder": "",
+    "determinedToTask": "",
+    "remainingTime": "",
+    "hours": "",
+    "withoutPriority": "",
+    "lowPri": "",
+    "normalPri": "",
+    "highPri": "",
+    "showAllTasks": "",
+    "showIncompleteTasks": "",
+    "showCompeletedTasks": "",
+    "reportDesigner": "",
+    "fileManagementSystem": "",
+    "formDesigner": "",
+    "boardDesigner": "",
+    "themeSettings": "",
+    "social": "",
+    "profile": "",
+    "contacts": "",
+    "files": "",
+    "pages": "",
+    "noResultsFound": "",
+    "processes": "",
+    "filterByStatus": "",
+    "filterByPri": "",
+    "filterByCol": "",
+    "todoAddTasks": "",
+    "addLabel": "",
+    "showWithSubTasks": "",
+    "riverBoard": "",
+    "notify": "",
+    "likedYourPost": "",
+    "likedYourComment": "",
+    "systemNotify": "",
+    "readAllNotify": "",
+    "recommendedUsers": "",
+    "suggestedPosts": "",
+    "sPostReposted": "",
+    "shareSomething": "",
+    "updatePost": "",
+    "ifYouDoNotSelectGroup": "",
+    "addComment": "",
+    "sendComment": "",
+    "areYouSureYouWantToDeleteThisPost": "",
+    "yes": "",
+    "no": "",
+    "deletePost": "",
+    "postSuccesfullyDeleted": "",
+    "deleteComment": "",
+    "areYouSureYouWantToDeleteThisComment": "",
+    "commentSuccesfullyDeleted": "",
+    "sharePost": "",
+    "areYouSureYouWantToShareThisPost": "",
+    "repostedSuccessfully": "",
+    "upload": "",
+    "refresh": "",
+    "allowedExtentions": "",
+    "systemLandingPagePreference": "",
+    "Allownonadminuserstosearchforotherusers": "",
+    "passwordChange": "",
+    "newPassword": "",
+    "Retypethenewpassword": "",
+    "notifications": "",
+    "showWhoLikesYourPost": "",
+    "showWhoLikesYourComment": "",
+    "aboutMe": "",
+    "bio": "",
+    "dateOfBirth": "",
+    "website": "",
+    "phone": "",
+    "saveChanges": "",
+    "content": "",
+    "projectManagement": "",
+    "addPage": "",
+    "addFolder": "",
+    "showUsers": "",
+    "showGroups": "",
+    "readonlyUsers": "",
+    "readonlyGroups": "",
+    "columnHeight": "",
+    "showKanbanCount": "",
+    "kanbanSettings": "",
+    "gantSettings": "",
+    "schedulerSettings": "",
+    "activateOutlookConnection": "",
+    "selectOutlookColumn": "",
+    "selectSMTPPopoverText": "",
+    "menuFilePathId": "",
+    "recycleBinPathName": "",
+    "recycleBinPathId": "",
+    "fileNameChangedMessage": "",
+    "fileNameChangedErrorMessage": "",
+    "fileCreatedMessage": "",
+    "newTaskMailDetailPopoverText": "",
+    "taskOnDropMailPopoverText": "",
+    "createdBy": "",
+    "updatedBy": "",
+    "createdDate": "",
+    "updatedDate": "",
+    "folderPermissionSettings": "",
+    "quantity": "",
+    "fileManagementPermissionSettings": "",
+    "fileNotFoundErrorText": "",
+    "updateTaskMailDetailPopoverText": "",
+    "selectOutlookColumnPopoverText": "",
+    "createFolder": "",
+    "versionHistory": "",
+    "deletePermanently": "",
+    "recover": "",
+    "groupPermissions": "",
+    "allowUpload": "",
+    "allowView": "",
+    "allowDownload": "",
+    "permissionType": "",
+    "applyToSubFolders": "",
+    "newFolderName": "",
+    "tagTips": "",
+    "addAsNewVersion": "",
+    "addAndChangeName": "",
+    "skip": "",
+    "fileExistError": "",
+    "processFileShow": "",
+    "processFilePathName": "",
+    "processFilePathId": "",
+    "menuFileShow": "",
+    "menuFilePathName": "",
+    "fileCreatedErrorMessage": "",
+    "fileDeletedessage": "",
+    "fileDeletedErrorMessage": "",
+    "fileMovedMessage": "",
+    "fileMovedErrorMessage": "",
+    "fileCopyMessage": "",
+    "fileCopyErrorMessage": "",
+    "fileDownloadMessage": "",
+    "fileDownloadErrorMessage": "",
+    "fileSizeShowErrorMessage": "",
+    "unsupportedFile": "",
+    "fileNameError": "",
+    "fileGivePermissionMessage": "",
+    "fileGivePermissionErrorMessage": "",
+    "groupName": "",
+    "createGroup": "",
+    "conversation": "",
+    "startConversation": "",
+    "userNotFound": "",
+    "chatNotFound": "",
+    "themeTypeLight": "",
+    "themeTypeBorderedLight": "",
+    "themeHalfDark": "",
+    "themeDark": "",
+    "themeRouteAnimation": "",
+    "themeRouteAnimationFadeInLeft": "",
+    "themeRouteAnimationZoomIn": "",
+    "themeRouteAnimationFadeIn": "",
+    "themeRouteAnimationNone": "",
+    "themeMenuType": "",
+    "themeMenuTypeHorizontal": "",
+    "themeMenuTypeVertical": "",
+    "themeMenuCollapse": "",
+    "themeNavbarColor": "",
+    "themeNavbarType": "",
+    "themeSticky": "",
+    "themeStatic": "",
+    "themeFloating": "",
+    "themeHidden": "",
+    "themeFooterType": "",
+    "catalog": "",
+    "riverBoards": "",
+    "clipboardDesigner": "",
+    "desingMode": "",
+    "editPage": "",
+    "rename": "",
+    "exportToPdf": "",
+    "exportToExcel": "",
+    "revenueReport": "",
+    "header": "",
+    "connection": "",
+    "primaryKey": "",
+    "secondaryKey": "",
+    "completedKey": "",
+    "countKey": "",
+    "statusKey": "",
+    "progressConnection": "",
+    "progressScript": "",
+    "progressPrimaryKey": "",
+    "progressCountKey": "",
+    "progressPercentageKey": "",
+    "progressColorKey": "",
+    "keyColumn": "",
+    "currency": "",
+    "whitePage": "",
+    "noReportSelected": "",
+    "noTypeSelected": "",
+    "whitePageReports": "",
+    "addBranch": "",
+    "branchName": "",
+    "rowNumber": "",
+    "reportTypeSelect": "",
+    "reportDescription": "",
+    "useWeb": "",
+    "useMobile": "",
+    "mainScript": "",
+    "pre-runScript": "",
+    "preScript": "",
+    "testIt": "",
+    "selectAll": "",
+    "addReport": "",
+    "selectReportType": "",
+    "reportType": "",
+    "reportDesingPermission": "",
+    "reportImportedOpenLeftMenu": "",
+    "forReportExport": "",
+    "anErrorOccurred": "",
+    "reportDeleted": "",
+    "branchDeleted": "",
+    "addBranchName": "",
+    "addedBranch": "",
+    "selectConnectionAddress": "",
+    "enterSqlScript": "",
+    "enterReportName": "",
+    "reportAdded": "",
+    "numberOfDataToBeProcessed": "",
+    "dataNotFoundCheckYourConnection": "",
+    "connectionNotFoundCheckYourConnection": "",
+    "fillConnectionAndSql": "",
+    "allTypesActivate": "",
+    "passwordRequired": "",
+    "showLess": "",
+    "showMore": "",
+    "authority": "",
+    "preScriptDescription": "",
+    "enterReportFilters": "",
+    "gridDesigner": "",
+    "addMainBranch": "",
+    "resetSettings": "",
+    "reply": "",
+    "companyName": "",
+    "showEmailModule": "",
+    "distanceToBottomComponent": "",
+    "canNonAdminUsersPost": "",
+    "columnColor": "",
+    "byWho": "",
+    "added": "",
+    "updated": "",
+    "commentAdded": "",
+    "completed": "",
+    "addRemoveColumns": "",
+    "searchMessage": "",
+    "riverReports": "",
+    "forms": "",
+    "searchinforms": "",
+    "searchVoiceMessage": "",
+    "searchVoiceMessages": "",
+    "showSocialNotifications": "",
+    "showProjectManagementNotifications": "",
+    "showProcessNotifications": "",
+    "pageDesingPermission": "",
+    "filemanagementDesingPermission": "",
+    "taskDelete": "",
+    "tasksWillDeleted": "",
+    "componentSettings": "",
+    "aboutComponent": "",
+    "sureSaveChanges": "",
+    "showDeletedNotifications": "",
+    "shareSometthing": "",
+    "resetPageLayout": "",
+    "downloadingSS": "",
+    "showHorizontalLines": "",
+    "turnOnVerticalHide": "",
+    "whichHorizontalLinelinesAreNotVisible": "",
+    "test": "",
+    "aaa": ""
   }
-]
+}

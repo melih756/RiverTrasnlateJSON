@@ -1,3838 +1,921 @@
-[
-  {
-    "Key": "loginButton",
-    "German": ""
-  },
-  {
-    "Key": "userName",
-    "German": ""
-  },
-  {
-    "Key": "pass",
-    "German": ""
-  },
-  {
-    "Key": "remember",
-    "German": ""
-  },
-  {
-    "Key": "forgotPass",
-    "German": ""
-  },
-  {
-    "Key": "modules",
-    "German": ""
-  },
-  {
-    "Key": "generic",
-    "German": ""
-  },
-  {
-    "Key": "search",
-    "German": ""
-  },
-  {
-    "Key": "logout",
-    "German": ""
-  },
-  {
-    "Key": "waitingJob",
-    "German": ""
-  },
-  {
-    "Key": "myStarted",
-    "German": ""
-  },
-  {
-    "Key": "myIncluded",
-    "German": ""
-  },
-  {
-    "Key": "myCompleted",
-    "German": ""
-  },
-  {
-    "Key": "jobList",
-    "German": ""
-  },
-  {
-    "Key": "formNo",
-    "German": ""
-  },
-  {
-    "Key": "status",
-    "German": ""
-  },
-  {
-    "Key": "starter",
-    "German": ""
-  },
-  {
-    "Key": "assigned",
-    "German": ""
-  },
-  {
-    "Key": "timeoutDate",
-    "German": ""
-  },
-  {
-    "Key": "startDate",
-    "German": ""
-  },
-  {
-    "Key": "processing",
-    "German": ""
-  },
-  {
-    "Key": "you",
-    "German": ""
-  },
-  {
-    "Key": "history",
-    "German": ""
-  },
-  {
-    "Key": "description",
-    "German": ""
-  },
-  {
-    "Key": "date",
-    "German": ""
-  },
-  {
-    "Key": "growShrink",
-    "German": ""
-  },
-  {
-    "Key": "close",
-    "German": ""
-  },
-  {
-    "Key": "gridReset",
-    "German": ""
-  },
-  {
-    "Key": "columnSelect",
-    "German": ""
-  },
-  {
-    "Key": "jobName",
-    "German": ""
-  },
-  {
-    "Key": "keyword",
-    "German": ""
-  },
-  {
-    "Key": "completion",
-    "German": ""
-  },
-  {
-    "Key": "all",
-    "German": ""
-  },
-  {
-    "Key": "completedDate",
-    "German": ""
-  },
-  {
-    "Key": "completions",
-    "German": ""
-  },
-  {
-    "Key": "ongoing",
-    "German": ""
-  },
-  {
-    "Key": "formName",
-    "German": ""
-  },
-  {
-    "Key": "sunday",
-    "German": ""
-  },
-  {
-    "Key": "monday",
-    "German": ""
-  },
-  {
-    "Key": "tuesday",
-    "German": ""
-  },
-  {
-    "Key": "wednesday",
-    "German": ""
-  },
-  {
-    "Key": "thursday",
-    "German": ""
-  },
-  {
-    "Key": "friday",
-    "German": ""
-  },
-  {
-    "Key": "saturday",
-    "German": ""
-  },
-  {
-    "Key": "pdfExport",
-    "German": ""
-  },
-  {
-    "Key": "sendPassword",
-    "German": ""
-  },
-  {
-    "Key": "assignedDate",
-    "German": ""
-  },
-  {
-    "Key": "events",
-    "German": ""
-  },
-  {
-    "Key": "new",
-    "German": ""
-  },
-  {
-    "Key": "save",
-    "German": ""
-  },
-  {
-    "Key": "formula",
-    "German": ""
-  },
-  {
-    "Key": "selectDataSource",
-    "German": ""
-  },
-  {
-    "Key": "requiredField",
-    "German": ""
-  },
-  {
-    "Key": "suffix",
-    "German": ""
-  },
-  {
-    "Key": "valueColumn",
-    "German": ""
-  },
-  {
-    "Key": "showLength",
-    "German": ""
-  },
-  {
-    "Key": "clearButton",
-    "German": ""
-  },
-  {
-    "Key": "allCaps",
-    "German": ""
-  },
-  {
-    "Key": "autoAsc",
-    "German": ""
-  },
-  {
-    "Key": "width",
-    "German": ""
-  },
-  {
-    "Key": "length",
-    "German": ""
-  },
-  {
-    "Key": "functions",
-    "German": ""
-  },
-  {
-    "Key": "selectElement",
-    "German": ""
-  },
-  {
-    "Key": "selectColumn",
-    "German": ""
-  },
-  {
-    "Key": "edit",
-    "German": ""
-  },
-  {
-    "Key": "changeEventActions",
-    "German": ""
-  },
-  {
-    "Key": "barcode",
-    "German": ""
-  },
-  {
-    "Key": "systemInfo",
-    "German": ""
-  },
-  {
-    "Key": "prefix",
-    "German": ""
-  },
-  {
-    "Key": "max",
-    "German": ""
-  },
-  {
-    "Key": "showMinMaxInfo",
-    "German": ""
-  },
-  {
-    "Key": "selectUser",
-    "German": ""
-  },
-  {
-    "Key": "spinButton",
-    "German": ""
-  },
-  {
-    "Key": "numberIncDecButton",
-    "German": ""
-  },
-  {
-    "Key": "decimal",
-    "German": ""
-  },
-  {
-    "Key": "numeral",
-    "German": ""
-  },
-  {
-    "Key": "wrongFormat",
-    "German": ""
-  },
-  {
-    "Key": "height",
-    "German": ""
-  },
-  {
-    "Key": "microphone",
-    "German": ""
-  },
-  {
-    "Key": "notifyDataReset",
-    "German": ""
-  },
-  {
-    "Key": "data",
-    "German": ""
-  },
-  {
-    "Key": "dynamicData",
-    "German": ""
-  },
-  {
-    "Key": "manualData",
-    "German": ""
-  },
-  {
-    "Key": "selectDataGrid",
-    "German": ""
-  },
-  {
-    "Key": "overrideUserChange",
-    "German": ""
-  },
-  {
-    "Key": "textColumn",
-    "German": ""
-  },
-  {
-    "Key": "makeInitialValue",
-    "German": ""
-  },
-  {
-    "Key": "undo",
-    "German": ""
-  },
-  {
-    "Key": "copy",
-    "German": ""
-  },
-  {
-    "Key": "delete",
-    "German": ""
-  },
-  {
-    "Key": "cancel",
-    "German": ""
-  },
-  {
-    "Key": "languageSettings",
-    "German": ""
-  },
-  {
-    "Key": "messageSqlLinkDeleted",
-    "German": ""
-  },
-  {
-    "Key": "permissions",
-    "German": ""
-  },
-  {
-    "Key": "objectid",
-    "German": ""
-  },
-  {
-    "Key": "fontSize",
-    "German": ""
-  },
-  {
-    "Key": "fontWidth",
-    "German": ""
-  },
-  {
-    "Key": "fontStyle",
-    "German": ""
-  },
-  {
-    "Key": "underline",
-    "German": ""
-  },
-  {
-    "Key": "textColor",
-    "German": ""
-  },
-  {
-    "Key": "visibility",
-    "German": ""
-  },
-  {
-    "Key": "textAlignment",
-    "German": ""
-  },
-  {
-    "Key": "settings",
-    "German": ""
-  },
-  {
-    "Key": "messageUnsaved",
-    "German": ""
-  },
-  {
-    "Key": "warning",
-    "German": ""
-  },
-  {
-    "Key": "userAuthorizations",
-    "German": ""
-  },
-  {
-    "Key": "formPreferences",
-    "German": ""
-  },
-  {
-    "Key": "formOpeningevent",
-    "German": ""
-  },
-  {
-    "Key": "chooseConnectionAddress",
-    "German": ""
-  },
-  {
-    "Key": "selectPriorty",
-    "German": ""
-  },
-  {
-    "Key": "loadingEditor",
-    "German": ""
-  },
-  {
-    "Key": "showAddButton",
-    "German": ""
-  },
-  {
-    "Key": "update",
-    "German": ""
-  },
-  {
-    "Key": "connectionID",
-    "German": ""
-  },
-  {
-    "Key": "formPreview",
-    "German": ""
-  },
-  {
-    "Key": "nameDisplayedform",
-    "German": ""
-  },
-  {
-    "Key": "formNamevariable",
-    "German": ""
-  },
-  {
-    "Key": "category",
-    "German": ""
-  },
-  {
-    "Key": "formColor",
-    "German": ""
-  },
-  {
-    "Key": "generalForm",
-    "German": ""
-  },
-  {
-    "Key": "saveForm",
-    "German": ""
-  },
-  {
-    "Key": "messageNeworupdate",
-    "German": ""
-  },
-  {
-    "Key": "messageDelete",
-    "German": ""
-  },
-  {
-    "Key": "toastDeleted",
-    "German": ""
-  },
-  {
-    "Key": "toastError",
-    "German": ""
-  },
-  {
-    "Key": "alertDifferentID",
-    "German": ""
-  },
-  {
-    "Key": "confirmChanges",
-    "German": ""
-  },
-  {
-    "Key": "toastUserpermission",
-    "German": ""
-  },
-  {
-    "Key": "toastCodeeditor",
-    "German": ""
-  },
-  {
-    "Key": "messageDeletesure",
-    "German": ""
-  },
-  {
-    "Key": "messageSure",
-    "German": ""
-  },
-  {
-    "Key": "Success",
-    "German": ""
-  },
-  {
-    "Key": "Error",
-    "German": ""
-  },
-  {
-    "Key": "toastFormupdate",
-    "German": ""
-  },
-  {
-    "Key": "toastMistake",
-    "German": ""
-  },
-  {
-    "Key": "toastSaved",
-    "German": ""
-  },
-  {
-    "Key": "toastCopied",
-    "German": ""
-  },
-  {
-    "Key": "toastEmptyFormMessage",
-    "German": ""
-  },
-  {
-    "Key": "toastGiveName",
-    "German": ""
-  },
-  {
-    "Key": "toastGiveVariableName",
-    "German": ""
-  },
-  {
-    "Key": "toastVariableNameNumberWarning",
-    "German": ""
-  },
-  {
-    "Key": "formCopy",
-    "German": ""
-  },
-  {
-    "Key": "messageButtonDelete",
-    "German": ""
-  },
-  {
-    "Key": "noDataFound",
-    "German": ""
-  },
-  {
-    "Key": "language",
-    "German": ""
-  },
-  {
-    "Key": "filterDatagrid",
-    "German": ""
-  },
-  {
-    "Key": "addManualData",
-    "German": ""
-  },
-  {
-    "Key": "dateFormat",
-    "German": ""
-  },
-  {
-    "Key": "messageSqlLinkDelete",
-    "German": ""
-  },
-  {
-    "Key": "timeOption",
-    "German": ""
-  },
-  {
-    "Key": "defaultTodaysDate",
-    "German": ""
-  },
-  {
-    "Key": "dateRange",
-    "German": ""
-  },
-  {
-    "Key": "minToday",
-    "German": ""
-  },
-  {
-    "Key": "maxToday",
-    "German": ""
-  },
-  {
-    "Key": "dateRangeDay",
-    "German": ""
-  },
-  {
-    "Key": "enterDateRangeValue",
-    "German": ""
-  },
-  {
-    "Key": "imageIdColumn",
-    "German": ""
-  },
-  {
-    "Key": "statusSettings",
-    "German": ""
-  },
-  {
-    "Key": "active",
-    "German": ""
-  },
-  {
-    "Key": "passive",
-    "German": ""
-  },
-  {
-    "Key": "enable",
-    "German": ""
-  },
-  {
-    "Key": "disable",
-    "German": ""
-  },
-  {
-    "Key": "visible",
-    "German": ""
-  },
-  {
-    "Key": "invisible",
-    "German": ""
-  },
-  {
-    "Key": "items",
-    "German": ""
-  },
-  {
-    "Key": "showItems",
-    "German": ""
-  },
-  {
-    "Key": "array",
-    "German": ""
-  },
-  {
-    "Key": "letLabelAppear",
-    "German": ""
-  },
-  {
-    "Key": "add",
-    "German": ""
-  },
-  {
-    "Key": "horizontal",
-    "German": ""
-  },
-  {
-    "Key": "vertical",
-    "German": ""
-  },
-  {
-    "Key": "text",
-    "German": ""
-  },
-  {
-    "Key": "alertFillRequiredFields",
-    "German": ""
-  },
-  {
-    "Key": "alertSignatureField",
-    "German": ""
-  },
-  {
-    "Key": "messageApproveTransaction",
-    "German": ""
-  },
-  {
-    "Key": "button",
-    "German": ""
-  },
-  {
-    "Key": "reasonforRefusal",
-    "German": ""
-  },
-  {
-    "Key": "enterReasonRejection",
-    "German": ""
-  },
-  {
-    "Key": "reject",
-    "German": ""
-  },
-  {
-    "Key": "addDeleteButton",
-    "German": ""
-  },
-  {
-    "Key": "showBorder",
-    "German": ""
-  },
-  {
-    "Key": "buttons",
-    "German": ""
-  },
-  {
-    "Key": "clean",
-    "German": ""
-  },
-  {
-    "Key": "buttonSettings",
-    "German": ""
-  },
-  {
-    "Key": "saveLocation",
-    "German": ""
-  },
-  {
-    "Key": "paymentButton",
-    "German": ""
-  },
-  {
-    "Key": "paymentProvider",
-    "German": ""
-  },
-  {
-    "Key": "price",
-    "German": ""
-  },
-  {
-    "Key": "numberOfInstallments",
-    "German": ""
-  },
-  {
-    "Key": "descriptionField",
-    "German": ""
-  },
-  {
-    "Key": "current",
-    "German": ""
-  },
-  {
-    "Key": "currentForm",
-    "German": ""
-  },
-  {
-    "Key": "name",
-    "German": ""
-  },
-  {
-    "Key": "surname",
-    "German": ""
-  },
-  {
-    "Key": "country",
-    "German": ""
-  },
-  {
-    "Key": "city",
-    "German": ""
-  },
-  {
-    "Key": "address",
-    "German": ""
-  },
-  {
-    "Key": "authorizations",
-    "German": ""
-  },
-  {
-    "Key": "users",
-    "German": ""
-  },
-  {
-    "Key": "user",
-    "German": ""
-  },
-  {
-    "Key": "givePermission",
-    "German": ""
-  },
-  {
-    "Key": "groups",
-    "German": ""
-  },
-  {
-    "Key": "group",
-    "German": ""
-  },
-  {
-    "Key": "saveandSend",
-    "German": ""
-  },
-  {
-    "Key": "approve",
-    "German": ""
-  },
-  {
-    "Key": "sendBack",
-    "German": ""
-  },
-  {
-    "Key": "deslineAndEnd",
-    "German": ""
-  },
-  {
-    "Key": "complete",
-    "German": ""
-  },
-  {
-    "Key": "blue",
-    "German": ""
-  },
-  {
-    "Key": "grey",
-    "German": ""
-  },
-  {
-    "Key": "green",
-    "German": ""
-  },
-  {
-    "Key": "red",
-    "German": ""
-  },
-  {
-    "Key": "left",
-    "German": ""
-  },
-  {
-    "Key": "right",
-    "German": ""
-  },
-  {
-    "Key": "color",
-    "German": ""
-  },
-  {
-    "Key": "symbol",
-    "German": ""
-  },
-  {
-    "Key": "position",
-    "German": ""
-  },
-  {
-    "Key": "action",
-    "German": ""
-  },
-  {
-    "Key": "total",
-    "German": ""
-  },
-  {
-    "Key": "filePath",
-    "German": ""
-  },
-  {
-    "Key": "fileName",
-    "German": ""
-  },
-  {
-    "Key": "fileUpload",
-    "German": ""
-  },
-  {
-    "Key": "choose",
-    "German": ""
-  },
-  {
-    "Key": "updateData",
-    "German": ""
-  },
-  {
-    "Key": "preview",
-    "German": ""
-  },
-  {
-    "Key": "show",
-    "German": ""
-  },
-  {
-    "Key": "columns",
-    "German": ""
-  },
-  {
-    "Key": "changeEvent",
-    "German": ""
-  },
-  {
-    "Key": "columnSettings",
-    "German": ""
-  },
-  {
-    "Key": "columnName",
-    "German": ""
-  },
-  {
-    "Key": "deleteColumn",
-    "German": ""
-  },
-  {
-    "Key": "columnSqlScripts",
-    "German": ""
-  },
-  {
-    "Key": "imageNameColumn",
-    "German": ""
-  },
-  {
-    "Key": "columnLanguageSetting",
-    "German": ""
-  },
-  {
-    "Key": "dataSource",
-    "German": ""
-  },
-  {
-    "Key": "filter",
-    "German": ""
-  },
-  {
-    "Key": "reset",
-    "German": ""
-  },
-  {
-    "Key": "column",
-    "German": ""
-  },
-  {
-    "Key": "image",
-    "German": ""
-  },
-  {
-    "Key": "searchLocation",
-    "German": ""
-  },
-  {
-    "Key": "draggable",
-    "German": ""
-  },
-  {
-    "Key": "usersCanChange",
-    "German": ""
-  },
-  {
-    "Key": "multiMarker",
-    "German": ""
-  },
-  {
-    "Key": "markerLimit",
-    "German": ""
-  },
-  {
-    "Key": "meetingType",
-    "German": ""
-  },
-  {
-    "Key": "meetingName",
-    "German": ""
-  },
-  {
-    "Key": "loadingFiles",
-    "German": ""
-  },
-  {
-    "Key": "fileSizeExceeded",
-    "German": ""
-  },
-  {
-    "Key": "filesLoaded",
-    "German": ""
-  },
-  {
-    "Key": "condition",
-    "German": ""
-  },
-  {
-    "Key": "value",
-    "German": ""
-  },
-  {
-    "Key": "connectionAdress",
-    "German": ""
-  },
-  {
-    "Key": "imageTypeColumn",
-    "German": ""
-  },
-  {
-    "Key": "visibleColumn",
-    "German": ""
-  },
-  {
-    "Key": "selectionMode",
-    "German": ""
-  },
-  {
-    "Key": "selectMode",
-    "German": ""
-  },
-  {
-    "Key": "datagridFiltering",
-    "German": ""
-  },
-  {
-    "Key": "imageDataColumn",
-    "German": ""
-  },
-  {
-    "Key": "selectDataColumn",
-    "German": ""
-  },
-  {
-    "Key": "dataFormat",
-    "German": ""
-  },
-  {
-    "Key": "photoPreview",
-    "German": ""
-  },
-  {
-    "Key": "videoPreview",
-    "German": ""
-  },
-  {
-    "Key": "displayPhoto",
-    "German": ""
-  },
-  {
-    "Key": "displayVideo",
-    "German": ""
-  },
-  {
-    "Key": "imageColumn",
-    "German": ""
-  },
-  {
-    "Key": "videoColumn",
-    "German": ""
-  },
-  {
-    "Key": "columnNameAppear",
-    "German": ""
-  },
-  {
-    "Key": "selected",
-    "German": ""
-  },
-  {
-    "Key": "inStock",
-    "German": ""
-  },
-  {
-    "Key": "gallery",
-    "German": ""
-  },
-  {
-    "Key": "dollar",
-    "German": ""
-  },
-  {
-    "Key": "sterling",
-    "German": ""
-  },
-  {
-    "Key": "underPhoto",
-    "German": ""
-  },
-  {
-    "Key": "topPhoto",
-    "German": ""
-  },
-  {
-    "Key": "byCategory",
-    "German": ""
-  },
-  {
-    "Key": "dashboardShowHide",
-    "German": ""
-  },
-  {
-    "Key": "showDetail",
-    "German": ""
-  },
-  {
-    "Key": "hideDetail",
-    "German": ""
-  },
-  {
-    "Key": "decrease",
-    "German": ""
-  },
-  {
-    "Key": "increase",
-    "German": ""
-  },
-  {
-    "Key": "watch",
-    "German": ""
-  },
-  {
-    "Key": "watchMovie",
-    "German": ""
-  },
-  {
-    "Key": "noRecordsFound",
-    "German": ""
-  },
-  {
-    "Key": "appearance",
-    "German": ""
-  },
-  {
-    "Key": "numberofColumns",
-    "German": ""
-  },
-  {
-    "Key": "pagingRecords",
-    "German": ""
-  },
-  {
-    "Key": "detailLocation",
-    "German": ""
-  },
-  {
-    "Key": "hideImages",
-    "German": ""
-  },
-  {
-    "Key": "quantityCategoryDisable",
-    "German": ""
-  },
-  {
-    "Key": "general",
-    "German": ""
-  },
-  {
-    "Key": "idColumn",
-    "German": ""
-  },
-  {
-    "Key": "availableQuantity",
-    "German": ""
-  },
-  {
-    "Key": "categoryColumn",
-    "German": ""
-  },
-  {
-    "Key": "photoColumn",
-    "German": ""
-  },
-  {
-    "Key": "titleColumn",
-    "German": ""
-  },
-  {
-    "Key": "priceColumn",
-    "German": ""
-  },
-  {
-    "Key": "updatablePrice",
-    "German": ""
-  },
-  {
-    "Key": "videoGallery",
-    "German": ""
-  },
-  {
-    "Key": "uniqueComponent",
-    "German": ""
-  },
-  {
-    "Key": "showVariant",
-    "German": ""
-  },
-  {
-    "Key": "transferTotalAmount",
-    "German": ""
-  },
-  {
-    "Key": "connectionAddress",
-    "German": ""
-  },
-  {
-    "Key": "title",
-    "German": ""
-  },
-  {
-    "Key": "hide",
-    "German": ""
-  },
-  {
-    "Key": "detail",
-    "German": ""
-  },
-  {
-    "Key": "priceQuery",
-    "German": ""
-  },
-  {
-    "Key": "quantityQuery",
-    "German": ""
-  },
-  {
-    "Key": "uniqueComponentError",
-    "German": ""
-  },
-  {
-    "Key": "joinColumn",
-    "German": ""
-  },
-  {
-    "Key": "nameColumn",
-    "German": ""
-  },
-  {
-    "Key": "variantScript",
-    "German": ""
-  },
-  {
-    "Key": "variantImages",
-    "German": ""
-  },
-  {
-    "Key": "variantJoinColumn",
-    "German": ""
-  },
-  {
-    "Key": "showAll",
-    "German": ""
-  },
-  {
-    "Key": "showSelected",
-    "German": ""
-  },
-  {
-    "Key": "showByCategory",
-    "German": ""
-  },
-  {
-    "Key": "showInStock",
-    "German": ""
-  },
-  {
-    "Key": "notYetAdded",
-    "German": ""
-  },
-  {
-    "Key": "startingDate",
-    "German": ""
-  },
-  {
-    "Key": "endDate",
-    "German": ""
-  },
-  {
-    "Key": "themeFeatures",
-    "German": ""
-  },
-  {
-    "Key": "menu",
-    "German": ""
-  },
-  {
-    "Key": "selectMenu",
-    "German": ""
-  },
-  {
-    "Key": "selectSubmenu",
-    "German": ""
-  },
-  {
-    "Key": "selectMenuBrowser",
-    "German": ""
-  },
-  {
-    "Key": "nameElement",
-    "German": ""
-  },
-  {
-    "Key": "subject",
-    "German": ""
-  },
-  {
-    "Key": "picture",
-    "German": ""
-  },
-  {
-    "Key": "pictureElement",
-    "German": ""
-  },
-  {
-    "Key": "startingDateElement",
-    "German": ""
-  },
-  {
-    "Key": "endDateElement",
-    "German": ""
-  },
-  {
-    "Key": "usersCanEdit",
-    "German": ""
-  },
-  {
-    "Key": "thisPropertyCant",
-    "German": ""
-  },
-  {
-    "Key": "calendarDisplay",
-    "German": ""
-  },
-  {
-    "Key": "monthly",
-    "German": ""
-  },
-  {
-    "Key": "generalDisplayLunarDays",
-    "German": ""
-  },
-  {
-    "Key": "agenda",
-    "German": ""
-  },
-  {
-    "Key": "listofWeeklyEvents",
-    "German": ""
-  },
-  {
-    "Key": "weekly",
-    "German": ""
-  },
-  {
-    "Key": "weekend",
-    "German": ""
-  },
-  {
-    "Key": "generalDisplayWeekDays",
-    "German": ""
-  },
-  {
-    "Key": "showWeekendDaysWhileWeekdays",
-    "German": ""
-  },
-  {
-    "Key": "daily",
-    "German": ""
-  },
-  {
-    "Key": "listofDailyEvents",
-    "German": ""
-  },
-  {
-    "Key": "startTime",
-    "German": ""
-  },
-  {
-    "Key": "endTime",
-    "German": ""
-  },
-  {
-    "Key": "changeDefaultColor",
-    "German": ""
-  },
-  {
-    "Key": "weekdayColor",
-    "German": ""
-  },
-  {
-    "Key": "weekendColor",
-    "German": ""
-  },
-  {
-    "Key": "eventColor",
-    "German": ""
-  },
-  {
-    "Key": "groupBySql",
-    "German": ""
-  },
-  {
-    "Key": "groupColumnName",
-    "German": ""
-  },
-  {
-    "Key": "assignedColumnName",
-    "German": ""
-  },
-  {
-    "Key": "taskPriortiyColumnName",
-    "German": ""
-  },
-  {
-    "Key": "taskSubjectColumnName",
-    "German": ""
-  },
-  {
-    "Key": "taskDetailColumnName",
-    "German": ""
-  },
-  {
-    "Key": "taskQuery",
-    "German": ""
-  },
-  {
-    "Key": "taskKeyExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskTitleExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskStartDateExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskEndDateName",
-    "German": ""
-  },
-  {
-    "Key": "taskParentExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskProgressExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskColorExpression",
-    "German": ""
-  },
-  {
-    "Key": "taskConnections",
-    "German": ""
-  },
-  {
-    "Key": "diagramClear",
-    "German": ""
-  },
-  {
-    "Key": "uniqueComponentMenuCloneWarning",
-    "German": ""
-  },
-  {
-    "Key": "filesLoading",
-    "German": ""
-  },
-  {
-    "Key": "couldnotbeLoaded",
-    "German": ""
-  },
-  {
-    "Key": "fileSizeLimit",
-    "German": ""
-  },
-  {
-    "Key": "filesUploaded",
-    "German": ""
-  },
-  {
-    "Key": "filesWillDeleted",
-    "German": ""
-  },
-  {
-    "Key": "filesSureDelete",
-    "German": ""
-  },
-  {
-    "Key": "fileDelete",
-    "German": ""
-  },
-  {
-    "Key": "uploadedPhotos",
-    "German": ""
-  },
-  {
-    "Key": "maxSize",
-    "German": ""
-  },
-  {
-    "Key": "center",
-    "German": ""
-  },
-  {
-    "Key": "size",
-    "German": ""
-  },
-  {
-    "Key": "canItBeUpdated",
-    "German": ""
-  },
-  {
-    "Key": "uploadedFiles",
-    "German": ""
-  },
-  {
-    "Key": "type",
-    "German": ""
-  },
-  {
-    "Key": "showdeleteOldData",
-    "German": ""
-  },
-  {
-    "Key": "videoBrowser",
-    "German": ""
-  },
-  {
-    "Key": "deleted",
-    "German": ""
-  },
-  {
-    "Key": "theseComponentElementsDeleted",
-    "German": ""
-  },
-  {
-    "Key": "invalidTarget",
-    "German": ""
-  },
-  {
-    "Key": "ridge",
-    "German": ""
-  },
-  {
-    "Key": "dotted",
-    "German": ""
-  },
-  {
-    "Key": "dashed",
-    "German": ""
-  },
-  {
-    "Key": "addRowColumn",
-    "German": ""
-  },
-  {
-    "Key": "dataPagingShow",
-    "German": ""
-  },
-  {
-    "Key": "borderType",
-    "German": ""
-  },
-  {
-    "Key": "maxCharacters",
-    "German": ""
-  },
-  {
-    "Key": "edgeThickness",
-    "German": ""
-  },
-  {
-    "Key": "lineSpacing",
-    "German": ""
-  },
-  {
-    "Key": "settingsRowColumn",
-    "German": ""
-  },
-  {
-    "Key": "addRow",
-    "German": ""
-  },
-  {
-    "Key": "deleteRow",
-    "German": ""
-  },
-  {
-    "Key": "rowPermission",
-    "German": ""
-  },
-  {
-    "Key": "addTabs",
-    "German": ""
-  },
-  {
-    "Key": "deletePanel",
-    "German": ""
-  },
-  {
-    "Key": "tabPermission",
-    "German": ""
-  },
-  {
-    "Key": "addPanel",
-    "German": ""
-  },
-  {
-    "Key": "panelPermission",
-    "German": ""
-  },
-  {
-    "Key": "backgroundColor",
-    "German": ""
-  },
-  {
-    "Key": "saveAndCloseChildForm",
-    "German": ""
-  },
-  {
-    "Key": "icon",
-    "German": ""
-  },
-  {
-    "Key": "selectForm",
-    "German": ""
-  },
-  {
-    "Key": "fontColor",
-    "German": ""
-  },
-  {
-    "Key": "minCharacters",
-    "German": ""
-  },
-  {
-    "Key": "generalCategory",
-    "German": ""
-  },
-  {
-    "Key": "removeRow",
-    "German": ""
-  },
-  {
-    "Key": "send",
-    "German": ""
-  },
-  {
-    "Key": "declineFinish",
-    "German": ""
-  },
-  {
-    "Key": "finish",
-    "German": ""
-  },
-  {
-    "Key": "noData",
-    "German": ""
-  },
-  {
-    "Key": "createEditMenu",
-    "German": ""
-  },
-  {
-    "Key": "addNewBreakdown",
-    "German": ""
-  },
-  {
-    "Key": "addForm",
-    "German": ""
-  },
-  {
-    "Key": "addBottomBreak",
-    "German": ""
-  },
-  {
-    "Key": "addNode",
-    "German": ""
-  },
-  {
-    "Key": "topCategory",
-    "German": ""
-  },
-  {
-    "Key": "explanation",
-    "German": ""
-  },
-  {
-    "Key": "browserTitle",
-    "German": ""
-  },
-  {
-    "Key": "formTitle",
-    "German": ""
-  },
-  {
-    "Key": "addSqlColumn",
-    "German": ""
-  },
-  {
-    "Key": "formBg",
-    "German": ""
-  },
-  {
-    "Key": "codeEditor",
-    "German": ""
-  },
-  {
-    "Key": "authorityType",
-    "German": ""
-  },
-  {
-    "Key": "viewOnly",
-    "German": ""
-  },
-  {
-    "Key": "dark",
-    "German": ""
-  },
-  {
-    "Key": "white",
-    "German": ""
-  },
-  {
-    "Key": "hightBlack",
-    "German": ""
-  },
-  {
-    "Key": "run",
-    "German": ""
-  },
-  {
-    "Key": "rowColor",
-    "German": ""
-  },
-  {
-    "Key": "operator",
-    "German": ""
-  },
-  {
-    "Key": "flowOfForm",
-    "German": ""
-  },
-  {
-    "Key": "columnWidth",
-    "German": ""
-  },
-  {
-    "Key": "alignLeft",
-    "German": ""
-  },
-  {
-    "Key": "alignRight",
-    "German": ""
-  },
-  {
-    "Key": "alignButton",
-    "German": ""
-  },
-  {
-    "Key": "imageTableNameColumn",
-    "German": ""
-  },
-  {
-    "Key": "uploadBg",
-    "German": ""
-  },
-  {
-    "Key": "selectFile",
-    "German": ""
-  },
-  {
-    "Key": "dropFile",
-    "German": ""
-  },
-  {
-    "Key": "alwaysRoundUp",
-    "German": ""
-  },
-  {
-    "Key": "alwaysRoundBot",
-    "German": ""
-  },
-  {
-    "Key": "default",
-    "German": ""
-  },
-  {
-    "Key": "deleteOldDataTable",
-    "German": ""
-  },
-  {
-    "Key": "deleteOldData",
-    "German": ""
-  },
-  {
-    "Key": "integer",
-    "German": ""
-  },
-  {
-    "Key": "double",
-    "German": ""
-  },
-  {
-    "Key": "pleaseFillFields",
-    "German": ""
-  },
-  {
-    "Key": "toastColumnNameNumber",
-    "German": ""
-  },
-  {
-    "Key": "areYouSure",
-    "German": ""
-  },
-  {
-    "Key": "columnDeleted",
-    "German": ""
-  },
-  {
-    "Key": "allColumnDeleted",
-    "German": ""
-  },
-  {
-    "Key": "idCantStartNumber",
-    "German": ""
-  },
-  {
-    "Key": "uploadFile",
-    "German": ""
-  },
-  {
-    "Key": "fileViewer",
-    "German": ""
-  },
-  {
-    "Key": "ok",
-    "German": ""
-  },
-  {
-    "Key": "map",
-    "German": ""
-  },
-  {
-    "Key": "editPanel",
-    "German": ""
-  },
-  {
-    "Key": "filterColumnName",
-    "German": ""
-  },
-  {
-    "Key": "hintExamples",
-    "German": ""
-  },
-  {
-    "Key": "columnLanguageSettings",
-    "German": ""
-  },
-  {
-    "Key": "fileColumn",
-    "German": ""
-  },
-  {
-    "Key": "extensionColumn",
-    "German": ""
-  },
-  {
-    "Key": "multipleSelection",
-    "German": ""
-  },
-  {
-    "Key": "addSelectionsRows",
-    "German": ""
-  },
-  {
-    "Key": "mapSettings",
-    "German": ""
-  },
-  {
-    "Key": "formatAndFeatures",
-    "German": ""
-  },
-  {
-    "Key": "enterDateRange",
-    "German": ""
-  },
-  {
-    "Key": "filesCanUploadedUsers",
-    "German": ""
-  },
-  {
-    "Key": "barcodeColumn",
-    "German": ""
-  },
-  {
-    "Key": "autoAscend",
-    "German": ""
-  },
-  {
-    "Key": "roundType",
-    "German": ""
-  },
-  {
-    "Key": "font",
-    "German": ""
-  },
-  {
-    "Key": "columnProcess",
-    "German": ""
-  },
-  {
-    "Key": "exportColumnTotal",
-    "German": ""
-  },
-  {
-    "Key": "outsideElementDisabled",
-    "German": ""
-  },
-  {
-    "Key": "chat",
-    "German": ""
-  },
-  {
-    "Key": "languages",
-    "German": ""
-  },
-  {
-    "Key": "display",
-    "German": ""
-  },
-  {
-    "Key": "enterYourComment",
-    "German": ""
-  },
-  {
-    "Key": "comment",
-    "German": ""
-  },
-  {
-    "Key": "fileUploaded",
-    "German": ""
-  },
-  {
-    "Key": "pdfViewIsButton",
-    "German": ""
-  },
-  {
-    "Key": "takeScreenshot",
-    "German": ""
-  },
-  {
-    "Key": "alertText",
-    "German": ""
-  },
-  {
-    "Key": "clearButtonVisible",
-    "German": ""
-  },
-  {
-    "Key": "allText",
-    "German": ""
-  },
-  {
-    "Key": "letter",
-    "German": ""
-  },
-  {
-    "Key": "letterandnumber",
-    "German": ""
-  },
-  {
-    "Key": "letterandsymbol",
-    "German": ""
-  },
-  {
-    "Key": "numberandsymbol",
-    "German": ""
-  },
-  {
-    "Key": "showIDColumn",
-    "German": ""
-  },
-  {
-    "Key": "showCopyButton",
-    "German": ""
-  },
-  {
-    "Key": "showDeleteButton",
-    "German": ""
-  },
-  {
-    "Key": "showCheckboxButton",
-    "German": ""
-  },
-  {
-    "Key": "autoRowHeight",
-    "German": ""
-  },
-  {
-    "Key": "exportImport",
-    "German": ""
-  },
-  {
-    "Key": "export",
-    "German": ""
-  },
-  {
-    "Key": "import",
-    "German": ""
-  },
-  {
-    "Key": "toastImport",
-    "German": ""
-  },
-  {
-    "Key": "defaultTodaysDateWithTime",
-    "German": ""
-  },
-  {
-    "Key": "warningApproveImport",
-    "German": ""
-  },
-  {
-    "Key": "filterVisible",
-    "German": ""
-  },
-  {
-    "Key": "updatableMaxQuantity",
-    "German": ""
-  },
-  {
-    "Key": "hideQuantity",
-    "German": ""
-  },
-  {
-    "Key": "disableQuantityTextbox",
-    "German": ""
-  },
-  {
-    "Key": "multiplesOfQuantity",
-    "German": ""
-  },
-  {
-    "Key": "justnumber",
-    "German": ""
-  },
-  {
-    "Key": "paymentHourWarning",
-    "German": ""
-  },
-  {
-    "Key": "addColumn",
-    "German": ""
-  },
-  {
-    "Key": "mailSettings",
-    "German": ""
-  },
-  {
-    "Key": "newTaskMailDetail",
-    "German": ""
-  },
-  {
-    "Key": "updateTaskMailDetail",
-    "German": ""
-  },
-  {
-    "Key": "taskOnDropMail",
-    "German": ""
-  },
-  {
-    "Key": "selectSMTP",
-    "German": ""
-  },
-  {
-    "Key": "taskCreator",
-    "German": ""
-  },
-  {
-    "Key": "taskEndDate",
-    "German": ""
-  },
-  {
-    "Key": "tags",
-    "German": ""
-  },
-  {
-    "Key": "taskStartDate",
-    "German": ""
-  },
-  {
-    "Key": "taskAssigned",
-    "German": ""
-  },
-  {
-    "Key": "taskDetail",
-    "German": ""
-  },
-  {
-    "Key": "taskSubject",
-    "German": ""
-  },
-  {
-    "Key": "taskPri",
-    "German": ""
-  },
-  {
-    "Key": "taskEdit",
-    "German": ""
-  },
-  {
-    "Key": "addTask",
-    "German": ""
-  },
-  {
-    "Key": "taskStatus",
-    "German": ""
-  },
-  {
-    "Key": "excelExportSettings",
-    "German": ""
-  },
-  {
-    "Key": "excelExportRequiredColor",
-    "German": ""
-  },
-  {
-    "Key": "allDataExcelExport",
-    "German": ""
-  },
-  {
-    "Key": "warningApproveImportReport",
-    "German": ""
-  },
-  {
-    "Key": "reportName",
-    "German": ""
-  },
-  {
-    "Key": "old",
-    "German": ""
-  },
-  {
-    "Key": "upperNode",
-    "German": ""
-  },
-  {
-    "Key": "pdfViewStaticPdf",
-    "German": ""
-  },
-  {
-    "Key": "actions",
-    "German": ""
-  },
-  {
-    "Key": "loading",
-    "German": ""
-  },
-  {
-    "Key": "exportDataToExcell",
-    "German": ""
-  },
-  {
-    "Key": "showRefreshIcon",
-    "German": ""
-  },
-  {
-    "Key": "headerFilter",
-    "German": ""
-  },
-  {
-    "Key": "filterRowVisible",
-    "German": ""
-  },
-  {
-    "Key": "password",
-    "German": ""
-  },
-  {
-    "Key": "categories",
-    "German": ""
-  },
-  {
-    "Key": "pressEnter",
-    "German": ""
-  },
-  {
-    "Key": "historyColumnValue",
-    "German": ""
-  },
-  {
-    "Key": "hideMobile",
-    "German": ""
-  },
-  {
-    "Key": "align",
-    "German": ""
-  },
-  {
-    "Key": "theme",
-    "German": ""
-  },
-  {
-    "Key": "info",
-    "German": ""
-  },
-  {
-    "Key": "showTitle",
-    "German": ""
-  },
-  {
-    "Key": "purple",
-    "German": ""
-  },
-  {
-    "Key": "brown",
-    "German": ""
-  },
-  {
-    "Key": "yellow",
-    "German": ""
-  },
-  {
-    "Key": "turnOnComments",
-    "German": ""
-  },
-  {
-    "Key": "showContent",
-    "German": ""
-  },
-  {
-    "Key": "canBeHidden",
-    "German": ""
-  },
-  {
-    "Key": "allowEdit",
-    "German": ""
-  },
-  {
-    "Key": "allowDelete",
-    "German": ""
-  },
-  {
-    "Key": "toastDeleteErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "formOpeningMultiElementEvent",
-    "German": ""
-  },
-  {
-    "Key": "resetDatagridLocalSettings",
-    "German": ""
-  },
-  {
-    "Key": "loginP1",
-    "German": ""
-  },
-  {
-    "Key": "loginP2",
-    "German": ""
-  },
-  {
-    "Key": "loginConnect",
-    "German": ""
-  },
-  {
-    "Key": "loginText",
-    "German": ""
-  },
-  {
-    "Key": "loginRightMore",
-    "German": ""
-  },
-  {
-    "Key": "loginHeaderP1",
-    "German": ""
-  },
-  {
-    "Key": "loginHeaderP2",
-    "German": ""
-  },
-  {
-    "Key": "loginHeaderP3",
-    "German": ""
-  },
-  {
-    "Key": "kanbanaddTasks",
-    "German": ""
-  },
-  {
-    "Key": "taskstatusDesciption",
-    "German": ""
-  },
-  {
-    "Key": "tasksubjectDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskassignedToTask",
-    "German": ""
-  },
-  {
-    "Key": "taskassignedTaskDescription",
-    "German": ""
-  },
-  {
-    "Key": "addedForTasks",
-    "German": ""
-  },
-  {
-    "Key": "taskAssignedInfoDescription",
-    "German": ""
-  },
-  {
-    "Key": "assignedInfo",
-    "German": ""
-  },
-  {
-    "Key": "groupInfo",
-    "German": ""
-  },
-  {
-    "Key": "sortEnd",
-    "German": ""
-  },
-  {
-    "Key": "sender",
-    "German": ""
-  },
-  {
-    "Key": "forward",
-    "German": ""
-  },
-  {
-    "Key": "attachments",
-    "German": ""
-  },
-  {
-    "Key": "loginP3",
-    "German": ""
-  },
-  {
-    "Key": "taskdetailDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskassignedDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskstartdateDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskenddateDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskpriDescription",
-    "German": ""
-  },
-  {
-    "Key": "tagsDescription",
-    "German": ""
-  },
-  {
-    "Key": "outlookDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskAssInfoDescription",
-    "German": ""
-  },
-  {
-    "Key": "receiver",
-    "German": ""
-  },
-  {
-    "Key": "draft",
-    "German": ""
-  },
-  {
-    "Key": "spam",
-    "German": ""
-  },
-  {
-    "Key": "filterstate",
-    "German": ""
-  },
-  {
-    "Key": "checkForspelling",
-    "German": ""
-  },
-  {
-    "Key": "emailToForward",
-    "German": ""
-  },
-  {
-    "Key": "lowImpMails",
-    "German": ""
-  },
-  {
-    "Key": "normalImpMails",
-    "German": ""
-  },
-  {
-    "Key": "highImpEmails",
-    "German": ""
-  },
-  {
-    "Key": "showReadMails",
-    "German": ""
-  },
-  {
-    "Key": "groupinfoDescription",
-    "German": ""
-  },
-  {
-    "Key": "timeoutMission",
-    "German": ""
-  },
-  {
-    "Key": "timeoutmissionDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskperiodDescription",
-    "German": ""
-  },
-  {
-    "Key": "taskProgress",
-    "German": ""
-  },
-  {
-    "Key": "taskProgressDescription",
-    "German": ""
-  },
-  {
-    "Key": "updatekanbanTask",
-    "German": ""
-  },
-  {
-    "Key": "taskcreatorDescription",
-    "German": ""
-  },
-  {
-    "Key": "uploadfileDescription",
-    "German": ""
-  },
-  {
-    "Key": "infoPersons",
-    "German": ""
-  },
-  {
-    "Key": "warningtime",
-    "German": ""
-  },
-  {
-    "Key": "taskPeriod",
-    "German": ""
-  },
-  {
-    "Key": "taskProgresSatus",
-    "German": ""
-  },
-  {
-    "Key": "makeTask",
-    "German": ""
-  },
-  {
-    "Key": "outlookIntegration",
-    "German": ""
-  },
-  {
-    "Key": "loginoutlook",
-    "German": ""
-  },
-  {
-    "Key": "fetchoutlook",
-    "German": ""
-  },
-  {
-    "Key": "progressStatus",
-    "German": ""
-  },
-  {
-    "Key": "taskColors",
-    "German": ""
-  },
-  {
-    "Key": "addcalendarTask",
-    "German": ""
-  },
-  {
-    "Key": "updatetaskCalendar",
-    "German": ""
-  },
-  {
-    "Key": "statusComplete",
-    "German": ""
-  },
-  {
-    "Key": "priorityFilter",
-    "German": ""
-  },
-  {
-    "Key": "columnFilter",
-    "German": ""
-  },
-  {
-    "Key": "assignPerson",
-    "German": ""
-  },
-  {
-    "Key": "assignGroup",
-    "German": ""
-  },
-  {
-    "Key": "noTask",
-    "German": ""
-  },
-  {
-    "Key": "resetSort",
-    "German": ""
-  },
-  {
-    "Key": "sortASC",
-    "German": ""
-  },
-  {
-    "Key": "sortDESC",
-    "German": ""
-  },
-  {
-    "Key": "sortAppointment",
-    "German": ""
-  },
-  {
-    "Key": "trash",
-    "German": ""
-  },
-  {
-    "Key": "showOlderMail",
-    "German": ""
-  },
-  {
-    "Key": "mailNotFound",
-    "German": ""
-  },
-  {
-    "Key": "sendNewMail",
-    "German": ""
-  },
-  {
-    "Key": "showUnreadMails",
-    "German": ""
-  },
-  {
-    "Key": "updateColumnMail",
-    "German": ""
-  },
-  {
-    "Key": "addTaskToOutlook",
-    "German": ""
-  },
-  {
-    "Key": "enterYourMessage",
-    "German": ""
-  },
-  {
-    "Key": "reminder",
-    "German": ""
-  },
-  {
-    "Key": "determinedToTask",
-    "German": ""
-  },
-  {
-    "Key": "remainingTime",
-    "German": ""
-  },
-  {
-    "Key": "hours",
-    "German": ""
-  },
-  {
-    "Key": "withoutPriority",
-    "German": ""
-  },
-  {
-    "Key": "lowPri",
-    "German": ""
-  },
-  {
-    "Key": "normalPri",
-    "German": ""
-  },
-  {
-    "Key": "highPri",
-    "German": ""
-  },
-  {
-    "Key": "showAllTasks",
-    "German": ""
-  },
-  {
-    "Key": "showIncompleteTasks",
-    "German": ""
-  },
-  {
-    "Key": "showCompeletedTasks",
-    "German": ""
-  },
-  {
-    "Key": "reportDesigner",
-    "German": ""
-  },
-  {
-    "Key": "fileManagementSystem",
-    "German": ""
-  },
-  {
-    "Key": "formDesigner",
-    "German": ""
-  },
-  {
-    "Key": "boardDesigner",
-    "German": ""
-  },
-  {
-    "Key": "themeSettings",
-    "German": ""
-  },
-  {
-    "Key": "social",
-    "German": ""
-  },
-  {
-    "Key": "profile",
-    "German": ""
-  },
-  {
-    "Key": "contacts",
-    "German": ""
-  },
-  {
-    "Key": "files",
-    "German": ""
-  },
-  {
-    "Key": "pages",
-    "German": ""
-  },
-  {
-    "Key": "noResultsFound",
-    "German": ""
-  },
-  {
-    "Key": "processes",
-    "German": ""
-  },
-  {
-    "Key": "filterByStatus",
-    "German": ""
-  },
-  {
-    "Key": "filterByPri",
-    "German": ""
-  },
-  {
-    "Key": "filterByCol",
-    "German": ""
-  },
-  {
-    "Key": "todoAddTasks",
-    "German": ""
-  },
-  {
-    "Key": "addLabel",
-    "German": ""
-  },
-  {
-    "Key": "showWithSubTasks",
-    "German": ""
-  },
-  {
-    "Key": "riverBoard",
-    "German": ""
-  },
-  {
-    "Key": "notify",
-    "German": ""
-  },
-  {
-    "Key": "likedYourPost",
-    "German": ""
-  },
-  {
-    "Key": "likedYourComment",
-    "German": ""
-  },
-  {
-    "Key": "systemNotify",
-    "German": ""
-  },
-  {
-    "Key": "readAllNotify",
-    "German": ""
-  },
-  {
-    "Key": "recommendedUsers",
-    "German": ""
-  },
-  {
-    "Key": "suggestedPosts",
-    "German": ""
-  },
-  {
-    "Key": "sPostReposted",
-    "German": ""
-  },
-  {
-    "Key": "shareSomething",
-    "German": ""
-  },
-  {
-    "Key": "updatePost",
-    "German": ""
-  },
-  {
-    "Key": "ifYouDoNotSelectGroup",
-    "German": ""
-  },
-  {
-    "Key": "addComment",
-    "German": ""
-  },
-  {
-    "Key": "sendComment",
-    "German": ""
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisPost",
-    "German": ""
-  },
-  {
-    "Key": "yes",
-    "German": ""
-  },
-  {
-    "Key": "no",
-    "German": ""
-  },
-  {
-    "Key": "deletePost",
-    "German": ""
-  },
-  {
-    "Key": "postSuccesfullyDeleted",
-    "German": ""
-  },
-  {
-    "Key": "deleteComment",
-    "German": ""
-  },
-  {
-    "Key": "areYouSureYouWantToDeleteThisComment",
-    "German": ""
-  },
-  {
-    "Key": "commentSuccesfullyDeleted",
-    "German": ""
-  },
-  {
-    "Key": "sharePost",
-    "German": ""
-  },
-  {
-    "Key": "areYouSureYouWantToShareThisPost",
-    "German": ""
-  },
-  {
-    "Key": "repostedSuccessfully",
-    "German": ""
-  },
-  {
-    "Key": "upload",
-    "German": ""
-  },
-  {
-    "Key": "refresh",
-    "German": ""
-  },
-  {
-    "Key": "allowedExtentions",
-    "German": ""
-  },
-  {
-    "Key": "systemLandingPagePreference",
-    "German": ""
-  },
-  {
-    "Key": "Allownonadminuserstosearchforotherusers",
-    "German": ""
-  },
-  {
-    "Key": "passwordChange",
-    "German": ""
-  },
-  {
-    "Key": "newPassword",
-    "German": ""
-  },
-  {
-    "Key": "Retypethenewpassword",
-    "German": ""
-  },
-  {
-    "Key": "notifications",
-    "German": ""
-  },
-  {
-    "Key": "showWhoLikesYourPost",
-    "German": ""
-  },
-  {
-    "Key": "showWhoLikesYourComment",
-    "German": ""
-  },
-  {
-    "Key": "aboutMe",
-    "German": ""
-  },
-  {
-    "Key": "bio",
-    "German": ""
-  },
-  {
-    "Key": "dateOfBirth",
-    "German": ""
-  },
-  {
-    "Key": "website",
-    "German": ""
-  },
-  {
-    "Key": "phone",
-    "German": ""
-  },
-  {
-    "Key": "saveChanges",
-    "German": ""
-  },
-  {
-    "Key": "content",
-    "German": ""
-  },
-  {
-    "Key": "projectManagement",
-    "German": ""
-  },
-  {
-    "Key": "addPage",
-    "German": ""
-  },
-  {
-    "Key": "addFolder",
-    "German": ""
-  },
-  {
-    "Key": "showUsers",
-    "German": ""
-  },
-  {
-    "Key": "showGroups",
-    "German": ""
-  },
-  {
-    "Key": "readonlyUsers",
-    "German": ""
-  },
-  {
-    "Key": "readonlyGroups",
-    "German": ""
-  },
-  {
-    "Key": "columnHeight",
-    "German": ""
-  },
-  {
-    "Key": "showKanbanCount",
-    "German": ""
-  },
-  {
-    "Key": "kanbanSettings",
-    "German": ""
-  },
-  {
-    "Key": "gantSettings",
-    "German": ""
-  },
-  {
-    "Key": "schedulerSettings",
-    "German": ""
-  },
-  {
-    "Key": "activateOutlookConnection",
-    "German": ""
-  },
-  {
-    "Key": "selectOutlookColumn",
-    "German": ""
-  },
-  {
-    "Key": "selectSMTPPopoverText",
-    "German": ""
-  },
-  {
-    "Key": "menuFilePathId",
-    "German": ""
-  },
-  {
-    "Key": "recycleBinPathName",
-    "German": ""
-  },
-  {
-    "Key": "recycleBinPathId",
-    "German": ""
-  },
-  {
-    "Key": "fileNameChangedMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileNameChangedErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileCreatedMessage",
-    "German": ""
-  },
-  {
-    "Key": "newTaskMailDetailPopoverText",
-    "German": ""
-  },
-  {
-    "Key": "taskOnDropMailPopoverText",
-    "German": ""
-  },
-  {
-    "Key": "createdBy",
-    "German": ""
-  },
-  {
-    "Key": "updatedBy",
-    "German": ""
-  },
-  {
-    "Key": "createdDate",
-    "German": ""
-  },
-  {
-    "Key": "updatedDate",
-    "German": ""
-  },
-  {
-    "Key": "folderPermissionSettings",
-    "German": ""
-  },
-  {
-    "Key": "quantity",
-    "German": ""
-  },
-  {
-    "Key": "fileManagementPermissionSettings",
-    "German": ""
-  },
-  {
-    "Key": "fileNotFoundErrorText",
-    "German": ""
-  },
-  {
-    "Key": "updateTaskMailDetailPopoverText",
-    "German": ""
-  },
-  {
-    "Key": "selectOutlookColumnPopoverText",
-    "German": ""
-  },
-  {
-    "Key": "createFolder",
-    "German": ""
-  },
-  {
-    "Key": "versionHistory",
-    "German": ""
-  },
-  {
-    "Key": "deletePermanently",
-    "German": ""
-  },
-  {
-    "Key": "recover",
-    "German": ""
-  },
-  {
-    "Key": "groupPermissions",
-    "German": ""
-  },
-  {
-    "Key": "allowUpload",
-    "German": ""
-  },
-  {
-    "Key": "allowView",
-    "German": ""
-  },
-  {
-    "Key": "allowDownload",
-    "German": ""
-  },
-  {
-    "Key": "permissionType",
-    "German": ""
-  },
-  {
-    "Key": "applyToSubFolders",
-    "German": ""
-  },
-  {
-    "Key": "newFolderName",
-    "German": ""
-  },
-  {
-    "Key": "tagTips",
-    "German": ""
-  },
-  {
-    "Key": "addAsNewVersion",
-    "German": ""
-  },
-  {
-    "Key": "addAndChangeName",
-    "German": ""
-  },
-  {
-    "Key": "skip",
-    "German": ""
-  },
-  {
-    "Key": "fileExistError",
-    "German": ""
-  },
-  {
-    "Key": "processFileShow",
-    "German": ""
-  },
-  {
-    "Key": "processFilePathName",
-    "German": ""
-  },
-  {
-    "Key": "processFilePathId",
-    "German": ""
-  },
-  {
-    "Key": "menuFileShow",
-    "German": ""
-  },
-  {
-    "Key": "menuFilePathName",
-    "German": ""
-  },
-  {
-    "Key": "fileCreatedErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileDeletedessage",
-    "German": ""
-  },
-  {
-    "Key": "fileDeletedErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileMovedMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileMovedErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileCopyMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileCopyErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileDownloadMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileDownloadErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileSizeShowErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "unsupportedFile",
-    "German": ""
-  },
-  {
-    "Key": "fileNameError",
-    "German": ""
-  },
-  {
-    "Key": "fileGivePermissionMessage",
-    "German": ""
-  },
-  {
-    "Key": "fileGivePermissionErrorMessage",
-    "German": ""
-  },
-  {
-    "Key": "groupName",
-    "German": ""
-  },
-  {
-    "Key": "createGroup",
-    "German": ""
-  },
-  {
-    "Key": "conversation",
-    "German": ""
-  },
-  {
-    "Key": "startConversation",
-    "German": ""
-  },
-  {
-    "Key": "userNotFound",
-    "German": ""
-  },
-  {
-    "Key": "chatNotFound",
-    "German": ""
-  },
-  {
-    "Key": "themeTypeLight",
-    "German": ""
-  },
-  {
-    "Key": "themeTypeBorderedLight",
-    "German": ""
-  },
-  {
-    "Key": "themeHalfDark",
-    "German": ""
-  },
-  {
-    "Key": "themeDark",
-    "German": ""
-  },
-  {
-    "Key": "themeRouteAnimation",
-    "German": ""
-  },
-  {
-    "Key": "themeRouteAnimationFadeInLeft",
-    "German": ""
-  },
-  {
-    "Key": "themeRouteAnimationZoomIn",
-    "German": ""
-  },
-  {
-    "Key": "themeRouteAnimationFadeIn",
-    "German": ""
-  },
-  {
-    "Key": "themeRouteAnimationNone",
-    "German": ""
-  },
-  {
-    "Key": "themeMenuType",
-    "German": ""
-  },
-  {
-    "Key": "themeMenuTypeHorizontal",
-    "German": ""
-  },
-  {
-    "Key": "themeMenuTypeVertical",
-    "German": ""
-  },
-  {
-    "Key": "themeMenuCollapse",
-    "German": ""
-  },
-  {
-    "Key": "themeNavbarColor",
-    "German": ""
-  },
-  {
-    "Key": "themeNavbarType",
-    "German": ""
-  },
-  {
-    "Key": "themeSticky",
-    "German": ""
-  },
-  {
-    "Key": "themeStatic",
-    "German": ""
-  },
-  {
-    "Key": "themeFloating",
-    "German": ""
-  },
-  {
-    "Key": "themeHidden",
-    "German": ""
-  },
-  {
-    "Key": "themeFooterType",
-    "German": ""
-  },
-  {
-    "Key": "catalog",
-    "German": ""
-  },
-  {
-    "Key": "riverBoards",
-    "German": ""
-  },
-  {
-    "Key": "clipboardDesigner",
-    "German": ""
-  },
-  {
-    "Key": "desingMode",
-    "German": ""
-  },
-  {
-    "Key": "editPage",
-    "German": ""
-  },
-  {
-    "Key": "rename",
-    "German": ""
-  },
-  {
-    "Key": "exportToPdf",
-    "German": ""
-  },
-  {
-    "Key": "exportToExcel",
-    "German": ""
-  },
-  {
-    "Key": "revenueReport",
-    "German": ""
-  },
-  {
-    "Key": "header",
-    "German": ""
-  },
-  {
-    "Key": "connection",
-    "German": ""
-  },
-  {
-    "Key": "primaryKey",
-    "German": ""
-  },
-  {
-    "Key": "secondaryKey",
-    "German": ""
-  },
-  {
-    "Key": "completedKey",
-    "German": ""
-  },
-  {
-    "Key": "countKey",
-    "German": ""
-  },
-  {
-    "Key": "statusKey",
-    "German": ""
-  },
-  {
-    "Key": "progressConnection",
-    "German": ""
-  },
-  {
-    "Key": "progressScript",
-    "German": ""
-  },
-  {
-    "Key": "progressPrimaryKey",
-    "German": ""
-  },
-  {
-    "Key": "progressCountKey",
-    "German": ""
-  },
-  {
-    "Key": "progressPercentageKey",
-    "German": ""
-  },
-  {
-    "Key": "progressColorKey",
-    "German": ""
-  },
-  {
-    "Key": "keyColumn",
-    "German": ""
-  },
-  {
-    "Key": "currency",
-    "German": ""
-  },
-  {
-    "Key": "whitePage",
-    "German": ""
-  },
-  {
-    "Key": "noReportSelected",
-    "German": ""
-  },
-  {
-    "Key": "noTypeSelected",
-    "German": ""
-  },
-  {
-    "Key": "whitePageReports",
-    "German": ""
-  },
-  {
-    "Key": "addBranch",
-    "German": ""
-  },
-  {
-    "Key": "branchName",
-    "German": ""
-  },
-  {
-    "Key": "rowNumber",
-    "German": ""
-  },
-  {
-    "Key": "reportTypeSelect",
-    "German": ""
-  },
-  {
-    "Key": "reportDescription",
-    "German": ""
-  },
-  {
-    "Key": "useWeb",
-    "German": ""
-  },
-  {
-    "Key": "useMobile",
-    "German": ""
-  },
-  {
-    "Key": "mainScript",
-    "German": ""
-  },
-  {
-    "Key": "pre-runScript",
-    "German": ""
-  },
-  {
-    "Key": "preScript",
-    "German": ""
-  },
-  {
-    "Key": "testIt",
-    "German": ""
-  },
-  {
-    "Key": "selectAll",
-    "German": ""
-  },
-  {
-    "Key": "addReport",
-    "German": ""
-  },
-  {
-    "Key": "selectReportType",
-    "German": ""
-  },
-  {
-    "Key": "reportType",
-    "German": ""
-  },
-  {
-    "Key": "reportDesingPermission",
-    "German": ""
-  },
-  {
-    "Key": "reportImportedOpenLeftMenu",
-    "German": ""
-  },
-  {
-    "Key": "forReportExport",
-    "German": ""
-  },
-  {
-    "Key": "anErrorOccurred",
-    "German": ""
-  },
-  {
-    "Key": "reportDeleted",
-    "German": ""
-  },
-  {
-    "Key": "branchDeleted",
-    "German": ""
-  },
-  {
-    "Key": "addBranchName",
-    "German": ""
-  },
-  {
-    "Key": "addedBranch",
-    "German": ""
-  },
-  {
-    "Key": "selectConnectionAddress",
-    "German": ""
-  },
-  {
-    "Key": "enterSqlScript",
-    "German": ""
-  },
-  {
-    "Key": "enterReportName",
-    "German": ""
-  },
-  {
-    "Key": "reportAdded",
-    "German": ""
-  },
-  {
-    "Key": "numberOfDataToBeProcessed",
-    "German": ""
-  },
-  {
-    "Key": "dataNotFoundCheckYourConnection",
-    "German": ""
-  },
-  {
-    "Key": "connectionNotFoundCheckYourConnection",
-    "German": ""
-  },
-  {
-    "Key": "fillConnectionAndSql",
-    "German": ""
-  },
-  {
-    "Key": "allTypesActivate",
-    "German": ""
-  },
-  {
-    "Key": "passwordRequired",
-    "German": ""
-  },
-  {
-    "Key": "showLess",
-    "German": ""
-  },
-  {
-    "Key": "showMore",
-    "German": ""
-  },
-  {
-    "Key": "authority",
-    "German": ""
-  },
-  {
-    "Key": "preScriptDescription",
-    "German": ""
-  },
-  {
-    "Key": "enterReportFilters",
-    "German": ""
-  },
-  {
-    "Key": "gridDesigner",
-    "German": ""
-  },
-  {
-    "Key": "addMainBranch",
-    "German": ""
-  },
-  {
-    "Key": "resetSettings",
-    "German": ""
-  },
-  {
-    "Key": "columsToGroup",
-    "German": ""
-  },
-  {
-    "Key": "customize",
-    "German": ""
-  },
-  {
-    "Key": "colorType",
-    "German": ""
-  },
-  {
-    "Key": "formatManagement",
-    "German": ""
-  },
-  {
-    "Key": "bottomTotalColumn",
-    "German": ""
-  },
-  {
-    "Key": "formatType",
-    "German": ""
-  },
-  {
-    "Key": "datagridSettingsReset",
-    "German": ""
-  },
-  {
-    "Key": "unexpectedError",
-    "German": ""
-  },
-  {
-    "Key": "changesSaved",
-    "German": ""
-  },
-  {
-    "Key": "addGantTask",
-    "German": ""
-  },
-  {
-    "Key": "updGantTask",
-    "German": ""
-  },
-  {
-    "Key": "updSchedulerTask",
-    "German": ""
-  },
-  {
-    "Key": "updTodoTask",
-    "German": ""
-  },
-  {
-    "Key": "completeTask",
-    "German": ""
-  },
-  {
-    "Key": "cantBeEmptyKanban",
-    "German": ""
-  },
-  {
-    "Key": "successAdd",
-    "German": ""
-  },
-  {
-    "Key": "successUpd",
-    "German": ""
-  },
-  {
-    "Key": "statusChangeTodo",
-    "German": ""
-  },
-  {
-    "Key": "reminderSended",
-    "German": ""
-  },
-  {
-    "Key": "askForCompleteTask",
-    "German": ""
-  },
-  {
-    "Key": "infoForCompletedTask",
-    "German": ""
-  },
-  {
-    "Key": "noPermisison",
-    "German": ""
-  },
-  {
-    "Key": "successDependencyAdded",
-    "German": ""
-  },
-  {
-    "Key": "filterimportant",
-    "German": ""
-  },
-  {
-    "Key": "enterEmail",
-    "German": ""
-  },
-  {
-    "Key": "reply",
-    "German": ""
-  },
-  {
-    "Key": "newCol",
-    "German": ""
-  },
-  {
-    "Key": "thickness",
-    "German": ""
-  },
-  {
-    "Key": "distanceToUpperComponent",
-    "German": ""
-  },
-  {
-    "Key": "companyName",
-    "German": ""
-  },
-  {
-    "Key": "showEmailModule",
-    "German": ""
-  },
-  {
-    "Key": "distanceToBottomComponent",
-    "German": ""
-  },
-  {
-    "Key": "canNonAdminUsersPost",
-    "German": ""
-  },
-  {
-    "Key": "columnColor",
-    "German": ""
-  },
-  {
-    "Key": "byWho",
-    "German": ""
-  },
-  {
-    "Key": "added",
-    "German": ""
-  },
-  {
-    "Key": "updated",
-    "German": ""
-  },
-  {
-    "Key": "commentAdded",
-    "German": ""
-  },
-  {
-    "Key": "completed",
-    "German": ""
-  },
-  {
-    "Key": "addRemoveColumns",
-    "German": ""
-  },
-  {
-    "Key": "searchMessage",
-    "German": ""
-  },
-  {
-    "Key": "riverReports",
-    "German": ""
-  },
-  {
-    "Key": "forms",
-    "German": ""
-  },
-  {
-    "Key": "searchinforms",
-    "German": ""
-  },
-  {
-    "Key": "searchVoiceMessage",
-    "German": ""
-  },
-  {
-    "Key": "searchVoiceMessages",
-    "German": ""
-  },
-  {
-    "Key": "showSocialNotifications",
-    "German": ""
-  },
-  {
-    "Key": "showProjectManagementNotifications",
-    "German": ""
-  },
-  {
-    "Key": "showProcessNotifications",
-    "German": ""
-  },
-  {
-    "Key": "pageDesingPermission",
-    "German": ""
-  },
-  {
-    "Key": "filemanagementDesingPermission",
-    "German": ""
-  },
-  {
-    "Key": "taskDelete",
-    "German": ""
-  },
-  {
-    "Key": "tasksWillDeleted",
-    "German": ""
-  },
-  {
-    "Key": "componentSettings",
-    "German": ""
-  },
-  {
-    "Key": "aboutComponent",
-    "German": ""
-  },
-  {
-    "Key": "sureSaveChanges",
-    "German": ""
-  },
-  {
-    "Key": "showDeletedNotifications",
-    "German": ""
-  },
-  {
-    "Key": "shareSometthing",
-    "German": ""
-  },
-  {
-    "Key": "resetPageLayout",
-    "German": ""
-  },
-  {
-    "Key": "downloadingSS",
-    "German": ""
-  },
-  {
-    "Key": "showHorizontalLines",
-    "German": ""
-  },
-  {
-    "Key": "turnOnVerticalHide",
-    "German": ""
-  },
-  {
-    "Key": "whichHorizontalLinelinesAreNotVisible",
-    "German": ""
-  },
-  {
-    "Key": "mbnnb",
-    "German": ""
-  },
-  {
-    "Key": "test",
-    "German": ""
-  },
-  {
-    "Key": "aaaaaa",
-    "German": ""
-  },
-  {
-    "Key": "bbbbbb",
-    "German": ""
-  },
-  {
-    "Key": "cccccc",
-    "German": ""
-  },
-  {
-    "Key": "ddddd",
-    "German": ""
-  },
-  {
-    "Key": "eeeee",
-    "German": ""
-  },
-  {
-    "Key": "fffffff",
-    "German": ""
-  },
-  {
-    "Key": "ggggg",
-    "German": ""
-  },
-  {
-    "Key": "mmmmmmm",
-    "German": ""
-  },
-  {
-    "Key": "wwwwwww",
-    "German": ""
-  },
-  {
-    "Key": "ggggggggg",
-    "German": ""
-  },
-  {
-    "Key": "llllllllll",
-    "German": ""
-  },
-  {
-    "Key": "iiiiiiiiii",
-    "German": ""
-  },
-  {
-    "Key": "oooooooo",
-    "German": ""
-  },
-  {
-    "Key": "üüüüüü",
-    "German": ""
-  },
-  {
-    "Key": "ppppp",
-    "German": ""
+{
+  "LANG": "DE",
+  "data": {
+    "loginButton": "",
+    "userName": "",
+    "pass": "",
+    "remember": "",
+    "forgotPass": "",
+    "modules": "",
+    "generic": "test",
+    "search": "",
+    "logout": "",
+    "waitingJob": "",
+    "myStarted": "",
+    "myIncluded": "",
+    "myCompleted": "",
+    "jobList": "",
+    "formNo": "",
+    "status": "",
+    "starter": "",
+    "assigned": "",
+    "timeoutDate": "",
+    "startDate": "",
+    "processing": "",
+    "you": "",
+    "history": "",
+    "description": "test",
+    "date": "",
+    "growShrink": "",
+    "close": "",
+    "gridReset": "",
+    "columnSelect": "",
+    "jobName": "",
+    "keyword": "",
+    "completion": "",
+    "all": "",
+    "completedDate": "",
+    "completions": "",
+    "ongoing": "",
+    "formName": "",
+    "sunday": "",
+    "monday": "",
+    "tuesday": "",
+    "wednesday": "",
+    "thursday": "",
+    "friday": "",
+    "saturday": "",
+    "pdfExport": "",
+    "sendPassword": "",
+    "assignedDate": "",
+    "events": "",
+    "new": "",
+    "save": "",
+    "formula": "",
+    "selectDataSource": "",
+    "requiredField": "",
+    "suffix": "",
+    "valueColumn": "",
+    "showLength": "",
+    "clearButton": "",
+    "allCaps": "",
+    "autoAsc": "",
+    "width": "",
+    "length": "",
+    "functions": "",
+    "selectElement": "",
+    "selectColumn": "",
+    "edit": "",
+    "changeEventActions": "",
+    "barcode": "",
+    "systemInfo": "",
+    "prefix": "",
+    "max": "",
+    "showMinMaxInfo": "",
+    "selectUser": "",
+    "spinButton": "",
+    "numberIncDecButton": "",
+    "decimal": "",
+    "numeral": "",
+    "wrongFormat": "",
+    "height": "",
+    "microphone": "",
+    "notifyDataReset": "",
+    "data": "",
+    "dynamicData": "",
+    "manualData": "",
+    "selectDataGrid": "",
+    "overrideUserChange": "",
+    "textColumn": "",
+    "makeInitialValue": "",
+    "undo": "",
+    "copy": "",
+    "delete": "",
+    "cancel": "",
+    "languageSettings": "",
+    "messageSqlLinkDeleted": "",
+    "permissions": "",
+    "objectid": "",
+    "fontSize": "",
+    "fontWidth": "",
+    "fontStyle": "",
+    "underline": "",
+    "textColor": "",
+    "visibility": "",
+    "textAlignment": "",
+    "settings": "",
+    "messageUnsaved": "",
+    "warning": "",
+    "userAuthorizations": "",
+    "formPreferences": "",
+    "formOpeningevent": "",
+    "chooseConnectionAddress": "",
+    "selectPriorty": "",
+    "loadingEditor": "",
+    "showAddButton": "",
+    "update": "",
+    "connectionID": "",
+    "formPreview": "",
+    "nameDisplayedform": "",
+    "formNamevariable": "",
+    "category": "",
+    "formColor": "",
+    "generalForm": "",
+    "saveForm": "",
+    "messageNeworupdate": "",
+    "messageDelete": "",
+    "toastDeleted": "",
+    "toastError": "",
+    "alertDifferentID": "",
+    "confirmChanges": "",
+    "toastUserpermission": "",
+    "toastCodeeditor": "",
+    "messageDeletesure": "",
+    "messageSure": "",
+    "Success": "",
+    "Error": "",
+    "toastFormupdate": "",
+    "toastMistake": "",
+    "toastSaved": "",
+    "toastCopied": "",
+    "toastEmptyFormMessage": "",
+    "toastGiveName": "",
+    "toastGiveVariableName": "",
+    "toastVariableNameNumberWarning": "",
+    "formCopy": "",
+    "messageButtonDelete": "",
+    "noDataFound": "",
+    "language": "",
+    "filterDatagrid": "",
+    "addManualData": "",
+    "dateFormat": "",
+    "messageSqlLinkDelete": "",
+    "timeOption": "",
+    "defaultTodaysDate": "",
+    "dateRange": "",
+    "minToday": "",
+    "maxToday": "",
+    "dateRangeDay": "",
+    "enterDateRangeValue": "",
+    "imageIdColumn": "",
+    "statusSettings": "",
+    "active": "",
+    "passive": "",
+    "enable": "",
+    "disable": "",
+    "visible": "",
+    "invisible": "",
+    "items": "",
+    "showItems": "",
+    "array": "",
+    "letLabelAppear": "",
+    "add": "",
+    "horizontal": "",
+    "vertical": "",
+    "text": "",
+    "alertFillRequiredFields": "",
+    "alertSignatureField": "",
+    "messageApproveTransaction": "",
+    "button": "",
+    "reasonforRefusal": "",
+    "enterReasonRejection": "",
+    "reject": "",
+    "addDeleteButton": "",
+    "showBorder": "",
+    "buttons": "",
+    "clean": "",
+    "buttonSettings": "",
+    "saveLocation": "",
+    "paymentButton": "",
+    "paymentProvider": "",
+    "price": "",
+    "numberOfInstallments": "",
+    "descriptionField": "",
+    "current": "",
+    "currentForm": "",
+    "name": "",
+    "surname": "",
+    "country": "",
+    "city": "",
+    "address": "",
+    "authorizations": "",
+    "users": "",
+    "user": "",
+    "givePermission": "",
+    "groups": "",
+    "group": "",
+    "saveandSend": "",
+    "approve": "",
+    "sendBack": "",
+    "deslineAndEnd": "",
+    "complete": "",
+    "blue": "",
+    "grey": "",
+    "green": "",
+    "red": "",
+    "left": "",
+    "right": "",
+    "color": "",
+    "symbol": "",
+    "position": "",
+    "action": "",
+    "total": "",
+    "filePath": "",
+    "fileName": "",
+    "fileUpload": "",
+    "choose": "",
+    "updateData": "",
+    "preview": "",
+    "show": "",
+    "columns": "",
+    "changeEvent": "",
+    "columnSettings": "",
+    "columnName": "",
+    "deleteColumn": "",
+    "columnSqlScripts": "",
+    "imageNameColumn": "",
+    "columnLanguageSetting": "",
+    "dataSource": "",
+    "filter": "",
+    "reset": "",
+    "column": "",
+    "image": "",
+    "searchLocation": "",
+    "draggable": "",
+    "usersCanChange": "",
+    "multiMarker": "",
+    "markerLimit": "",
+    "meetingType": "",
+    "meetingName": "",
+    "loadingFiles": "",
+    "fileSizeExceeded": "",
+    "filesLoaded": "",
+    "condition": "",
+    "value": "",
+    "connectionAdress": "",
+    "imageTypeColumn": "",
+    "visibleColumn": "",
+    "selectionMode": "",
+    "selectMode": "",
+    "datagridFiltering": "",
+    "imageDataColumn": "",
+    "selectDataColumn": "",
+    "dataFormat": "",
+    "photoPreview": "",
+    "videoPreview": "",
+    "displayPhoto": "",
+    "displayVideo": "",
+    "imageColumn": "",
+    "videoColumn": "",
+    "columnNameAppear": "",
+    "selected": "",
+    "inStock": "",
+    "gallery": "",
+    "dollar": "",
+    "sterling": "",
+    "underPhoto": "",
+    "topPhoto": "",
+    "byCategory": "",
+    "dashboardShowHide": "",
+    "showDetail": "",
+    "hideDetail": "",
+    "decrease": "",
+    "increase": "",
+    "watch": "",
+    "watchMovie": "",
+    "noRecordsFound": "",
+    "appearance": "",
+    "numberofColumns": "",
+    "pagingRecords": "",
+    "detailLocation": "",
+    "hideImages": "",
+    "quantityCategoryDisable": "",
+    "general": "",
+    "idColumn": "",
+    "availableQuantity": "",
+    "categoryColumn": "",
+    "photoColumn": "",
+    "titleColumn": "",
+    "priceColumn": "",
+    "updatablePrice": "",
+    "videoGallery": "",
+    "uniqueComponent": "",
+    "showVariant": "",
+    "transferTotalAmount": "",
+    "connectionAddress": "",
+    "title": "",
+    "hide": "",
+    "detail": "",
+    "priceQuery": "",
+    "quantityQuery": "",
+    "uniqueComponentError": "",
+    "joinColumn": "",
+    "nameColumn": "",
+    "variantScript": "",
+    "variantImages": "",
+    "variantJoinColumn": "",
+    "showAll": "",
+    "showSelected": "",
+    "showByCategory": "",
+    "showInStock": "",
+    "notYetAdded": "",
+    "startingDate": "",
+    "endDate": "",
+    "themeFeatures": "",
+    "menu": "",
+    "selectMenu": "",
+    "selectSubmenu": "",
+    "selectMenuBrowser": "",
+    "nameElement": "",
+    "subject": "",
+    "picture": "",
+    "pictureElement": "",
+    "startingDateElement": "",
+    "endDateElement": "",
+    "usersCanEdit": "",
+    "thisPropertyCant": "",
+    "calendarDisplay": "",
+    "monthly": "",
+    "generalDisplayLunarDays": "",
+    "agenda": "",
+    "listofWeeklyEvents": "",
+    "weekly": "",
+    "weekend": "",
+    "generalDisplayWeekDays": "",
+    "showWeekendDaysWhileWeekdays": "",
+    "daily": "",
+    "listofDailyEvents": "",
+    "startTime": "",
+    "endTime": "",
+    "changeDefaultColor": "",
+    "weekdayColor": "",
+    "weekendColor": "",
+    "eventColor": "",
+    "groupBySql": "",
+    "groupColumnName": "",
+    "assignedColumnName": "",
+    "taskPriortiyColumnName": "",
+    "taskSubjectColumnName": "",
+    "taskDetailColumnName": "",
+    "taskQuery": "",
+    "taskKeyExpression": "",
+    "taskTitleExpression": "",
+    "taskStartDateExpression": "",
+    "taskEndDateName": "",
+    "taskParentExpression": "",
+    "taskProgressExpression": "",
+    "taskColorExpression": "",
+    "taskConnections": "",
+    "diagramClear": "",
+    "uniqueComponentMenuCloneWarning": "",
+    "filesLoading": "",
+    "couldnotbeLoaded": "",
+    "fileSizeLimit": "",
+    "filesUploaded": "",
+    "filesWillDeleted": "",
+    "filesSureDelete": "",
+    "fileDelete": "",
+    "uploadedPhotos": "",
+    "maxSize": "",
+    "center": "",
+    "size": "",
+    "canItBeUpdated": "",
+    "uploadedFiles": "",
+    "type": "",
+    "showdeleteOldData": "",
+    "videoBrowser": "",
+    "deleted": "",
+    "theseComponentElementsDeleted": "",
+    "invalidTarget": "",
+    "ridge": "",
+    "dotted": "",
+    "dashed": "",
+    "addRowColumn": "",
+    "dataPagingShow": "",
+    "borderType": "",
+    "maxCharacters": "",
+    "edgeThickness": "",
+    "lineSpacing": "",
+    "settingsRowColumn": "",
+    "addRow": "",
+    "deleteRow": "",
+    "rowPermission": "",
+    "addTabs": "",
+    "deletePanel": "",
+    "tabPermission": "",
+    "addPanel": "",
+    "panelPermission": "",
+    "backgroundColor": "",
+    "saveAndCloseChildForm": "",
+    "icon": "",
+    "selectForm": "",
+    "fontColor": "",
+    "minCharacters": "",
+    "generalCategory": "",
+    "removeRow": "",
+    "send": "",
+    "declineFinish": "",
+    "finish": "",
+    "noData": "",
+    "createEditMenu": "",
+    "addNewBreakdown": "",
+    "addForm": "",
+    "addBottomBreak": "",
+    "addNode": "",
+    "topCategory": "",
+    "explanation": "",
+    "browserTitle": "",
+    "formTitle": "",
+    "addSqlColumn": "",
+    "formBg": "",
+    "codeEditor": "",
+    "authorityType": "",
+    "viewOnly": "",
+    "dark": "",
+    "white": "",
+    "hightBlack": "",
+    "run": "",
+    "rowColor": "",
+    "operator": "",
+    "flowOfForm": "",
+    "columnWidth": "",
+    "alignLeft": "",
+    "alignRight": "",
+    "alignButton": "",
+    "imageTableNameColumn": "",
+    "uploadBg": "",
+    "selectFile": "",
+    "dropFile": "",
+    "alwaysRoundUp": "",
+    "alwaysRoundBot": "",
+    "default": "",
+    "deleteOldDataTable": "",
+    "deleteOldData": "",
+    "integer": "",
+    "double": "",
+    "pleaseFillFields": "",
+    "toastColumnNameNumber": "",
+    "areYouSure": "",
+    "columnDeleted": "",
+    "allColumnDeleted": "",
+    "idCantStartNumber": "",
+    "uploadFile": "",
+    "fileViewer": "",
+    "ok": "",
+    "map": "",
+    "editPanel": "",
+    "filterColumnName": "",
+    "hintExamples": "",
+    "columnLanguageSettings": "",
+    "fileColumn": "",
+    "extensionColumn": "",
+    "multipleSelection": "",
+    "addSelectionsRows": "",
+    "mapSettings": "",
+    "formatAndFeatures": "",
+    "enterDateRange": "",
+    "filesCanUploadedUsers": "",
+    "barcodeColumn": "",
+    "autoAscend": "",
+    "roundType": "",
+    "font": "",
+    "columnProcess": "",
+    "exportColumnTotal": "",
+    "outsideElementDisabled": "",
+    "chat": "",
+    "languages": "",
+    "display": "",
+    "enterYourComment": "",
+    "comment": "",
+    "fileUploaded": "",
+    "pdfViewIsButton": "",
+    "takeScreenshot": "",
+    "alertText": "",
+    "clearButtonVisible": "",
+    "allText": "",
+    "letter": "",
+    "letterandnumber": "",
+    "letterandsymbol": "",
+    "numberandsymbol": "",
+    "showIDColumn": "",
+    "showCopyButton": "",
+    "showDeleteButton": "",
+    "showCheckboxButton": "",
+    "autoRowHeight": "",
+    "exportImport": "",
+    "export": "",
+    "import": "",
+    "toastImport": "",
+    "defaultTodaysDateWithTime": "",
+    "warningApproveImport": "",
+    "filterVisible": "",
+    "updatableMaxQuantity": "",
+    "hideQuantity": "",
+    "disableQuantityTextbox": "",
+    "multiplesOfQuantity": "",
+    "justnumber": "",
+    "paymentHourWarning": "",
+    "addColumn": "",
+    "mailSettings": "",
+    "newTaskMailDetail": "",
+    "updateTaskMailDetail": "",
+    "taskOnDropMail": "",
+    "selectSMTP": "",
+    "taskCreator": "",
+    "taskEndDate": "",
+    "tags": "",
+    "taskStartDate": "",
+    "taskAssigned": "",
+    "taskDetail": "",
+    "taskSubject": "",
+    "taskPri": "",
+    "taskEdit": "",
+    "addTask": "",
+    "taskStatus": "",
+    "excelExportSettings": "",
+    "excelExportRequiredColor": "",
+    "allDataExcelExport": "",
+    "warningApproveImportReport": "",
+    "reportName": "",
+    "old": "",
+    "upperNode": "",
+    "pdfViewStaticPdf": "",
+    "actions": "",
+    "loading": "",
+    "exportDataToExcell": "",
+    "showRefreshIcon": "",
+    "headerFilter": "",
+    "filterRowVisible": "",
+    "password": "",
+    "categories": "",
+    "pressEnter": "",
+    "historyColumnValue": "",
+    "hideMobile": "",
+    "align": "",
+    "theme": "",
+    "info": "",
+    "showTitle": "",
+    "purple": "",
+    "brown": "",
+    "yellow": "",
+    "turnOnComments": "",
+    "showContent": "",
+    "canBeHidden": "",
+    "allowEdit": "",
+    "allowDelete": "",
+    "toastDeleteErrorMessage": "",
+    "formOpeningMultiElementEvent": "",
+    "resetDatagridLocalSettings": "",
+    "loginP1": "",
+    "loginP2": "",
+    "loginConnect": "",
+    "loginText": "",
+    "loginRightMore": "",
+    "loginHeaderP1": "",
+    "loginHeaderP2": "",
+    "loginHeaderP3": "",
+    "kanbanaddTasks": "",
+    "taskstatusDesciption": "",
+    "tasksubjectDescription": "",
+    "taskassignedToTask": "",
+    "taskassignedTaskDescription": "",
+    "addedForTasks": "",
+    "taskAssignedInfoDescription": "",
+    "assignedInfo": "",
+    "groupInfo": "",
+    "sortEnd": "",
+    "sender": "",
+    "forward": "",
+    "attachments": "",
+    "loginP3": "",
+    "taskdetailDescription": "",
+    "taskassignedDescription": "",
+    "taskstartdateDescription": "",
+    "taskenddateDescription": "",
+    "taskpriDescription": "",
+    "tagsDescription": "",
+    "outlookDescription": "",
+    "taskAssInfoDescription": "",
+    "receiver": "",
+    "draft": "",
+    "spam": "",
+    "filterstate": "",
+    "checkForspelling": "",
+    "emailToForward": "",
+    "lowImpMails": "",
+    "normalImpMails": "",
+    "highImpEmails": "",
+    "showReadMails": "",
+    "groupinfoDescription": "",
+    "timeoutMission": "",
+    "timeoutmissionDescription": "",
+    "taskperiodDescription": "",
+    "taskProgress": "",
+    "taskProgressDescription": "",
+    "updatekanbanTask": "",
+    "taskcreatorDescription": "",
+    "uploadfileDescription": "",
+    "infoPersons": "",
+    "warningtime": "",
+    "taskPeriod": "",
+    "taskProgresSatus": "",
+    "makeTask": "",
+    "outlookIntegration": "",
+    "loginoutlook": "",
+    "fetchoutlook": "",
+    "progressStatus": "",
+    "taskColors": "",
+    "addcalendarTask": "",
+    "updatetaskCalendar": "",
+    "statusComplete": "",
+    "priorityFilter": "",
+    "columnFilter": "",
+    "assignPerson": "",
+    "assignGroup": "",
+    "noTask": "",
+    "resetSort": "",
+    "sortASC": "",
+    "sortDESC": "",
+    "sortAppointment": "",
+    "trash": "",
+    "showOlderMail": "",
+    "mailNotFound": "",
+    "sendNewMail": "",
+    "showUnreadMails": "",
+    "updateColumnMail": "",
+    "addTaskToOutlook": "",
+    "enterYourMessage": "",
+    "reminder": "",
+    "determinedToTask": "",
+    "remainingTime": "",
+    "hours": "",
+    "withoutPriority": "",
+    "lowPri": "",
+    "normalPri": "",
+    "highPri": "",
+    "showAllTasks": "",
+    "showIncompleteTasks": "",
+    "showCompeletedTasks": "",
+    "reportDesigner": "",
+    "fileManagementSystem": "",
+    "formDesigner": "",
+    "boardDesigner": "",
+    "themeSettings": "",
+    "social": "",
+    "profile": "",
+    "contacts": "",
+    "files": "",
+    "pages": "",
+    "noResultsFound": "",
+    "processes": "",
+    "filterByStatus": "",
+    "filterByPri": "",
+    "filterByCol": "",
+    "todoAddTasks": "",
+    "addLabel": "",
+    "showWithSubTasks": "",
+    "riverBoard": "",
+    "notify": "",
+    "likedYourPost": "",
+    "likedYourComment": "",
+    "systemNotify": "",
+    "readAllNotify": "",
+    "recommendedUsers": "",
+    "suggestedPosts": "",
+    "sPostReposted": "",
+    "shareSomething": "",
+    "updatePost": "",
+    "ifYouDoNotSelectGroup": "",
+    "addComment": "",
+    "sendComment": "",
+    "areYouSureYouWantToDeleteThisPost": "",
+    "yes": "",
+    "no": "",
+    "deletePost": "",
+    "postSuccesfullyDeleted": "",
+    "deleteComment": "",
+    "areYouSureYouWantToDeleteThisComment": "",
+    "commentSuccesfullyDeleted": "",
+    "sharePost": "",
+    "areYouSureYouWantToShareThisPost": "",
+    "repostedSuccessfully": "",
+    "upload": "",
+    "refresh": "",
+    "allowedExtentions": "",
+    "systemLandingPagePreference": "",
+    "Allownonadminuserstosearchforotherusers": "",
+    "passwordChange": "",
+    "newPassword": "",
+    "Retypethenewpassword": "",
+    "notifications": "",
+    "showWhoLikesYourPost": "",
+    "showWhoLikesYourComment": "",
+    "aboutMe": "",
+    "bio": "",
+    "dateOfBirth": "",
+    "website": "",
+    "phone": "",
+    "saveChanges": "",
+    "content": "",
+    "projectManagement": "",
+    "addPage": "",
+    "addFolder": "",
+    "showUsers": "",
+    "showGroups": "",
+    "readonlyUsers": "",
+    "readonlyGroups": "",
+    "columnHeight": "",
+    "showKanbanCount": "",
+    "kanbanSettings": "",
+    "gantSettings": "",
+    "schedulerSettings": "",
+    "activateOutlookConnection": "",
+    "selectOutlookColumn": "",
+    "selectSMTPPopoverText": "",
+    "menuFilePathId": "",
+    "recycleBinPathName": "",
+    "recycleBinPathId": "",
+    "fileNameChangedMessage": "",
+    "fileNameChangedErrorMessage": "",
+    "fileCreatedMessage": "",
+    "newTaskMailDetailPopoverText": "",
+    "taskOnDropMailPopoverText": "",
+    "createdBy": "",
+    "updatedBy": "",
+    "createdDate": "",
+    "updatedDate": "",
+    "folderPermissionSettings": "",
+    "quantity": "",
+    "fileManagementPermissionSettings": "",
+    "fileNotFoundErrorText": "",
+    "updateTaskMailDetailPopoverText": "",
+    "selectOutlookColumnPopoverText": "",
+    "createFolder": "",
+    "versionHistory": "",
+    "deletePermanently": "",
+    "recover": "",
+    "groupPermissions": "",
+    "allowUpload": "",
+    "allowView": "",
+    "allowDownload": "",
+    "permissionType": "",
+    "applyToSubFolders": "",
+    "newFolderName": "",
+    "tagTips": "",
+    "addAsNewVersion": "",
+    "addAndChangeName": "",
+    "skip": "",
+    "fileExistError": "",
+    "processFileShow": "",
+    "processFilePathName": "",
+    "processFilePathId": "",
+    "menuFileShow": "",
+    "menuFilePathName": "",
+    "fileCreatedErrorMessage": "",
+    "fileDeletedessage": "",
+    "fileDeletedErrorMessage": "",
+    "fileMovedMessage": "",
+    "fileMovedErrorMessage": "",
+    "fileCopyMessage": "",
+    "fileCopyErrorMessage": "",
+    "fileDownloadMessage": "",
+    "fileDownloadErrorMessage": "",
+    "fileSizeShowErrorMessage": "",
+    "unsupportedFile": "",
+    "fileNameError": "",
+    "fileGivePermissionMessage": "",
+    "fileGivePermissionErrorMessage": "",
+    "groupName": "",
+    "createGroup": "",
+    "conversation": "",
+    "startConversation": "",
+    "userNotFound": "",
+    "chatNotFound": "",
+    "themeTypeLight": "",
+    "themeTypeBorderedLight": "",
+    "themeHalfDark": "",
+    "themeDark": "",
+    "themeRouteAnimation": "",
+    "themeRouteAnimationFadeInLeft": "",
+    "themeRouteAnimationZoomIn": "",
+    "themeRouteAnimationFadeIn": "",
+    "themeRouteAnimationNone": "",
+    "themeMenuType": "",
+    "themeMenuTypeHorizontal": "",
+    "themeMenuTypeVertical": "",
+    "themeMenuCollapse": "",
+    "themeNavbarColor": "",
+    "themeNavbarType": "",
+    "themeSticky": "",
+    "themeStatic": "",
+    "themeFloating": "",
+    "themeHidden": "",
+    "themeFooterType": "",
+    "catalog": "",
+    "riverBoards": "",
+    "clipboardDesigner": "",
+    "desingMode": "",
+    "editPage": "",
+    "rename": "",
+    "exportToPdf": "",
+    "exportToExcel": "",
+    "revenueReport": "",
+    "header": "",
+    "connection": "",
+    "primaryKey": "",
+    "secondaryKey": "",
+    "completedKey": "",
+    "countKey": "",
+    "statusKey": "",
+    "progressConnection": "",
+    "progressScript": "",
+    "progressPrimaryKey": "",
+    "progressCountKey": "",
+    "progressPercentageKey": "",
+    "progressColorKey": "",
+    "keyColumn": "",
+    "currency": "",
+    "whitePage": "",
+    "noReportSelected": "",
+    "noTypeSelected": "",
+    "whitePageReports": "",
+    "addBranch": "",
+    "branchName": "",
+    "rowNumber": "",
+    "reportTypeSelect": "",
+    "reportDescription": "",
+    "useWeb": "",
+    "useMobile": "",
+    "mainScript": "",
+    "pre-runScript": "",
+    "preScript": "",
+    "testIt": "",
+    "selectAll": "",
+    "addReport": "",
+    "selectReportType": "",
+    "reportType": "",
+    "reportDesingPermission": "",
+    "reportImportedOpenLeftMenu": "",
+    "forReportExport": "",
+    "anErrorOccurred": "",
+    "reportDeleted": "",
+    "branchDeleted": "",
+    "addBranchName": "",
+    "addedBranch": "",
+    "selectConnectionAddress": "",
+    "enterSqlScript": "",
+    "enterReportName": "",
+    "reportAdded": "",
+    "numberOfDataToBeProcessed": "",
+    "dataNotFoundCheckYourConnection": "",
+    "connectionNotFoundCheckYourConnection": "",
+    "fillConnectionAndSql": "",
+    "allTypesActivate": "",
+    "passwordRequired": "",
+    "showLess": "",
+    "showMore": "",
+    "authority": "",
+    "preScriptDescription": "",
+    "enterReportFilters": "",
+    "gridDesigner": "",
+    "addMainBranch": "",
+    "resetSettings": "",
+    "reply": "",
+    "companyName": "",
+    "showEmailModule": "",
+    "distanceToBottomComponent": "",
+    "canNonAdminUsersPost": "",
+    "columnColor": "",
+    "byWho": "",
+    "added": "",
+    "updated": "",
+    "commentAdded": "",
+    "completed": "",
+    "addRemoveColumns": "",
+    "searchMessage": "",
+    "riverReports": "",
+    "forms": "",
+    "searchinforms": "",
+    "searchVoiceMessage": "",
+    "searchVoiceMessages": "",
+    "showSocialNotifications": "",
+    "showProjectManagementNotifications": "",
+    "showProcessNotifications": "",
+    "pageDesingPermission": "",
+    "filemanagementDesingPermission": "",
+    "taskDelete": "",
+    "tasksWillDeleted": "",
+    "componentSettings": "",
+    "aboutComponent": "",
+    "sureSaveChanges": "",
+    "showDeletedNotifications": "",
+    "shareSometthing": "",
+    "resetPageLayout": "",
+    "downloadingSS": "",
+    "showHorizontalLines": "",
+    "turnOnVerticalHide": "",
+    "whichHorizontalLinelinesAreNotVisible": "",
+    "test": "",
+    "aaa": ""
   }
-]
+}

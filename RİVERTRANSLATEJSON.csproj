@@ -59,24 +59,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="arar.cs" />
-    <Compile Include="azaz.cs" />
     <Compile Include="Context\Context.cs" />
-    <Compile Include="de.cs" />
-    <Compile Include="enen.cs" />
-    <Compile Include="flfl.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frfr.cs" />
-    <Compile Include="grgr.cs" />
-    <Compile Include="trtr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ıtıt.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
