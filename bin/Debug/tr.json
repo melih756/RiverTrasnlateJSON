@@ -7,7 +7,7 @@
     "remember": "Beni Hatırla",
     "forgotPass": "Şifremi Unuttum",
     "modules": "Modüller",
-    "generic": "Genel",
+    "generic": "genel",
     "search": "Ara",
     "logout": "Çıkış",
     "waitingJob": "Bekleyen İşlerim",
@@ -914,8 +914,6 @@
     "downloadingSS": "Ekran görüntüsü indiriliyor.Lütfen Bekleyiniz.",
     "showHorizontalLines": "Yatay Çizgiler Görünsün",
     "turnOnVerticalHide": "Dikey Gizleme Açılsın",
-    "whichHorizontalLinelinesAreNotVisible": "Hangi yatay çizgi -çizgiler görünmesin",
-    "test": "test",
-    "aaa": "aaa"
+    "whichHorizontalLinelinesAreNotVisible": "Hangi yatay çizgi -çizgiler görünmesin"
   }
 }

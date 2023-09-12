@@ -7,7 +7,7 @@
     "remember": "",
     "forgotPass": "",
     "modules": "",
-    "generic": "test",
+    "generic": "",
     "search": "",
     "logout": "",
     "waitingJob": "",
@@ -914,8 +914,6 @@
     "downloadingSS": "",
     "showHorizontalLines": "",
     "turnOnVerticalHide": "",
-    "whichHorizontalLinelinesAreNotVisible": "",
-    "test": "",
-    "aaa": ""
+    "whichHorizontalLinelinesAreNotVisible": ""
   }
 }

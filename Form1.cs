@@ -18,7 +18,9 @@ namespace RİVERTRASLATEJSON
     public partial class RIVER : Form
     {
 
-        string[] array = new string[] { "TR","EN","DE","IT","FR","AR","GR","AZ","FL"};
+        string[] array = new string[] { "TR","EN","DE","IT","FR","AR","GR","AZ","FL","KR"};
+        List<dynamic> dynamicList = new List<dynamic>();
+
     
         public RIVER()
         {
@@ -144,8 +146,8 @@ namespace RİVERTRASLATEJSON
             JObject jsonObjectgr = new JObject();
             JObject jsonObjectaz = new JObject();
             JObject jsonObjectfl = new JObject();
-            
-            
+
+
             JObject jsonObjecttrtr = new JObject();
             JObject jsonObjectenen = new JObject();
             JObject jsonObjectdede = new JObject();
@@ -234,7 +236,7 @@ namespace RİVERTRASLATEJSON
             File.WriteAllText("az.json", json4);
             File.WriteAllText("ıt.json", json5);
             File.WriteAllText("gr.json", json6);
-            File.WriteAllText("flfl.json", json7);
+            File.WriteAllText("fl.json",json7);
             File.WriteAllText("fr.json", json8);
 
             MessageBox.Show("Veri JSON dosyasına kaydedildi.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -252,28 +254,9 @@ namespace RİVERTRASLATEJSON
             tbl.Clear();
         }
 
-        private void btnupdate_Click(object sender, EventArgs e)
+        private void btndelete_Click_1(object sender, EventArgs e)
         {
-        //    string keystrToUpdate = txtsearch.Text; 
-        //    con.Open();
-        //    SqlCommand cmd = new SqlCommand("update testtbl set keystr=@p1,trtr=@p2,enen=@p3,dede=@p4,ıtıt=@p5,frfr=@p6,arar=@p7,grgr=@p8,azaz=@p9,flfl=@p10 where keystr=@keystr", con);
-        //    cmd.Parameters.AddWithValue("@p1", keystrToUpdate); 
-        //    cmd.Parameters.AddWithValue("@p2", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p3", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p4", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p5", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p6", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p7", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p8", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p9", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@p10", txtsearch.Text);
-        //    cmd.Parameters.AddWithValue("@keystr", keystrToUpdate); 
-        //    cmd.ExecuteNonQuery();
-        //    con.Close();
 
-        //    MessageBox.Show("Güncelleme Başarılı", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-          
         }
     }
 }

@@ -7,7 +7,7 @@
     "remember": "Remember Me",
     "forgotPass": "Forgot Password",
     "modules": "Modules",
-    "generic": "Generic",
+    "generic": "generic",
     "search": "Search",
     "logout": "Logout",
     "waitingJob": "Waiting Job",
@@ -914,8 +914,6 @@
     "downloadingSS": "Downloading the screenshot.Please Wait.",
     "showHorizontalLines": "Show horizontal lines",
     "turnOnVerticalHide": "Turn on Vertical Hide",
-    "whichHorizontalLinelinesAreNotVisible": "Which horizontal line - lines are not visible",
-    "test": "",
-    "aaa": ""
+    "whichHorizontalLinelinesAreNotVisible": "Which horizontal line - lines are not visible"
   }
 }
